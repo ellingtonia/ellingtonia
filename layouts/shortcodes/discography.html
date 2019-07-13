@@ -1,0 +1,38 @@
+<table class="discog_table">
+<tr class="pre_heading"/>
+<tr class="main_heading">
+  <th>Index</th>
+  <th>Matrix No.</th>
+  <th>Title</th>
+  <th colspan="2">Location</th>
+  <th>Date</th>
+</tr>
+
+{{/* Could also use getJSON */}}
+
+{{ range index $.Site.Data.discog (.Get 0) }}
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr class="session_heading">
+    <th colspan="3"> {{ .group }} </th>
+    <th colspan="2"> {{ .location }} </th>
+    <th colspan="2"> {{ .date }} </th>
+  </tr>
+  {{ range .entries }}
+
+    {{ if eq .type "take" }}
+      <tr class="take">
+        <td> {{ .index }} </td>
+        <td> {{ .matrix }} </td>
+        <td> {{ .title }} </td>
+        <td> {{ .releases }} </td>
+      </tr>
+    {{ else }}
+      <tr class="artists">
+        <td colspan="6"> {{ .value }} </td>
+      </tr>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</table>

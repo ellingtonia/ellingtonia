@@ -1,3 +1,156 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://ellingtonia.com/"
+title = "Ellingtonia"
+theme = "slick"
+
+copyright = "© 2019 Ellingtonia.com"
+
+pygmentsCodefences = true               # Enable highlighting inside codefences
+pygmentsCodeFencesGuessSyntax = true    # Highlight code without language tag
+pygmentsUseClasses = true               # Use external style sheet
+pygmentsUseClassic = false              # Force use of chroma
+
+canonifyURLs = true
+preserveTaxonomyNames = true
+
+# Configure pagination
+paginate = 10
+paginatePath = "page"
+
+disableKinds = ["RSS"]
+
+[params]
+    # Site subtitle (not shown if commented out or set to false)
+    subtitle = false
+
+    # Site description
+    description = "A Duke Ellington Discography"
+
+    # Favicon file (relative to baseURL - place below static folder)
+    favicon = "favicon.ico"
+    # Custom css file (relative to baseURL - place below static folder)
+    css = "css/style.css"
+
+    dateFmt = "Mon, 02 Jan 2006 15:04:05 MST"
+
+    errorPageText = "An error occurred"
+
+    # Header with title/subtitle can be disabled here.
+    # (If you disable this, add some link on the index page inside menu.main,
+    #  otherwise your visitors will get confused and lost...)
+    showNavHeader = true
+
+    # Decide if only summaries are shown on the main page or the full content
+    showFullContent = false
+
+    # If false no pagination is shown when there is nothing to paginate
+    showEmptyPagination = false
+
+    # If false the dates for the posts are not shown
+    showMetaDates = false
+
+    # If false the taxonomy links for the posts are not shown
+    showMetaLinks = false
+
+    # Uses Hugo internal templates if set
+    opengraph = false
+    schema = false
+    twitter_cards = false
+
+
+# Define all supported taxonomies (add series to the default)
+# [taxonomies]
+#     tags = "tags"
+#     categories = "categories"
+#     series = "series"
+
+
+[author]
+    name = "Some Author"
+    email = "mail@example.org"
+
+
+[menu]
+    [[menu.main]]
+        name = "1924-1930"
+        url = "/page/1924-1930"
+    [[menu.main]]
+        name = "1931-1940"
+        url = "/page/1931-1940"
+    [[menu.main]]
+        name = "1941-1950"
+        url = "/page/1941-1950"
+    [[menu.main]]
+        name = "1951-1960"
+        url = "/page/1951-1960"
+    [[menu.main]]
+        name = "1961-1970"
+        url = "/page/1961-1970"
+    [[menu.main]]
+        name = "1971-1974"
+        url = "/page/1971-1974"
+
+    # Configure main menu entries (header)
+    # Currently set to list all taxonomies and posts
+    # [[menu.main]]
+    #     identifier = "post"
+    #     name = "Posts"
+    #     title = "All posts"
+    #     url = "/posts/"
+    #     weight = 1
+
+    # [[menu.main]]
+    #     identifier = "categories"
+    #     name = "Categories"
+    #     title = "All categories"
+    #     url = "/categories/"
+    #     weight = 2
+
+    # [[menu.main]]
+    #     identifier = "tags"
+    #     name = "Tags"
+    #     title = "All tags"
+    #     url = "/tags/"
+    #     weight = 2
+
+    # [[menu.main]]
+    #     identifier = "series"
+    #     name = "Series"
+    #     title = "All series"
+    #     url = "/series/"
+    #     weight = 2
+
+
+    # Define the entries for post metadata
+    # Identifiers should match with the taxonomy entries
+    # [[menu.meta]]
+    #     identifier = "categories"
+    #     name = "Categories"
+    #     weight = 1
+    # [[menu.meta]]
+    #     identifier = "series"
+    #     name = "Series"
+    #     weight = 2
+    # [[menu.meta]]
+    #     identifier = "tags"
+    #     name = "Tags"
+    #     weight = 3
+
+
+    # Add some footer links to your likings
+    # [[menu.footer]]
+    #     name = "GitHub"
+    #     title = "Theme repository"
+    #     url = "https://github.com/spookey/slick"
+    #     weight = 1
+
+    # [[menu.footer]]
+    #     name = "Slick"
+    #     title = "Theme page on gohugo.io"
+    #     url = "https://themes.gohugo.io/slick"
+    #     weight = 2
+
+    # [[menu.footer]]
+    #     name = "Toor"
+    #     title = "Some website, using this theme"
+    #     url = "https://www.toor.su"
+    #     weight = 3
