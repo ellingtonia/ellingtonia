@@ -11,15 +11,6 @@
   {{ if .Site.Params.schema }}{{ template "_internal/schema.html" . }}{{ end -}}
   {{ if .Site.Params.twitter_cards }}{{ template "_internal/twitter_cards.html" . }}{{ end -}}
   {{ hugo.Generator }}
-  {{- with .Site.RSSLink }}
-    {{- $feed := . }}
-  <link href="{{ $feed }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} Feed" />
-    {{- with $.OutputFormats.Get "RSS" }}
-      {{- if ne $feed .Permalink }}
-  <link href="{{ .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }} {{ $.Title }} Feed" />
-      {{- end }}
-    {{- end }}
-  {{- end }}
   {{- $favicon := .Site.Params.favicon | default "favicon.ico" }}
   {{- $favtype := cond (eq (path.Ext $favicon) ".png") "image/png" "image/x-icon" }}
     {{- if fileExists (path.Join "static" $favicon) }}

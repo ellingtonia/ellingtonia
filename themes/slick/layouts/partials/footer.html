@@ -10,11 +10,6 @@
         {{- end }}
       </li>
       {{- end }}
-      {{- with .Site.RSSLink }}
-      <li class="pure-menu-item" title="RSS Feed">
-        <a href="{{ . }}" class="pure-menu-link">RSS</a>
-      </li>
-      {{- end }}
       <li class="pure-menu-item fix-cursor-pointer" title="Go to top">
         <a class="pure-menu-link" id="btn-gototop">
           <span class="fix-placement-up">&#x21e7;&#xfe0e;</span>
@@ -41,7 +36,7 @@
   }
 
   setElementsClass('img', 'pure-img');
-  setElementsClass('table', 'pure-table');
+  // setElementsClass('table', 'pure-table');
 
   function onResize() {
       Array.prototype.forEach.call(
