@@ -56,6 +56,10 @@ disableKinds = ["RSS"]
     schema = false
     twitter_cards = false
 
+    # This prevents discog pages appearing on the front page
+    mainSections = ["blog"]
+
+
 # [author]
 #     name = "Some Author"
 #     email = "mail@example.org"
