@@ -1,3 +1,11 @@
+<p>
+Notes:
+</p>
+<ul>
+<li>&dagger; after an issue number denotes the lack of an official catalogue number.</li>
+<li>* after an issue number denotes that only part of the take has been used for the issued title</li>
+</ul>
+
 <table class="discog_table">
 <tr class="pre_heading"/>
 <tr class="main_heading">
@@ -19,8 +27,10 @@
     <th colspan="1"> {{ .location }} </th>
     <th colspan="2"> {{ .date }} </th>
   </tr>
+  <tr class="take">
+    <td colspan="6"> {{ .description }} </td>
+  </tr>
   {{ range .entries }}
-
     {{ if eq .type "take" }}
       <tr class="take">
         <td> {{ .index }} </td>
