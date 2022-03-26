@@ -1,239 +1,40 @@
-table.discog_table {
-border-collapse: collapse;
-color: rgb(17, 17, 17);
-font-family: Georgia, Times, "Times New Roman", serif;
-font-size: 12.1667px;
-line-height: 19.4667px;
-margin-bottom: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-overflow-wrap: break-word;
-padding-bottom: 0px;
-padding-left: 0px;
-padding-right: 0px;
-padding-top: 0px;
-}
-
 table.discog_table td {
-border-bottom-color: rgb(76, 76, 76);
-border-bottom-style: none;
-border-bottom-width: 0px;
-border-collapse: collapse;
-border-image-outset: 0;
-border-image-repeat: stretch;
-border-image-slice: 100%;
-border-image-source: none;
-border-image-width: 1;
-border-left-color: rgb(76, 76, 76);
-border-left-style: none;
-border-left-width: 0px;
-border-right-color: rgb(76, 76, 76);
-border-right-style: none;
-border-right-width: 0px;
-border-top-color: rgb(76, 76, 76);
-border-top-style: none;
-border-top-width: 0px;
-color: rgb(76, 76, 76);
-font-family: Arial;
-font-size: 12px;
-font-style: normal;
-font-weight: 400;
-line-height: 19.2px;
-margin-bottom: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-overflow-wrap: break-word;
-padding-bottom: 0px;
-padding-left: 1px;
-padding-right: 1px;
-padding-top: 1px;
-text-align: left;
-text-decoration: none;
-text-decoration-color: rgb(76, 76, 76);
-text-decoration-line: none;
-text-decoration-style: solid;
-vertical-align: middle;
-white-space: normal;
-width: 332.667px;
-}
-
-table.discog_table tr.pre_heading {
-border-bottom-color: rgb(144, 0, 0);
-border-bottom-style: solid;
-border-bottom-width: 1px;
-border-collapse: collapse;
-border-image-outset: 0;
-border-image-repeat: stretch;
-border-image-slice: 100%;
-border-image-source: none;
-border-image-width: 1;
-border-left-color: rgb(76, 76, 76);
-border-left-style: none;
-border-left-width: 0px;
-border-right-color: rgb(76, 76, 76);
-border-right-style: none;
-border-right-width: 0px;
-border-top-color: rgb(76, 76, 76);
-border-top-style: none;
-border-top-width: 0px;
-color: rgb(76, 76, 76);
-font-family: Arial;
-font-size: 12px;
-font-style: normal;
-font-weight: 400;
-height: 19.2px;
-line-height: 19.2px;
-margin-bottom: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-overflow-wrap: break-word;
-padding-bottom: 0px;
-padding-left: 1px;
-padding-right: 1px;
-padding-top: 1px;
-text-align: left;
-text-decoration: none;
-text-decoration-color: rgb(76, 76, 76);
-text-decoration-line: none;
-text-decoration-style: solid;
-vertical-align: middle;
-white-space: normal;
-width: 870px;
-}
-
-table.discog_table tr.main_heading {
-border-collapse: collapse;
-color: rgb(17, 17, 17);
-font-family: Georgia, Times, "Times New Roman", serif;
-font-size: 12.1667px;
-height: 22.2px;
-line-height: 19.4667px;
-margin-bottom: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-overflow-wrap: break-word;
-padding-bottom: 0px;
-padding-left: 0px;
-padding-right: 0px;
-padding-top: 0px;
+    border-style: none;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    // overflow-wrap: break-word;
+    padding-bottom: 0px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    width: 332.667px;
 }
 
 table.discog_table tr.main_heading th {
-background-attachment: scroll;
-background-clip: border-box;
-background-color: rgb(0, 0, 212);
-background-image: none;
-background-origin: padding-box;
-background-position: 0% 0%;
-background-position-x: 0%;
-background-position-y: 0%;
-background-repeat: repeat;
-background-size: auto;
-border-bottom-color: rgb(144, 0, 0);
-border-bottom-style: solid;
-border-bottom-width: 1px;
-border-collapse: collapse;
-border-image-outset: 0;
-border-image-repeat: stretch;
-border-image-slice: 100%;
-border-image-source: none;
-border-image-width: 1;
-border-left-color: rgb(255, 255, 255);
-border-left-style: none;
-border-left-width: 0px;
-border-right-color: rgb(255, 255, 255);
-border-right-style: none;
-border-right-width: 0px;
-border-top-color: rgb(255, 255, 255);
-border-top-style: none;
-border-top-width: 1px;
-color: rgb(255, 255, 255);
-font-family: Arial;
-font-size: 12px;
-font-style: normal;
-font-weight: 400;
-height: 19.2px;
-line-height: 19.2px;
-margin-bottom: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-overflow-wrap: break-word;
-padding-bottom: 0px;
-padding-left: 1px;
-padding-right: 1px;
-padding-top: 1px;
-text-align: center;
-text-decoration: none;
-text-decoration-color: rgb(255, 255, 255);
-text-decoration-line: none;
-text-decoration-style: solid;
-vertical-align: middle;
-white-space: normal;
-width: 68.6667px;
+    border: none;
+    background-color: rgb(0, 0, 212);
+    color: rgb(255, 255, 255);
 }
 
 table.discog_table tr.session_heading {
-background-attachment: scroll;
-background-clip: border-box;
-background-color: rgb(204, 255, 255);
-background-image: none;
-background-origin: padding-box;
-background-position: 0% 0%;
-background-position-x: 0%;
-background-position-y: 0%;
-background-repeat: repeat;
-background-size: auto;
-border-bottom-color: rgb(76, 76, 76);
-border-bottom-style: none;
-border-bottom-width: 0px;
-border-collapse: collapse;
-border-image-outset: 0;
-border-image-repeat: stretch;
-border-image-slice: 100%;
-border-image-source: none;
-border-image-width: 1;
-border-left-color: rgb(76, 76, 76);
-border-left-style: none;
-border-left-width: 0px;
-border-right-color: rgb(76, 76, 76);
-border-right-style: none;
-border-right-width: 0px;
-border-top-color: rgb(76, 76, 76);
-border-top-style: none;
-border-top-width: 0px;
-color: rgb(76, 76, 76);
-font-family: Arial;
-font-size: 12px;
-font-style: normal;
-font-weight: 700;
-height: 19.2px;
-line-height: 19.2px;
-margin-bottom: 0px;
-margin-left: 0px;
-margin-right: 0px;
-margin-top: 0px;
-overflow-wrap: break-word;
-padding-bottom: 0px;
-padding-left: 1px;
-padding-right: 1px;
-padding-top: 1px;
-text-align: left;
-text-decoration: none;
-text-decoration-color: rgb(76, 76, 76);
-text-decoration-line: none;
-text-decoration-style: solid;
-vertical-align: middle;
-white-space: normal;
-width: 490px;
+    background-color: rgb(204, 255, 255);
+    color: rgb(76, 76, 76);
+    text-align: left;
+    vertical-align: middle;
 }
 
-table.discog_table tr.take {
+table.discog_table tr.session_heading th {
+    border-style: none;
+    padding-left: 1px;
 }
 
-table.discog_table tr.artists {
+tr.artists td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+tr.take td {
+    vertical-align: top;
 }
