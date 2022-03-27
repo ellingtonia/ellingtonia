@@ -15,7 +15,7 @@ Additionally, you will be able to find all the titles Duke recorded and the name
 
 This project began on 1 January 2010 and the discography section is now complete.
 
-As with all discographies, this will always be a work in progress and cannot be thought of as definitive. Errors and omissions are still being found, as is the occasional unreleased item, all of which will be included as and when they come to light. 
+As with all discographies, this will always be a work in progress and cannot be thought of as definitive. Errors and omissions are still being found, as is the occasional unreleased item, all of which will be included as and when they come to light.
 
 For a listing of Ellington CDs go to :-
 
@@ -33,3 +33,5 @@ https://ellington.se
 ## Articles
 
 Where known, the original author and source is given. Where it has been impossible to contact the authors or their estates or defunct publications for permission to publish on the web, it is to be hoped that they will view the re-publication as an acknowledgement of their worth as historical commentary.
+
+# Ellingtonia.com Blog
