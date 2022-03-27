@@ -1,0 +1,23 @@
+<table class="striped">
+  <colgroup>
+    <col style="width:34%"></col>
+    <col style="width:33%"></col>
+    <col style="width:33%"></col>
+  </colgroup>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Alternative Titles</th>
+    <th>Composers and Lyricists</th>
+  </tr>
+</thead>
+<tbody>
+{{ range $.Site.Data.discog.titles }}
+<tr>
+  <td>{{ index . 0 }}</td>
+  <td>{{ index . 1 }}</td>
+  <td>{{ index . 2 }}</td>
+</tr>
+{{ end }}
+</tbody>
+</table>

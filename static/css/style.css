@@ -42,3 +42,7 @@ tr.artists td {
 tr.take td {
     vertical-align: top;
 }
+
+table.striped tbody tr:nth-child(even) {
+    background-color: #efefef;
+}

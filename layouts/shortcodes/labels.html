@@ -1,12 +1,14 @@
-<table>
-    <tr>
-        <th>
-            Abbreviation
-        </th>
-        <th>
-            Record Label
-        </th>
-    </tr>
+<table class="striped">
+    <thead>
+        <tr>
+            <th>
+                Abbreviation
+            </th>
+            <th>
+                Record Label
+            </th>
+        </tr>
+    </thead>
 {{ range $key, $value := $.Site.Data.discog.labels }}
   <tr>
       <td> {{ $key }} </td>
