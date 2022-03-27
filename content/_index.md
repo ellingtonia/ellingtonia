@@ -9,7 +9,7 @@
 
 # Home
 
-The principal aim of this site is to provide as full an on-line discography of the recorded Works of Duke Ellington as possible. Many sources have been consulted including, Massagli and Volonté’s “The New DESOR”, The DEMS Bulletin and archive, DESUK’s “Blue Light”, Ken Vail’s “Duke’s Diary”, Dr. Stratemann’s “Duke Ellington - Day by Day and Film by Film”, Mark Tucker’s “Ellington - The Early Years” and last but by no means least, David Palmquist’s excellent portal to all things Ellington at http://ellingtonweb.ca/. This includes his essential guide to the what, where of The Duke’s itinery, a work that meant I could drop a time line from this site, at http://tinyurl.com/zd5huwa
+The principal aim of this site is to provide as full an on-line discography of the recorded Works of Duke Ellington as possible. Many sources have been consulted including, Massagli and Volonté's "The New DESOR", The DEMS Bulletin and archive, DESUK's "Blue Light", Ken Vail's "Duke's Diary", Dr. Stratemann's "Duke Ellington - Day by Day and Film by Film", Mark Tucker's "Ellington - The Early Years" and last but by no means least, David Palmquist's excellent portal to all things Ellington at http://ellingtonweb.ca/. This includes his essential guide to the what, where of The Duke's itinery, a work that meant I could drop a time line from this site, at http://tinyurl.com/zd5huwa
 
 Additionally, you will be able to find all the titles Duke recorded and the names of the writers, and, eventually, the names of all his sidemen and other artists who recorded with him.
 
