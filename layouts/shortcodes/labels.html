@@ -1,0 +1,16 @@
+<table>
+    <tr>
+        <th>
+            Abbreviation
+        </th>
+        <th>
+            Record Label
+        </th>
+    </tr>
+{{ range $key, $value := $.Site.Data.discog.labels }}
+  <tr>
+      <td> {{ $key }} </td>
+      <td> {{ $value }} </td>
+  </tr>
+{{ end }}
+</table>
