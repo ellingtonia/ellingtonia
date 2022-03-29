@@ -2,9 +2,10 @@
 title: Duke Ellington in England - 1958
 author: G. E. Lambert
 date: 2022-01-01
+summary: G. E. Lambert's article from Jazz Monthly, November 1958
 ---
 
-By G.E. Lambert.  Originally from Jazz Monthly, November 1958
+By G. E. Lambert.  Originally from Jazz Monthly, November 1958
 
 In jazz criticism the word genius is overworked and frequently misapplied, yet in its dictionary meaning of "consummate intellectual, creative, or other power, more exalted than talent" it quite definitely applies to that remarkable musician Duke Ellington. During the recent tour of this country by the Duke Ellington Orchestra his pre-eminent place in jazz was powerfully underlined. Since the inception of the Anglo-American band exchanges we have heard some outstanding jazzmen, Louis Armstrong, Lionel Hampton, Count Basie, Earl Hines and Coleman Hawkins amongst them, and to a very large extent they have played with the excellence we have come to expect from their records. Yet even if we add to this impressive list the name of Johnny Hodges there can be little doubt that the achievements of Duke Ellington place him on a different, more exalted plane than any of these. The concerts I attended all produced music of a very high quality, both from the ensemble and from the amazing profusion of soloists—each concert was a most rewarding experience, and I derived more pleasure from the Ellington band's performances than those of any other jazz group I have heard in concert. The criticisms which have been levelled at Duke because of the structure of his programme I find puzzling when they emanate from people like Vic Bellerby and Max Jones, critics whom one would have expected to have perceived more closely the many positional aspects of the music. But going on to discuss these dissident voices let us first take a look at the Ellington band and its repertoire as presented on this tour.
 
