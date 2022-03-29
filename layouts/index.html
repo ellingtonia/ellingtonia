@@ -6,10 +6,11 @@
 </div>
 {{- end }}
 
-{{- $showfull := default false $.Site.Params.showFullContent }}
 {{- $pagepool := where $.Site.RegularPages "Type" "in" $.Site.Params.mainSections }}
 {{- range $idx, $_ := (.Paginate $pagepool).Pages }}
-<div{{ if and $showfull $idx }} class="post-divider"{{ end }}>
+{{- $showfull := default false .Params.showFullContent }}
+<!-- <div class="post-divider"> -->
+<div>
   {{- if default (default true $.Site.Params.showMeta) .Params.showmeta }}
   <div>
     <h2 class="post-title">
