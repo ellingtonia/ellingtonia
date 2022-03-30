@@ -7,7 +7,7 @@
 
 # Ellingtonia.com
 
-The principal aim of this site is to provide as full an on-line discography of the recorded works of Duke Ellington as possible. The discography was created by Marcus Girvan, drawing on many sources including Massagli and Volonté's "The New DESOR", The DEMS Bulletin and archive, [DESUK's](https://dukeellington.org.uk) "Blue Light", Ken Vail's "Duke's Diary", Dr. Stratemann's "Duke Ellington - Day by Day and Film by Film", Mark Tucker's "Ellington - The Early Years" and last but by no means least, David Palmquist's ["The Duke: Where And When" (TDWAW)](http://tdwaw.ca), the essential to The Duke's itinerary.
+The principal aim of this site is to provide as full an on-line discography of the recorded works of Duke Ellington as possible. The discography was created by Marcus Girvan, drawing on many sources including Massagli and Volonté's "The New DESOR", The DEMS Bulletin and archive, [DESUK's](https://dukeellington.org.uk) "Blue Light", Ken Vail's "Duke's Diary", Dr. Stratemann's "Duke Ellington - Day by Day and Film by Film", Mark Tucker's "Ellington - The Early Years" and last but by no means least, David Palmquist's ["The Duke: Where And When" (TDWAW)](http://tdwaw.ca), the essential guide to The Duke's itinerary.
 
 Please note that due to the sheer quantity of recorded output, the pages on this site can be large and are not well-suited to use on mobile devices.
 
@@ -17,9 +17,13 @@ Marcus has now retired from day-to-day maintenance of this site. Please contact 
 
 ## Other resources:
 
-* A list of Ellington CDs (no longer updated, but useful): http://www.ellingtonweb.ca/Hostedpages/CDCatalogue/CD-Lists.htm
 * The Duke Ellington Society UK (DESUK): https://dukeellington.org.uk
 * The Duke Ellington Society of Sweden (DESS): https://ellington.se
 * The Duke Ellington Society: http://thedukeellingtonsociety.org (archived site)
+* The Dooji Collection: Duke ELlington 78 rpm record labels and related materials: http://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection.htm
+* Archives of the DEMS bulletins http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html and http://desguin.net/DukeEllingtonPanorama/www.depanorama.net/dems/index.htm
+* The New DESOR correction sheets: http://desguin.net/DukeEllingtonPanorama/www.depanorama.net/desor/index.htm
+* Jazz Online (older records in the public domain): http://www.jazz-on-line.com/artists/Duke_Ellington.htm
+
 
 # Ellingtonia.com Blog
