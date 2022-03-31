@@ -82,6 +82,10 @@ disableKinds = ["RSS"]
         url = "/discography/labels"
         weight = 11
     [[menu.main]]
+        name = "Changes"
+        url = "/discography/changes"
+        weight = 12
+    [[menu.main]]
         name = "1924-1930"
         url = "/discography/1924-1930"
         weight = 10

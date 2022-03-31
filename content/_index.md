@@ -13,7 +13,7 @@ Please note that due to the sheer quantity of recorded output, the pages on this
 
 As with all discographies, this will always be a work in progress and cannot be thought of as definitive. Errors and omissions are still being found. Decades after Duke's last recording, new compilations continue to be released on CD, LP and via streaming services. Corrections and contributions are gratefully received.
 
-Marcus has now retired from day-to-day maintenance of this site. Please contact Charlie Dyson (charlie@charliedyson.net) if you spot something that's missing or wrong.
+Marcus has now retired from day-to-day maintenance of this site. Please contact Charlie Dyson (charlie@charliedyson.net) if you spot something that's missing or wrong. A list of changes is maintained on the [Changes]({{< ref "changes" >}}) page.
 
 ## Other resources:
 
