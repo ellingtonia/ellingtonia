@@ -1,4 +1,9 @@
 ---
+title: Home
+menu: main
+menu:
+  main:
+    weight: 1
 ---
 
 *"Some Day all the jazz musicians should get together in one place and get down on their knees and thank Duke."*

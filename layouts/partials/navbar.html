@@ -37,9 +37,10 @@
               <a class="pure-menu-link">Discography</a>
               <ul class="pure-menu-children">
                   {{- range .Site.Params.discog }}
-                  {{ $target := printf "discography/%s" . }}
-                  <li class="pure-menu-item">
-                      <a href="{{ relref $curr $target }}" class="pure-menu-link">{{ . }}</a>
+                  {{- $target := ref $curr (printf "discography/%s" .) }}
+                  {{- $selected := cond (eq $curr.Permalink $target) " pure-menu-selected" "" }}
+                  <li class="pure-menu-item{{ $selected }}">
+                      <a href="{{ $target }}" class="pure-menu-link">{{ . }}</a>
                   </li>
                   {{- end }}
               </ul>
