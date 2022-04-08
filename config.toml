@@ -67,6 +67,7 @@ disableKinds = ["RSS"]
 #     name = "Some Author"
 #     email = "mail@example.org"
 
+discog = ["1924-1930", "1931-1940", "1941-1950", "1951-1960", "1961-1970", "1971-1974" ]
 
 [menu]
     [[menu.main]]
@@ -85,27 +86,3 @@ disableKinds = ["RSS"]
         name = "Changes"
         url = "/discography/changes"
         weight = 12
-    [[menu.main]]
-        name = "1924-1930"
-        url = "/discography/1924-1930"
-        weight = 10
-    [[menu.main]]
-        name = "1931-1940"
-        url = "/discography/1931-1940"
-        weight = 10
-    [[menu.main]]
-        name = "1941-1950"
-        url = "/discography/1941-1950"
-        weight = 10
-    [[menu.main]]
-        name = "1951-1960"
-        url = "/discography/1951-1960"
-        weight = 10
-    [[menu.main]]
-        name = "1961-1970"
-        url = "/discography/1961-1970"
-        weight = 10
-    [[menu.main]]
-        name = "1971-1974"
-        url = "/discography/1971-1974"
-        weight = 10
