@@ -56,3 +56,7 @@ div.content {
     color: rgb(66, 113, 174);
     text-decoration: none;
 }
+
+ul.pure-menu-children {
+    border: 1px solid #4d4d4c
+}
