@@ -4,7 +4,7 @@ title: Record labels
 menu: main
 menu:
   main:
-    weight: 11
+    weight: 12
 ---
 An explanation of the record label abbreviations used in the discography.
 

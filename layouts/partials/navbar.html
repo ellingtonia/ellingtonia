@@ -26,27 +26,23 @@
         {{- $curr := . }}
         {{- range .Site.Menus.main }}
         {{- $selected := cond (or ($curr.IsMenuCurrent "main" .) ($curr.HasMenuCurrent "main" .)) " pure-menu-selected" "" }}
-        <li class="pure-menu-item{{ $selected }}"{{ if .Title }} title="{{ .Title }}"{{ end }}>
-          <a  class="pure-menu-link" href="{{ .URL }}">{{ .Name }}</a>
+        {{- $children := cond (.HasChildren) " pure-menu-has-children pure-menu-allow-hover" "" }}
+        {{- $target := cond (.HasChildren) "" .URL }}
+        <li class="pure-menu-item{{ $selected }}{{ $children }}"{{ if .Title }} title="{{ .Title }}"{{ end }}>
+          <a class="pure-menu-link" href="{{ $target }}">{{ .Name }}</a>
+              {{ if .HasChildren }}
+              <ul class="pure-menu-children">
+                  {{- range .Children }}
+                    {{- $selected := cond (or ($curr.IsMenuCurrent "main" .) ($curr.HasMenuCurrent "main" .)) " pure-menu-selected" "" }}
+                    <li class="pure-menu-item{{ $selected }}">
+                      <a class="pure-menu-link" href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                  {{- end }}
+              {{end }}
+              </ul>
         </li>
         {{- end }}
       </ul>
-
-      <ul class="pure-menu-list">
-          <li class="pure-menu-item pure-menu-has-children pure-menu-allow-hover">
-              <a class="pure-menu-link">Discography</a>
-              <ul class="pure-menu-children">
-                  {{- range .Site.Params.discog }}
-                  {{- $target := ref $curr (printf "discography/%s" .) }}
-                  {{- $selected := cond (eq $curr.Permalink $target) " pure-menu-selected" "" }}
-                  <li class="pure-menu-item{{ $selected }}">
-                      <a href="{{ $target }}" class="pure-menu-link">{{ . }}</a>
-                  </li>
-                  {{- end }}
-              </ul>
-          </li>
-      </ul>
-
     </div>
   </div>
   {{- end }}
