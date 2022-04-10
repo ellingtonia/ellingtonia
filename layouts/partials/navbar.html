@@ -28,7 +28,8 @@
         {{- $selected := cond (or ($curr.IsMenuCurrent "main" .) ($curr.HasMenuCurrent "main" .)) " pure-menu-selected" "" }}
         {{- $children := cond (.HasChildren) " pure-menu-has-children pure-menu-allow-hover" "" }}
         {{- $target := cond (.HasChildren) "" .URL }}
-        <li class="pure-menu-item{{ $selected }}{{ $children }}"{{ if .Title }} title="{{ .Title }}"{{ end }}>
+        <!-- list-style-type stops bullets appearing on narrow screens -->
+        <li class="pure-menu-item{{ $selected }}{{ $children }}"{{ if .Title }} title="{{ .Title }}"{{ end }} style="list-style-type: none">
           <a class="pure-menu-link" href="{{ $target }}">{{ .Name }}</a>
               {{ if .HasChildren }}
               <ul class="pure-menu-children">
