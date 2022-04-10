@@ -34,7 +34,8 @@
               <ul class="pure-menu-children">
                   {{- range .Children }}
                     {{- $selected := cond (or ($curr.IsMenuCurrent "main" .) ($curr.HasMenuCurrent "main" .)) " pure-menu-selected" "" }}
-                    <li class="pure-menu-item{{ $selected }}">
+                    <!-- block gives us a vertical dropdown -->
+                    <li class="pure-menu-item{{ $selected }}" style="display: block">
                       <a class="pure-menu-link" href="{{ .URL }}">{{ .Name }}</a>
                     </li>
                   {{- end }}
