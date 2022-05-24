@@ -35,7 +35,17 @@ Notes:
       <tr class="take">
         <td> {{ .index }} </td>
         <td> {{ .matrix }} </td>
-        <td> {{ .title }} </td>
+        <td> {{ .title }}
+          {{ if .youtube }}
+          <a href="{{.youtube}}">(YT)</a>
+          {{ end }}
+          {{ if .spotify }}
+          <a href="{{.spotify}}">(SP)</a>
+          {{ end }}
+          {{ if .tidal }}
+          <a href="{{.tidal}}">(T)</a>
+          {{ end }}
+        </td>
         <td> {{ .releases }} </td>
         <td> {{ .desor }} </td>
       </tr>
