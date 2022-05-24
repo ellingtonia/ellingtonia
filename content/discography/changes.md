@@ -9,6 +9,7 @@ menu:
 
 ## May 2022
 * Included YouTube/Spotify/Tidal links for [one take]({{< ref "discography/1941-1950" >}}#take-46011502)
+* {{< issue 14 >}}Fix: 42111903 "Just As I Thought You Were Here" -> "Just As Though You Were Here"{{< /issue >}}
 * {{< issue 13 >}}Fix: Metronome All Star Band session 15 January 1946{{< /issue >}}
 * {{< issue 12 >}}Remove Hardwick from 2 June 1939 session{{< /issue >}}
 * {{< issue 11 >}}Boogie Bop Blue -> Boogie Bop Blues{{< /issue >}}
