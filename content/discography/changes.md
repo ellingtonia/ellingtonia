@@ -8,6 +8,7 @@ menu:
 ---
 
 ## May 2022
+* {{< issue 10 >}}Session 16 September 1929 missing Freddie Jenkins{{< /issue >}}
 * {{< issue 11 >}}Fix: Rex Stewart session 1939-03-20{{< /issue >}}
 
 ## April 2022
