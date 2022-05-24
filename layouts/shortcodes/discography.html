@@ -32,7 +32,7 @@ Notes:
   </tr>
   {{ range .entries }}
     {{ if eq .type "take" }}
-      <tr class="take">
+      <tr class="take" id="take-{{ .index }}">
         <td> {{ .index }} </td>
         <td> {{ .matrix }} </td>
         <td> {{ .title }}
