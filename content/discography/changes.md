@@ -9,6 +9,7 @@ menu:
 
 ## May 2022
 * Included YouTube/Spotify/Tidal links for [one take]({{< ref "discography/1941-1950" >}}#take-46011502)
+* Added [Bill Swisher interview]({{< ref "discography/1961-1970" >}}#take-69111101) with YouTube link{{< issue 19 />}}
 * {{< issue 15 >}}Fix: 13 April 1946 session to San Pedro Playhouse (previously Fort Sam Houston){{< /issue >}}
 * {{< issue 14 >}}Fix: 42111903 "Just As I Thought You Were Here" -> "Just As Though You Were Here"{{< /issue >}}
 * {{< issue 13 >}}Fix: Metronome All Star Band session 15 January 1946{{< /issue >}}
