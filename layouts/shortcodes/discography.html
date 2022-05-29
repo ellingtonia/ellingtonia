@@ -49,6 +49,10 @@ Notes:
         <td> {{ .releases }} </td>
         <td> {{ .desor }} </td>
       </tr>
+    {{ else if eq .type "note" }}
+      <tr class="artists">
+        <td colspan="6"> {{ $.Page.RenderString .content }} </td>
+      </tr>
     {{ else }}
       <tr class="artists">
         <td colspan="6"> {{ .value }} </td>
