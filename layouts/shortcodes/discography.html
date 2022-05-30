@@ -46,7 +46,16 @@ Notes:
           <a href="{{.tidal}}">(T)</a>
           {{ end }}
         </td>
-        <td> {{ .releases }} </td>
+        <td>
+          {{ $releases := .releases }}
+          {{ range $idx, $elem := .releases }}
+            {{/* Label, identifier and any trailing symbol like a dagger */}}
+            {{- index $elem 0 }}
+            {{ index $elem 1 -}}
+            {{- index $elem 2 -}}
+            {{- if ne (len $releases) (add $idx 1) -}}, {{- end -}}
+          {{ end }}
+        </td>
         <td> {{ .desor }} </td>
       </tr>
     {{ else if eq .type "note" }}
