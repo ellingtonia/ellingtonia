@@ -9,6 +9,7 @@ menu:
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
+* Tidied up labels page substantially, adding missing entries and deleting unused ones.
 * Included YouTube/Spotify/Tidal links for [one take]({{< ref "discography/1941-1950" >}}#take-46011502)
 * Added [Bill Swisher interview]({{< ref "discography/1961-1970" >}}#take-69111101) with YouTube link{{< issue 19 />}}
 * {{< issue 15 >}}Fix: 13 April 1946 session to San Pedro Playhouse (previously Fort Sam Houston){{< /issue >}}
