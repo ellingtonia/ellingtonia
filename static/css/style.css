@@ -58,5 +58,9 @@ div.content {
 }
 
 ul.pure-menu-children {
-    border: 1px solid #4d4d4c
+    border: 1px solid #4d4d4c;
+}
+
+a.discog_link {
+    font-size: 66%;
 }

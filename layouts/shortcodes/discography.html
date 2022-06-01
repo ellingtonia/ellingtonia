@@ -4,6 +4,15 @@ Notes:
 <ul>
 <li>&dagger; after an issue number denotes the lack of an official catalogue number.</li>
 <li>* after an issue number denotes that only part of the take has been used for the issued title</li>
+<li>‡ indicates are release is not confirmed.</li>
+<li>External links have the following codes
+  <ul>
+    <li>(YT): YouTube</li>
+    <li>(S): Spotify</li>
+    <li>(T): Tidal</li>
+    <li>(D): Discogs.com</li>
+  </ul>
+</li>
 </ul>
 
 <table class="discog_table">
@@ -17,6 +26,8 @@ Notes:
 </tr>
 
 {{/* Could also use getJSON */}}
+
+{{ $release_data := $.Site.Data.discog.releases }}
 
 {{ range index $.Site.Data.discog (.Get 0) }}
   <tr>
@@ -37,13 +48,13 @@ Notes:
         <td> {{ .matrix }} </td>
         <td> {{ .title }}
           {{ if .youtube }}
-          <a href="{{.youtube}}">(YT)</a>
+          <a href="{{.youtube}}" class="discog_link">(YT)</a>
           {{ end }}
           {{ if .spotify }}
-          <a href="{{.spotify}}">(SP)</a>
+          <a href="{{.spotify}}" class="discog_link">(S)</a>
           {{ end }}
           {{ if .tidal }}
-          <a href="{{.tidal}}">(T)</a>
+          <a href="{{.tidal}}" class="discog_link">(T)</a>
           {{ end }}
         </td>
         <td>
@@ -53,6 +64,20 @@ Notes:
             {{- index $elem 0 }}
             {{ index $elem 1 -}}
             {{- index $elem 2 -}}
+            {{ if and (isset $release_data (index $elem 0)) (isset (index $release_data (index $elem 0)) (index $elem 1)) }}
+              {{- $release_info := index $release_data (index $elem 0) (index $elem 1) -}}
+
+              {{- if isset $release_info "discogs" -}}
+                <a href="{{ index $release_info "discogs" }}" class="discog_link">(D)</a>
+              {{- end -}}
+              {{- if isset $release_info "spotify" -}}
+                <a href="{{ index $release_info "spotify" }}" class="discog_link">(S)</a>
+              {{- end -}}
+              {{- if isset $release_info "tidal" -}}
+                <a href="{{ index $release_info "tidal" }}" class="discog_link">(T)</a>
+              {{- end -}}
+
+            {{- end -}}
             {{- if ne (len $releases) (add $idx 1) -}}, {{- end -}}
           {{ end }}
         </td>
