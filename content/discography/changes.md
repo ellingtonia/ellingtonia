@@ -10,6 +10,7 @@ menu:
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
 * Removed a small number of duplicated releases
+* {{< issue 16 >}}Updated 30 Jan 1966 concert with info from Brian K; added YouTube links etc.{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
