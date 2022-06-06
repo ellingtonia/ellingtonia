@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## June 2022
+* Removed a small number of duplicated releases
+
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
 * Tidied up labels page substantially, adding missing entries and deleting unused ones.
