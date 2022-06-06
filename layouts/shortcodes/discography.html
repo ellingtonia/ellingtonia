@@ -76,6 +76,9 @@ Notes:
               {{- if isset $release_info "tidal" -}}
                 <a href="{{ index $release_info "tidal" }}" class="discog_link">(T)</a>
               {{- end -}}
+              {{- if isset $release_info "youtube" -}}
+                <a href="{{ index $release_info "youtube" }}" class="discog_link">(T)</a>
+              {{- end -}}
 
             {{- end -}}
             {{- if ne (len $releases) (add $idx 1) -}}, {{- end -}}
