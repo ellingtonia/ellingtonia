@@ -13,6 +13,7 @@ menu:
 * {{< issue 16 >}}Updated 30 Jan 1966 concert with info from Brian K; added YouTube links etc.{{< /issue >}}
 * {{< issue 20 >}}"Portrait Of A Lion" -> "Portrait Of The Lion"{{< /issue >}}
 * {{< issue 22 >}}"Tony Watkins" -> "Toney Watkins"{{< /issue >}}
+* {{< issue 24 >}}San Remo 22 March 1964 "Jazz Group" -> "Giants Group"; added link{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
