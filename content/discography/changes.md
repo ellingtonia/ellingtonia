@@ -8,6 +8,7 @@ menu:
 ---
 
 ## June 2022
+* Added Discogs/Spotify/Tidal links for a couple of releases.
 * Removed a small number of duplicated releases
 
 ## May 2022
