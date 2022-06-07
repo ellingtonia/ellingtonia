@@ -336,14 +336,62 @@ def save_to_json(engine):
                 json.dump(json_sessions, f, indent=4, ensure_ascii=True)
 
 
+def get_engine():
+    return db.create_engine("sqlite:///database", echo=False, future=True)
+
+
+def get_release(sq_session, label, catalog):
+    label = sq_session.scalars(
+        db.select(Label).where(Label.label == label)
+    ).one()
+
+    matching_releases = list(
+        sq_session.scalars(
+            db.select(Release).where(
+                (Release.label == label) & (Release.catalog == catalog)
+            )
+        )
+    )
+    assert len(matching_releases) < 2
+    if not matching_releases:
+        return Release(label=label, catalog=catalog)
+    else:
+        return matching_releases[0]
+
+
 def cmd_import(args):
     if os.path.exists("database"):
         logging.error("Not overwriting database")
         sys.exit(1)
 
-    engine = db.create_engine("sqlite:///database", echo=False, future=True)
+    engine = get_engine()
     Base.metadata.create_all(engine)
     load_from_json(engine)
+
+    return engine
+
+
+def cmd_add_release(args):
+    engine = get_engine()
+
+    with orm.Session(engine) as sq_session:
+        release = get_release(sq_session, args.label, args.catalog)
+
+        entries = sq_session.scalars(
+            db.select(Entry).where(Entry.desor.in_(args.desors))
+        )
+
+        for entry in entries:
+            if entry.releases:
+                sequence_no = entry.releases[-1].sequence_no + 1
+            else:
+                sequence_no = 0
+            er = EntryRelease(
+                entry=entry, release=release, sequence_no=sequence_no, flags=""
+            )
+            entry.releases.append(er)
+
+        sq_session.commit()
 
     return engine
 
@@ -355,8 +403,15 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
 
     subparsers = parser.add_subparsers(required=True)
+
     sp_import = subparsers.add_parser("import")
     sp_import.set_defaults(func=cmd_import)
+
+    sp_add_release = subparsers.add_parser("add_release")
+    sp_add_release.set_defaults(func=cmd_add_release)
+    sp_add_release.add_argument("label")
+    sp_add_release.add_argument("catalog")
+    sp_add_release.add_argument("--desors", nargs="+")
 
     args = parser.parse_args()
 
