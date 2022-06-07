@@ -4848,7 +4848,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Cleveland, OH",
         "date": "29 August 1942",
-        "description": "Broadcast, from Hotel Sherman",
+        "description": "Broadcast, from Palace Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -5091,13 +5091,19 @@
                         "HS",
                         "5014",
                         ""
+                    ],
+                    [
+                        "Dur",
+                        "NVG 9502",
+                        ""
                     ]
                 ],
-                "desor": "DE4230a"
+                "desor": "DE4230a",
+                "youtube": "https://www.youtube.com/watch?v=XcoKcwmtMMA"
             },
             {
-                "type": "artists",
-                "value": "Film sound track from Columbia's \"Reveille With Beverley\". This session has been released on Docurama DVD NVG 9502"
+                "type": "note",
+                "content": "Film soundtrack from Columbia's \"Reveille With Beverly\"."
             }
         ]
     },
@@ -7808,7 +7814,7 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
-        "date": "17,19 June 1943",
+        "date": "17, 19 June 1943",
         "description": "RKO film soundtrack",
         "entries": [
             {
@@ -7854,8 +7860,8 @@
                 "desor": "DE4324d"
             },
             {
-                "type": "artists",
-                "value": "Film soundtrack from RKO Pictures' \"Duke Ellington And His Orchestra\" issued on Bb DVD 82876 60091 2 2"
+                "type": "note",
+                "content": "Film soundtrack from RKO Pictures' \"Duke Ellington And His Orchestra\" issued on Bb DVD 82876 60091 2 2. One of the four numbers (it is unknown which one) was recorded on the 17th with the remaining three on the 19th."
             }
         ]
     },
