@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 
-from black import main
 import sqlalchemy as db
-from sqlalchemy.orm import declarative_base
-from sqlalchemy.orm import relationship, backref
-from sqlalchemy.orm import Session as SQSession
+import sqlalchemy.orm as orm
 import json
 import os
 import logging
@@ -22,7 +19,7 @@ session_paths = [
     json_prefix + "/1971-1974.json",
 ]
 
-Base = declarative_base()
+Base = orm.declarative_base()
 
 
 class Session(Base):
@@ -42,7 +39,9 @@ class Session(Base):
     # We could also set lazy=joined here to always load the associated tracks.
     # For the time being, we've used 'subqueryload' where needed.
     # The 'lazy' lets us do .filter()
-    entries = relationship("Entry", back_populates="session", lazy="dynamic")
+    entries = orm.relationship(
+        "Entry", back_populates="session", lazy="dynamic"
+    )
 
     def __repr__(self):
         return "<Session: %d on %s>" % (self.session_id, self.date)
@@ -58,8 +57,8 @@ class EntryRelease(Base):
 
     sequence_no = db.Column(db.Integer)
 
-    entry = relationship("Entry", back_populates="releases")
-    release = relationship("Release", back_populates="entries")
+    entry = orm.relationship("Entry", back_populates="releases")
+    release = orm.relationship("Release", back_populates="entries")
     flags = db.Column(db.String)
 
 
@@ -86,8 +85,8 @@ class Entry(Base):
     spotify = db.Column(db.String)
     tidal = db.Column(db.String)
 
-    session = relationship("Session", back_populates="entries")
-    releases = relationship("EntryRelease")
+    session = orm.relationship("Session", back_populates="entries")
+    releases = orm.relationship("EntryRelease")
 
 
 class Label(Base):
@@ -99,7 +98,7 @@ class Label(Base):
     # Deliberately not unique as a few are "(Unknown)"
     name = db.Column(db.String)
 
-    releases = relationship("Release", back_populates="label")
+    releases = orm.relationship("Release", back_populates="label")
 
     def __repr__(self):
         return "<label {}>".format(self.label)
@@ -120,8 +119,8 @@ class Release(Base):
     tidal = db.Column(db.String)
     youtube = db.Column(db.String)
 
-    label = relationship("Label", back_populates="releases")
-    entries = relationship("EntryRelease", back_populates="release")
+    label = orm.relationship("Label", back_populates="releases")
+    entries = orm.relationship("EntryRelease", back_populates="release")
 
     def __repr__(self):
         return "<Release {}>".format(self.release_id)
@@ -131,7 +130,7 @@ from sqlalchemy import create_engine
 
 
 def load_from_json(engine):
-    with SQSession(engine) as sq_session:
+    with orm.Session(engine) as sq_session:
         logging.info("Importing labels")
         label_cache = {}
         with open(json_labels_path) as f:
@@ -237,10 +236,7 @@ def load_from_json(engine):
 
 
 def save_to_json(engine):
-    import pdb
-
-    # pdb.set_trace()
-    with SQSession(engine) as sq_session:
+    with orm.Session(engine) as sq_session:
         logging.info("Exporting labels")
         labels = list(sq_session.scalars(db.select(Label)))
         json_labels = {l.label: l.name for l in labels}
@@ -323,8 +319,6 @@ def save_to_json(engine):
 
                         json_entries.append(json_entry)
 
-                        # pdb.set_trace()
-
                     jsession = {
                         "group": session.group,
                         "location": session.location,
@@ -347,7 +341,7 @@ def main():
     except FileNotFoundError:
         pass
 
-    engine = create_engine("sqlite:///database", echo=False, future=True)
+    engine = db.create_engine("sqlite:///database", echo=False, future=True)
     Base.metadata.create_all(engine)
     load_from_json(engine)
     save_to_json(engine)
