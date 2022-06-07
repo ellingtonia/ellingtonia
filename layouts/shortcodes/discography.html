@@ -7,10 +7,11 @@ Notes:
 <li>‡ indicates are release is not confirmed.</li>
 <li>External links have the following codes
   <ul>
-    <li>(YT): YouTube</li>
+    <li>(D): Discogs.com</li>
+    <li>(MB): MusicBrainz.org</li>
     <li>(S): Spotify</li>
     <li>(T): Tidal</li>
-    <li>(D): Discogs.com</li>
+    <li>(YT): YouTube</li>
   </ul>
 </li>
 </ul>
@@ -47,14 +48,14 @@ Notes:
         <td> {{ .index }} </td>
         <td> {{ .matrix }} </td>
         <td> {{ .title }}
-          {{ if .youtube }}
-          <a href="{{.youtube}}" class="discog_link">(YT)</a>
-          {{ end }}
           {{ if .spotify }}
           <a href="{{.spotify}}" class="discog_link">(S)</a>
           {{ end }}
           {{ if .tidal }}
           <a href="{{.tidal}}" class="discog_link">(T)</a>
+          {{ end }}
+          {{ if .youtube }}
+          <a href="{{.youtube}}" class="discog_link">(YT)</a>
           {{ end }}
         </td>
         <td>
@@ -69,6 +70,9 @@ Notes:
 
               {{- if isset $release_info "discogs" -}}
                 <a href="{{ index $release_info "discogs" }}" class="discog_link">(D)</a>
+              {{- end -}}
+              {{- if isset $release_info "musicbrainz" -}}
+                <a href="{{ index $release_info "musicbrainz" }}" class="discog_link">(MB)</a>
               {{- end -}}
               {{- if isset $release_info "spotify" -}}
                 <a href="{{ index $release_info "spotify" }}" class="discog_link">(S)</a>
