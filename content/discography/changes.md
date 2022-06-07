@@ -20,6 +20,7 @@ menu:
   * 17/19 June 1943: Add a note explaining the date ambiguity.
   * 10/12 September 1970: Changed "Concert" to "Dance".
   * Monterey concert changed to 18 September 1970 (was 12 September); added comment "Monterey Jazz Festival".
+* {{< issue 25 >}}Changed June 1951 session to 4 May 1951{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
