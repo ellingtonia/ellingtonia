@@ -10,11 +10,11 @@ menu:
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
 * Removed a small number of duplicated releases
-* {{< issue 16 >}}Updated 30 Jan 1966 concert with info from Brian K; added YouTube link and DVD release.{{< /issue >}}
+* {{< issue 16 >}}Updated 30 Jan 1966 concert with info from Brian K; added YouTube link and DVD release{{< /issue >}}.
 * {{< issue 20 >}}"Portrait Of A Lion" -> "Portrait Of The Lion"{{< /issue >}}
 * {{< issue 22 >}}"Tony Watkins" -> "Toney Watkins"{{< /issue >}}
 * {{< issue 24 >}}San Remo 22 March 1964 "Jazz Group" -> "Giants Group"; added link{{< /issue >}}
-* Various small corrections (issue [#18](https://github.com/ellingtonia/ellingtonia/issues/18)):
+* Various small corrections {{< issue 18 />}}:
   * 29 Aug 1942: Fixed location.
   * 8 Oct 1942: Reveille with Beverly: fixed spelling; add YouTube link.
   * 17/19 June 1943: Add a note explaining the date ambiguity.
