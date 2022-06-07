@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
+import argparse
 import sqlalchemy as db
 import sqlalchemy.orm as orm
 import json
 import os
 import logging
+import sys
 
 json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
@@ -334,16 +336,32 @@ def save_to_json(engine):
                 json.dump(json_sessions, f, indent=4, ensure_ascii=True)
 
 
-def main():
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(message)s")
-    try:
-        os.unlink("database")
-    except FileNotFoundError:
-        pass
+def cmd_import(args):
+    if os.path.exists("database"):
+        logging.error("Not overwriting database")
+        sys.exit(1)
 
     engine = db.create_engine("sqlite:///database", echo=False, future=True)
     Base.metadata.create_all(engine)
     load_from_json(engine)
+
+    return engine
+
+
+def main():
+    logging.basicConfig(
+        level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
+    )
+    parser = argparse.ArgumentParser(description=__doc__)
+
+    subparsers = parser.add_subparsers(required=True)
+    sp_import = subparsers.add_parser("import")
+    sp_import.set_defaults(func=cmd_import)
+
+    args = parser.parse_args()
+
+    engine = args.func(args)
+
     save_to_json(engine)
 
 
