@@ -117,6 +117,7 @@ class Release(Base):
     unique_label_catalog = db.UniqueConstraint("label_id", "catalog")
 
     discogs = db.Column(db.String)
+    musicbrainz = db.Column(db.String)
     spotify = db.Column(db.String)
     tidal = db.Column(db.String)
     youtube = db.Column(db.String)
@@ -228,6 +229,7 @@ def load_from_json(engine):
                 for catalog, release_data in release_data.items():
                     release = release_cache[(label, catalog)]
                     release.discogs = release_data.get("discogs")
+                    release.musicbrainz = release_data.get("musicbrainz")
                     release.spotify = release_data.get("spotify")
                     release.tidal = release_data.get("tidal")
                     release.youtube = release_data.get("youtube")
@@ -251,6 +253,7 @@ def save_to_json(engine):
         for release in releases:
             if (
                 release.discogs
+                or release.musicbrainz
                 or release.spotify
                 or release.tidal
                 or release.youtube
@@ -260,6 +263,8 @@ def save_to_json(engine):
                 json_release = {}
                 if release.discogs:
                     json_release["discogs"] = release.discogs
+                if release.musicbrainz:
+                    json_release["musicbrainz"] = release.musicbrainz
                 if release.spotify:
                     json_release["spotify"] = release.spotify
                 if release.tidal:
@@ -270,6 +275,8 @@ def save_to_json(engine):
                     release.catalog
                 ] = json_release
 
+        # Consistent sorting
+        json_releases = {k: dict(sorted(v.items())) for k, v in sorted(json_releases.items())}
         with open(json_releases_path, "w") as f:
             json.dump(json_releases, f, indent=4, ensure_ascii=False)
 
