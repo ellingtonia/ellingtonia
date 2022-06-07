@@ -192,12 +192,7 @@ def load_from_json(engine):
 
                         seen_releases = set()
                         idx = 0
-                        for tmp in jentry["releases"]:
-                            if len(tmp) == 2:
-                                label, catalog = tmp
-                                flags = ""
-                            else:
-                                label, catalog, flags = tmp
+                        for label, catalog, flags in jentry["releases"]:
                             if (label, catalog) in seen_releases:
                                 logging.warning(
                                     f"Skipping duplicate release {label} {catalog}"
