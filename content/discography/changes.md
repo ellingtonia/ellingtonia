@@ -21,6 +21,7 @@ menu:
   * 10/12 September 1970: Changed "Concert" to "Dance".
   * Monterey concert changed to 18 September 1970 (was 12 September); added comment "Monterey Jazz Festival".
 * {{< issue 25 >}}Changed June 1951 session to 4 May 1951{{< /issue >}}
+* {{< issue 27 >}}Mark Harlem take DE5127g as issued on UtD 2005 (and added Discogs link){{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
