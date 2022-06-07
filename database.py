@@ -276,7 +276,9 @@ def save_to_json(engine):
                 ] = json_release
 
         # Consistent sorting
-        json_releases = {k: dict(sorted(v.items())) for k, v in sorted(json_releases.items())}
+        json_releases = {
+            k: dict(sorted(v.items())) for k, v in sorted(json_releases.items())
+        }
         with open(json_releases_path, "w") as f:
             json.dump(json_releases, f, indent=4, ensure_ascii=False)
 
