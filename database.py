@@ -415,6 +415,20 @@ def cmd_add_release(args):
         entries = find_entries(args, sq_session)
 
         for entry in entries:
+            tmp = list(
+                list(
+                    sq_session.scalars(
+                        db.select(EntryRelease).where(
+                            (EntryRelease.entry == entry)
+                            & (EntryRelease.release == release)
+                        )
+                    )
+                )
+            )
+            if tmp:
+                logging.warning(f"Entry {entry} already has release {release}")
+                continue
+
             if entry.releases:
                 sequence_no = entry.releases[-1].sequence_no + 1
             else:
