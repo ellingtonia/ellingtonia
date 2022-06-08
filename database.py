@@ -380,6 +380,19 @@ def cmd_import(args):
     return engine
 
 
+def cmd_add_label(args):
+    engine = get_engine()
+
+    with orm.Session(engine) as sq_session:
+
+        label_obj = Label(label=args.label, name=args.name)
+        sq_session.add(label_obj)
+
+        sq_session.commit()
+
+    return engine
+
+
 def cmd_add_release(args):
     engine = get_engine()
 
@@ -415,6 +428,11 @@ def main():
 
     sp_import = subparsers.add_parser("import")
     sp_import.set_defaults(func=cmd_import)
+
+    sp_add_label = subparsers.add_parser("add_label")
+    sp_add_label.set_defaults(func=cmd_add_label)
+    sp_add_label.add_argument("label")
+    sp_add_label.add_argument("name")
 
     sp_add_release = subparsers.add_parser("add_release")
     sp_add_release.set_defaults(func=cmd_add_release)
