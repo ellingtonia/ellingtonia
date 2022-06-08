@@ -393,15 +393,26 @@ def cmd_add_label(args):
     return engine
 
 
+def find_entries(args, sq_session):
+    entries = set()
+
+    for desor in args.desors:
+        tmp = list(
+            sq_session.scalars(db.select(Entry).where(Entry.desor == desor))
+        )
+        assert len(tmp) == 1, f"Missing or ambiguous DESOR {desor}"
+        entries.update(tmp)
+
+    return entries
+
+
 def cmd_add_release(args):
     engine = get_engine()
 
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label, args.catalog)
 
-        entries = sq_session.scalars(
-            db.select(Entry).where(Entry.desor.in_(args.desors))
-        )
+        entries = find_entries(args, sq_session)
 
         for entry in entries:
             if entry.releases:
