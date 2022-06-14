@@ -470,7 +470,13 @@ def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
     )
+
     parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--no-export",
+        action="store_true",
+        help="Do not update the JSON (to speed things up when running multiple commands",
+    )
 
     subparsers = parser.add_subparsers(required=True)
 
@@ -494,7 +500,7 @@ def main():
     args = parser.parse_args()
 
     engine = args.func(args)
-    if engine:
+    if engine and not args.no_export:
         save_to_json(engine)
 
 
