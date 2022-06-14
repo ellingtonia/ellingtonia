@@ -429,7 +429,7 @@ def find_entries(args, sq_session):
     return entries
 
 
-def cmd_add_release(args):
+def cmd_add_release_takes(args):
     engine = get_engine(backup=True)
 
     with orm.Session(engine) as sq_session:
@@ -498,8 +498,8 @@ def main():
     sp_add_label.add_argument("label")
     sp_add_label.add_argument("name")
 
-    sp_add_release = subparsers.add_parser("add_release")
-    sp_add_release.set_defaults(func=cmd_add_release)
+    sp_add_release = subparsers.add_parser("add_release_takes")
+    sp_add_release.set_defaults(func=cmd_add_release_takes)
     sp_add_release.add_argument("label")
     sp_add_release.add_argument("catalog")
     sp_add_release.add_argument("--desors", nargs="+")
