@@ -466,6 +466,18 @@ def cmd_add_release_takes(args):
     return engine
 
 
+def cmd_release_metadata(args):
+    engine = get_engine(backup=True)
+
+    with orm.Session(engine) as sq_session:
+        release = get_release(sq_session, args.label, args.catalog)
+
+        if args.discogs is not None:
+            release.discogs = args.discogs
+
+        sq_session.commit()
+
+
 def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
@@ -503,6 +515,12 @@ def main():
     sp_add_release.add_argument("label")
     sp_add_release.add_argument("catalog")
     sp_add_release.add_argument("--desors", nargs="+")
+
+    sp_add_release = subparsers.add_parser("release_metadata")
+    sp_add_release.set_defaults(func=cmd_release_metadata)
+    sp_add_release.add_argument("label")
+    sp_add_release.add_argument("catalog")
+    sp_add_release.add_argument("--discogs")
 
     args = parser.parse_args()
 
