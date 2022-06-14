@@ -90,7 +90,7 @@ class Entry(Base):
     tidal = db.Column(db.String)
 
     session = orm.relationship("Session", back_populates="entries")
-    releases = orm.relationship("EntryRelease", cascade="all, delete-orphan")
+    releases = orm.relationship("EntryRelease")
 
 
 class Label(Base):
@@ -125,7 +125,9 @@ class Release(Base):
     youtube = db.Column(db.String)
 
     label = orm.relationship("Label", back_populates="releases")
-    entries = orm.relationship("EntryRelease", back_populates="release")
+    entries = orm.relationship(
+        "EntryRelease", back_populates="release", cascade="all, delete-orphan"
+    )
 
     def __repr__(self):
         return "<Release {}>".format(self.release_id)
@@ -354,9 +356,14 @@ def get_engine(backup):
 
 
 def get_release(sq_session, label, catalog):
-    label = sq_session.scalars(
-        db.select(Label).where(Label.label == label)
-    ).one()
+
+    try:
+        label = sq_session.scalars(
+            db.select(Label).where(Label.label == label)
+        ).one()
+    except db.exc.NoResultFound as e:
+        logging.error(f"Could not find label {label}")
+        raise e
 
     matching_releases = list(
         sq_session.scalars(
@@ -435,12 +442,12 @@ def cmd_release_takes(args):
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label, args.catalog)
 
+        if args.release_takes_mode == "set":
+            release.entries = []
+
         entries = find_entries(args, sq_session)
 
         for entry in entries:
-            if args.release_takes_mode == "set":
-                entry.releases = []
-
             tmp = list(
                 list(
                     sq_session.scalars(
