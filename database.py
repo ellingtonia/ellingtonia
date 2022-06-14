@@ -90,7 +90,7 @@ class Entry(Base):
     tidal = db.Column(db.String)
 
     session = orm.relationship("Session", back_populates="entries")
-    releases = orm.relationship("EntryRelease")
+    releases = orm.relationship("EntryRelease", cascade="all, delete-orphan")
 
 
 class Label(Base):
@@ -476,6 +476,33 @@ def cmd_release_takes(args):
     return engine
 
 
+def cmd_set_take_releases(args):
+    engine = get_engine(backup=True)
+
+    with orm.Session(engine) as sq_session:
+        tmp = list(
+            sq_session.scalars(
+                db.select(Entry).where(Entry.desor == args.desor)
+            )
+        )
+        assert len(tmp) == 1, f"Missing or ambiguous DESOR {args.desor}"
+        entry = tmp[0]
+        entry.releases = []
+
+        for sequence_no, release in enumerate(args.releases):
+            label, catalog = release.split(" ", 1)
+            release = get_release(sq_session, label, catalog)
+
+            er = EntryRelease(
+                entry=entry, release=release, sequence_no=sequence_no, flags=""
+            )
+            entry.releases.append(er)
+
+        sq_session.commit()
+
+    return engine
+
+
 def cmd_release_metadata(args):
     engine = get_engine(backup=True)
 
@@ -533,6 +560,11 @@ def main():
     sp_set_release.add_argument("label")
     sp_set_release.add_argument("catalog")
     sp_set_release.add_argument("--desors", nargs="+")
+
+    sp_set_take_releases = subparsers.add_parser("set_take_releases")
+    sp_set_take_releases.set_defaults(func=cmd_set_take_releases)
+    sp_set_take_releases.add_argument("--desor", required=True)
+    sp_set_take_releases.add_argument("--releases", nargs="+")
 
     sp_add_release = subparsers.add_parser("release_metadata")
     sp_add_release.set_defaults(func=cmd_release_metadata)
