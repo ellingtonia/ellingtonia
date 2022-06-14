@@ -6,7 +6,9 @@ import sqlalchemy.orm as orm
 import json
 import os
 import logging
+import shutil
 import sys
+import time
 
 json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
@@ -346,6 +348,8 @@ def save_to_json(engine):
 
 
 def get_engine():
+    if os.path.exists("database"):
+        shutil.copy("database", f"database.{int(time.time())}")
     return db.create_engine("sqlite:///database", echo=False, future=True)
 
 
@@ -366,6 +370,25 @@ def get_release(sq_session, label, catalog):
         return Release(label=label, catalog=catalog)
     else:
         return matching_releases[0]
+
+
+def cmd_rollback(args):
+    if not os.path.exists("database"):
+        logging.error("No database to roll back")
+        sys.exit(1)
+
+    candidates = sorted(
+        [f for f in os.listdir(".") if f.startswith("database.")],
+        key=lambda s: int(s.replace("database.", "")),
+    )
+
+    if not candidates:
+        logging.error("No backups to roll back")
+        sys.exit(1)
+
+    src = candidates[-1]
+    logging.info(f"Moving {src} to database")
+    os.rename(src, "database")
 
 
 def cmd_import(args):
@@ -451,6 +474,9 @@ def main():
 
     subparsers = parser.add_subparsers(required=True)
 
+    sp_rollback = subparsers.add_parser("rollback")
+    sp_rollback.set_defaults(func=cmd_rollback)
+
     sp_import = subparsers.add_parser("import")
     sp_import.set_defaults(func=cmd_import)
 
@@ -468,8 +494,8 @@ def main():
     args = parser.parse_args()
 
     engine = args.func(args)
-
-    save_to_json(engine)
+    if engine:
+        save_to_json(engine)
 
 
 if __name__ == "__main__":
