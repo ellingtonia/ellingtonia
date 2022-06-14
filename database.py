@@ -347,8 +347,8 @@ def save_to_json(engine):
                 json.dump(json_sessions, f, indent=4, ensure_ascii=True)
 
 
-def get_engine():
-    if os.path.exists("database"):
+def get_engine(backup):
+    if backup and os.path.exists("database"):
         shutil.copy("database", f"database.{int(time.time())}")
     return db.create_engine("sqlite:///database", echo=False, future=True)
 
@@ -396,7 +396,7 @@ def cmd_import(args):
         logging.error("Not overwriting database")
         sys.exit(1)
 
-    engine = get_engine()
+    engine = get_engine(backup=False)
     Base.metadata.create_all(engine)
     load_from_json(engine)
 
@@ -404,7 +404,7 @@ def cmd_import(args):
 
 
 def cmd_add_label(args):
-    engine = get_engine()
+    engine = get_engine(backup=True)
 
     with orm.Session(engine) as sq_session:
 
@@ -430,7 +430,7 @@ def find_entries(args, sq_session):
 
 
 def cmd_add_release(args):
-    engine = get_engine()
+    engine = get_engine(backup=True)
 
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label, args.catalog)
@@ -473,7 +473,7 @@ def main():
 
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "--no-export",
+        "--export",
         action="store_true",
         help="Do not update the JSON (to speed things up when running multiple commands",
     )
@@ -485,6 +485,13 @@ def main():
 
     sp_import = subparsers.add_parser("import")
     sp_import.set_defaults(func=cmd_import)
+
+    sp_export = subparsers.add_parser(
+        "export",
+        help="Used to force a re-export when there are no other changes",
+    )
+    sp_export.set_defaults(func=lambda args: None)
+    sp_export.set_defaults(export=True)
 
     sp_add_label = subparsers.add_parser("add_label")
     sp_add_label.set_defaults(func=cmd_add_label)
@@ -499,9 +506,10 @@ def main():
 
     args = parser.parse_args()
 
-    engine = args.func(args)
-    if engine and not args.no_export:
-        save_to_json(engine)
+    args.func(args)
+
+    if args.export:
+        save_to_json(get_engine(backup=False))
 
 
 if __name__ == "__main__":
