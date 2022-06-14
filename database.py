@@ -90,7 +90,7 @@ class Entry(Base):
     tidal = db.Column(db.String)
 
     session = orm.relationship("Session", back_populates="entries")
-    releases = orm.relationship("EntryRelease")
+    releases = orm.relationship("EntryRelease", cascade="all, delete-orphan")
 
 
 class Label(Base):
@@ -429,7 +429,7 @@ def find_entries(args, sq_session):
     return entries
 
 
-def cmd_add_release_takes(args):
+def cmd_release_takes(args):
     engine = get_engine(backup=True)
 
     with orm.Session(engine) as sq_session:
@@ -438,6 +438,9 @@ def cmd_add_release_takes(args):
         entries = find_entries(args, sq_session)
 
         for entry in entries:
+            if args.release_takes_mode == "set":
+                entry.releases = []
+
             tmp = list(
                 list(
                     sq_session.scalars(
@@ -511,10 +514,18 @@ def main():
     sp_add_label.add_argument("name")
 
     sp_add_release = subparsers.add_parser("add_release_takes")
-    sp_add_release.set_defaults(func=cmd_add_release_takes)
+    sp_add_release.set_defaults(func=cmd_release_takes)
+    sp_add_release.set_defaults(release_takes_mode="add")
     sp_add_release.add_argument("label")
     sp_add_release.add_argument("catalog")
     sp_add_release.add_argument("--desors", nargs="+")
+
+    sp_set_release = subparsers.add_parser("set_release_takes")
+    sp_set_release.set_defaults(func=cmd_release_takes)
+    sp_set_release.set_defaults(release_takes_mode="set")
+    sp_set_release.add_argument("label")
+    sp_set_release.add_argument("catalog")
+    sp_set_release.add_argument("--desors", nargs="+")
 
     sp_add_release = subparsers.add_parser("release_metadata")
     sp_add_release.set_defaults(func=cmd_release_metadata)
