@@ -24,6 +24,7 @@ menu:
 * {{< issue 27 >}}Mark Harlem take DE5127g as issued on UtD 2005 (and added Discogs link){{< /issue >}}
 * {{< issue 28 >}}Update releases for 5 January 1952 and DE5204 March 1952{{< /issue >}}
 * {{< issue 29 >}}Update releases for 29 Apr 1952{{< /issue >}}
+* {{< issue 30 >}}Fix releases for DE5210a/b I Love My Lovin' Lover -vBR{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
