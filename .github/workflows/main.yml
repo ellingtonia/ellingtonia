@@ -1,4 +1,4 @@
-name: Deploy to FTP
+name: github pages
 
 on:
   workflow_dispatch: # Manual trigger
@@ -23,10 +23,8 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          server: ellingtonia.com
-          username: ellingtonia
-          password: ${{ secrets.ftp_password }}
-          dangerous-clean-slate: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
