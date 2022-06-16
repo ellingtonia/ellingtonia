@@ -512,6 +512,9 @@ def cmd_release_metadata(args):
         if args.discogs is not None:
             release.discogs = args.discogs
 
+        if args.musicbrainz is not None:
+            release.musicbrainz = args.musicbrainz
+
         sq_session.commit()
 
 
@@ -571,6 +574,7 @@ def main():
     sp_add_release.add_argument("label")
     sp_add_release.add_argument("catalog")
     sp_add_release.add_argument("--discogs")
+    sp_add_release.add_argument("--musicbrainz")
 
     args = parser.parse_args()
 
