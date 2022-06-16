@@ -518,6 +518,26 @@ def cmd_release_metadata(args):
         sq_session.commit()
 
 
+def cmd_duplicate_release(args):
+    engine = get_engine(backup=True)
+    with orm.Session(engine) as sq_session:
+        src = get_release(sq_session, args.label_src, args.catalog_src)
+        dest = get_release(sq_session, args.label_dest, args.catalog_dest)
+
+        # A straight copy of src.entries to dest.entries doesn't do what you
+        # want
+        for old_er in src.entries:
+            new_er = EntryRelease(
+                entry=old_er.entry,
+                release=dest,
+                sequence_no=old_er.sequence_no,
+                flags=old_er.flags,
+            )
+            dest.entries.append(new_er)
+
+        sq_session.commit()
+
+
 def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
@@ -575,6 +595,13 @@ def main():
     sp_add_release.add_argument("catalog")
     sp_add_release.add_argument("--discogs")
     sp_add_release.add_argument("--musicbrainz")
+
+    sp_duplicate_release = subparsers.add_parser("duplicate_release")
+    sp_duplicate_release.set_defaults(func=cmd_duplicate_release)
+    sp_duplicate_release.add_argument("label_src")
+    sp_duplicate_release.add_argument("catalog_src")
+    sp_duplicate_release.add_argument("label_dest")
+    sp_duplicate_release.add_argument("catalog_dest")
 
     args = parser.parse_args()
 
