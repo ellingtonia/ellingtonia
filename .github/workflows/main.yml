@@ -29,3 +29,4 @@ jobs:
           server: ellingtonia.com
           username: ellingtonia
           password: ${{ secrets.ftp_password }}
+          dangerous-clean-slate: true
