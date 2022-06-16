@@ -20,6 +20,8 @@ As with all discographies, this will always be a work in progress and cannot be 
 
 Marcus has now retired from day-to-day maintenance of this site. Please contact Charlie Dyson (charlie@charliedyson.net) if you spot something that's missing or wrong. A list of known bugs is maintained [here](https://github.com/ellingtonia/ellingtonia/issues), while changes to the discography are recorded on the [Changes]({{< ref "changes" >}}) page.
 
+You can join us in talking all things Duke using the DESUK Discord chatroom at https://discord.gg/efQNUMa.
+
 ## Other resources:
 
 * The Duke Ellington Society UK (DESUK): https://dukeellington.org.uk
