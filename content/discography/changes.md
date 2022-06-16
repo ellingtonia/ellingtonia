@@ -29,6 +29,7 @@ menu:
 * {{< issue 35 >}}Added Nat Hentoff interview 1953{{< /issue >}}
 * {{< issue 36 >}}Added MDD 010 Mingus Chez Duke{{< /issue >}}
 * Fixed index numbers for 30 January 1953
+* {{< issue 37 >}}New releases for 1953 Pasadena Concert{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
