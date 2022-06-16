@@ -28,6 +28,7 @@ menu:
 * {{< issue 32 >}}Added Candid CD "Flying Home", 2011, CCD 79557{{< /issue >}}
 * {{< issue 35 >}}Added Nat Hentoff interview 1953{{< /issue >}}
 * {{< issue 36 >}}Added MDD 010 Mingus Chez Duke{{< /issue >}}
+* Fixed index numbers for 30 January 1953
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
