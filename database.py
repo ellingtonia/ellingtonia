@@ -247,7 +247,10 @@ def save_to_json(engine):
     with orm.Session(engine) as sq_session:
         logging.info("Exporting labels")
         labels = list(sq_session.scalars(db.select(Label)))
-        json_labels = {l.label: l.name for l in labels}
+        json_labels = {
+            l.label: l.name
+            for l in sorted(labels, key=lambda l: l.label.lower())
+        }
         with open(json_labels_path, "w") as f:
             json.dump(json_labels, f, indent=4, ensure_ascii=False)
 
