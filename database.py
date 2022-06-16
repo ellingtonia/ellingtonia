@@ -512,11 +512,9 @@ def cmd_release_metadata(args):
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label, args.catalog)
 
-        if args.discogs is not None:
-            release.discogs = args.discogs
-
-        if args.musicbrainz is not None:
-            release.musicbrainz = args.musicbrainz
+        for param in ["discogs", "musicbrainz", "spotify", "tidal"]:
+            if getattr(args, param) is not None:
+                setattr(release, param, getattr(args, param))
 
         sq_session.commit()
 
@@ -598,6 +596,8 @@ def main():
     sp_add_release.add_argument("catalog")
     sp_add_release.add_argument("--discogs")
     sp_add_release.add_argument("--musicbrainz")
+    sp_add_release.add_argument("--spotify")
+    sp_add_release.add_argument("--tidal")
 
     sp_duplicate_release = subparsers.add_parser("duplicate_release")
     sp_duplicate_release.set_defaults(func=cmd_duplicate_release)
