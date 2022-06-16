@@ -25,6 +25,7 @@ menu:
 * {{< issue 28 >}}Update releases for 5 January 1952 and DE5204 March 1952{{< /issue >}}
 * {{< issue 29 >}}Update releases for 29 Apr 1952{{< /issue >}}
 * {{< issue 30 >}}Fix releases for DE5210a/b I Love My Lovin' Lover -vBR{{< /issue >}}
+* {{< issue 32 >}}Added Candid CD "Flying Home", 2011, CCD 79557{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
