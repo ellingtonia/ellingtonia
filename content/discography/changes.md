@@ -31,6 +31,7 @@ menu:
 * Fixed index numbers for 30 January 1953
 * {{< issue 37 >}}New releases for 1953 Pasadena Concert{{< /issue >}}
 * {{< issue 38 >}}New release ACTRCD9033 for 30 Apr 1953{{< /issue >}}
+* Added DETS volumes 24 and (part of) 25.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
