@@ -15146,7 +15146,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t,v); Duke Ellington(p); Wendell Marshall(sb); Dave Black(d); Jimmy Grissom(v)"
+                "value": "Ray Nance(vl); Duke Ellington(p); Wendell Marshall(sb); Dave Black(d); Jimmy Grissom(v)"
             },
             {
                 "type": "take",
@@ -15197,6 +15197,10 @@
                 "desor": "DE5338b"
             },
             {
+                "type": "artists",
+                "value": "Ray Nance out"
+            },
+            {
                 "type": "take",
                 "index": "53121503",
                 "matrix": "20277-1",
@@ -15214,6 +15218,10 @@
                     ]
                 ],
                 "desor": "DE5338c"
+            },
+            {
+                "type": "artists",
+                "value": "Add Ray Nance(v)"
             },
             {
                 "type": "take",

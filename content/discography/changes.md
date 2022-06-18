@@ -32,6 +32,7 @@ menu:
 * {{< issue 37 >}}New releases for 1953 Pasadena Concert{{< /issue >}}
 * {{< issue 38 >}}New release ACTRCD9033 for 30 Apr 1953{{< /issue >}}
 * Added DETS volumes 24 and (part of) 25.
+* {{< issue 40 >}}Fix Ray Nance contribution to 15 Dec 1953 session{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
