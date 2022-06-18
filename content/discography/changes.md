@@ -33,6 +33,7 @@ menu:
 * {{< issue 38 >}}New release ACTRCD9033 for 30 Apr 1953{{< /issue >}}
 * Added DETS volumes 24 and (part of) 25.
 * {{< issue 40 >}}Fix Ray Nance contribution to 15 Dec 1953 session{{< /issue >}}
+* Now using "Ms" consistently for Mosaic issues (previously Mc was sometimes used).
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
