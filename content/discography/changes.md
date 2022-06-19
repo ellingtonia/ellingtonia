@@ -35,6 +35,7 @@ menu:
 * {{< issue 40 >}}Fix Ray Nance contribution to 15 Dec 1953 session{{< /issue >}}
 * Now using "Ms" consistently for Mosaic issues (previously Mc was sometimes used).
 * Fixed indexes for 08 February 1954; added M&A CD-1051 for that date.
+* {{< issue 42 >}}George Jean was still in the band on 8 Feb 1954 (instead of John Sanders){{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
