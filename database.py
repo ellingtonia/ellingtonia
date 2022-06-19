@@ -436,6 +436,13 @@ def find_entries(args, sq_session):
         assert len(tmp) == 1, f"Missing or ambiguous DESOR {desor}"
         entries.update(tmp)
 
+    for index in args.indexes:
+        tmp = list(
+            sq_session.scalars(db.select(Entry).where(Entry.index == index))
+        )
+        assert len(tmp) == 1, f"Missing or ambiguous index {index}"
+        entries.update(tmp)
+
     return entries
 
 
@@ -576,14 +583,16 @@ def main():
     sp_add_release.set_defaults(release_takes_mode="add")
     sp_add_release.add_argument("label")
     sp_add_release.add_argument("catalog")
-    sp_add_release.add_argument("--desors", nargs="+")
+    sp_add_release.add_argument("--desors", nargs="+", default=[])
+    sp_add_release.add_argument("--indexes", nargs="+", default=[])
 
     sp_set_release = subparsers.add_parser("set_release_takes")
     sp_set_release.set_defaults(func=cmd_release_takes)
     sp_set_release.set_defaults(release_takes_mode="set")
     sp_set_release.add_argument("label")
     sp_set_release.add_argument("catalog")
-    sp_set_release.add_argument("--desors", nargs="+")
+    sp_set_release.add_argument("--desors", nargs="+", default=[])
+    sp_set_release.add_argument("--indexes", nargs="+", default=[])
 
     sp_set_take_releases = subparsers.add_parser("set_take_releases")
     sp_set_take_releases.set_defaults(func=cmd_set_take_releases)
