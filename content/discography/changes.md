@@ -37,6 +37,7 @@ menu:
 * Fixed indexes for 08 February 1954; added M&A CD-1051 for that date.
 * {{< issue 42 >}}George Jean was still in the band on 8 Feb 1954 (instead of John Sanders){{< /issue >}}
 * New releases (and Tidal) for 13 April 1954 Los Angeles concert.
+* Added Sounds Of Yester Year 541231
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
