@@ -559,6 +559,35 @@ def cmd_rename_release(args):
         sq_session.commit()
 
 
+def cmd_renumber_session(args):
+    engine = get_engine(backup=True)
+    with orm.Session(engine) as sq_session:
+        sessions = list(
+            sq_session.scalars(
+                db.select(Session).where(Session.date == args.date_str)
+            )
+        )
+        index = args.start_index
+        for session in sessions:
+            for entry in session.entries:
+                if entry.index:
+                    entry.index = index
+                    index += 1
+
+        sq_session.commit()
+
+
+def cmd_dump_release(args):
+    engine = get_engine(backup=True)
+    with orm.Session(engine) as sq_session:
+        release = get_release(sq_session, args.label_src, args.catalog_src)
+        print(f"{len(release.entries)} takes")
+        entries = release.entries.copy()
+        entries.sort(key=lambda er: er.entry.index)
+        for entry in entries:
+            print(f"{entry.entry.index}\t{entry.entry.title}")
+
+
 def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
@@ -634,6 +663,16 @@ def main():
     sp_rename_release.add_argument("catalog_src")
     sp_rename_release.add_argument("label_dest")
     sp_rename_release.add_argument("catalog_dest")
+
+    sp_renumber_session = subparsers.add_parser("renumber_session")
+    sp_renumber_session.set_defaults(func=cmd_renumber_session)
+    sp_renumber_session.add_argument("date_str")
+    sp_renumber_session.add_argument("start_index", type=int)
+
+    sp_dump_release = subparsers.add_parser("dump_release")
+    sp_dump_release.set_defaults(func=cmd_dump_release)
+    sp_dump_release.add_argument("label_src")
+    sp_dump_release.add_argument("catalog_src")
 
     args = parser.parse_args()
 
