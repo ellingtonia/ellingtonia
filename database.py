@@ -358,15 +358,18 @@ def get_engine(backup):
     return db.create_engine("sqlite:///database", echo=False, future=True)
 
 
-def get_release(sq_session, label, catalog):
-
+def get_label(sq_session, label):
     try:
-        label = sq_session.scalars(
+        return sq_session.scalars(
             db.select(Label).where(Label.label == label)
         ).one()
     except db.exc.NoResultFound as e:
         logging.error(f"Could not find label {label}")
         raise e
+
+
+def get_release(sq_session, label, catalog):
+    label = get_label(sq_session, label)
 
     matching_releases = list(
         sq_session.scalars(
@@ -546,6 +549,16 @@ def cmd_duplicate_release(args):
         sq_session.commit()
 
 
+def cmd_rename_release(args):
+    engine = get_engine(backup=True)
+    with orm.Session(engine) as sq_session:
+        src = get_release(sq_session, args.label_src, args.catalog_src)
+        src.label = get_label(sq_session, args.label_dest)
+        src.catalog = args.catalog_dest
+
+        sq_session.commit()
+
+
 def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
@@ -614,6 +627,13 @@ def main():
     sp_duplicate_release.add_argument("catalog_src")
     sp_duplicate_release.add_argument("label_dest")
     sp_duplicate_release.add_argument("catalog_dest")
+
+    sp_rename_release = subparsers.add_parser("rename_release")
+    sp_rename_release.set_defaults(func=cmd_rename_release)
+    sp_rename_release.add_argument("label_src")
+    sp_rename_release.add_argument("catalog_src")
+    sp_rename_release.add_argument("label_dest")
+    sp_rename_release.add_argument("catalog_dest")
 
     args = parser.parse_args()
 
