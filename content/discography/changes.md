@@ -39,6 +39,7 @@ menu:
 * New releases (and Tidal) for 13 April 1954 Los Angeles concert.
 * Added Sounds Of Yester Year 541231
 * Added releases/Tidal for the medley on 1 Jan 1955.
+* Added Storyville STCD 8310 (with Spotify).
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
