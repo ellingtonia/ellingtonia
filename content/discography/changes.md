@@ -38,6 +38,7 @@ menu:
 * {{< issue 42 >}}George Jean was still in the band on 8 Feb 1954 (instead of John Sanders){{< /issue >}}
 * New releases (and Tidal) for 13 April 1954 Los Angeles concert.
 * Added Sounds Of Yester Year 541231
+* Added releases/Tidal for the medley on 1 Jan 1955.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
