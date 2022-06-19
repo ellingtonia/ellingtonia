@@ -43,6 +43,7 @@ menu:
 * Added releases for 26 Jul 1955.
 * Added MDD 013.
 * {{< issue 46 >}}Fixed bad matrix number 03 January 1956{{< /issue >}}
+* Added Avid AMSC 937 (Three Mid-Fifties Classic Albums)
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
