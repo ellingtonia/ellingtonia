@@ -34,7 +34,7 @@ menu:
 * Added DETS volumes 24 and (part of) 25.
 * {{< issue 40 >}}Fix Ray Nance contribution to 15 Dec 1953 session{{< /issue >}}
 * Now using "Ms" consistently for Mosaic issues (previously Mc was sometimes used).
-* Fixed indexes for 08 February 1954
+* Fixed indexes for 08 February 1954; added M&A CD-1051 for that date.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
