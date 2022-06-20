@@ -53,6 +53,7 @@ menu:
 * Added Co C2K 64932, Ellington At Newport 1956 (Complete)
 * {{< issue 50 >}}Removed Jeep's Blues take 56070904 from Co CL-934 (it was first issued on Co C2K 64932){{< /issue >}}
 * Added some tracks from MDD 005.
+* {{< issue 52 >}}Make Café Au Lait 56120606 as unissued.{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
