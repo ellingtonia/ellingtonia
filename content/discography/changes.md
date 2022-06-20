@@ -57,6 +57,7 @@ menu:
 * Fixed missing Jimmy Grissom on 31 Dec 1956 and 10 Jan 1957.
 * Fix: Sa 92131-2 -> Sa 91231-2
 * {{< issue 57 >}}Fixed locations for 29 Jan 1957 to agree with TDWAW{{< /issue >}}
+* {{< issue 58 >}}Fixed wrong Private Collection volume for 57020008 Moon Mist{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
