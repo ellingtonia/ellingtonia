@@ -355,10 +355,22 @@ def save_to_json(engine):
                 f.write("\n")
 
 
-def get_engine(backup):
-    if backup and os.path.exists("database"):
-        shutil.copy("database", f"database.{int(time.time())}")
-    return db.create_engine("sqlite:///database", echo=False, future=True)
+def get_engine(backup=True):
+    def get():
+        return db.create_engine("sqlite:///database", echo=False, future=True)
+
+    if backup is True:
+        if os.path.exists("database"):
+            shutil.copy("database", f"database.{int(time.time())}")
+            return get()
+        else:
+            logging.info(f"Importing from JSON")
+            engine = get()
+            Base.metadata.create_all(engine)
+            load_from_json(engine)
+            return engine
+    else:
+        return get()
 
 
 def get_label(sq_session, label):
@@ -407,20 +419,8 @@ def cmd_rollback(args):
     os.rename(src, "database")
 
 
-def cmd_import(args):
-    if os.path.exists("database"):
-        logging.error("Not overwriting database")
-        sys.exit(1)
-
-    engine = get_engine(backup=False)
-    Base.metadata.create_all(engine)
-    load_from_json(engine)
-
-    return engine
-
-
 def cmd_add_label(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
 
     with orm.Session(engine) as sq_session:
 
@@ -453,7 +453,7 @@ def find_entries(args, sq_session):
 
 
 def cmd_release_takes(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
 
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label, args.catalog)
@@ -493,7 +493,7 @@ def cmd_release_takes(args):
 
 
 def cmd_set_take_releases(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
 
     with orm.Session(engine) as sq_session:
         tmp = list(
@@ -520,7 +520,7 @@ def cmd_set_take_releases(args):
 
 
 def cmd_release_metadata(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
 
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label, args.catalog)
@@ -533,7 +533,7 @@ def cmd_release_metadata(args):
 
 
 def cmd_duplicate_release(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
     with orm.Session(engine) as sq_session:
         src = get_release(sq_session, args.label_src, args.catalog_src)
         dest = get_release(sq_session, args.label_dest, args.catalog_dest)
@@ -553,7 +553,7 @@ def cmd_duplicate_release(args):
 
 
 def cmd_rename_release(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
     with orm.Session(engine) as sq_session:
         src = get_release(sq_session, args.label_src, args.catalog_src)
         src.label = get_label(sq_session, args.label_dest)
@@ -563,7 +563,7 @@ def cmd_rename_release(args):
 
 
 def cmd_renumber_session(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
     with orm.Session(engine) as sq_session:
         sessions = list(
             sq_session.scalars(
@@ -581,7 +581,7 @@ def cmd_renumber_session(args):
 
 
 def cmd_dump_release(args):
-    engine = get_engine(backup=True)
+    engine = get_engine()
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label_src, args.catalog_src)
         print(f"{len(release.entries)} takes")
@@ -607,9 +607,6 @@ def main():
 
     sp_rollback = subparsers.add_parser("rollback")
     sp_rollback.set_defaults(func=cmd_rollback)
-
-    sp_import = subparsers.add_parser("import")
-    sp_import.set_defaults(func=cmd_import)
 
     sp_export = subparsers.add_parser(
         "export",
