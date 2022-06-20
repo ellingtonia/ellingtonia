@@ -51,6 +51,7 @@ menu:
 * {{< issue 43 >}}Cleaned up personnel on Commercial Time 55061123 (the issue is still unresolved but this is the most likely interpretation){{< /issue >}}
 * {{< issue 50 >}}Fixed catalog number for 56070702{{< /issue >}}
 * Added Co C2K 64932, Ellington At Newport 1956 (Complete)
+* {{< issue 50 >}}Removed Jeep's Blues take 56070904 from Co CL-934 (it was first issued on Co C2K 64932){{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
