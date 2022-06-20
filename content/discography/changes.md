@@ -54,6 +54,7 @@ menu:
 * {{< issue 50 >}}Removed Jeep's Blues take 56070904 from Co CL-934 (it was first issued on Co C2K 64932){{< /issue >}}
 * Added some tracks from MDD 005.
 * {{< issue 52 >}}Make Café Au Lait 56120606 as unissued.{{< /issue >}}
+* Fixed missing Jimmy Grissom on 31 Dec 1956 and 10 Jan 1957.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
