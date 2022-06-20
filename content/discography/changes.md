@@ -60,6 +60,7 @@ menu:
 * {{< issue 58 >}}Fixed wrong Private Collection volume for 57020008 Moon Mist{{< /issue >}}
 * Added take of Pomegranate from JT 933.
 * Fixed typo CL-1985 -> CL-1085 (Ellington Indigos)
+* Correct UA label to mean "United Archives".
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
