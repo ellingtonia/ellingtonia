@@ -49,6 +49,7 @@ menu:
 * {{< issue 49 >}}Cleaned up ambiguous personnel on 9 July 1955 (and added bass to one take).{{< /issue >}}
 * Expanded "DE" to "Duke Ellington" in various places.
 * {{< issue 43 >}}Cleaned up personnel on Commercial Time 55061123 (the issue is still unresolved but this is the most likely interpretation){{< /issue >}}
+* {{< issue 50 >}}Fixed catalog number for 56070702{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
