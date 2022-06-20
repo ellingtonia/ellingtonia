@@ -253,6 +253,7 @@ def save_to_json(engine):
         }
         with open(json_labels_path, "w") as f:
             json.dump(json_labels, f, indent=4, ensure_ascii=False)
+            f.write("\n")
 
         releases = list(sq_session.scalars(db.select(Release).join(Label)))
         json_releases = {}
@@ -288,6 +289,7 @@ def save_to_json(engine):
         }
         with open(json_releases_path, "w") as f:
             json.dump(json_releases, f, indent=4, ensure_ascii=False)
+            f.write("\n")
 
         for session_path in session_paths:
             logging.info(f"Exporting {session_path}")
@@ -350,6 +352,7 @@ def save_to_json(engine):
                         ] = session.maintainer_comment
                     json_sessions.append(jsession)
                 json.dump(json_sessions, f, indent=4, ensure_ascii=True)
+                f.write("\n")
 
 
 def get_engine(backup):
