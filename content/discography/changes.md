@@ -65,6 +65,7 @@ menu:
 * Added releases of Piano In The Foreground with bonus tracks from 1957.
 * Typo: Sada -> Smada
 * {{< issue 56 >}}Various fixes to releases of Such Sweet Thunder material{{< /issue >}}
+* {{< issue 59 >}}Added Hurricane takes from DETS 25{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
