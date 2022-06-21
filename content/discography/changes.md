@@ -64,6 +64,7 @@ menu:
 * {{< issue 55 >}}Telecast 15 March 1957: Correct location and add YouTube{{< /issue >}}
 * Added releases of Piano In The Foreground with bonus tracks from 1957.
 * Typo: Sada -> Smada
+* {{< issue 56 >}}Various fixes to releases of Such Sweet Thunder material{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
