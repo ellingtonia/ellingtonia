@@ -58,7 +58,7 @@ menu:
 * Fix: Sa 92131-2 -> Sa 91231-2
 * {{< issue 57 >}}Fixed locations for 29 Jan 1957 to agree with TDWAW{{< /issue >}}
 * {{< issue 58 >}}Fixed wrong Private Collection volume for 57020008 Moon Mist{{< /issue >}}
-* Added take of Pomegranate from JT 933.
+* Add more A Drum Is A Woman releases (including take of Pomegranate from JT 933)
 * Fixed typo CL-1985 -> CL-1085 (Ellington Indigos)
 * Correct UA label to mean "United Archives".
 
