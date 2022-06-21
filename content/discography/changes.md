@@ -71,6 +71,7 @@ menu:
 * {{< issue 61 >}}Replace Paul Gonsalves with Frank Foster 24 June 1957{{< /issue >}}
 * Extra takes added to Ella Fitzgerald Songbooks
 * Added Jazz Beat 527: The Complete Ellington Indigos
+* Added DESS CD 5 (Holiday Ballroom)
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
