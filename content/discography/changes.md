@@ -68,6 +68,7 @@ menu:
 * {{< issue 59 >}}Added Hurricane takes from DETS 25{{< /issue >}}
 * 57060008 (Bassment) removed from Jz J-304
 * Removed Ray Nance vocals from 1957 sessions with Ella Fitzgerald
+* {{< issue 61 >}}Replace Paul Gonsalves with Frank Foster 24 June 1957{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
