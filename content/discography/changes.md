@@ -72,6 +72,7 @@ menu:
 * Extra takes added to Ella Fitzgerald Songbooks
 * Added Jazz Beat 527: The Complete Ellington Indigos
 * Added DESS CD 5 (Holiday Ballroom)
+* Added The Girl's Suite And The Perfume Suite CD release Co COL 469139 2
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
