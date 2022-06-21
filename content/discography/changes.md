@@ -67,6 +67,7 @@ menu:
 * {{< issue 56 >}}Various fixes to releases of Such Sweet Thunder material{{< /issue >}}
 * {{< issue 59 >}}Added Hurricane takes from DETS 25{{< /issue >}}
 * 57060008 (Bassment) removed from Jz J-304
+* Removed Ray Nance vocals from 1957 sessions with Ella Fitzgerald
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
