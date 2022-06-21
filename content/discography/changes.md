@@ -61,6 +61,7 @@ menu:
 * Add more A Drum Is A Woman releases (including take of Pomegranate from JT 933)
 * Fixed typo CL-1985 -> CL-1085 (Ellington Indigos)
 * Correct UA label to mean "United Archives".
+* {{< issue 55 >}}Telecast 15 March 1957: Correct location and add YouTube{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
