@@ -80,7 +80,7 @@ menu:
 * Added Gambit 69323 (Warsaw 1971 / Travis AFB 1958)
 * Added missing Ozzie Bailey to Travis AFB 1958
 * Corrected take of Mood Indigo on Private Collection vol 6 (Sa 91230-2)
-* Correct release KOA-14157 to AW 14157 and AW 14284 to KOA-14284.
+* Correct release KOA-14157 to AW 14157 and AW 14284 to KOA-14284; correct some AW 14157 takes to AW 14117.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
