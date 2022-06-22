@@ -592,7 +592,10 @@ def cmd_dump_release(args):
         entries = release.entries.copy()
         entries.sort(key=lambda er: er.entry.index)
         for entry in entries:
-            print(f"{entry.entry.index}\t{entry.entry.title}")
+            title = entry.entry.title
+            if entry.flags:
+                title += f" ({entry.flags})"
+            print(f"{entry.entry.index:<10} {title:<42} {entry.entry.desor}")
 
 
 def main():
