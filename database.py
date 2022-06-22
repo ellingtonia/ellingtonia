@@ -244,6 +244,20 @@ def load_from_json(engine):
 
 
 def save_to_json(engine):
+    def save_json(path, obj, ensure_ascii=False):
+        tmp_path = path + ".tmp"
+        try:
+            with open(tmp_path, "w") as f:
+                json.dump(obj, f, indent=4, ensure_ascii=ensure_ascii)
+                f.write("\n")
+        except Exception as e:
+            try:
+                os.unlink(tmp_path)
+            except OSError:
+                pass
+            raise e
+        os.rename(tmp_path, path)
+
     with orm.Session(engine) as sq_session:
         logging.info("Exporting labels")
         labels = list(sq_session.scalars(db.select(Label)))
@@ -251,9 +265,7 @@ def save_to_json(engine):
             l.label: l.name
             for l in sorted(labels, key=lambda l: l.label.lower())
         }
-        with open(json_labels_path, "w") as f:
-            json.dump(json_labels, f, indent=4, ensure_ascii=False)
-            f.write("\n")
+        save_json(json_labels_path, json_labels)
 
         releases = list(sq_session.scalars(db.select(Release).join(Label)))
         json_releases = {}
@@ -287,72 +299,64 @@ def save_to_json(engine):
         json_releases = {
             k: dict(sorted(v.items())) for k, v in sorted(json_releases.items())
         }
-        with open(json_releases_path, "w") as f:
-            json.dump(json_releases, f, indent=4, ensure_ascii=False)
-            f.write("\n")
+        save_json(json_releases_path, json_releases)
 
         for session_path in session_paths:
             logging.info(f"Exporting {session_path}")
-            with open(session_path, "w") as f:
-                sessions = sq_session.scalars(
-                    db.select(Session)
-                    .where(
-                        Session.json_filename == os.path.basename(session_path)
-                    )
-                    .order_by(Session.sequence_no)
-                )
-                json_sessions = []
-                for session in sessions:
-                    json_entries = []
-                    for entry in session.entries.order_by(Entry.sequence_no):
-                        json_entry = {"type": entry.type}
-                        if entry.type == "artists":
-                            json_entry["value"] = entry.value
-                        elif entry.type == "note":
-                            json_entry["content"] = entry.content
-                        elif entry.type == "take":
-                            json_entry["index"] = entry.index
-                            json_entry["matrix"] = entry.matrix
-                            json_entry["title"] = entry.title
-                            json_entry["releases"] = []
-                            json_entry["desor"] = entry.desor
+            sessions = sq_session.scalars(
+                db.select(Session)
+                .where(Session.json_filename == os.path.basename(session_path))
+                .order_by(Session.sequence_no)
+            )
+            json_sessions = []
+            for session in sessions:
+                json_entries = []
+                for entry in session.entries.order_by(Entry.sequence_no):
+                    json_entry = {"type": entry.type}
+                    if entry.type == "artists":
+                        json_entry["value"] = entry.value
+                    elif entry.type == "note":
+                        json_entry["content"] = entry.content
+                    elif entry.type == "take":
+                        json_entry["index"] = entry.index
+                        json_entry["matrix"] = entry.matrix
+                        json_entry["title"] = entry.title
+                        json_entry["releases"] = []
+                        json_entry["desor"] = entry.desor
 
-                            if entry.youtube:
-                                json_entry["youtube"] = entry.youtube
-                            if entry.spotify:
-                                json_entry["spotify"] = entry.spotify
-                            if entry.tidal:
-                                json_entry["tidal"] = entry.tidal
+                        if entry.youtube:
+                            json_entry["youtube"] = entry.youtube
+                        if entry.spotify:
+                            json_entry["spotify"] = entry.spotify
+                        if entry.tidal:
+                            json_entry["tidal"] = entry.tidal
 
-                            # For some reason we can't use order_by here; it's just an instrumented list
-                            releases = sorted(
-                                entry.releases, key=lambda r: r.sequence_no
-                            )
-                            for entry_release in releases:
-                                json_entry["releases"].append(
-                                    (
-                                        entry_release.release.label.label,
-                                        entry_release.release.catalog,
-                                        entry_release.flags,
-                                    )
+                        # For some reason we can't use order_by here; it's just an instrumented list
+                        releases = sorted(
+                            entry.releases, key=lambda r: r.sequence_no
+                        )
+                        for entry_release in releases:
+                            json_entry["releases"].append(
+                                (
+                                    entry_release.release.label.label,
+                                    entry_release.release.catalog,
+                                    entry_release.flags,
                                 )
+                            )
 
-                        json_entries.append(json_entry)
+                    json_entries.append(json_entry)
 
-                    jsession = {
-                        "group": session.group,
-                        "location": session.location,
-                        "date": session.date,
-                        "description": session.description,
-                        "entries": json_entries,
-                    }
-                    if session.maintainer_comment:
-                        jsession[
-                            "maintainer_comment"
-                        ] = session.maintainer_comment
-                    json_sessions.append(jsession)
-                json.dump(json_sessions, f, indent=4, ensure_ascii=True)
-                f.write("\n")
+                jsession = {
+                    "group": session.group,
+                    "location": session.location,
+                    "date": session.date,
+                    "description": session.description,
+                    "entries": json_entries,
+                }
+                if session.maintainer_comment:
+                    jsession["maintainer_comment"] = session.maintainer_comment
+                json_sessions.append(jsession)
+            save_json(session_path, json_sessions, ensure_ascii=True)
 
 
 def get_engine(backup=True):
