@@ -541,6 +541,10 @@ def cmd_duplicate_release(args):
         # A straight copy of src.entries to dest.entries doesn't do what you
         # want
         for old_er in src.entries:
+            if any(er.entry == old_er.entry for er in dest.entries):
+                logging.warning(f"Entry {old_er} already has release {dest}")
+                continue
+
             new_er = EntryRelease(
                 entry=old_er.entry,
                 release=dest,
