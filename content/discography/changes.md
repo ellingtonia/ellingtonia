@@ -79,6 +79,7 @@ menu:
 * Fix Koala release of Perdido take 58030436.
 * Added Gambit 69323 (Warsaw 1971 / Travis AFB 1958)
 * Added missing Ozzie Bailey to Travis AFB 1958
+* Corrected take of Mood Indigo on Private Collection vol 6 (Sa 91230-2)
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
