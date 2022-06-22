@@ -48,15 +48,15 @@ Notes:
         <td> {{ .index }} </td>
         <td> {{ .matrix }} </td>
         <td> {{ .title }}
-          {{ if .spotify }}
+          {{- if .spotify -}}
           <a href="{{.spotify}}" class="discog_link">(S)</a>
-          {{ end }}
-          {{ if .tidal }}
+          {{- end -}}
+          {{- if .tidal -}}
           <a href="{{.tidal}}" class="discog_link">(T)</a>
-          {{ end }}
-          {{ if .youtube }}
+          {{- end -}}
+          {{- if .youtube -}}
           <a href="{{.youtube}}" class="discog_link">(YT)</a>
-          {{ end }}
+          {{- end -}}
         </td>
         <td>
           {{ $releases := .releases }}
