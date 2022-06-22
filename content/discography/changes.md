@@ -74,7 +74,8 @@ menu:
 * Added DESS CD 5 (Holiday Ballroom)
 * Added The Girl's Suite And The Perfume Suite CD release Co COL 469139 2
 * {{< issue 62 >}}Removed Harold Baker from 9 Dec 1957{{< /issue >}}
-* Fixed personnel for 12 Feb 1958 to be just DE and M Jackson
+* Fixed personnel for 12 Feb 1958 to be just DE and Mahalia Jackson
+* {{< issue 63 >}}Clarified date for Feb 1958 session with Mahalia Jackson{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
