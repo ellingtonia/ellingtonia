@@ -82,6 +82,7 @@ menu:
 * Corrected take of Mood Indigo on Private Collection vol 6 (Sa 91230-2)
 * Correct release KOA-14157 to AW 14157 and AW 14284 to KOA-14284; correct some AW 14157 takes to AW 14117.
 * Added Col COL 469136 2 (Bal Masque).
+* {{< issue 58 >}}Changed date of Feb 1953 appearance on Scott Music Hall{{< /issue >}}
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
