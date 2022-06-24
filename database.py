@@ -607,6 +607,13 @@ def cmd_dump_release(args):
     print ()
 
 
+def cmd_list_label_releases(args):
+    engine = get_engine()
+    with orm.Session(engine) as sq_session:
+        label = get_label(sq_session, args.label)
+        for release in label.releases:
+            print (release.catalog)
+
 def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
@@ -689,6 +696,10 @@ def main():
     sp_dump_release.set_defaults(func=cmd_dump_release)
     sp_dump_release.add_argument("label_src")
     sp_dump_release.add_argument("catalog_src")
+
+    sp_dump_release = subparsers.add_parser("list_label_releases")
+    sp_dump_release.set_defaults(func=cmd_list_label_releases)
+    sp_dump_release.add_argument("label")
 
     args = parser.parse_args()
 
