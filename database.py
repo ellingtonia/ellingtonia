@@ -271,29 +271,35 @@ def save_to_json(engine):
         json_releases = {}
         logging.info("Exporting releases")
         for release in releases:
-            if (
-                release.discogs
-                or release.musicbrainz
-                or release.spotify
-                or release.tidal
-                or release.youtube
-            ):
-                json_releases.setdefault(release.label.label, {})
+            assert release.entries, f"Empty release {release}"
 
-                json_release = {}
-                if release.discogs:
-                    json_release["discogs"] = release.discogs
-                if release.musicbrainz:
-                    json_release["musicbrainz"] = release.musicbrainz
-                if release.spotify:
-                    json_release["spotify"] = release.spotify
-                if release.tidal:
-                    json_release["tidal"] = release.tidal
-                if release.youtube:
-                    json_release["youtube"] = release.youtube
-                json_releases[release.label.label][
-                    release.catalog
-                ] = json_release
+            json_releases.setdefault(release.label.label, {})
+
+            json_release = {"takes": []}
+            if release.discogs:
+                json_release["discogs"] = release.discogs
+            if release.musicbrainz:
+                json_release["musicbrainz"] = release.musicbrainz
+            if release.spotify:
+                json_release["spotify"] = release.spotify
+            if release.tidal:
+                json_release["tidal"] = release.tidal
+            if release.youtube:
+                json_release["youtube"] = release.youtube
+            json_releases[release.label.label][
+                release.catalog
+            ] = json_release
+
+            for er in release.entries:
+                json_release["takes"].append({
+                    "title" : er.entry.title,
+                    "index" : er.entry.index,
+                    "matrix" : er.entry.matrix,
+                    "desor" : er.entry.desor,
+                    "youtube" : er.entry.youtube,
+                    "spotify" : er.entry.spotify,
+                    "tidal" : er.entry.tidal
+                })
 
         # Consistent sorting
         json_releases = {
