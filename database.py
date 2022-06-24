@@ -592,7 +592,11 @@ def cmd_dump_release(args):
     engine = get_engine()
     with orm.Session(engine) as sq_session:
         release = get_release(sq_session, args.label_src, args.catalog_src)
+        print(f"{release.label.label} {release.catalog}")
         print(f"{len(release.entries)} takes")
+        if release.discogs:
+            print(release.discogs)
+        print()
         entries = release.entries.copy()
         entries.sort(key=lambda er: er.entry.index)
         for entry in entries:
@@ -600,6 +604,7 @@ def cmd_dump_release(args):
             if entry.flags:
                 title += f" ({entry.flags})"
             print(f"{entry.entry.index:<10} {title:<42} {entry.entry.desor}")
+    print ()
 
 
 def main():
