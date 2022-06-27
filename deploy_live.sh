@@ -8,3 +8,4 @@ hugo -d $build_dir -b http://ellingtonia.com/
 pushd $build_dir
 
 lftp -c "set ftp:use-mlsd on; open -u ellingtonia ellingtonia.com; mirror --reverse --delete"
+rm -rf $build_dir
