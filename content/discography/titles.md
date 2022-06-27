@@ -4,7 +4,7 @@ title: Titles
 menu: main
 menu:
   main:
-    weight: 11
+    weight: 12
 ---
 
 Alternative title names and composer information.

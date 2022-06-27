@@ -1,6 +1,7 @@
+<p>Click on any release to be taken to the corresponding release on the Releases page.</p>
+
 <p>
-Notes:
-</p>
+Key to symbols:
 <ul>
 <li>&dagger; after an issue number denotes the lack of an official catalogue number.</li>
 <li>* after an issue number denotes that only part of the take has been used for the issued title</li>
@@ -15,6 +16,7 @@ Notes:
   </ul>
 </li>
 </ul>
+</p>
 
 <table class="discog_table">
 <tr class="pre_heading"/>
@@ -62,10 +64,16 @@ Notes:
           {{ $releases := .releases }}
           {{ range $idx, $elem := .releases }}
             {{/* Label, identifier and any trailing symbol like a dagger */}}
-            {{- index $elem 0 }}
-            {{ index $elem 1 -}}
-            {{- index $elem 2 -}}
-            {{ if and (isset $release_data (index $elem 0)) (isset (index $release_data (index $elem 0)) (index $elem 1)) }}
+
+            {{ $label := index $elem 0 }}
+            {{ $catalog := index $elem 1 }}
+            {{ $flags := index $elem 2 }}
+            {{ $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog )}}
+
+            {{ $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
+            <a href="{{ $release_url }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
+
+            {{- if and (isset $release_data (index $elem 0)) (isset (index $release_data (index $elem 0)) (index $elem 1)) }}
               {{- $release_info := index $release_data (index $elem 0) (index $elem 1) -}}
 
               {{- if isset $release_info "discogs" -}}
