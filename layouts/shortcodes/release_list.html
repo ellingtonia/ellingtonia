@@ -1,0 +1,63 @@
+<p>Click on any index number to be taken to the corresponding session.</p>
+
+<p>See the <a href="{{ ref $.Page "discography/labels" }}">Record Labels</a> page for a list of all labels.</p>
+
+{{ range $label, $releases := $.Site.Data.discog.releases}}
+  <h2 id="label-{{ urlquery $label }}">{{ $label }}: {{ index $.Site.Data.discog.labels $label }}</h2>
+  {{ range $catalog, $release_data := $releases }}
+    {{ $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog )}}
+
+    <h3 id="release-{{ $escaped_release_name }}">{{ $label }} {{ $catalog }}</h3>
+
+    <p>External links:
+      {{ if $release_data.discogs }}
+      <a href="{{.discogs}}">Discogs</a>
+      {{ end }}
+
+      {{ if $release_data.musicbrainz }}
+      <a href="{{.musicbrainz}}">Musicbrainz</a>
+      {{ end }}
+
+      {{ if $release_data.spotify }}
+      <a href="{{.spotify}}">Spotify</a>
+      {{ end }}
+
+      {{ if $release_data.tidal }}
+      <a href="{{.tidal}}">Tidal</a>
+      {{ end }}
+
+      {{ if $release_data.youtube }}
+      <a href="{{.youtube}}">YouTube</a>
+      {{ end }}
+    </p>
+
+    <table class="discog_table">
+    <tr class="pre_heading"/>
+    <tr class="main_heading">
+      <th>Index</th>
+      <th>Matrix No.</th>
+      <th>Title</th>
+      <th>New DESOR</th>
+    </tr>
+    {{ range $take := $release_data.takes }}
+    <tr class="take">
+      {{ $page := ref $.Page (printf "discography/%s" $take.page) }}
+      <td><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
+      <td>{{ $take.matrix }}</td>
+      <td> {{ $take.title }}
+        {{- if $take.spotify -}}
+        <a href="{{$take.spotify}}" class="discog_link">(S)</a>
+        {{- end -}}
+        {{- if $take.tidal -}}
+        <a href="{{$take.tidal}}" class="discog_link">(T)</a>
+        {{- end -}}
+        {{- if $take.youtube -}}
+        <a href="{{$take.youtube}}" class="discog_link">(YT)</a>
+        {{- end -}}
+      </td>
+      <td>{{ $take.desor }}</td>
+    </tr>
+    {{ end }}
+    </table>
+  {{ end }}
+{{ end }}
