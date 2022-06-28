@@ -286,20 +286,26 @@ def save_to_json(engine):
                 json_release["tidal"] = release.tidal
             if release.youtube:
                 json_release["youtube"] = release.youtube
-            json_releases[release.label.label][
-                release.catalog
-            ] = json_release
+            json_releases[release.label.label][release.catalog] = json_release
 
             for er in release.entries:
-                json_release["takes"].append({
-                    "title" : er.entry.title,
-                    "index" : er.entry.index,
-                    "matrix" : er.entry.matrix,
-                    "desor" : er.entry.desor,
-                    "youtube" : er.entry.youtube,
-                    "spotify" : er.entry.spotify,
-                    "tidal" : er.entry.tidal
-                })
+                json_entry = {
+                    "title": er.entry.title,
+                    "index": er.entry.index,
+                    "matrix": er.entry.matrix,
+                    "desor": er.entry.desor,
+                    "page": er.entry.session.json_filename.replace(".json", ""),
+                    "youtube": er.entry.youtube,
+                    "spotify": er.entry.spotify,
+                    "tidal": er.entry.tidal,
+                }
+                if er.entry.youtube:
+                    json_entry["youtube"] = er.entry.youtube
+                if er.entry.spotify:
+                    json_entry["spotify"] = er.entry.spotify
+                if er.entry.tidal:
+                    json_entry["tidal"] = er.entry.tidal
+                json_release["takes"].append(json_entry)
 
         # Consistent sorting
         json_releases = {
