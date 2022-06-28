@@ -86,6 +86,7 @@ menu:
 * Added a Releases page, with clickable links between sessions, releases and labels.
 * Added missing New Desor to DE5817e.
 * Corrected up 58042415 (C-Jam Blues) and fixed "-v" designations.
+* Corrected up Lullaby Of Birdland 58042421 releases.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
