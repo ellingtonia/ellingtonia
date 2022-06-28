@@ -2,6 +2,14 @@
 
 <p>See the <a href="{{ ref $.Page "discography/labels" }}">Record Labels</a> page for a list of all labels.</p>
 
+<p>External links have the following codes
+  <ul>
+    <li>(S): Spotify</li>
+    <li>(T): Tidal</li>
+    <li>(YT): YouTube</li>
+  </ul>
+</p>
+
 {{ range $label, $releases := $.Site.Data.discog.releases}}
   <h2 id="label-{{ urlquery $label }}">{{ $label }}: {{ index $.Site.Data.discog.labels $label }}</h2>
   {{ range $catalog, $release_data := $releases }}
