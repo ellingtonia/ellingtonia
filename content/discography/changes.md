@@ -89,6 +89,7 @@ menu:
 * Corrected up Lullaby Of Birdland 58042421 releases.
 * Replaced "Jha" with Jimmy Hamilton.
 * Fixed FW40030 to be spelled consistently.
+* Added SMSP AK 40030 (Happy Reunion CD).
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
