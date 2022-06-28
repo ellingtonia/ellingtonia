@@ -2,12 +2,22 @@
 
 <p>See the <a href="{{ ref $.Page "discography/labels" }}">Record Labels</a> page for a list of all labels.</p>
 
-<p>External links have the following codes
+<p>
+Key to symbols:
+<ul>
+<li>&dagger; after an issue number denotes the lack of an official catalogue number.</li>
+<li>* after an issue number denotes that only part of the take has been used for the issued title</li>
+<li>‡ indicates a release is not confirmed.</li>
+<li>External links have the following codes
   <ul>
+    <li>(D): Discogs.com</li>
+    <li>(MB): MusicBrainz.org</li>
     <li>(S): Spotify</li>
     <li>(T): Tidal</li>
     <li>(YT): YouTube</li>
   </ul>
+</li>
+</ul>
 </p>
 
 {{ range $label, $releases := $.Site.Data.discog.releases}}
@@ -52,7 +62,7 @@
       {{ $page := ref $.Page (printf "discography/%s" $take.page) }}
       <td><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
       <td>{{ $take.matrix }}</td>
-      <td> {{ $take.title }}
+      <td> {{ $take.title }}{{ $take.flags }}
         {{- if $take.spotify -}}
         <a href="{{$take.spotify}}" class="discog_link">(S)</a>
         {{- end -}}
