@@ -291,6 +291,7 @@ def save_to_json(engine):
             for er in release.entries:
                 json_entry = {
                     "title": er.entry.title,
+                    "flags": er.flags,
                     "index": er.entry.index,
                     "matrix": er.entry.matrix,
                     "desor": er.entry.desor,
