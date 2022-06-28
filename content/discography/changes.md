@@ -84,6 +84,7 @@ menu:
 * Added Col COL 469136 2 (Bal Masque).
 * {{< issue 58 >}}Changed date of Feb 1953 appearance on Scott Music Hall{{< /issue >}}
 * Added a Releases page, with clickable links between sessions, releases and labels.
+* Added missing New Desor to DE5817e.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
