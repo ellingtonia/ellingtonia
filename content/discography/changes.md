@@ -87,6 +87,7 @@ menu:
 * Added missing New Desor to DE5817e.
 * Corrected up 58042415 (C-Jam Blues) and fixed "-v" designations.
 * Corrected up Lullaby Of Birdland 58042421 releases.
+* Replaced "Jha" with Jimmy Hamilton.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
