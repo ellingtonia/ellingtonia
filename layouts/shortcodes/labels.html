@@ -1,3 +1,5 @@
+<p>Click on any record label to be taken to the releases for that label.</p>
+
 <table class="striped">
     <thead>
         <tr>
@@ -9,10 +11,11 @@
             </th>
         </tr>
     </thead>
-{{ range $key, $value := $.Site.Data.discog.labels }}
+{{ range $label, $label_name := $.Site.Data.discog.labels }}
+  {{ $url := printf "%s#label-%s" (ref $.Page "discography/releases") (urlquery $label) }}
   <tr>
-      <td> {{ $key }} </td>
-      <td> {{ $value }} </td>
+      <td><a href="{{ $url }}">{{ $label }}</a></td>
+      <td>{{ $label_name }}</td>
   </tr>
 {{ end }}
 </table>

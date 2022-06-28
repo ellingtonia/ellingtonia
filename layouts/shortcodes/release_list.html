@@ -1,7 +1,9 @@
 <p>Click on any index number to be taken to the corresponding session.</p>
 
+<p>See the <a href="{{ ref $.Page "discography/labels" }}">Record Labels</a> page for a list of all labels.</p>
+
 {{ range $label, $releases := $.Site.Data.discog.releases}}
-  <h2>{{ $label }}: {{ index $.Site.Data.discog.labels $label }}</h2>
+  <h2 id="label-{{ urlquery $label }}">{{ $label }}: {{ index $.Site.Data.discog.labels $label }}</h2>
   {{ range $catalog, $release_data := $releases }}
     {{ $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog )}}
 

@@ -11,6 +11,9 @@ part of the releases page. Similarly you can click on the index number of any
 entry on the Releases page to be taken back to the relevant part of the
 discography.
 
+In addition, the Record Labels page now features links to the releases for each
+label.
+
 There will be a few rough edges initially: some index numbers are incorrect, and
 there are typos in the release names, but overall we hope this will be a useful
 addition to the site.
