@@ -610,7 +610,7 @@ def cmd_dump_release(args):
             if entry.flags:
                 title += f" ({entry.flags})"
             print(f"{entry.entry.index:<10} {title:<42} {entry.entry.desor}")
-    print ()
+    print()
 
 
 def cmd_list_label_releases(args):
@@ -618,7 +618,8 @@ def cmd_list_label_releases(args):
     with orm.Session(engine) as sq_session:
         label = get_label(sq_session, args.label)
         for release in label.releases:
-            print (release.catalog)
+            print(release.catalog)
+
 
 def main():
     logging.basicConfig(
