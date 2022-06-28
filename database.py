@@ -369,18 +369,19 @@ def get_engine(backup=True):
     def get():
         return db.create_engine("sqlite:///database", echo=False, future=True)
 
-    if backup is True:
-        if os.path.exists("database"):
+    def create():
+        logging.info(f"Importing from JSON")
+        engine = get()
+        Base.metadata.create_all(engine)
+        load_from_json(engine)
+        return engine
+
+    if os.path.exists("database"):
+        if backup is True:
             shutil.copy("database", f"database.{int(time.time())}")
-            return get()
-        else:
-            logging.info(f"Importing from JSON")
-            engine = get()
-            Base.metadata.create_all(engine)
-            load_from_json(engine)
-            return engine
-    else:
         return get()
+    else:
+        return create()
 
 
 def get_label(sq_session, label):
