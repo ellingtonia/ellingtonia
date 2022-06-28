@@ -85,7 +85,7 @@ menu:
 * {{< issue 58 >}}Changed date of Feb 1953 appearance on Scott Music Hall{{< /issue >}}
 * Added a Releases page, with clickable links between sessions, releases and labels.
 * Added missing New Desor to DE5817e.
-* Corrected up 58042415 (C-Jam Blues) and fixed "-v" designatinos.
+* Corrected up 58042415 (C-Jam Blues) and fixed "-v" designations.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
