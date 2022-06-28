@@ -22,32 +22,33 @@ Key to symbols:
 
 {{ range $label, $releases := $.Site.Data.discog.releases}}
   <h2 id="label-{{ urlquery $label }}">{{ $label }}: {{ index $.Site.Data.discog.labels $label }}</h2>
+
   {{ range $catalog, $release_data := $releases }}
     {{ $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog )}}
 
-    <h3 id="release-{{ $escaped_release_name }}">{{ $label }} {{ $catalog }}</h3>
+    <h3 id="release-{{ $escaped_release_name }}">
+      {{ $label }} {{ $catalog }}
 
-    <p>External links:
       {{ if $release_data.discogs }}
-      <a href="{{.discogs}}">Discogs</a>
+      <a href="{{.discogs}}" class="discog_link">(D)</a>
       {{ end }}
 
       {{ if $release_data.musicbrainz }}
-      <a href="{{.musicbrainz}}">Musicbrainz</a>
+      <a href="{{.musicbrainz}}" class="discog_link">(MB)</a>
       {{ end }}
 
       {{ if $release_data.spotify }}
-      <a href="{{.spotify}}">Spotify</a>
+      <a href="{{.spotify}}" class="discog_link">(S)</a>
       {{ end }}
 
       {{ if $release_data.tidal }}
-      <a href="{{.tidal}}">Tidal</a>
+      <a href="{{.tidal}}" class="discog_link">(T)</a>
       {{ end }}
 
       {{ if $release_data.youtube }}
-      <a href="{{.youtube}}">YouTube</a>
+      <a href="{{.youtube}}" class="discog_link">(YT)</a>
       {{ end }}
-    </p>
+    </h3>
 
     <table class="discog_table">
     <tr class="pre_heading"/>
