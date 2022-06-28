@@ -51,32 +51,32 @@ Key to symbols:
     </h3>
 
     <table class="discog_table">
-    <tr class="pre_heading"/>
-    <tr class="main_heading">
-      <th>Index</th>
-      <th>Matrix No.</th>
-      <th>Title</th>
-      <th>New DESOR</th>
-    </tr>
-    {{ range $take := $release_data.takes }}
-    <tr class="take">
-      {{ $page := ref $.Page (printf "discography/%s" $take.page) }}
-      <td><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
-      <td>{{ $take.matrix }}</td>
-      <td> {{ $take.title }}{{ $take.flags }}
-        {{- if $take.spotify -}}
-        <a href="{{$take.spotify}}" class="discog_link">(S)</a>
-        {{- end -}}
-        {{- if $take.tidal -}}
-        <a href="{{$take.tidal}}" class="discog_link">(T)</a>
-        {{- end -}}
-        {{- if $take.youtube -}}
-        <a href="{{$take.youtube}}" class="discog_link">(YT)</a>
-        {{- end -}}
-      </td>
-      <td>{{ $take.desor }}</td>
-    </tr>
-    {{ end }}
+      <tr class="pre_heading"/>
+      <tr class="main_heading">
+        <th>Index</th>
+        <th>Matrix No.</th>
+        <th>Title</th>
+        <th>New DESOR</th>
+      </tr>
+      {{ range $take := $release_data.takes }}
+        <tr class="take">
+          {{ $page := ref $.Page (printf "discography/%s" $take.page) }}
+          <td><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
+          <td>{{ $take.matrix }}</td>
+          <td> {{ $take.title }}{{ $take.flags }}
+            {{- if $take.spotify -}}
+            <a href="{{$take.spotify}}" class="discog_link">(S)</a>
+            {{- end -}}
+            {{- if $take.tidal -}}
+            <a href="{{$take.tidal}}" class="discog_link">(T)</a>
+            {{- end -}}
+            {{- if $take.youtube -}}
+            <a href="{{$take.youtube}}" class="discog_link">(YT)</a>
+            {{- end -}}
+          </td>
+          <td>{{ $take.desor }}</td>
+        </tr>
+      {{ end }}
     </table>
   {{ end }}
 {{ end }}
