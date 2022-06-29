@@ -91,6 +91,7 @@ menu:
 * Fixed FW40030 to be spelled consistently.
 * Added SMSP AK 40030 (Happy Reunion CD).
 * Use "Cm" consistently for Camay records (instead of "CM").
+* Attributed MVD to "Music Video Distributors".
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
