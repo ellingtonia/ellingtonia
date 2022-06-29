@@ -93,6 +93,7 @@ menu:
 * Use "Cm" consistently for Camay records (instead of "CM").
 * Attributed MVD to "Music Video Distributors".
 * Removed Paul Gonsalves from 06 Aug 1958; correct matrix numbers for that session.
+* Added CD release of Jazz At The Plaza Vol 2 (Co COL 471319 2).
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
