@@ -288,7 +288,14 @@ def save_to_json(engine):
                 json_release["youtube"] = release.youtube
             json_releases[release.label.label][release.catalog] = json_release
 
-            for er in release.entries:
+            def sorting_key(er):
+                return (
+                    er.entry.session.json_filename,
+                    er.entry.session.sequence_no,
+                    er.entry.sequence_no,
+                )
+
+            for er in sorted(release.entries, key=sorting_key):
                 json_entry = {
                     "title": er.entry.title,
                     "flags": er.flags,
