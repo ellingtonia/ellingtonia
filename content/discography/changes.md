@@ -92,7 +92,7 @@ menu:
 * Added SMSP AK 40030 (Happy Reunion CD).
 * Use "Cm" consistently for Camay records (instead of "CM").
 * Attributed MVD to "Music Video Distributors".
-* Removed Paul Gonsalves from 06 Aug 1958.
+* Removed Paul Gonsalves from 06 Aug 1958; correct matrix numbers for that session.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
