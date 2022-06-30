@@ -95,6 +95,7 @@ menu:
 * Removed Paul Gonsalves from 06 Aug 1958; correct matrix numbers for that session.
 * Added CD release of Jazz At The Plaza Vol 2 (Co COL 471319 2).
 * Corrected Mn MRCD 119 content.
+* Corrected listing of Pb PACD 5313-2 (Alhambra 58).
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
