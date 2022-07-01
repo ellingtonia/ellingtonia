@@ -7,6 +7,15 @@ menu:
     weight: 10
 ---
 
+## July 2022
+* Added Table of Contents to the Releases page.
+* Corrected releases of Hank Cinq 6 Nov 58.
+* Added SYY DSOY932 (1958 Concert at The Pleyel, Paris).
+* Added LRO CDC 7680 ("S.R.O."). Only one track identified.
+* Cleaned up 7 Jan 1959 personnel; added Marty Napoleon to "Perdido".
+* Corrected Cat Anderson in 19 Feb 1959 session.
+* Added track to UTD 2008.
+
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
 * Removed a small number of duplicated releases
@@ -96,12 +105,6 @@ menu:
 * Added CD release of Jazz At The Plaza Vol 2 (Co COL 471319 2).
 * Corrected Mn MRCD 119 content.
 * Corrected listing of Pb PACD 5313-2 (Alhambra 58).
-* Corrected releases of Hank Cinq 6 Nov 58.
-* Added SYY DSOY932 (1958 Concert at The Pleyel, Paris).
-* Added LRO CDC 7680 ("S.R.O."). Only one track identified.
-* Cleaned up 7 Jan 1959 personnel; added Marty Napoleon to "Perdido".
-* Corrected Cat Anderson in 19 Feb 1959 session.
-* Added track to UTD 2008.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
