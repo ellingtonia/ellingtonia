@@ -97,6 +97,7 @@ menu:
 * Corrected Mn MRCD 119 content.
 * Corrected listing of Pb PACD 5313-2 (Alhambra 58).
 * Corrected releases of Hank Cinq 6 Nov 58.
+* Added SYY DSOY932 (1958 Concert at The Pleyel, Paris).
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
