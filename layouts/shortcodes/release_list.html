@@ -22,6 +22,32 @@ Key to symbols:
 
 <p>Note that the tracks are listed in the order in they were recorded, not the order on the LP or CD.</p>
 
+<h1>Table of Contents</h1>
+
+<ul>
+{{ range $label, $releases := $.Site.Data.discog.releases }}
+
+  {{ $release_list := slice }}
+
+  {{ range $catalog, $release_data := $releases }}
+  {{ $release_list = $release_list | append $catalog }}
+  {{ end }}
+
+  <li>{{ $label }}: {{ index $.Site.Data.discog.labels $label }}
+    <ul>
+      {{ range $catalog, $release_data := $releases }}
+        {{ $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog )}}
+        <li><a href="#release-{{ $escaped_release_name }}">{{$label}} {{ $catalog }}</a></li>
+      {{ end }}
+    </ul>
+  </li>
+
+{{ end }}
+
+</ul>
+
+<h1>Releases</h1>
+
 {{ range $label, $releases := $.Site.Data.discog.releases}}
   <h2 id="label-{{ urlquery $label }}">{{ $label }}: {{ index $.Site.Data.discog.labels $label }}</h2>
 
