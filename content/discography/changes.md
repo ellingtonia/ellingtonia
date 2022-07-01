@@ -16,6 +16,7 @@ menu:
 * Corrected Cat Anderson in 19 Feb 1959 session.
 * Added track to UTD 2008.
 * Fixed indexes for 25 February 1959.
+* {{< issue 67 >}}Corrected percussionists for 25 Feb 1959.{{< /issue >}}
 
 
 ## June 2022
