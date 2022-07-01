@@ -99,6 +99,7 @@ menu:
 * Corrected releases of Hank Cinq 6 Nov 58.
 * Added SYY DSOY932 (1958 Concert at The Pleyel, Paris).
 * Added LRO CDC 7680 ("S.R.O."). Only one track identified.
+* Cleaned up 7 Jan 1959 personnel.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
