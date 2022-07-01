@@ -15,6 +15,8 @@ menu:
 * Cleaned up 7 Jan 1959 personnel; added Marty Napoleon to "Perdido".
 * Corrected Cat Anderson in 19 Feb 1959 session.
 * Added track to UTD 2008.
+* Fixed indexes for 25 February 1959.
+
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
