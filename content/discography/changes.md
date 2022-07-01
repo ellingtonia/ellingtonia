@@ -101,6 +101,7 @@ menu:
 * Added LRO CDC 7680 ("S.R.O."). Only one track identified.
 * Cleaned up 7 Jan 1959 personnel; added Marty Napoleon to "Perdido".
 * Corrected Cat Anderson in 19 Feb 1959 session.
+* Added track to UTD 2008.
 
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
