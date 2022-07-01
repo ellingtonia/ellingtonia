@@ -33,13 +33,14 @@ Key to symbols:
   {{ $release_list = $release_list | append $catalog }}
   {{ end }}
 
-  <li>{{ $label }}: {{ index $.Site.Data.discog.labels $label }}
-    <ul>
-      {{ range $catalog, $release_data := $releases }}
-        {{ $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog )}}
-        <li><a href="#release-{{ $escaped_release_name }}">{{$label}} {{ $catalog }}</a></li>
-      {{ end }}
-    </ul>
+  <li>{{ $label }} ({{ index $.Site.Data.discog.labels $label }}):
+      {{ $first := true }}
+      {{- range $catalog, $release_data := $releases -}}
+        {{- $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog ) -}}
+        {{- if not $first -}}, {{ end -}}
+        {{- $first = false -}}
+        <a href="#release-{{ $escaped_release_name }}">{{ $catalog }}</a>
+      {{- end -}}
   </li>
 
 {{ end }}
