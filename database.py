@@ -238,6 +238,17 @@ def load_from_json(engine):
                     release.tidal = release_data.get("tidal")
                     release.youtube = release_data.get("youtube")
 
+                    if release.discogs:
+                        assert "discogs" in release.discogs
+                    if release.musicbrainz:
+                        assert "musicbrainz" in release.musicbrainz
+                    if release.spotify:
+                        assert "spotify" in release.spotify
+                    if release.tidal:
+                        assert "tidal" in release.tidal
+                    if release.youtube:
+                        assert "youtube" in release.youtube
+
         logging.info("Committing")
         sq_session.commit()
         logging.info("Finished import")
