@@ -18,6 +18,7 @@ menu:
 * Fixed indexes for 25 February 1959.
 * {{< issue 67 >}}Corrected percussionists for 25 Feb 1959.{{< /issue >}}
 * Added CD issue of The Ellington Suites (with bonus track The Kiss) + Discogs/Spotify/Tidal.
+* {{< issue 68 >}}Substantial fixes to Blues In Orbit releases.{{< /issue >}}
 
 
 ## June 2022
