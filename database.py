@@ -410,6 +410,11 @@ def save_to_json(database):
         save_json(session_path, json_sessions, ensure_ascii=True)
 
 
+def cmd_normalise(args):
+    database = load_from_json()
+    save_to_json(database)
+
+
 def cmd_add_label(args):
     database = load_from_json()
 
@@ -596,6 +601,9 @@ def main():
     )
 
     subparsers = parser.add_subparsers(required=True)
+
+    sp_normalise = subparsers.add_parser("normalise")
+    sp_normalise.set_defaults(func=cmd_normalise)
 
     sp_add_label = subparsers.add_parser("add_label")
     sp_add_label.set_defaults(func=cmd_add_label)
