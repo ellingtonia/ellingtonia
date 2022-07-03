@@ -22,6 +22,7 @@ menu:
 * Fix: The Queen's Suite was not a Columbia recording session, but a private recording done at Columbia Studios.
 * Added MDD 005 tracks.
 * Added missing track to Co 4 41421.
+* New releases for 27 March 1959 Sesac session.
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
