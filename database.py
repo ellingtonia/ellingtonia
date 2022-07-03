@@ -189,14 +189,12 @@ class Database:
 def load_from_json():
     database = Database()
 
-    logging.info("Importing labels")
     with open(json_labels_path) as f:
         label_data = json.load(f)
         for label, name in label_data.items():
             database.add_label(Label(label=label, name=name))
 
     for session_path in session_paths:
-        logging.info(f"Importing {session_path}")
         with open(session_path) as f:
             json_sessions = json.load(f)
 
@@ -261,7 +259,6 @@ def load_from_json():
             database.add_session(sess, entries)
 
     with open(json_releases_path) as f:
-        logging.info(f"Importing releases")
         releases_data = json.load(f)
         for label, label_releases in releases_data.items():
             for catalog, release_data in label_releases.items():
@@ -285,7 +282,6 @@ def load_from_json():
                 if release.youtube:
                     assert "youtube" in release.youtube
 
-    logging.info("Finished import")
     return database
 
 
@@ -304,7 +300,6 @@ def save_to_json(database):
             raise e
         os.rename(tmp_path, path)
 
-    logging.info("Exporting labels")
     labels = database.all_labels()
     json_labels = {
         l.label: l.name for l in sorted(labels, key=lambda l: l.label.lower())
@@ -313,7 +308,6 @@ def save_to_json(database):
 
     releases = database.all_releases()
     json_releases = {}
-    logging.info("Exporting releases")
     for release in releases:
         entries = database.entry_releases_from_release(release)
         assert entries, f"Empty release {release}"
@@ -363,7 +357,6 @@ def save_to_json(database):
     save_json(json_releases_path, json_releases)
 
     for session_path in session_paths:
-        logging.info(f"Exporting {session_path}")
         sessions = [
             session
             for session in database.all_sessions()
