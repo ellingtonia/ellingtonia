@@ -5,9 +5,6 @@ import collections
 import json
 import os
 import logging
-import shutil
-import sys
-import time
 
 from dataclasses import dataclass
 
@@ -124,7 +121,7 @@ class Database:
             self._labels.values(), key=lambda label: label.label.lower()
         )
 
-    def get_release(self, label, catalog, assert_existing=False):
+    def get_release(self, label, catalog):
         assert isinstance(label, Label)
 
         return self._releases.setdefault(
@@ -266,10 +263,10 @@ def load_from_json():
     with open(json_releases_path) as f:
         logging.info(f"Importing releases")
         releases_data = json.load(f)
-        for label, release_data in releases_data.items():
-            for catalog, release_data in release_data.items():
+        for label, label_releases in releases_data.items():
+            for catalog, release_data in label_releases.items():
                 release = database.get_release(
-                    database.get_label(label), catalog, assert_existing=True
+                    database.get_label(label), catalog
                 )
                 release.discogs = release_data.get("discogs")
                 release.musicbrainz = release_data.get("musicbrainz")
@@ -319,8 +316,6 @@ def save_to_json(database):
     logging.info("Exporting releases")
     for release in releases:
         entries = database.entry_releases_from_release(release)
-        if not entries:
-            print(list(database._entry_releases_by_release.items())[:3])
         assert entries, f"Empty release {release}"
 
         json_releases.setdefault(release.label.label, {})
