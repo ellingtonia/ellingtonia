@@ -442,7 +442,7 @@ def cmd_release_takes(args):
 
     release = database.get_release(database.get_label(args.label), args.catalog)
     existing_entries = frozenset(
-        er.entry for entry in database.entry_releases_from_release(release)
+        er.entry for er in database.entry_releases_from_release(release)
     )
 
     if args.release_takes_mode == "set":
