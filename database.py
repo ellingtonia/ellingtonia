@@ -53,6 +53,9 @@ class Entry:
 
     session: Session = None
 
+    # This is a fudge to ensure consistent ordering when adding a release to an entry
+    sequence_no: int = None
+
 
 @dataclass(frozen=True)
 class Label:
@@ -81,6 +84,7 @@ class EntryRelease:
 
 class Database:
     def __init__(self):
+        self._next_sequence_no = 1
         self._sessions = []
         self._releases = {}
         self._entries = {}
@@ -92,6 +96,9 @@ class Database:
 
     def add_session(self, session, entries):
         for entry in entries:
+            entry.sequence_no = self._next_sequence_no
+            self._next_sequence_no += 1
+
             entry.session = session
 
             if entry.desor in self._entries_by_desor:
@@ -111,6 +118,8 @@ class Database:
         return self._sessions[:]
 
     def add_label(self, label):
+        assert label.label not in self._labels, "Duplicate label"
+
         self._labels[label.label] = label
 
     def get_label(self, label_code):
@@ -311,6 +320,7 @@ def save_to_json(database):
     for release in releases:
         entries = database.entry_releases_from_release(release)
         assert entries, f"Empty release {release}"
+        entries.sort(key=lambda entry_release: entry_release.entry.sequence_no)
 
         json_releases.setdefault(release.label.label, {})
 
