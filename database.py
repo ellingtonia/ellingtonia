@@ -57,7 +57,7 @@ class Entry:
     sequence_no: int = None
 
 
-@dataclass(frozen=True)
+@dataclass(frozen=False, eq=False)
 class Label:
     label: str
     name: str
@@ -124,6 +124,12 @@ class Database:
 
     def get_label(self, label_code):
         return self._labels[label_code]
+
+    def rename_label(self, label, label_code, name):
+        del self._labels[label.label]
+        self._labels[label_code] = label
+        label.label = label_code
+        label.name = name
 
     def all_labels(self):
         return sorted(
@@ -542,6 +548,15 @@ def cmd_rename_release(args):
     save_to_json(database)
 
 
+def cmd_rename_label(args):
+    database = load_from_json()
+
+    label = database.get_label(args.label_src)
+    database.rename_label(label, args.label_dest, args.name_dest)
+
+    save_to_json(database)
+
+
 def cmd_renumber_session(args):
     database = load_from_json()
     sessions = [
@@ -663,6 +678,12 @@ def main():
     sp_rename_release.add_argument("catalog_src")
     sp_rename_release.add_argument("label_dest")
     sp_rename_release.add_argument("catalog_dest")
+
+    sp_rename_label = subparsers.add_parser("rename_label")
+    sp_rename_label.set_defaults(func=cmd_rename_label)
+    sp_rename_label.add_argument("label_src")
+    sp_rename_label.add_argument("label_dest")
+    sp_rename_label.add_argument("name_dest")
 
     sp_renumber_session = subparsers.add_parser("renumber_session")
     sp_renumber_session.set_defaults(func=cmd_renumber_session)
