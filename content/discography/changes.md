@@ -20,7 +20,8 @@ menu:
 * Added CD issue of The Ellington Suites (with bonus track The Kiss) + Discogs/Spotify/Tidal.
 * {{< issue 68 >}}Substantial fixes to Blues In Orbit releases.{{< /issue >}}
 * Fix: The Queen's Suite was not a Columbia recording session, but a private recording done at Columbia Studios.
-* Added MDD 005 tracks
+* Added MDD 005 tracks.
+* Added missing track to Co 4 41421.
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
