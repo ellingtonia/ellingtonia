@@ -24,6 +24,7 @@ menu:
 * Added missing track to Co 4 41421.
 * New releases for 27 March 1959 Sesac session.
 * Add DVD release of Anatomy of a Murder
+* Fix: DE5920xb only used as fragment
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
