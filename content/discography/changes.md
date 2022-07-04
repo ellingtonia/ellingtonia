@@ -29,6 +29,7 @@ menu:
 * Add take of Haupé
 * Added Youtube and updated description for 28 June 1959 medley
 * Corrected location of 8 Aug 1959 concert
+* Corrected seqencing on 8 Aug 1959
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
