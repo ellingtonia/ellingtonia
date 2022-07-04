@@ -31,6 +31,7 @@ menu:
 * Corrected location of 8 Aug 1959 concert
 * Corrected sequencing on 8 Aug 1959
 * Added release RRRR0006
+* Added Hapué take
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
