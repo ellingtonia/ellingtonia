@@ -23,10 +23,10 @@ menu:
 * Added MDD 005 tracks.
 * Added missing track to Co 4 41421.
 * New releases for 27 March 1959 Sesac session.
-* Add DVD release of Anatomy of a Murder
-* Fix: DE5920xb only used as fragment
-* Add take of Happy Anatomy to Co CK 65569.
-* Add take of Haupé
+* Added DVD release of Anatomy of a Murder
+* Fixed: DE5920xb only used as fragment
+* Added take of Happy Anatomy to Co CK 65569.
+* Added take of Haupé
 * Added Youtube and updated description for 28 June 1959 medley
 * Corrected location of 8 Aug 1959 concert
 * Corrected sequencing on 8 Aug 1959
