@@ -26,6 +26,7 @@ menu:
 * Add DVD release of Anatomy of a Murder
 * Fix: DE5920xb only used as fragment
 * Add take of Happy Anatomy to Co CK 65569.
+* Add take of Haupé
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
