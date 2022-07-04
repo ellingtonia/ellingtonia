@@ -34,6 +34,7 @@ menu:
 * Added Hapué take
 * Fixed typo: Rl 60062 to Rl 600062
 * Corrected personnel 20/26 Sep 1959
+* Added CD Affinity AFF 777
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
