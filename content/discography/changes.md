@@ -32,6 +32,7 @@ menu:
 * Corrected sequencing on 8 Aug 1959
 * Added release RRRR0006
 * Added Hapué take
+* Fixed typo: Rl 60062 to Rl 600062
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
