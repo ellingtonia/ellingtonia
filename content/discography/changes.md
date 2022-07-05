@@ -38,6 +38,7 @@ menu:
 * Added missing title and medley element from session DE5201.
 * Moved Jan 52 Metropolitan Opera House concert to Portland, March 1952, consistent with TDWAW
 * Corrected personnel on 4, 9, 11 October 1959
+* Added Storyville "Berlin 1959" release
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
