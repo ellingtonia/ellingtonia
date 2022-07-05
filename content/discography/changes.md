@@ -36,6 +36,7 @@ menu:
 * Corrected personnel 20/26 Sep 1959
 * Added CD Affinity AFF 777
 * Added missing title and medley element from session DE5201.
+* Moved Jan 52 Metropolitan Opera House concert to Portland, March 1952, consistent with TDWAW
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
