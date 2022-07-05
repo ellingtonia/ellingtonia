@@ -39,6 +39,7 @@ menu:
 * Moved Jan 52 Metropolitan Opera House concert to Portland, March 1952, consistent with TDWAW
 * Corrected personnel on 4, 9, 11 October 1959
 * Added Storyville "Berlin 1959" release
+* Corrected personnel for 4 Oct 1959 Basin Street Blues
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
