@@ -47,6 +47,7 @@ menu:
 * Cleaned up date formatting (e.g. now always using "June" not "Jun")
 * Added releases of The Nutcracker Suite
 * Added Hindsight issue of 27 May 1960 concert.
+* Fixed incorrectly labelled Co release 812919-2 with 512919-2
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
