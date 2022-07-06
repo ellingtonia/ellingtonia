@@ -67,7 +67,15 @@ class Label:
     name: str
 
 
-RELEASE_LINKS = ["discogs", "musicbrainz", "spotify", "tidal", "youtube"]
+RELEASE_LINKS = [
+    "discogs",
+    "musicbrainz",
+    "amazon",
+    "allmusic",
+    "spotify",
+    "tidal",
+    "youtube",
+]
 
 
 class Release:
