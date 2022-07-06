@@ -45,6 +45,7 @@ menu:
 * Corrected take of Sweet And Pungent DE5937g.
 * Removed DE from take of Smada 3 Dec 1959
 * Cleaned up date formatting (e.g. now always using "June" not "Jun")
+* Added releases of The Nutcracker Suite
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
