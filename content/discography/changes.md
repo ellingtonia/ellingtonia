@@ -48,6 +48,7 @@ menu:
 * Added releases of The Nutcracker Suite
 * Added Hindsight issue of 27 May 1960 concert.
 * Fixed incorrectly labelled Co release 812919-2 with 512919-2
+* Added YouTube for Playback: Duke Ellington presents The Nutcracker Suite
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
