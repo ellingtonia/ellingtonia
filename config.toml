@@ -63,6 +63,30 @@ disableKinds = ["RSS"]
     # This prevents discog pages appearing on the front page
     mainSections = ["blog"]
 
+[[params.entry_links]]
+    description = "Discogs.com"
+    key = "discogs"
+    text = "(D)"
+
+[[params.entry_links]]
+    description = "MusicBrainz.org"
+    key = "musicbrainz"
+    text = "(MB)"
+
+[[params.entry_links]]
+    description = "Spotify"
+    key = "spotify"
+    text = "(S)"
+
+[[params.entry_links]]
+    description = "Tidal"
+    key = "tidal"
+    text = "(T)"
+
+[[params.entry_links]]
+    description = "YouTube"
+    key = "youtube"
+    text = "(YT)"
 
 # [author]
 #     name = "Some Author"

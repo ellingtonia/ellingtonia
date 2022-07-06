@@ -10,11 +10,9 @@ Key to symbols:
 <li>‡ indicates a release is not confirmed.</li>
 <li>External links have the following codes
   <ul>
-    <li>(D): Discogs.com</li>
-    <li>(MB): MusicBrainz.org</li>
-    <li>(S): Spotify</li>
-    <li>(T): Tidal</li>
-    <li>(YT): YouTube</li>
+    {{ range $link_data := $.Site.Params.entry_links }}
+      <li>{{ $link_data.text }}: {{ $link_data.description }} </li>
+    {{ end }}
   </ul>
 </li>
 </ul>
@@ -58,25 +56,11 @@ Key to symbols:
     <h3 id="release-{{ $escaped_release_name }}">
       {{ $label }} {{ $catalog }}
 
-      {{ if $release_data.discogs }}
-      <a href="{{.discogs}}" class="discog_link">(D)</a>
-      {{ end }}
-
-      {{ if $release_data.musicbrainz }}
-      <a href="{{.musicbrainz}}" class="discog_link">(MB)</a>
-      {{ end }}
-
-      {{ if $release_data.spotify }}
-      <a href="{{.spotify}}" class="discog_link">(S)</a>
-      {{ end }}
-
-      {{ if $release_data.tidal }}
-      <a href="{{.tidal}}" class="discog_link">(T)</a>
-      {{ end }}
-
-      {{ if $release_data.youtube }}
-      <a href="{{.youtube}}" class="discog_link">(YT)</a>
-      {{ end }}
+      {{ range $link_data := $.Site.Params.entry_links }}
+        {{- if index $release_data $link_data.key -}}
+          <a href="{{ index $release_data $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+        {{- end -}}
+      {{- end -}}
     </h3>
 
     <table class="discog_table">
@@ -93,14 +77,10 @@ Key to symbols:
           <td><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
           <td>{{ $take.matrix }}</td>
           <td> {{ $take.title }}{{ $take.flags }}
-            {{- if $take.spotify -}}
-            <a href="{{$take.spotify}}" class="discog_link">(S)</a>
-            {{- end -}}
-            {{- if $take.tidal -}}
-            <a href="{{$take.tidal}}" class="discog_link">(T)</a>
-            {{- end -}}
-            {{- if $take.youtube -}}
-            <a href="{{$take.youtube}}" class="discog_link">(YT)</a>
+            {{ range $link_data := $.Site.Params.entry_links }}
+              {{- if index $take $link_data.key -}}
+                <a href="{{ index $take $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+              {{- end -}}
             {{- end -}}
           </td>
           <td>{{ $take.desor }}</td>

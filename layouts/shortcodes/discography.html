@@ -8,11 +8,9 @@ Key to symbols:
 <li>‡ indicates a release is not confirmed.</li>
 <li>External links have the following codes
   <ul>
-    <li>(D): Discogs.com</li>
-    <li>(MB): MusicBrainz.org</li>
-    <li>(S): Spotify</li>
-    <li>(T): Tidal</li>
-    <li>(YT): YouTube</li>
+    {{ range $link_data := $.Site.Params.entry_links }}
+      <li>{{ $link_data.text }}: {{ $link_data.description }} </li>
+    {{ end }}
   </ul>
 </li>
 </ul>
@@ -44,25 +42,21 @@ Key to symbols:
   <tr class="take">
     <td colspan="6"> {{ .description }} </td>
   </tr>
-  {{ range .entries }}
+
+  {{ range $entry := .entries }}
     {{ if eq .type "take" }}
       <tr class="take" id="take-{{ .index }}">
-        <td> {{ .index }} </td>
-        <td> {{ .matrix }} </td>
-        <td> {{ .title }}
-          {{- if .spotify -}}
-          <a href="{{.spotify}}" class="discog_link">(S)</a>
-          {{- end -}}
-          {{- if .tidal -}}
-          <a href="{{.tidal}}" class="discog_link">(T)</a>
-          {{- end -}}
-          {{- if .youtube -}}
-          <a href="{{.youtube}}" class="discog_link">(YT)</a>
+        <td> {{ $entry.index }} </td>
+        <td> {{ $entry.matrix }} </td>
+        <td> {{ $entry.title }}
+          {{ range $link_data := $.Site.Params.entry_links }}
+            {{- if index $entry $link_data.key -}}
+            <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+            {{- end -}}
           {{- end -}}
         </td>
         <td>
-          {{ $releases := .releases }}
-          {{ range $idx, $elem := .releases }}
+          {{ range $idx, $elem := $entry.releases }}
             {{/* Label, identifier and any trailing symbol like a dagger */}}
 
             {{ $label := index $elem 0 }}
@@ -76,24 +70,14 @@ Key to symbols:
             {{- if and (isset $release_data (index $elem 0)) (isset (index $release_data (index $elem 0)) (index $elem 1)) }}
               {{- $release_info := index $release_data (index $elem 0) (index $elem 1) -}}
 
-              {{- if isset $release_info "discogs" -}}
-                <a href="{{ index $release_info "discogs" }}" class="discog_link">(D)</a>
-              {{- end -}}
-              {{- if isset $release_info "musicbrainz" -}}
-                <a href="{{ index $release_info "musicbrainz" }}" class="discog_link">(MB)</a>
-              {{- end -}}
-              {{- if isset $release_info "spotify" -}}
-                <a href="{{ index $release_info "spotify" }}" class="discog_link">(S)</a>
-              {{- end -}}
-              {{- if isset $release_info "tidal" -}}
-                <a href="{{ index $release_info "tidal" }}" class="discog_link">(T)</a>
-              {{- end -}}
-              {{- if isset $release_info "youtube" -}}
-                <a href="{{ index $release_info "youtube" }}" class="discog_link">(YT)</a>
+              {{ range $link_data := $.Site.Params.entry_links }}
+                {{- if index $release_info $link_data.key -}}
+                <a href="{{ index $release_info $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+                {{- end -}}
               {{- end -}}
 
             {{- end -}}
-            {{- if ne (len $releases) (add $idx 1) -}}, {{- end -}}
+            {{- if ne (len $entry.releases) (add $idx 1) -}}, {{- end -}}
           {{ end }}
         </td>
         <td> {{ .desor }} </td>
