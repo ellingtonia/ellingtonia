@@ -35,7 +35,9 @@ class Session:
     json_filename: str
 
 
-@dataclass(frozen=False, eq=False)
+ENTRY_LINKS = ["youtube", "spotify", "tidal"]
+
+
 class Entry:
     type: str
 
@@ -47,14 +49,16 @@ class Entry:
     matrix: str = None
     desor: str = None
 
-    youtube: str = None
-    spotify: str = None
-    tidal: str = None
-
     session: Session = None
 
     # This is a fudge to ensure consistent ordering when adding a release to an entry
     sequence_no: int = None
+
+
+Entry.__annotations__.update({key: str for key in ENTRY_LINKS})
+for key in ENTRY_LINKS:
+    setattr(Entry, key, None)
+Entry = dataclass(frozen=False, eq=False)(Entry)
 
 
 @dataclass(frozen=False, eq=False)
@@ -63,16 +67,18 @@ class Label:
     name: str
 
 
-@dataclass(frozen=False, eq=False)
+RELEASE_LINKS = ["discogs", "musicbrainz", "spotify", "tidal", "youtube"]
+
+
 class Release:
     label: Label
     catalog: str
 
-    discogs: str = None
-    musicbrainz: str = None
-    spotify: str = None
-    tidal: str = None
-    youtube: str = None
+
+Release.__annotations__.update({key: str for key in RELEASE_LINKS})
+for key in RELEASE_LINKS:
+    setattr(Release, key, None)
+Release = dataclass(frozen=False, eq=False)(Release)
 
 
 @dataclass(frozen=True)
@@ -245,10 +251,10 @@ def load_from_json():
                         matrix=jentry["matrix"],
                         title=jentry["title"],
                         desor=jentry["desor"],
-                        youtube=jentry.get("youtube"),
-                        spotify=jentry.get("spotify"),
-                        tidal=jentry.get("tidal"),
                     )
+
+                    for key in ENTRY_LINKS:
+                        setattr(entry, key, jentry.get(key))
 
                     seen_releases = set()
                     for label, catalog, flags in jentry["releases"]:
@@ -280,22 +286,12 @@ def load_from_json():
                 release = database.get_release(
                     database.get_label(label), catalog
                 )
-                release.discogs = release_data.get("discogs")
-                release.musicbrainz = release_data.get("musicbrainz")
-                release.spotify = release_data.get("spotify")
-                release.tidal = release_data.get("tidal")
-                release.youtube = release_data.get("youtube")
 
-                if release.discogs:
-                    assert "discogs" in release.discogs
-                if release.musicbrainz:
-                    assert "musicbrainz" in release.musicbrainz
-                if release.spotify:
-                    assert "spotify" in release.spotify
-                if release.tidal:
-                    assert "tidal" in release.tidal
-                if release.youtube:
-                    assert "youtube" in release.youtube
+                for key in RELEASE_LINKS:
+                    val = release_data.get(key)
+                    setattr(release, key, val)
+                    if val:
+                        assert key in val  # e.g. assert "discogs" is in the URL
 
     return database
 
@@ -331,16 +327,11 @@ def save_to_json(database):
         json_releases.setdefault(release.label.label, {})
 
         json_release = {"takes": []}
-        if release.discogs:
-            json_release["discogs"] = release.discogs
-        if release.musicbrainz:
-            json_release["musicbrainz"] = release.musicbrainz
-        if release.spotify:
-            json_release["spotify"] = release.spotify
-        if release.tidal:
-            json_release["tidal"] = release.tidal
-        if release.youtube:
-            json_release["youtube"] = release.youtube
+
+        for key in RELEASE_LINKS:
+            if value := getattr(release, key):
+                json_release[key] = value
+
         json_releases[release.label.label][release.catalog] = json_release
 
         def sorting_key(er):
@@ -354,16 +345,10 @@ def save_to_json(database):
                 "matrix": er.entry.matrix,
                 "desor": er.entry.desor,
                 "page": er.entry.session.json_filename.replace(".json", ""),
-                "youtube": er.entry.youtube,
-                "spotify": er.entry.spotify,
-                "tidal": er.entry.tidal,
             }
-            if er.entry.youtube:
-                json_entry["youtube"] = er.entry.youtube
-            if er.entry.spotify:
-                json_entry["spotify"] = er.entry.spotify
-            if er.entry.tidal:
-                json_entry["tidal"] = er.entry.tidal
+            for key in ENTRY_LINKS:
+                json_entry[key] = getattr(er.entry, key)
+
             json_release["takes"].append(json_entry)
 
     # Consistent sorting
@@ -394,12 +379,9 @@ def save_to_json(database):
                     json_entry["releases"] = []
                     json_entry["desor"] = entry.desor
 
-                    if entry.youtube:
-                        json_entry["youtube"] = entry.youtube
-                    if entry.spotify:
-                        json_entry["spotify"] = entry.spotify
-                    if entry.tidal:
-                        json_entry["tidal"] = entry.tidal
+                    for key in ENTRY_LINKS:
+                        if value := getattr(entry, key):
+                            json_entry[key] = value
 
                     releases = database.entry_releases_from_entry(entry)
                     for entry_release in releases:
@@ -497,7 +479,7 @@ def cmd_release_metadata(args):
 
     release = database.get_release(database.get_label(args.label), args.catalog)
 
-    for param in ["discogs", "musicbrainz", "spotify", "tidal"]:
+    for param in [RELEASE_LINKS]:
         if getattr(args, param) is not None:
             setattr(release, param, getattr(args, param))
 
@@ -660,10 +642,9 @@ def main():
     sp_add_release.set_defaults(func=cmd_release_metadata)
     sp_add_release.add_argument("label")
     sp_add_release.add_argument("catalog")
-    sp_add_release.add_argument("--discogs")
-    sp_add_release.add_argument("--musicbrainz")
-    sp_add_release.add_argument("--spotify")
-    sp_add_release.add_argument("--tidal")
+
+    for key in RELEASE_LINKS:
+        sp_add_release.add_argument(f"--{key}")
 
     sp_duplicate_release = subparsers.add_parser("duplicate_release")
     sp_duplicate_release.set_defaults(func=cmd_duplicate_release)
