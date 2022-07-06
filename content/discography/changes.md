@@ -44,6 +44,7 @@ menu:
 * Correct track on UtD 2008 (sleeve says Brown Penny but it's Three J's Blues)
 * Corrected take of Sweet And Pungent DE5937g.
 * Removed DE from take of Smada 3 Dec 1959
+* Cleaned up date formatting (e.g. now always using "June" not "Jun")
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
