@@ -42,6 +42,7 @@ menu:
 * Corrected personnel for 4 Oct 1959 Basin Street Blues
 * Added titles to DVD IJ 510
 * Correct track on UtD 2008 (sleeve says Brown Penny but it's Three J's Blues)
+* Corrected take of Sweet And Pungent DE5937g.
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
