@@ -74,6 +74,16 @@ disableKinds = ["RSS"]
     text = "(MB)"
 
 [[params.entry_links]]
+    description = "Amazon (US)"
+    key = "amazon"
+    text = "(A)"
+
+[[params.entry_links]]
+    description = "AllMusic"
+    key = "allmusic"
+    text = "(AM)"
+
+[[params.entry_links]]
     description = "Spotify"
     key = "spotify"
     text = "(S)"
