@@ -487,7 +487,7 @@ def cmd_release_metadata(args):
 
     release = database.get_release(database.get_label(args.label), args.catalog)
 
-    for param in [RELEASE_LINKS]:
+    for param in RELEASE_LINKS:
         if getattr(args, param) is not None:
             setattr(release, param, getattr(args, param))
 
