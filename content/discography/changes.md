@@ -46,6 +46,7 @@ menu:
 * Removed DE from take of Smada 3 Dec 1959
 * Cleaned up date formatting (e.g. now always using "June" not "Jun")
 * Added releases of The Nutcracker Suite
+* Added Hindsight issue of 27 May 1960 concert.
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
