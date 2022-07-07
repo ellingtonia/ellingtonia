@@ -50,6 +50,7 @@ menu:
 * Fixed incorrectly labelled Co release 812919-2 with 512919-2
 * Added YouTube for Playback: Duke Ellington presents The Nutcracker Suite
 * Added missing tracks to Three Suites
+* Change telecast from 7 July to 11 July 1960
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
