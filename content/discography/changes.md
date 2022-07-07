@@ -51,6 +51,7 @@ menu:
 * Added YouTube for Playback: Duke Ellington presents The Nutcracker Suite
 * Added missing tracks to Three Suites
 * Change telecast from 7 July to 11 July 1960
+* Added release containing 60071101 (Happy Go Lucky Local)
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
