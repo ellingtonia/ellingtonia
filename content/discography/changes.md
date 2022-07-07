@@ -52,6 +52,7 @@ menu:
 * Added missing tracks to Three Suites
 * Change telecast from 7 July to 11 July 1960
 * Added release containing 60071101 (Happy Go Lucky Local)
+* Corrected interview personnel for 60071102 interview
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
