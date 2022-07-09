@@ -55,6 +55,7 @@ menu:
 * Corrected interview personnel for 60071102 interview
 * Added YouTube link for The Hawk Talks with Mingus
 * Added missing Blues in Orbit to Co CK 44051.
+* Fixed missing "*" in DE7109n Didjeridoo
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
