@@ -5,6 +5,8 @@ import collections
 import json
 import os
 import logging
+import requests
+import time
 
 from dataclasses import dataclass
 
@@ -75,12 +77,18 @@ RELEASE_LINKS = [
     "spotify",
     "tidal",
     "youtube",
+    # TODO: These should be considered separately
+    "title",
+    "format",
 ]
 
 
 class Release:
     label: Label
     catalog: str
+
+    title: str = None
+    format: str = None
 
 
 Release.__annotations__.update({key: str for key in RELEASE_LINKS})
@@ -298,8 +306,6 @@ def load_from_json():
                 for key in RELEASE_LINKS:
                     val = release_data.get(key)
                     setattr(release, key, val)
-                    if val:
-                        assert key in val  # e.g. assert "discogs" is in the URL
 
     return database
 
@@ -416,8 +422,48 @@ def save_to_json(database):
         save_json(session_path, json_sessions, ensure_ascii=True)
 
 
+def scrape_discogs(database):
+    headers = {"User-Agent": "EllingtoniaTool/1.0 +http://ellingtonia.com"}
+
+    for release in database.all_releases():
+        if release.discogs:
+
+            if release.title:
+                # Don't re-scrape
+                continue
+
+            release_number = release.discogs.rsplit("/", 1)[1].split("-")[0]
+            url = f"https://api.discogs.com/releases/{release_number}"
+
+            logging.info(f"Querying {url} for {release.discogs}")
+
+            while True:
+                result = requests.get(url)
+                if result.status_code == 429:
+                    logging.info(f"Sleeping")
+                    time.sleep(60)
+                else:
+                    break
+
+            jdata = result.json()
+
+            for k, v in result.headers.items():
+                if "Ratelimit" in k:
+                    print(f"{k}: {v}")
+
+            release.title = jdata["title"]
+
+            release.format = ", ".join(
+                sorted(f["name"] for f in jdata["formats"])
+            )
+
+            time.sleep(60 / 24)  # Rate limit is 1/25
+
+
 def cmd_normalise(args):
     database = load_from_json()
+    if args.scrape_discogs:
+        scrape_discogs(database)
     save_to_json(database)
 
 
@@ -618,6 +664,7 @@ def main():
     subparsers = parser.add_subparsers(required=True)
 
     sp_normalise = subparsers.add_parser("normalise")
+    sp_normalise.add_argument("--scrape-discogs", action="store_true")
     sp_normalise.set_defaults(func=cmd_normalise)
 
     sp_add_label = subparsers.add_parser("add_label")
