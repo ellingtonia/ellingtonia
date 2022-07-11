@@ -58,6 +58,7 @@ menu:
 * Fixed missing "*" in DE7109n Didjeridoo
 * Fixed a number of New DESOR typos.
 * {{< issue 71 >}}Changes to 26 & 30 September 1959 concerts and note that the latter is liable to be deleted{{< /issue >}}
+* Added Jane Harvey session.
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
