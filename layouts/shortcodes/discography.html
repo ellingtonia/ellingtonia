@@ -1,20 +1,6 @@
 <p>Click on any release to be taken to the corresponding release on the Releases page.</p>
 
-<p>
-Key to symbols:
-<ul>
-<li>&dagger; after an issue number denotes the lack of an official catalogue number.</li>
-<li>* after an issue number denotes that only part of the take has been used for the issued title</li>
-<li>‡ indicates a release is not confirmed.</li>
-<li>External links have the following codes
-  <ul>
-    {{ range $link_data := $.Site.Params.entry_links }}
-      <li>{{ $link_data.text }}: {{ $link_data.description }} </li>
-    {{ end }}
-  </ul>
-</li>
-</ul>
-</p>
+{{ partial "key_to_symbols.html" . }}
 
 <table class="discog_table">
 <tr class="pre_heading"/>
