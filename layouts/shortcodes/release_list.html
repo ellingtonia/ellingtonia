@@ -42,6 +42,10 @@
     <h3 id="release-{{ $escaped_release_name }}">
       {{ $label }} {{ $catalog }}
 
+      {{ if $release_data.title }}
+        "{{ $release_data.title }}" ({{ $release_data.format }})
+      {{ end }}
+
       {{ range $link_data := $.Site.Params.entry_links }}
         {{- if index $release_data $link_data.key -}}
           <a href="{{ index $release_data $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
