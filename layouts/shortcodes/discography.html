@@ -45,24 +45,27 @@
           {{ range $idx, $elem := $entry.releases }}
             {{/* Label, identifier and any trailing symbol like a dagger */}}
 
-            {{ $label := index $elem 0 }}
-            {{ $catalog := index $elem 1 }}
-            {{ $flags := index $elem 2 }}
-            {{ $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog )}}
+            {{- $label := index $elem 0 -}}
+            {{- $catalog := index $elem 1 -}}
+            {{- $flags := index $elem 2 -}}
+            {{- $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog ) -}}
 
-            {{ $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
-            <a href="{{ $release_url }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
+            {{- $release_info := index $release_data (index $elem 0) (index $elem 1) -}}
+            {{- $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
 
-            {{- if and (isset $release_data (index $elem 0)) (isset (index $release_data (index $elem 0)) (index $elem 1)) }}
-              {{- $release_info := index $release_data (index $elem 0) (index $elem 1) -}}
-
-              {{ range $link_data := $.Site.Params.entry_links }}
-                {{- if index $release_info $link_data.key -}}
-                <a href="{{ index $release_info $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
-                {{- end -}}
-              {{- end -}}
-
+            {{- $title_str := "" -}}
+            {{- if $release_info.title -}}
+              {{ $title_str = printf "%s (%s)" $release_info.title $release_info.format }}
             {{- end -}}
+
+            <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
+
+            {{- range $link_data := $.Site.Params.entry_links -}}
+              {{- if index $release_info $link_data.key -}}
+              <a href="{{ index $release_info $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+              {{- end -}}
+            {{- end -}}
+
             {{- if ne (len $entry.releases) (add $idx 1) -}}, {{- end -}}
           {{ end }}
         </td>
