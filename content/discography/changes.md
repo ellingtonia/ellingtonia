@@ -65,6 +65,7 @@ menu:
 * Added titles to MDD 011
 * Added two takes of Just Scratchin' the Surfaace on 17 Dec 1960
 * Updated Turcaret session and added release
+* Added Quentin Jackson to dates 4/9/11 1959
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
