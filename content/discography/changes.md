@@ -61,6 +61,7 @@ menu:
 * Added Jane Harvey session.
 * Added a CD issue of "Unknown Session" (as "Black Beauty")
 * **New feature**: title and formats of releases are now shown on the Releases page, and by hovering over a release, where available. This only works for releases that have Discogs links.
+* Removed vocalists from 10 October 1960 session
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
