@@ -618,17 +618,27 @@ def cmd_rename_label(args):
 
 def cmd_renumber_session(args):
     database = load_from_json()
-    sessions = [
-        session
-        for session in database.all_sessions()
-        if session.date == args.date_str
-    ]
+
+    sessions = database.all_sessions()
+
+    for session_idx, session in enumerate(sessions):
+        if session.date == args.date_str:
+            break
+    else:
+        raise RuntimeError("No such session date")
+
     index = args.start_index
-    for session in sessions:
-        for entry in database.get_entries(session):
+
+    while True:
+        for entry in database.get_entries(sessions[session_idx]):
             if entry.index:
                 entry.index = str(index)
                 index += 1
+        session_idx += 1
+        if session_idx == len(sessions):
+            break
+        if sessions[session_idx].date != "Same session":
+            break
 
     save_to_json(database)
 
