@@ -5,10 +5,13 @@ import collections
 import json
 import os
 import logging
+import re
 import requests
 import time
 
 from dataclasses import dataclass
+
+DISCOGS_REGEX = "https://www.discogs.com/release/([0-9]+)-.*"
 
 json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
@@ -432,7 +435,9 @@ def scrape_discogs(database):
                 # Don't re-scrape
                 continue
 
-            release_number = release.discogs.rsplit("/", 1)[1].split("-")[0]
+            release_number = re.match(DISCOGS_REGEX, release.discogs).groups()[
+                0
+            ]
             url = f"https://api.discogs.com/releases/{release_number}"
 
             logging.info(f"Querying {url} for {release.discogs}")
@@ -462,6 +467,24 @@ def scrape_discogs(database):
 
 def cmd_normalise(args):
     database = load_from_json()
+
+    # Some checks
+    for release in database.all_releases():
+        if release.discogs:
+            assert re.match(DISCOGS_REGEX, release.discogs)
+
+        for key in [
+            "discogs",
+            "musicbrainz",
+            "amazon",
+            "allmusic",
+            "spotify",
+            "tidal",
+            "youtube",
+        ]:
+            if v := getattr(release, key):
+                assert key in v, (release, key, v)
+
     if args.scrape_discogs:
         scrape_discogs(database)
     save_to_json(database)
