@@ -338,7 +338,10 @@ def save_to_json(database):
     json_releases = {}
     for release in releases:
         entries = database.entry_releases_from_release(release)
-        assert entries, f"Empty release {release}"
+        if not entries:
+            logging.warning(f"Empty release {release}; discarding")
+            continue
+
         entries.sort(key=lambda entry_release: entry_release.entry.sequence_no)
 
         json_releases.setdefault(release.label.label, {})
