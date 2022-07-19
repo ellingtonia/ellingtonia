@@ -33,6 +33,7 @@ class Session:
     group: str
     location: str
     date: str
+    same_session: bool
     description: str
     maintainer_comment: str
 
@@ -239,10 +240,13 @@ def load_from_json():
             json_sessions = json.load(f)
 
         for session_idx, jsession in enumerate(json_sessions):
+            same_session = jsession["same_session"]
+
             sess = Session(
                 group=jsession["group"],
                 location=jsession["location"],
                 date=jsession["date"],
+                same_session=same_session,
                 description=jsession["description"],
                 maintainer_comment=jsession.get("maintainer_comment", ""),
                 json_filename=os.path.basename(session_path),
@@ -419,6 +423,7 @@ def save_to_json(database):
                 "group": session.group,
                 "location": session.location,
                 "date": session.date,
+                "same_session": session.same_session,
                 "description": session.description,
                 "entries": json_entries,
             }
@@ -663,7 +668,7 @@ def cmd_renumber_session(args):
         session_idx += 1
         if session_idx == len(sessions):
             break
-        if sessions[session_idx].date != "Same session":
+        if not sessions[session_idx].same_session:
             break
 
     save_to_json(database)
