@@ -67,6 +67,7 @@ menu:
 * Updated Turcaret session and added release
 * Added Quentin Jackson to dates 4/9/11 1959
 * Fixed duplicate OPTD-1348 and UAL-4092 releases (one without the "-").
+* Corrected Nat Wynn to Nan Wynn
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
