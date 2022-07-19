@@ -23,7 +23,13 @@
   <tr class="session_heading">
     <th colspan="3"> {{ .group }} </th>
     <th colspan="1"> {{ .location }} </th>
-    <th colspan="2"> {{ .date }} </th>
+    <th colspan="2">
+      {{ if .same_session }}
+        Same session
+      {{ else }}
+        {{ .date }}
+      {{ end }}
+    </th>
   </tr>
   <tr class="take">
     <td colspan="6"> {{ .description }} </td>
