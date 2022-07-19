@@ -514,22 +514,29 @@ def cmd_release_takes(args):
     database = load_from_json()
 
     release = database.get_release(database.get_label(args.label), args.catalog)
-    existing_entries = frozenset(
-        er.entry for er in database.entry_releases_from_release(release)
-    )
-
-    if args.release_takes_mode == "set":
-        release.entries = []
-
     entries = find_entries(args, database)
 
-    for entry in entries:
-        if entry in existing_entries:
-            logging.warning(f"Entry {entry} already has release {release}")
-            continue
+    if args.release_takes_mode == "remove":
+        entry_releases = database.entry_releases_from_release(release)
 
-        er = EntryRelease(entry=entry, release=release, flags="")
-        database.add_entry_release(er)
+        for entry in entries:
+            tmp = [er for er in entry_releases if er.entry == entry]
+            if len(tmp) != 1:
+                raise KeyError(f"Entry not present to remove: {entry}")
+            database.remove_entry_release(tmp[0])
+
+    else:
+        existing_entries = frozenset(
+            er.entry for er in database.entry_releases_from_release(release)
+        )
+
+        for entry in entries:
+            if entry in existing_entries:
+                logging.warning(f"Entry {entry} already has release {release}")
+                continue
+
+            er = EntryRelease(entry=entry, release=release, flags="")
+            database.add_entry_release(er)
 
     save_to_json(database)
 
@@ -705,21 +712,17 @@ def main():
     sp_add_label.add_argument("label")
     sp_add_label.add_argument("name")
 
-    sp_add_release = subparsers.add_parser("add_release_takes")
-    sp_add_release.set_defaults(func=cmd_release_takes)
-    sp_add_release.set_defaults(release_takes_mode="add")
-    sp_add_release.add_argument("label")
-    sp_add_release.add_argument("catalog")
-    sp_add_release.add_argument("--desors", nargs="+", default=[])
-    sp_add_release.add_argument("--indexes", nargs="+", default=[])
+    def release_takes(name, mode):
+        sp = subparsers.add_parser(name)
+        sp.set_defaults(func=cmd_release_takes)
+        sp.set_defaults(release_takes_mode=mode)
+        sp.add_argument("label")
+        sp.add_argument("catalog")
+        sp.add_argument("--desors", nargs="+", default=[])
+        sp.add_argument("--indexes", nargs="+", default=[])
 
-    sp_set_release = subparsers.add_parser("set_release_takes")
-    sp_set_release.set_defaults(func=cmd_release_takes)
-    sp_set_release.set_defaults(release_takes_mode="set")
-    sp_set_release.add_argument("label")
-    sp_set_release.add_argument("catalog")
-    sp_set_release.add_argument("--desors", nargs="+", default=[])
-    sp_set_release.add_argument("--indexes", nargs="+", default=[])
+    release_takes("add_release_takes", "add")
+    release_takes("remove_release_takes", "remove")
 
     sp_set_take_releases = subparsers.add_parser("set_take_releases")
     sp_set_take_releases.set_defaults(func=cmd_set_take_releases)
