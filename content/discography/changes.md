@@ -70,6 +70,7 @@ menu:
 * Corrected Nat Wynn to Nan Wynn
 * Added missing Battle Royal to OC OPTD-1348
 * Added studio orchestra details to Battle Royal (14 Dec 1960)
+* Fixed date for 1-3 May 1961 to 2-3 May (see TDWAW)
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
