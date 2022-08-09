@@ -227,6 +227,45 @@ class Database:
         return entry
 
 
+def fix_date(date_str):
+    date_str = date_str.strip()
+
+    parts = date_str.split()
+    if len(parts) != 3:
+        return date_str, None
+
+    d, m, y = parts
+    try:
+        d = int(d)
+        y = int(y)
+    except ValueError:
+        return date_str, None
+    m = m.lower()
+    m = m[0].upper() + m[1:]
+
+    months = [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December",
+    ]
+    try:
+        m_numeric = months.index(m)
+    except ValueError:
+        return date_str, None
+
+    return f"{d:02d} {m} {y}", (y-1900) * 10000 + m_numeric * 100 + d
+
+
+
 def load_from_json():
     database = Database()
 
@@ -239,13 +278,20 @@ def load_from_json():
         with open(session_path) as f:
             json_sessions = json.load(f)
 
+        # last_date = None
+        # last_date_num = None
         for session_idx, jsession in enumerate(json_sessions):
+            date, date_num = fix_date(jsession["date"])
+
             same_session = jsession["same_session"]
+
+            # last_date = date
+            # last_date_num = date_num
 
             sess = Session(
                 group=jsession["group"],
                 location=jsession["location"],
-                date=jsession["date"],
+                date=date,
                 same_session=same_session,
                 description=jsession["description"],
                 maintainer_comment=jsession.get("maintainer_comment", ""),
