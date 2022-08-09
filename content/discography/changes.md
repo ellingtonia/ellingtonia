@@ -77,6 +77,7 @@ menu:
 * Moved second 23 June 1967 session to immediately after the first session on that date.
 * Moved second 09 June 1968 session to immediately after the first session on that date.
 * Moved second 10 February 1971 session to immediately after the first session on that date.
+* Moved second 25 August 1973 session to immediately after the first session on that date.
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
