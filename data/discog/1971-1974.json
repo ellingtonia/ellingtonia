@@ -482,6 +482,51 @@
         ]
     },
     {
+        "group": "DUKE ELLINGTON WITH ORCHESTRA",
+        "location": "New York City, NY",
+        "date": "10 February 1971",
+        "same_session": false,
+        "description": "ABC Telecast",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Duke Ellington(p); studio orchestra cond. Bobby Rosengarden"
+            },
+            {
+                "type": "take",
+                "index": "71021701",
+                "matrix": null,
+                "title": "In A Mellow Tone",
+                "releases": [],
+                "desor": "DE7108a"
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington, Dick Cavett(tk)"
+            },
+            {
+                "type": "take",
+                "index": "71021702",
+                "matrix": null,
+                "title": "Interview By Cavett",
+                "releases": [],
+                "desor": "DE7108b"
+            },
+            {
+                "type": "artists",
+                "value": "As before. Add Cootie Williams(t,v), Nell Brookshire(v)"
+            },
+            {
+                "type": "take",
+                "index": "71021703",
+                "matrix": null,
+                "title": "I Got It Bad - vNB,CW",
+                "releases": [],
+                "desor": "DE7108c"
+            }
+        ]
+    },
+    {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "11 February 1971",
@@ -1274,51 +1319,6 @@
                 "title": "Satin Doll",
                 "releases": [],
                 "desor": "DE7107av"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON WITH ORCHESTRA",
-        "location": "New York City, NY",
-        "date": "10 February 1971",
-        "same_session": false,
-        "description": "ABC Telecast",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Duke Ellington(p); studio orchestra cond. Bobby Rosengarden"
-            },
-            {
-                "type": "take",
-                "index": "71021701",
-                "matrix": null,
-                "title": "In A Mellow Tone",
-                "releases": [],
-                "desor": "DE7108a"
-            },
-            {
-                "type": "artists",
-                "value": "Duke Ellington, Dick Cavett(tk)"
-            },
-            {
-                "type": "take",
-                "index": "71021702",
-                "matrix": null,
-                "title": "Interview By Cavett",
-                "releases": [],
-                "desor": "DE7108b"
-            },
-            {
-                "type": "artists",
-                "value": "As before. Add Cootie Williams(t,v), Nell Brookshire(v)"
-            },
-            {
-                "type": "take",
-                "index": "71021703",
-                "matrix": null,
-                "title": "I Got It Bad - vNB,CW",
-                "releases": [],
-                "desor": "DE7108c"
             }
         ]
     },
