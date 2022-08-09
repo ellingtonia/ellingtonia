@@ -75,6 +75,7 @@ menu:
 * Fixed location of 18 November 1958 concert
 * Fixed index numbers for 1951-1960
 * Moved second 23 June 1967 session to immediately after the first session on that date.
+* Moved second 09 June 1968 session to immediately after the first session on that date.
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
