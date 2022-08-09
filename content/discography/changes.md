@@ -72,6 +72,7 @@ menu:
 * Added studio orchestra details to Battle Royal (14 Dec 1960)
 * Fixed date for 1-3 May 1961 to 2-3 May (see TDWAW)
 * Replaced a couple more uses of "CM" for "Charles Mingus"
+* Fixed location of 18 November 1958 concert
 
 ## June 2022
 * Added Discogs/Spotify/Tidal links for a couple of releases.
