@@ -12,6 +12,7 @@ menu:
 * Moved second 23 June 1967 session to immediately after the first session on that date, and similarly for 09 June 1968, 10 February 1971 and 25 August 1973
 * Replaced index numbers with a new scheme. Most are changed in a straightforward way. For instance 40072201 became 40-07-22-001 (i.e. it includes minuses and an extra '0'). Many index numbers have been corrected in the process.
 * Replaced spaces in release names with "-" characters (previously there was inconsistency between the two conventions).
+* Releases for each take are now sorted in alphabetical order.
 
 ## July 2022
 * Added Table of Contents to the Releases page.
