@@ -40,6 +40,8 @@ class Session:
     # e.g. "1924-1930.json"
     json_filename: str
 
+    index_date: int = None
+
 
 ENTRY_LINKS = ["youtube", "spotify", "tidal"]
 
@@ -258,12 +260,11 @@ def fix_date(date_str):
         "December",
     ]
     try:
-        m_numeric = months.index(m)
+        m_numeric = months.index(m) + 1
     except ValueError:
         return date_str, None
 
-    return f"{d:02d} {m} {y}", (y-1900) * 10000 + m_numeric * 100 + d
-
+    return f"{d:02d} {m} {y}", (y - 1900) * 10000 + m_numeric * 100 + d
 
 
 def load_from_json():
@@ -274,19 +275,29 @@ def load_from_json():
         for label, name in label_data.items():
             database.add_label(Label(label=label, name=name))
 
+    all_indices = set()
+
     for session_path in session_paths:
         with open(session_path) as f:
             json_sessions = json.load(f)
 
-        # last_date = None
-        # last_date_num = None
+        old_date_num = None
+
         for session_idx, jsession in enumerate(json_sessions):
             date, date_num = fix_date(jsession["date"])
 
-            same_session = jsession["same_session"]
+            # "index_date" is used to indicate indexing if the date is ambiguous
+            if date_num is None:
+                date_num = jsession["index_date"]
+            else:
+                assert "index_date" not in jsession
 
-            # last_date = date
-            # last_date_num = date_num
+            if date_num != old_date_num:
+                idx = 1
+
+            old_date_num = date_num
+
+            same_session = jsession["same_session"]
 
             sess = Session(
                 group=jsession["group"],
@@ -296,6 +307,7 @@ def load_from_json():
                 description=jsession["description"],
                 maintainer_comment=jsession.get("maintainer_comment", ""),
                 json_filename=os.path.basename(session_path),
+                index_date=jsession.get("index_date"),
             )
             entries = []
             for entry_idx, jentry in enumerate(jsession["entries"]):
@@ -314,9 +326,25 @@ def load_from_json():
                     entries.append(entry)
 
                 elif jentry["type"] == "take":
+                    index = jentry["index"]
+
+                    # If an index is present, we always replace it with an
+                    # auto-number, so errors get corrected.
+                    if index:
+                        str_date_num = str(date_num)
+                        index = f"{str_date_num[0:2]}-{str_date_num[2:4]}-{str_date_num[4:6]}-{idx:03}"
+                        idx += 1
+
+                        # Check for duplicates
+                        assert index not in all_indices, (
+                            index,
+                            jentry["title"],
+                        )
+                        all_indices.add(index)
+
                     entry = Entry(
                         type="take",
-                        index=jentry["index"],
+                        index=index,
                         matrix=jentry["matrix"],
                         title=jentry["title"],
                         desor=jentry["desor"],
@@ -469,12 +497,19 @@ def save_to_json(database):
                 "group": session.group,
                 "location": session.location,
                 "date": session.date,
-                "same_session": session.same_session,
-                "description": session.description,
-                "entries": json_entries,
             }
+
+            # Careful ordering
+            if session.index_date:
+                jsession["index_date"] = session.index_date
+
+            jsession["same_session"] = session.same_session
+            jsession["description"] = session.description
+            jsession["entries"] = json_entries
+
             if session.maintainer_comment:
                 jsession["maintainer_comment"] = session.maintainer_comment
+
             json_sessions.append(jsession)
         save_json(session_path, json_sessions, ensure_ascii=True)
 
