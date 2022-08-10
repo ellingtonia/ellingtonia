@@ -354,7 +354,13 @@ def load_from_json():
                         setattr(entry, key, jentry.get(key))
 
                     seen_releases = set()
-                    for label, catalog, flags in jentry["releases"]:
+
+                    # Sort the releases in the obvious way while we're here
+                    # (case-insensitive).
+                    def sort_key(label_trio):
+                        return [x.lower() for x in label_trio]
+
+                    for label, catalog, flags in sorted(jentry["releases"], key=sort_key):
                         catalog = catalog.strip().replace(" ", "-")
                         if (label, catalog) in seen_releases:
                             logging.warning(
