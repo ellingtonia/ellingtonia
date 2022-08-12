@@ -13,6 +13,7 @@ menu:
 * Replaced index numbers with a new scheme. Most are changed in a straightforward way. For instance 40072201 became 40-07-22-001 (i.e. it includes minuses and an extra '0'). Many index numbers have been corrected in the process.
 * Replaced spaces in release names with "-" characters (previously there was inconsistency between the two conventions).
 * Releases for each take are now sorted in alphabetical order.
+* Replaced Oscar Pettiford with Charles Mingus on 4/9 February 1953 sessions.
 
 ## July 2022
 * Added Table of Contents to the Releases page.
