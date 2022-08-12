@@ -14,6 +14,7 @@ menu:
 * Replaced spaces in release names with "-" characters (previously there was inconsistency between the two conventions).
 * Releases for each take are now sorted in alphabetical order.
 * Replaced Oscar Pettiford with Charles Mingus on 4/9 February 1953 sessions.
+* Added Discogs/Spotify for The Duke In Munich
 
 ## July 2022
 * Added Table of Contents to the Releases page.
