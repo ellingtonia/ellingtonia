@@ -360,7 +360,9 @@ def load_from_json():
                     def sort_key(label_trio):
                         return [x.lower() for x in label_trio]
 
-                    for label, catalog, flags in sorted(jentry["releases"], key=sort_key):
+                    for label, catalog, flags in sorted(
+                        jentry["releases"], key=sort_key
+                    ):
                         catalog = catalog.strip().replace(" ", "-")
                         if (label, catalog) in seen_releases:
                             logging.warning(
