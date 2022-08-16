@@ -739,33 +739,6 @@ def cmd_rename_label(args):
     save_to_json(database)
 
 
-def cmd_renumber_session(args):
-    database = load_from_json()
-
-    sessions = database.all_sessions()
-
-    for session_idx, session in enumerate(sessions):
-        if session.date == args.date_str:
-            break
-    else:
-        raise RuntimeError("No such session date")
-
-    index = args.start_index
-
-    while True:
-        for entry in database.get_entries(sessions[session_idx]):
-            if entry.index:
-                entry.index = str(index)
-                index += 1
-        session_idx += 1
-        if session_idx == len(sessions):
-            break
-        if not sessions[session_idx].same_session:
-            break
-
-    save_to_json(database)
-
-
 def cmd_dump_release(args):
     def na(val):
         return "N/A" if val is None else str(val)
@@ -872,11 +845,6 @@ def main():
     sp_rename_label.add_argument("label_src")
     sp_rename_label.add_argument("label_dest")
     sp_rename_label.add_argument("name_dest")
-
-    sp_renumber_session = subparsers.add_parser("renumber_session")
-    sp_renumber_session.set_defaults(func=cmd_renumber_session)
-    sp_renumber_session.add_argument("date_str")
-    sp_renumber_session.add_argument("start_index", type=int)
 
     sp_dump_release = subparsers.add_parser("dump_release")
     sp_dump_release.set_defaults(func=cmd_dump_release)
