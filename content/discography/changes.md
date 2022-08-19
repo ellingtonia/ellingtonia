@@ -16,6 +16,7 @@ menu:
 * Replaced Oscar Pettiford with Charles Mingus on 4/9 February 1953 sessions.
 * Added Discogs/Spotify for The Duke In Munich
 * Added Discogs for MM 5041-2C
+* Added YouTube for 29 July 1957 East River Park Ampitheater concert
 
 ## July 2022
 * Added Table of Contents to the Releases page.
