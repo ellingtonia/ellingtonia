@@ -17,6 +17,7 @@ menu:
 * Added Discogs/Spotify for The Duke In Munich
 * Added Discogs for MM 5041-2C
 * Added YouTube for 29 July 1957 East River Park Ampitheater concert
+* Added links to Radio France for takes of 28 July 1966 Cote d'Azur concert.
 
 ## July 2022
 * Added Table of Contents to the Releases page.
