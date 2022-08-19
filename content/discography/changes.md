@@ -15,6 +15,7 @@ menu:
 * Releases for each take are now sorted in alphabetical order.
 * Replaced Oscar Pettiford with Charles Mingus on 4/9 February 1953 sessions.
 * Added Discogs/Spotify for The Duke In Munich
+* Added Discogs for MM 5041-2C
 
 ## July 2022
 * Added Table of Contents to the Releases page.
