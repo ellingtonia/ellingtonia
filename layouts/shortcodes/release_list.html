@@ -64,7 +64,7 @@
       {{ range $take := $release_data.takes }}
         <tr class="take">
           {{ $page := ref $.Page (printf "discography/%s" $take.page) }}
-          <td><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
+          <td class="index"><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
           <td>{{ $take.matrix }}</td>
           <td> {{ $take.title }}{{ $take.flags }}
             {{ range $link_data := $.Site.Params.entry_links }}

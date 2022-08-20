@@ -38,7 +38,7 @@
   {{ range $entry := .entries }}
     {{ if eq .type "take" }}
       <tr class="take" id="take-{{ .index }}">
-        <td> {{ $entry.index }} </td>
+        <td class="index"> {{ $entry.index }} </td>
         <td> {{ $entry.matrix }} </td>
         <td> {{ $entry.title }}
           {{ range $link_data := $.Site.Params.entry_links }}

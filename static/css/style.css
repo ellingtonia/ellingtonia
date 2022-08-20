@@ -43,6 +43,10 @@ tr.take td {
     vertical-align: top;
 }
 
+tr.take td.index {
+    white-space: nowrap; /* Prevent indices wrapping at "-" in Chrome, Safari */
+}
+
 table.striped tbody tr:nth-child(even) {
     background-color: #efefef;
 }
