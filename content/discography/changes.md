@@ -26,6 +26,7 @@ menu:
 * Various more discogs
 * Add Tidal for some tracks of 26 November 1969 Manchester concert
 * Added 1969 tracks from SqJ NED-CD-183 (70th Birthday Concert, UK)
+* Added Discogs for RB AK-48631 "Hot Summer Dance" (22 July 1960 Red Baron)
 
 ## July 2022
 * Added Table of Contents to the Releases page.
