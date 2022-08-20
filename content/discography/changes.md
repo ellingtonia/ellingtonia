@@ -24,6 +24,7 @@ menu:
 * Corrected Columbia 68606 to Columbia 38606 and added Discogs
 * Add Discogs for UtD 2003
 * Various more discogs
+* Add Tidal for some tracks of 26 November 1969 Manchester concert
 
 ## July 2022
 * Added Table of Contents to the Releases page.
