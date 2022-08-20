@@ -19,6 +19,7 @@ menu:
 * Added YouTube for 29 July 1957 East River Park Ampitheater concert
 * Added links to Radio France for takes of 28 July 1966 Cote d'Azur concert.
 * Added YouTube for Ella/Duke on the Ed Sullivan show 07 March 1965
+* Added phone call from Richard Nixon on 24 June 1971, with YouTube
 
 ## July 2022
 * Added Table of Contents to the Releases page.
