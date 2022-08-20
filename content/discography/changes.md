@@ -21,6 +21,7 @@ menu:
 * Added YouTube for Ella/Duke on the Ed Sullivan show 07 March 1965
 * Added phone call from Richard Nixon on 24 June 1971, with YouTube
 * Added discogs for CBS 462987-2, Cl(F) 1191
+* Corrected Columbia 68606 to Columbia 38606 and added Discogs
 
 ## July 2022
 * Added Table of Contents to the Releases page.
