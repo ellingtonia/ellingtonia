@@ -20,6 +20,7 @@ menu:
 * Added links to Radio France for takes of 28 July 1966 Cote d'Azur concert.
 * Added YouTube for Ella/Duke on the Ed Sullivan show 07 March 1965
 * Added phone call from Richard Nixon on 24 June 1971, with YouTube
+* Added discogs for CBS 462987-2, Cl(F) 1191
 
 ## July 2022
 * Added Table of Contents to the Releases page.
