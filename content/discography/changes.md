@@ -37,6 +37,7 @@ menu:
 * Added YouTube for two Ozzie Ware recordings in December 1928
 * Changed Fiddle on the Diddler to Fiddler on the Diddle.
 * More specific location for Reprise studio recordings 11 Dec 1962 - 04 Jan 1963
+* Correct interviewer's name from Harry to Henry Whiston
 
 ## July 2022
 * Added Table of Contents to the Releases page.
