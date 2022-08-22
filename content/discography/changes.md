@@ -32,6 +32,7 @@ menu:
 * Added Discogs for Top Jazz STJ SJ-1013
 * Added Discogs for "Live Part 1" (By YX-2035)
 * Added Tidal track of Aurora Borealis
+* Discogs for Duke Ellington North Of The Border
 
 ## July 2022
 * Added Table of Contents to the Releases page.
