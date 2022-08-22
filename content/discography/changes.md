@@ -35,6 +35,7 @@ menu:
 * Discogs for Duke Ellington North Of The Border
 * Added YouTube/Tidal for Hottentot
 * Added YouTube for two Ozzie Ware recordings in December 1928
+* Changed Fiddle on the Diddler to Fiddler on the Diddle.
 
 ## July 2022
 * Added Table of Contents to the Releases page.
