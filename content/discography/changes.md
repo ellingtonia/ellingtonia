@@ -33,6 +33,7 @@ menu:
 * Added Discogs for "Live Part 1" (By YX-2035)
 * Added Tidal track of Aurora Borealis
 * Discogs for Duke Ellington North Of The Border
+* Added YouTube/Tidal for Hottentot
 
 ## July 2022
 * Added Table of Contents to the Releases page.
