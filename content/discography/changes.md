@@ -29,6 +29,7 @@ menu:
 * Added Discogs for RB AK-48631 "Hot Summer Dance" (22 July 1960 Red Baron)
 * Added Discogs UJ 27 (Dance Date Air Force 1960)
 * Added Discogs and Tidal for the 1956 Stratford Festival
+* Added Discogs for Top Jazz STJ SJ-1013
 
 ## July 2022
 * Added Table of Contents to the Releases page.
