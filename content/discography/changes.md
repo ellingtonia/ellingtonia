@@ -38,6 +38,7 @@ menu:
 * Changed Fiddle on the Diddler to Fiddler on the Diddle.
 * More specific location for Reprise studio recordings 11 Dec 1962 - 04 Jan 1963
 * Correct interviewer's name from Harry to Henry Whiston
+* More location info for 07 March 1965
 
 ## July 2022
 * Added Table of Contents to the Releases page.
