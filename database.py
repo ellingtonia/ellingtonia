@@ -779,6 +779,22 @@ def cmd_list_label_releases(args):
         print(release.catalog)
 
 
+def cmd_add_youtube(args):
+    database = load_from_json()
+
+    label_youtube = database.get_label("X-YT")
+    max_youtube_release = max([int(r.catalog) for r in database.all_releases() if r.label == label_youtube])
+
+    release = database.get_release(label_youtube, str(max_youtube_release+1))
+    release.youtube = args.link
+    entries = find_entries(args, database)
+
+    for entry in entries:
+        er = EntryRelease(entry=entry, release=release, flags="")
+        database.add_entry_release(er)
+
+    save_to_json(database)
+
 def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
@@ -851,6 +867,12 @@ def main():
     sp_dump_release.set_defaults(func=cmd_dump_release)
     sp_dump_release.add_argument("label_src")
     sp_dump_release.add_argument("catalog_src")
+
+    sp_dump_release = subparsers.add_parser("add_youtube")
+    sp_dump_release.set_defaults(func=cmd_add_youtube)
+    sp_dump_release.add_argument("link")
+    sp_dump_release.add_argument("--desors", nargs="+", default=[])
+    sp_dump_release.add_argument("--indexes", nargs="+", default=[])
 
     sp_list_label_releases_release = subparsers.add_parser(
         "list_label_releases"
