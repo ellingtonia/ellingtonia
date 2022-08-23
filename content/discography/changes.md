@@ -41,6 +41,7 @@ menu:
 * More location info for 07 March 1965
 * Corrected 07 March 1965 recording session to 17 March 1965
 * Corrected "April 1965" Mike Douglas session to 26 March 1965 and clarified description.
+* Added Discogs for Circle World Broadcasting System CDs
 
 ## July 2022
 * Added Table of Contents to the Releases page.
