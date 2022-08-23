@@ -11,7 +11,8 @@ import time
 
 from dataclasses import dataclass
 
-DISCOGS_REGEX = "https://www.discogs.com/release/([0-9]+)-.*"
+# Last bit: prevent accidentally including query string
+DISCOGS_REGEX = "https://www.discogs.com/release/([0-9]+)-[^?]*"
 
 json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
