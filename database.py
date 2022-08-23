@@ -810,7 +810,7 @@ def main():
     subparsers = parser.add_subparsers(required=True)
 
     sp_normalise = subparsers.add_parser("normalise")
-    sp_normalise.add_argument("--scrape-discogs", action="store_true")
+    sp_normalise.add_argument("--no-scrape-discogs", dest="scrape_discogs", action="store_false")
     sp_normalise.set_defaults(func=cmd_normalise)
 
     sp_add_label = subparsers.add_parser("add_label")
