@@ -783,9 +783,15 @@ def cmd_add_youtube(args):
     database = load_from_json()
 
     label_youtube = database.get_label("X-YT")
-    max_youtube_release = max([int(r.catalog) for r in database.all_releases() if r.label == label_youtube])
+    max_youtube_release = max(
+        [
+            int(r.catalog)
+            for r in database.all_releases()
+            if r.label == label_youtube
+        ]
+    )
 
-    release = database.get_release(label_youtube, str(max_youtube_release+1))
+    release = database.get_release(label_youtube, str(max_youtube_release + 1))
     release.youtube = args.link
     entries = find_entries(args, database)
 
@@ -794,6 +800,7 @@ def cmd_add_youtube(args):
         database.add_entry_release(er)
 
     save_to_json(database)
+
 
 def main():
     logging.basicConfig(
@@ -810,7 +817,9 @@ def main():
     subparsers = parser.add_subparsers(required=True)
 
     sp_normalise = subparsers.add_parser("normalise")
-    sp_normalise.add_argument("--no-scrape-discogs", dest="scrape_discogs", action="store_false")
+    sp_normalise.add_argument(
+        "--no-scrape-discogs", dest="scrape_discogs", action="store_false"
+    )
     sp_normalise.set_defaults(func=cmd_normalise)
 
     sp_add_label = subparsers.add_parser("add_label")
