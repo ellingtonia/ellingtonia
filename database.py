@@ -17,6 +17,7 @@ DISCOGS_REGEX = "https://www.discogs.com/release/([0-9]+)-[^?]*"
 json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
 json_releases_path = json_prefix + "/releases.json"
+json_generated_path = json_prefix + "/generated.json"
 
 session_paths = [
     json_prefix + "/1924-1930.json",
@@ -403,27 +404,22 @@ def load_from_json():
     return database
 
 
-def save_to_json(database):
-    def save_json(path, obj, ensure_ascii=False):
-        tmp_path = path + ".tmp"
+def save_json(path, obj, ensure_ascii=False):
+    tmp_path = path + ".tmp"
+    try:
+        with open(tmp_path, "w") as f:
+            json.dump(obj, f, indent=4, ensure_ascii=ensure_ascii)
+            f.write("\n")
+    except Exception as e:
         try:
-            with open(tmp_path, "w") as f:
-                json.dump(obj, f, indent=4, ensure_ascii=ensure_ascii)
-                f.write("\n")
-        except Exception as e:
-            try:
-                os.unlink(tmp_path)
-            except OSError:
-                pass
-            raise e
-        os.rename(tmp_path, path)
+            os.unlink(tmp_path)
+        except OSError:
+            pass
+        raise e
+    os.rename(tmp_path, path)
 
-    labels = database.all_labels()
-    json_labels = {
-        l.label: l.name for l in sorted(labels, key=lambda l: l.label.lower())
-    }
-    save_json(json_labels_path, json_labels)
 
+def save_releases_to_json(database, generated):
     releases = database.all_releases()
     json_releases = {}
     for release in releases:
@@ -434,38 +430,58 @@ def save_to_json(database):
 
         entries.sort(key=lambda entry_release: entry_release.entry.sequence_no)
 
-        json_releases.setdefault(release.label.label, {})
-
-        json_release = {"takes": []}
+        json_release = {}
 
         for key in RELEASE_LINKS:
             if value := getattr(release, key):
                 json_release[key] = value
 
-        json_releases[release.label.label][release.catalog] = json_release
+        if generated:
+            def sorting_key(er):
+                return er.entry.session.json_filename
 
-        def sorting_key(er):
-            return er.entry.session.json_filename
+            json_release["takes"] = []
 
-        for er in sorted(entries, key=sorting_key):
-            json_entry = {
-                "title": er.entry.title,
-                "flags": er.flags,
-                "index": er.entry.index,
-                "matrix": er.entry.matrix,
-                "desor": er.entry.desor,
-                "page": er.entry.session.json_filename.replace(".json", ""),
-            }
-            for key in ENTRY_LINKS:
-                json_entry[key] = getattr(er.entry, key)
+            for er in sorted(entries, key=sorting_key):
+                json_entry = {
+                    "title": er.entry.title,
+                    "flags": er.flags,
+                    "index": er.entry.index,
+                    "matrix": er.entry.matrix,
+                    "desor": er.entry.desor,
+                    "page": er.entry.session.json_filename.replace(".json", ""),
+                }
+                for key in ENTRY_LINKS:
+                    json_entry[key] = getattr(er.entry, key)
 
-            json_release["takes"].append(json_entry)
+                json_release["takes"].append(json_entry)
+
+        # Skip empty entries
+        if json_release:
+            json_releases.setdefault(release.label.label, {})
+            json_releases[release.label.label][release.catalog] = json_release
 
     # Consistent sorting
     json_releases = {
         k: dict(sorted(v.items())) for k, v in sorted(json_releases.items())
     }
-    save_json(json_releases_path, json_releases)
+
+    if generated:
+        save_json(json_generated_path, {"releases": json_releases})
+    else:
+        save_json(json_releases_path, json_releases)
+
+
+def save_to_json(database):
+
+    labels = database.all_labels()
+    json_labels = {
+        l.label: l.name for l in sorted(labels, key=lambda l: l.label.lower())
+    }
+    save_json(json_labels_path, json_labels)
+
+    save_releases_to_json(database, generated=False)
+    save_releases_to_json(database, generated=True)
 
     for session_path in session_paths:
         sessions = [
