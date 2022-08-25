@@ -14,7 +14,7 @@
 
 {{/* Could also use getJSON */}}
 
-{{ $release_data := $.Site.Data.discog.releases }}
+{{ $release_data := $.Site.Data.discog.generated.releases }}
 
 {{ range index $.Site.Data.discog (.Get 0) }}
   <tr>

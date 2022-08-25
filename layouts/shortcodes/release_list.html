@@ -9,7 +9,7 @@
 <h1>Table of Contents</h1>
 
 <ul>
-{{ range $label, $releases := $.Site.Data.discog.releases }}
+{{ range $label, $releases := $.Site.Data.discog.generated.releases }}
 
   {{ $release_list := slice }}
 
@@ -33,7 +33,7 @@
 
 <h1>Releases</h1>
 
-{{ range $label, $releases := $.Site.Data.discog.releases}}
+{{ range $label, $releases := $.Site.Data.discog.generated.releases}}
   <h2 id="label-{{ urlquery $label }}">{{ $label }}: {{ index $.Site.Data.discog.labels $label }}</h2>
 
   {{ range $catalog, $release_data := $releases }}
