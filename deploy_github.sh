@@ -1,6 +1,8 @@
 #!/bin/bash
 set -ue -o pipefail
 
+tools/database.py normalise
+
 rm -rf build
 hugo -d build -b https://ellingtonia.github.io/ellingtonia/
 pushd build

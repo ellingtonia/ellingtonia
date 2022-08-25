@@ -1,6 +1,8 @@
 #!/bin/bash
 set -ue -o pipefail
 
+tools/database.py normalise
+
 build_dir=build_tmp
 rm -rf $build_dir
 # Trailing slash is important
