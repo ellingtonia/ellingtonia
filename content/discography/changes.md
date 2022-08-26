@@ -44,6 +44,7 @@ menu:
 * Added Discogs for Circle World Broadcasting System CDs
 * More specific location for 28 May 1965 interview
 * Removed Perfidia label (only used on Tidal) and used the X-Str label placeholder instead
+* Updated releases page to list the number of entries per release
 
 ## July 2022
 * Added Table of Contents to the Releases page.
