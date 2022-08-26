@@ -82,6 +82,7 @@ RELEASE_LINKS = [
     "musicbrainz",
     "amazon",
     "allmusic",
+    "archive",
     "spotify",
     "tidal",
     "youtube",

@@ -84,6 +84,11 @@ disableKinds = ["RSS"]
     text = "(AM)"
 
 [[params.entry_links]]
+    description = "Archive.org"
+    key = "archive"
+    text = "(AR)"
+
+[[params.entry_links]]
     description = "Spotify"
     key = "spotify"
     text = "(S)"
