@@ -206,10 +206,10 @@ class Database:
         )
 
     def entry_releases_from_release(self, release):
-        return self._entry_releases_by_release[release]
+        return self._entry_releases_by_release[release][:]
 
     def entry_releases_from_entry(self, release):
-        return self._entry_releases_by_entry[release]
+        return self._entry_releases_by_entry[release][:]
 
     def entry_from_desor(self, desor):
         if desor not in self._entries_by_desor:
@@ -693,6 +693,17 @@ def cmd_set_take_releases(args):
     save_to_json(database)
 
 
+def cmd_delete_release(args):
+    database = load_from_json()
+
+    release = database.get_release(database.get_label(args.label), args.catalog)
+    entries = database.entry_releases_from_release(release)
+    for entry in entries:
+        database.remove_entry_release(entry)
+
+    save_to_json(database)
+
+
 def cmd_release_metadata(args):
     database = load_from_json()
 
@@ -857,6 +868,11 @@ def main():
     sp_set_take_releases.set_defaults(func=cmd_set_take_releases)
     sp_set_take_releases.add_argument("--desor", required=True)
     sp_set_take_releases.add_argument("--releases", nargs="+")
+
+    sp_delete_release = subparsers.add_parser("delete_release")
+    sp_delete_release.set_defaults(func=cmd_delete_release)
+    sp_delete_release.add_argument("label")
+    sp_delete_release.add_argument("catalog")
 
     sp_add_release = subparsers.add_parser("release_metadata")
     sp_add_release.set_defaults(func=cmd_release_metadata)
