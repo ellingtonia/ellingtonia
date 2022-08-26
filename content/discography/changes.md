@@ -47,7 +47,7 @@ menu:
 * Updated releases page to list the number of entries per release
 * Fixed typos: RTE 71033 -> 710433 and RTE 71034 -> RTE 710434
 * Added discogs for "RTE 710433" and "RTE 710434" (though the catalog numbers on Discogs differ)
-* Added La 36131 which contains both "RTE 710433" and "RTE 710434"
+* Added La 36131 which contains both "RTE 710433" and "RTE 710434", plus the bonus Midriff track
 
 ## July 2022
 * Added Table of Contents to the Releases page.
