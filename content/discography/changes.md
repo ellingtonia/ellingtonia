@@ -43,6 +43,7 @@ menu:
 * Corrected "April 1965" Mike Douglas session to 26 March 1965 and clarified description.
 * Added Discogs for Circle World Broadcasting System CDs
 * More specific location for 28 May 1965 interview
+* Removed Perfidia label (only used on Tidal) and used the X-Str label placeholder instead
 
 ## July 2022
 * Added Table of Contents to the Releases page.
