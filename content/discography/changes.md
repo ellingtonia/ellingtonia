@@ -45,6 +45,7 @@ menu:
 * More specific location for 28 May 1965 interview
 * Removed Perfidia label (only used on Tidal) and used the X-Str label placeholder instead
 * Updated releases page to list the number of entries per release
+* Fixed typos: RTE 71033 -> 710433 and RTE 71034 -> RTE 710434
 
 ## July 2022
 * Added Table of Contents to the Releases page.
