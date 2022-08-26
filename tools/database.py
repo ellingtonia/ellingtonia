@@ -438,6 +438,7 @@ def save_releases_to_json(database, generated):
                 json_release[key] = value
 
         if generated:
+
             def sorting_key(er):
                 return er.entry.session.json_filename
 
@@ -796,19 +797,15 @@ def cmd_list_label_releases(args):
         print(release.catalog)
 
 
-def cmd_add_youtube(args):
+def cmd_add_streaming(args):
     database = load_from_json()
 
-    label_youtube = database.get_label("X-YT")
-    max_youtube_release = max(
-        [
-            int(r.catalog)
-            for r in database.all_releases()
-            if r.label == label_youtube
-        ]
+    label = database.get_label(args.label)
+    max_release = max(
+        [int(r.catalog) for r in database.all_releases() if r.label == label]
     )
 
-    release = database.get_release(label_youtube, str(max_youtube_release + 1))
+    release = database.get_release(label, str(max_release + 1))
     release.youtube = args.link
     entries = find_entries(args, database)
 
@@ -894,8 +891,9 @@ def main():
     sp_dump_release.add_argument("label_src")
     sp_dump_release.add_argument("catalog_src")
 
-    sp_dump_release = subparsers.add_parser("add_youtube")
-    sp_dump_release.set_defaults(func=cmd_add_youtube)
+    sp_dump_release = subparsers.add_parser("add_streaming")
+    sp_dump_release.set_defaults(func=cmd_add_streaming)
+    sp_dump_release.add_argument("label")
     sp_dump_release.add_argument("link")
     sp_dump_release.add_argument("--desors", nargs="+", default=[])
     sp_dump_release.add_argument("--indexes", nargs="+", default=[])
