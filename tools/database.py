@@ -426,7 +426,9 @@ def save_releases_to_json(database, generated):
     for release in releases:
         entries = database.entry_releases_from_release(release)
         if not entries:
-            logging.warning(f"Empty release {release}; discarding")
+            if not generated:
+                # Only warn once (in the non-generated stage)
+                logging.warning(f"Empty release {release}; discarding")
             continue
 
         entries.sort(key=lambda entry_release: entry_release.entry.sequence_no)
