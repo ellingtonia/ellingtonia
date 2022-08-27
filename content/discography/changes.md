@@ -49,6 +49,7 @@ menu:
 * Added discogs for "RTE 710433" and "RTE 710434" (though the catalog numbers on Discogs differ)
 * Added La 36131 which contains both "RTE 710433" and "RTE 710434", plus the bonus Midriff track
 * Removed La 17411 as it was incomplete and is just the first CD of La 36131
+* Added a link to a recording of the Dick Cavett show recorder 06 August 1969.
 
 ## July 2022
 * Added Table of Contents to the Releases page.
