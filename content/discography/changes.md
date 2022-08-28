@@ -50,6 +50,7 @@ menu:
 * Added La 36131 which contains both "RTE 710433" and "RTE 710434", plus the bonus Midriff track
 * Removed La 17411 as it was incomplete and is just the first CD of La 36131
 * Added a link to a recording of the Dick Cavett show recorder 06 August 1969.
+* Added Discogs and more takes to CC 16 (note the date is 12 January 1940 not 1st September 1940 or 9 January 1940 as variously listed on different Discogs releases).
 
 ## July 2022
 * Added Table of Contents to the Releases page.
