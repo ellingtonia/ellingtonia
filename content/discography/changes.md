@@ -54,6 +54,7 @@ menu:
 * More Discogs for 09 January 1940.
 * Corrected date from 12 January 1940 to 9 January 1940 (confirmed in liner notes to the Duke Box).
 * Added discogs for Neatworks RP 2051 (Alternative Takes vol 8). This is not on Discogs.
+* Corrected Ready Eddy take numbers and releases {{< issue 88 />}}.
 
 ## July 2022
 * Added Table of Contents to the Releases page.
