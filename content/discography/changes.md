@@ -7,6 +7,12 @@ menu:
     weight: 10
 ---
 
+## September 2022
+* More Discogs for 09 January 1940.
+* Corrected date from 12 January 1940 to 9 January 1940 (confirmed in liner notes to the Duke Box).
+* Added discogs for Neatworks RP 2051 (Alternative Takes vol 8). This is not on Discogs.
+* Corrected Ready Eddy take numbers and releases {{< issue 88 />}}.
+
 ## August 2022
 * Fixed location of 18 November 1958 concert
 * Moved second 23 June 1967 session to immediately after the first session on that date, and similarly for 09 June 1968, 10 February 1971 and 25 August 1973
@@ -51,10 +57,6 @@ menu:
 * Removed La 17411 as it was incomplete and is just the first CD of La 36131
 * Added a link to a recording of the Dick Cavett show recorder 06 August 1969.
 * Added Discogs and more takes to CC 16 (note the date is 12 January 1940 not 1st September 1940 or 9 January 1940 as variously listed on different Discogs releases).
-* More Discogs for 09 January 1940.
-* Corrected date from 12 January 1940 to 9 January 1940 (confirmed in liner notes to the Duke Box).
-* Added discogs for Neatworks RP 2051 (Alternative Takes vol 8). This is not on Discogs.
-* Corrected Ready Eddy take numbers and releases {{< issue 88 />}}.
 
 ## July 2022
 * Added Table of Contents to the Releases page.
