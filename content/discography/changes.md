@@ -52,6 +52,7 @@ menu:
 * Added a link to a recording of the Dick Cavett show recorder 06 August 1969.
 * Added Discogs and more takes to CC 16 (note the date is 12 January 1940 not 1st September 1940 or 9 January 1940 as variously listed on different Discogs releases).
 * More Discogs for 09 January 1940.
+* Corrected date from 12 January 1940 to 9 January 1940 (confirmed in liner notes to the Duke Box).
 
 ## July 2022
 * Added Table of Contents to the Releases page.
