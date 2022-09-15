@@ -112,6 +112,7 @@ class EntryRelease:
     release: Release
     flags: str
     disc: str
+    track: int
 
 
 class Database:
@@ -362,7 +363,7 @@ def load_from_json():
                     # Sort the releases in the obvious way while we're here
                     # (case-insensitive).
                     def sort_key(label_trio):
-                        return [x.lower() for x in label_trio]
+                        return [x.lower() for x in label_trio[:3]]
 
                     for release_tuple in sorted(
                         jentry["releases"], key=sort_key
@@ -370,8 +371,9 @@ def load_from_json():
                         if len(release_tuple) == 3:
                             label, catalog, flags = release_tuple
                             disc = None
+                            track = None
                         else:
-                            label, catalog, flags, disc = release_tuple
+                            label, catalog, flags, disc, track = release_tuple
                         catalog = catalog.strip().replace(" ", "-")
                         if (label, catalog) in seen_releases:
                             logging.warning(
@@ -385,7 +387,7 @@ def load_from_json():
                         )
 
                         er = EntryRelease(
-                            entry=entry, release=release, flags=flags, disc=disc
+                            entry=entry, release=release, flags=flags, disc=disc, track=track
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
@@ -526,6 +528,7 @@ def save_to_json(database):
                         ]
                         if entry_release.disc is not None:
                             release_details.append(entry_release.disc)
+                            release_details.append(entry_release.track)
                         json_entry["releases"].append(release_details)
 
                 json_entries.append(json_entry)
