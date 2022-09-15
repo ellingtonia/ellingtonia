@@ -111,6 +111,7 @@ class EntryRelease:
     entry: Entry
     release: Release
     flags: str
+    disc: str
 
 
 class Database:
@@ -363,9 +364,14 @@ def load_from_json():
                     def sort_key(label_trio):
                         return [x.lower() for x in label_trio]
 
-                    for label, catalog, flags in sorted(
+                    for release_tuple in sorted(
                         jentry["releases"], key=sort_key
                     ):
+                        if len(release_tuple) == 3:
+                            label, catalog, flags = release_tuple
+                            disc = None
+                        else:
+                            label, catalog, flags, disc = release_tuple
                         catalog = catalog.strip().replace(" ", "-")
                         if (label, catalog) in seen_releases:
                             logging.warning(
@@ -379,9 +385,7 @@ def load_from_json():
                         )
 
                         er = EntryRelease(
-                            entry=entry,
-                            release=release,
-                            flags=flags,
+                            entry=entry, release=release, flags=flags, disc=disc
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
@@ -515,13 +519,14 @@ def save_to_json(database):
 
                     releases = database.entry_releases_from_entry(entry)
                     for entry_release in releases:
-                        json_entry["releases"].append(
-                            (
-                                entry_release.release.label.label,
-                                entry_release.release.catalog,
-                                entry_release.flags,
-                            )
-                        )
+                        release_details = [
+                            entry_release.release.label.label,
+                            entry_release.release.catalog,
+                            entry_release.flags,
+                        ]
+                        if entry_release.disc is not None:
+                            release_details.append(entry_release.disc)
+                        json_entry["releases"].append(release_details)
 
                 json_entries.append(json_entry)
 
