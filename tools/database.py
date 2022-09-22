@@ -362,18 +362,14 @@ def load_from_json():
 
                     # Sort the releases in the obvious way while we're here
                     # (case-insensitive).
-                    def sort_key(label_trio):
-                        return [x.lower() for x in label_trio[:3]]
+                    def sort_key(release_dict):
+                        return (release_dict["label"].lower(), release_dict["catalog"].lower())
 
-                    for release_tuple in sorted(
+                    for release_dict in sorted(
                         jentry["releases"], key=sort_key
                     ):
-                        if len(release_tuple) == 3:
-                            label, catalog, flags = release_tuple
-                            disc = None
-                            track = None
-                        else:
-                            label, catalog, flags, disc, track = release_tuple
+                        label = release_dict["label"]
+                        catalog = release_dict["catalog"]
                         catalog = catalog.strip().replace(" ", "-")
                         if (label, catalog) in seen_releases:
                             logging.warning(
@@ -386,16 +382,12 @@ def load_from_json():
                             database.get_label(label), catalog
                         )
 
-                        # TODO: Temporary for schema upgrade
-                        if flags == "":
-                            flags = None
-
                         er = EntryRelease(
                             entry=entry,
                             release=release,
-                            flags=flags,
-                            disc=disc,
-                            track=track,
+                            flags=release_dict.get("flags"),
+                            disc=release_dict.get("disc"),
+                            track=release_dict.get("track"),
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
