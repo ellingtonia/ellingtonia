@@ -51,12 +51,12 @@
           {{ range $idx, $elem := $entry.releases }}
             {{/* Label, identifier and any trailing symbol like a dagger */}}
 
-            {{- $label := index $elem 0 -}}
-            {{- $catalog := index $elem 1 -}}
-            {{- $flags := index $elem 2 -}}
+            {{- $label := $elem.label -}}
+            {{- $catalog := $elem.catalog -}}
+            {{- $flags := $elem.flags -}}
             {{- $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog ) -}}
 
-            {{- $release_info := index $release_data (index $elem 0) (index $elem 1) -}}
+            {{- $release_info := index $release_data $label $catalog -}}
             {{- $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
 
             {{- $title_str := "" -}}
