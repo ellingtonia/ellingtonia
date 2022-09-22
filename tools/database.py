@@ -386,8 +386,16 @@ def load_from_json():
                             database.get_label(label), catalog
                         )
 
+                        # TODO: Temporary for schema upgrade
+                        if flags == "":
+                            flags = None
+
                         er = EntryRelease(
-                            entry=entry, release=release, flags=flags, disc=disc, track=track
+                            entry=entry,
+                            release=release,
+                            flags=flags,
+                            disc=disc,
+                            track=track,
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
@@ -521,14 +529,16 @@ def save_to_json(database):
 
                     releases = database.entry_releases_from_entry(entry)
                     for entry_release in releases:
-                        release_details = [
-                            entry_release.release.label.label,
-                            entry_release.release.catalog,
-                            entry_release.flags,
-                        ]
+                        release_details = {
+                            "label": entry_release.release.label.label,
+                            "catalog": entry_release.release.catalog,
+                        }
+                        if entry_release.flags is not None:
+                            release_details["flags"] = entry_release.flags
                         if entry_release.disc is not None:
-                            release_details.append(entry_release.disc)
-                            release_details.append(entry_release.track)
+                            release_details["disc"] = entry_release.disc
+                        if entry_release.track is not None:
+                            release_details["track"] = entry_release.track
                         json_entry["releases"].append(release_details)
 
                 json_entries.append(json_entry)
@@ -680,7 +690,7 @@ def cmd_release_takes(args):
                 logging.warning(f"Entry {entry} already has release {release}")
                 continue
 
-            er = EntryRelease(entry=entry, release=release, flags="")
+            er = EntryRelease(entry=entry, release=release, disc="")
             database.add_entry_release(er)
 
     save_to_json(database)
