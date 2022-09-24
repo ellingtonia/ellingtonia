@@ -2,6 +2,7 @@
 
 import argparse
 import collections
+import csv
 import json
 import os
 import logging
@@ -113,7 +114,7 @@ class EntryRelease:
     flags: str
     disc: str
     track: int
-    length: int # in seconds
+    length: int  # in seconds
 
 
 class Database:
@@ -215,6 +216,7 @@ class Database:
         return self._entry_releases_by_entry[release][:]
 
     def entry_from_desor(self, desor):
+        assert desor, "Empty desor"
         if desor not in self._entries_by_desor:
             raise KeyError(f"Missing DESOR {desor}")
 
@@ -364,7 +366,10 @@ def load_from_json():
                     # Sort the releases in the obvious way while we're here
                     # (case-insensitive).
                     def sort_key(release_dict):
-                        return (release_dict["label"].lower(), release_dict["catalog"].lower())
+                        return (
+                            release_dict["label"].lower(),
+                            release_dict["catalog"].lower(),
+                        )
 
                     for release_dict in sorted(
                         jentry["releases"], key=sort_key
@@ -843,6 +848,49 @@ def cmd_add_streaming(args):
     save_to_json(database)
 
 
+def cmd_import_csv(args):
+    database = load_from_json()
+
+    with open(args.path) as f:
+        dialect = csv.Sniffer().sniff(f.read(1024))
+        f.seek(0)
+        dict_reader = csv.DictReader(f, dialect=dialect)
+
+        for row in dict_reader:
+            if not row["ndesor"].strip():
+                continue
+
+            release = database.get_release(
+                database.get_label(row["label"]), row["catalog"]
+            )
+            try:
+                entry = database.entry_from_desor(row["ndesor"].strip())
+            except KeyError as e:
+                print(row, e)
+
+            length = None
+            if row.get("length"):
+                minutes, seconds = row["length"].split(":")
+                length = int(minutes) * 60 + int(seconds)
+
+            # Remove any existing EntryRelease
+            for old_er in database.entry_releases_from_entry(entry):
+                if old_er.release == release:
+                    database.remove_entry_release(old_er)
+
+            er = EntryRelease(
+                entry=entry,
+                release=release,
+                flags="",
+                disc=row.get("disc"),
+                track=row.get("track"),
+                length=length,
+            )
+            database.add_entry_release(er)
+
+    save_to_json(database)
+
+
 def main():
     logging.basicConfig(
         level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s"
@@ -929,6 +977,10 @@ def main():
     sp_dump_release.add_argument("link")
     sp_dump_release.add_argument("--desors", nargs="+", default=[])
     sp_dump_release.add_argument("--indexes", nargs="+", default=[])
+
+    sp_import_csv = subparsers.add_parser("import_csv")
+    sp_import_csv.set_defaults(func=cmd_import_csv)
+    sp_import_csv.add_argument("path")
 
     sp_list_label_releases_release = subparsers.add_parser(
         "list_label_releases"
