@@ -453,13 +453,9 @@ def save_releases_to_json(database, generated):
                 json_release[key] = value
 
         if generated:
-
-            def sorting_key(er):
-                return er.entry.session.json_filename
-
             json_release["takes"] = []
 
-            for er in sorted(entries, key=sorting_key):
+            for er in entries:
                 json_entry = {
                     "title": er.entry.title,
                     "flags": er.flags,
