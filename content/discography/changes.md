@@ -13,6 +13,7 @@ menu:
 * Added discogs for Neatworks RP 2051 (Alternative Takes vol 8). This is not on Discogs.
 * Corrected Ready Eddy take numbers and releases {{< issue 88 />}}.
 * Corrected Menelik - The Lion Of Judah (which has only one take) {{< issue 88 />}}.
+* Fixed DESORS for Blue Serge / After all DE4105e-f.
 
 ## August 2022
 * Fixed location of 18 November 1958 concert
