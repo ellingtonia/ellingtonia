@@ -456,8 +456,19 @@ def save_releases_to_json(database, generated):
             json_release["takes"] = []
 
             for er in entries:
+                title = er.entry.title
+                if er.disc and er.track:
+                    title = f"({er.disc}-{er.track}) {title}"
+                elif er.disc:
+                    title = f"({er.disc}-) {title}"
+                elif er.track:
+                    title = f"({er.track}) {title}"
+
+                if er.length:
+                    title = f"{title} ({er.length//60}:{er.length%60})"
+
                 json_entry = {
-                    "title": er.entry.title,
+                    "title": title,
                     "flags": er.flags,
                     "index": er.entry.index,
                     "matrix": er.entry.matrix,
