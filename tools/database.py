@@ -115,6 +115,7 @@ class EntryRelease:
     disc: str
     track: int
     length: int  # in seconds
+    title: str
 
 
 class Database:
@@ -395,6 +396,7 @@ def load_from_json():
                             disc=release_dict.get("disc"),
                             track=release_dict.get("track"),
                             length=release_dict.get("length"),
+                            title=release_dict.get("title"),
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
@@ -547,6 +549,8 @@ def save_to_json(database):
                             release_details["track"] = entry_release.track
                         if entry_release.length is not None:
                             release_details["length"] = entry_release.length
+                        if entry_release.title is not None:
+                            release_details["title"] = entry_release.title
                         json_entry["releases"].append(release_details)
 
                 json_entries.append(json_entry)
@@ -891,6 +895,7 @@ def cmd_import_csv(args):
                 flags="",
                 disc=row.get("disc"),
                 track=row.get("track"),
+                title=row.get("title"),
                 length=length,
             )
             database.add_entry_release(er)
