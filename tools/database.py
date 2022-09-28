@@ -483,7 +483,7 @@ def save_releases_to_json(database, generated):
                         title = f"{title} (as {er.title})"
 
                 if er.length:
-                    title = f"{title} ({er.length//60}:{er.length%60})"
+                    title = f"{title} ({er.length//60}:{er.length%60:-02})"
 
                 json_entry = {
                     "title": title,
