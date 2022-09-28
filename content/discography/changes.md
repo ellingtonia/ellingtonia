@@ -14,6 +14,7 @@ menu:
 * Corrected Ready Eddy take numbers and releases {{< issue 88 />}}.
 * Corrected Menelik - The Lion Of Judah (which has only one take) {{< issue 88 />}}.
 * Fixed DESORS for Blue Serge / After all DE4105e-f.
+* Changed the ordering of DE2812a-c to place "The Mooche" at "c". This matches the Centennial edition.
 
 ## August 2022
 * Fixed location of 18 November 1958 concert
