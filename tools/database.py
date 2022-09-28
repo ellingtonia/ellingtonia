@@ -435,6 +435,12 @@ def save_json(path, obj, ensure_ascii=False):
     os.rename(tmp_path, path)
 
 
+def simplify_title(s):
+    # Replace e.g. " - v IA"
+    s = re.sub(" - v.*", "", s)
+    return re.sub(r"[^a-z]", "", s.lower().strip())
+
+
 def save_releases_to_json(database, generated):
     releases = database.all_releases()
     json_releases = {}
@@ -465,6 +471,16 @@ def save_releases_to_json(database, generated):
                     title = f"({er.disc}-) {title}"
                 elif er.track:
                     title = f"({er.track}) {title}"
+
+                if er.title:
+                    if simplify_title(er.title) != simplify_title(
+                        er.entry.title
+                    ):
+                        print(
+                            simplify_title(er.title),
+                            simplify_title(er.entry.title),
+                        )
+                        title = f"{title} (as {er.title})"
 
                 if er.length:
                     title = f"{title} ({er.length//60}:{er.length%60})"
