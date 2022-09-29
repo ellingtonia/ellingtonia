@@ -435,12 +435,6 @@ def save_json(path, obj, ensure_ascii=False):
     os.rename(tmp_path, path)
 
 
-def simplify_title(s):
-    # Replace e.g. " - v IA"
-    s = re.sub(" - v.*", "", s)
-    return re.sub(r"[^a-z]", "", s.lower().strip())
-
-
 def save_releases_to_json(database, generated):
     def entry_release_sort_key(er):
         disc = er.disc
@@ -474,34 +468,28 @@ def save_releases_to_json(database, generated):
             json_release["takes"] = []
 
             for er in entries:
-                title = er.entry.title
+                disc_track = None
                 if er.disc and er.track:
-                    title = f"({er.disc}-{er.track}) {title}"
+                    disc_track = f"{er.disc}-{er.track}"
                 elif er.disc:
-                    title = f"({er.disc}-) {title}"
+                    disc_track = f"{er.disc}"
                 elif er.track:
-                    title = f"({er.track}) {title}"
+                    disc_track = f"{er.track}"
 
-                if er.title:
-                    if simplify_title(er.title) != simplify_title(
-                        er.entry.title
-                    ):
-                        print(
-                            simplify_title(er.title),
-                            simplify_title(er.entry.title),
-                        )
-                        title = f"{title} (as {er.title})"
-
+                length = None
                 if er.length:
-                    title = f"{title} ({er.length//60}:{er.length%60:-02})"
+                    length = f"{er.length//60}:{er.length%60:-02}"
 
                 json_entry = {
-                    "title": title,
+                    "title": er.entry.title,
                     "flags": er.flags,
                     "index": er.entry.index,
                     "matrix": er.entry.matrix,
                     "desor": er.entry.desor,
                     "page": er.entry.session.json_filename.replace(".json", ""),
+                    "as_title": er.title,
+                    "disc_track": disc_track,
+                    "length": length,
                 }
                 for key in ENTRY_LINKS:
                     json_entry[key] = getattr(er.entry, key)

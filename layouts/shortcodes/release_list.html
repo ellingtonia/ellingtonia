@@ -68,7 +68,23 @@ case tracks are listed in the order in they were recorded.</p>
           {{ $page := ref $.Page (printf "discography/%s" $take.page) }}
           <td class="index"><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
           <td>{{ $take.matrix }}</td>
-          <td> {{ $take.title }}{{ $take.flags }}
+          <td>
+            {{ if $take.disc_track }}
+              <span class="detail">({{ $take.disc_track }})</span>
+            {{ end }}
+
+            {{ $take.title -}}
+
+            {{ if $take.as_title }}
+              <span class="detail">(as {{ $take.as_title }})</span>
+            {{ end }}
+
+            {{- $take.flags }}
+
+            {{ if $take.length }}
+              <span class="detail">({{ $take.length }})</span>
+            {{ end }}
+
             {{ range $link_data := $.Site.Params.entry_links }}
               {{- if index $take $link_data.key -}}
                 <a href="{{ index $take $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
