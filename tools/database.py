@@ -442,6 +442,16 @@ def simplify_title(s):
 
 
 def save_releases_to_json(database, generated):
+    def entry_release_sort_key(er):
+        disc = er.disc
+
+        # Disc could be e.g. [Side] "A" rather than a number
+        try:
+            disc = format(int(disc), "-03")
+        except (ValueError, TypeError):
+            pass
+        return (disc, er.track, er.entry.sequence_no)
+
     releases = database.all_releases()
     json_releases = {}
     for release in releases:
@@ -452,7 +462,7 @@ def save_releases_to_json(database, generated):
                 logging.warning(f"Empty release {release}; discarding")
             continue
 
-        entries.sort(key=lambda entry_release: entry_release.entry.sequence_no)
+        entries.sort(key=entry_release_sort_key)
 
         json_release = {}
 
