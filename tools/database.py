@@ -905,12 +905,16 @@ def cmd_import_csv(args):
                 if old_er.release == release:
                     database.remove_entry_release(old_er)
 
+            track = None
+            if row.get("track"):
+                track = int(row["track"])
+
             er = EntryRelease(
                 entry=entry,
                 release=release,
                 flags="",
                 disc=row.get("disc"),
-                track=row.get("track"),
+                track=track,
                 title=row.get("title"),
                 length=length,
             )
