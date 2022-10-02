@@ -17,6 +17,7 @@ menu:
 * Changed the ordering of DE2812a-c to place "The Mooche" at "c". This matches the Centennial edition.
 * {{< issue 81 >}}Added complete contents of the Centennial Edition{{< /issue >}}
 * Added "Tokyo" insert DE6688xa to the Centennial Edition
+* Fixed "Troubled Water" -> "Troubled Waters"
 
 ## August 2022
 * Fixed location of 18 November 1958 concert
