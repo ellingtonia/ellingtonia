@@ -55,6 +55,14 @@ case tracks are listed in the order in they were recorded.</p>
     </h3>
 
     <p>No. entries: {{ len $release_data.takes }}</p>
+
+    {{ if $release_data.note }}
+      <div>
+        {{ $.Page.RenderString $release_data.note }}
+      </div>
+      <p/>
+    {{ end }}
+
     <table class="discog_table">
       <tr class="pre_heading"/>
       <tr class="main_heading">
