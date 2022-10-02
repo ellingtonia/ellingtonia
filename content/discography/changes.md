@@ -18,6 +18,7 @@ menu:
 * {{< issue 81 >}}Added complete contents of the Centennial Edition{{< /issue >}}
 * Added "Tokyo" insert DE6688xa to the Centennial Edition
 * Fixed "Troubled Water" -> "Troubled Waters"
+* Split up DE7344d into two parts (-1 and -2), in line with the presentation in the Centennial Edition
 
 ## August 2022
 * Fixed location of 18 November 1958 concert
