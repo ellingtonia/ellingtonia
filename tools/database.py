@@ -639,10 +639,6 @@ def scrape_discogs(database):
 
     for release in database.all_releases():
         if release.discogs:
-            if release.title:
-                # Don't re-scrape
-                continue
-
             release_number = re.match(DISCOGS_REGEX, release.discogs).groups()[
                 0
             ]
