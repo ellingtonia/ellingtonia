@@ -629,6 +629,12 @@ class Discogs:
 
 
 def scrape_discogs(database):
+    def format_to_str(json_format):
+        if "qty" in json_format and int(json_format["qty"]) > 1:
+            return f"{json_format['qty']}x{json_format['name']}"
+        else:
+            return json_format["name"]
+
     discogs = Discogs()
 
     for release in database.all_releases():
@@ -646,10 +652,9 @@ def scrape_discogs(database):
             release.title = jdata["title"]
 
             release.format = ", ".join(
-                sorted(f["name"] for f in jdata["formats"])
+                sorted(format_to_str(f) for f in jdata["formats"])
             )
 
-            time.sleep(60 / 24)  # Rate limit is 1/25
 
 
 def cmd_normalise(args):
