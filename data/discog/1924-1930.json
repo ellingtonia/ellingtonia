@@ -3493,83 +3493,10 @@
         ]
     },
     {
-        "group": "OZZIE WARE WITH \"HOT FIVE\"",
-        "location": "New York City, NY",
-        "date": "30 October 1928",
-        "same_session": false,
-        "description": "Victor recording session",
-        "entries": [
-            {
-                "type": "artists",
-                "value": " Freddie Jenkins(t); Barney Bigard(cl);  Duke Ellington(p); Wellman Braud(bb); Sonny Greer(d); Ozzie Ware(v)"
-            },
-            {
-                "type": "take",
-                "index": "28-10-30-001",
-                "matrix": "BVE48100-1",
-                "title": "Santa Claus, Bring My Man Back To Me - vOW",
-                "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "741028"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "550"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-52"
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "flags": "",
-                        "disc": "1",
-                        "track": 18,
-                        "length": 181,
-                        "title": ""
-                    }
-                ],
-                "desor": "DE2812a"
-            },
-            {
-                "type": "take",
-                "index": "28-10-30-002",
-                "matrix": "BVE48101-2",
-                "title": "I Done Caught You Blues - vOW",
-                "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "741028"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "550"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-52"
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "flags": "",
-                        "disc": "1",
-                        "track": 19,
-                        "length": 177,
-                        "title": ""
-                    }
-                ],
-                "desor": "DE2812b"
-            }
-        ]
-    },
-    {
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "30 October 1928",
-        "same_session": true,
+        "same_session": false,
         "description": null,
         "entries": [
             {
@@ -3578,7 +3505,7 @@
             },
             {
                 "type": "take",
-                "index": "28-10-30-003",
+                "index": "28-10-30-001",
                 "matrix": "BVE47799-2",
                 "title": "The Mooche",
                 "releases": [
@@ -3613,6 +3540,79 @@
                     }
                 ],
                 "desor": "DE2812c"
+            }
+        ]
+    },
+    {
+        "group": "OZZIE WARE WITH \"HOT FIVE\"",
+        "location": "New York City, NY",
+        "date": "30 October 1928",
+        "same_session": true,
+        "description": "Victor recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": " Freddie Jenkins(t); Barney Bigard(cl);  Duke Ellington(p); Wellman Braud(bb); Sonny Greer(d); Ozzie Ware(v)"
+            },
+            {
+                "type": "take",
+                "index": "28-10-30-002",
+                "matrix": "BVE48100-1",
+                "title": "Santa Claus, Bring My Man Back To Me - vOW",
+                "releases": [
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "741028"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "550"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-52"
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "flags": "",
+                        "disc": "1",
+                        "track": 18,
+                        "length": 181,
+                        "title": ""
+                    }
+                ],
+                "desor": "DE2812a"
+            },
+            {
+                "type": "take",
+                "index": "28-10-30-003",
+                "matrix": "BVE48101-2",
+                "title": "I Done Caught You Blues - vOW",
+                "releases": [
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "741028"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "550"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-52"
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "flags": "",
+                        "disc": "1",
+                        "track": 19,
+                        "length": 177,
+                        "title": ""
+                    }
+                ],
+                "desor": "DE2812b"
             }
         ]
     },
