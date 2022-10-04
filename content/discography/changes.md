@@ -21,6 +21,7 @@ menu:
 * Split up DE7344d into two parts (-1 and -2), in line with the presentation in the Centennial Edition
 * Removed redundant duplicates of the Centennial Edition RCA 09026-63386  and Vi 09026-63386
 * Restored ordering (but not NDESORS) for DE2812a-c
+* Removed duplicate release Vi 09026-63386-2
 
 ## August 2022
 * Fixed location of 18 November 1958 concert
