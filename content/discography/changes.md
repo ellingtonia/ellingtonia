@@ -7,6 +7,13 @@ menu:
     weight: 10
 ---
 
+## October 2022
+* Fixed "Troubled Water" -> "Troubled Waters"
+* Split up DE7344d into two parts (-1 and -2), in line with the presentation in the Centennial Edition
+* Removed redundant duplicates of the Centennial Edition RCA 09026-63386  and Vi 09026-63386
+* Restored ordering (but not NDESORS) for DE2812a-c
+* Removed duplicate release Vi 09026-63386-2
+
 ## September 2022
 * More Discogs for 09 January 1940.
 * Corrected date from 12 January 1940 to 9 January 1940 (confirmed in liner notes to the Duke Box).
@@ -17,11 +24,6 @@ menu:
 * Changed the ordering of DE2812a-c to place "The Mooche" at "c". This matches the Centennial edition.
 * {{< issue 81 >}}Added complete contents of the Centennial Edition{{< /issue >}}
 * Added "Tokyo" insert DE6688xa to the Centennial Edition
-* Fixed "Troubled Water" -> "Troubled Waters"
-* Split up DE7344d into two parts (-1 and -2), in line with the presentation in the Centennial Edition
-* Removed redundant duplicates of the Centennial Edition RCA 09026-63386  and Vi 09026-63386
-* Restored ordering (but not NDESORS) for DE2812a-c
-* Removed duplicate release Vi 09026-63386-2
 
 ## August 2022
 * Fixed location of 18 November 1958 concert
