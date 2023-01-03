@@ -22,7 +22,7 @@ jobs:
           hugo-version: '0.99.1'
 
       - name: Generate
-        run: ./tools/database.py normalise
+        run: ./tools/database.py normalise --no-scrape-discogs
         
       - name: Build
         run: hugo --minify
