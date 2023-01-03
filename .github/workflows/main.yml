@@ -10,8 +10,6 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     steps:
-      - name: generate
-        run: ./tools/database.py normalise
 
       - uses: actions/checkout@v2
         with:
@@ -23,6 +21,9 @@ jobs:
         with:
           hugo-version: '0.99.1'
 
+      - name: Generate
+        run: ./tools/database.py normalise
+        
       - name: Build
         run: hugo --minify
 
