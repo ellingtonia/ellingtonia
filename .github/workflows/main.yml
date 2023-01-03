@@ -10,6 +10,9 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     steps:
+      - name: generate
+        run: ./tools/database.py normalise
+
       - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
