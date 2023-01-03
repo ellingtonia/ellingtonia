@@ -34,6 +34,10 @@ table.discog_table tr.session_heading th {
     padding-left: 10px;
 }
 
+table.discog_table .detail {
+    font-size: 75%;
+}
+
 tr.artists td {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -41,6 +45,10 @@ tr.artists td {
 
 tr.take td {
     vertical-align: top;
+}
+
+tr.take td.index {
+    white-space: nowrap; /* Prevent indices wrapping at "-" in Chrome, Safari */
 }
 
 table.striped tbody tr:nth-child(even) {
