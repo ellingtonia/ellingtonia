@@ -17,6 +17,7 @@ menu:
 * 9 & 12 January 1940: Removed Ben Webster, added Duke Box release.
 * Corrected release MD9-248 to MD11-249
 * 14 February 1940: Fix location and moved oen session from the 15th
+* 15 February 1940: Two tracks are by Barney Bigard not Cootie Williams and his Rug Cutters
 
 ## September 2022
 * More Discogs for 09 January 1940.
