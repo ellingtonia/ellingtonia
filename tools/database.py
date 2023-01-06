@@ -445,7 +445,7 @@ def save_releases_to_json(database, generated):
         # Disc could be e.g. [Side] "A" rather than a number
         try:
             disc = format(int(disc), "-03")
-        except (ValueError, TypeError):
+        except (ValueError, TypeError) as e:
             pass
         return (disc, er.track, er.entry.sequence_no)
 
@@ -725,7 +725,7 @@ def cmd_release_takes(args):
             er = EntryRelease(
                 entry=entry,
                 release=release,
-                disc="",
+                disc=None,
                 flags=None,
                 track=None,
                 length=None,
