@@ -652,7 +652,6 @@ def scrape_discogs(database):
             )
 
 
-
 def cmd_normalise(args):
     database = load_from_json()
 
@@ -723,7 +722,15 @@ def cmd_release_takes(args):
                 logging.warning(f"Entry {entry} already has release {release}")
                 continue
 
-            er = EntryRelease(entry=entry, release=release, disc="")
+            er = EntryRelease(
+                entry=entry,
+                release=release,
+                disc="",
+                flags=None,
+                track=None,
+                length=None,
+                title=None,
+            )
             database.add_entry_release(er)
 
     save_to_json(database)
