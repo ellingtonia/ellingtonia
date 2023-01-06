@@ -16,6 +16,7 @@ menu:
 * Corrected drummer and location for 23 Jan 1966 session
 * 9 & 12 January 1940: Removed Ben Webster, added Duke Box release.
 * Corrected release MD9-248 to MD11-249
+* 14 February 1940: Fix location and moved oen session from the 15th
 
 ## September 2022
 * More Discogs for 09 January 1940.
