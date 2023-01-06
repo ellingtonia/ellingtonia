@@ -19,6 +19,7 @@ menu:
 * 14 February 1940: Fix location and moved oen session from the 15th
 * 15 February 1940: Two tracks are by Barney Bigard not Cootie Williams and his Rug Cutters
 * Correct Vo 5690 to Ok 5690
+* Added 40-03-15-* to AMSC 1143
 
 ## September 2022
 * More Discogs for 09 January 1940.
