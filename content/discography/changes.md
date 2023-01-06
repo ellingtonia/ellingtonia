@@ -14,6 +14,7 @@ menu:
 * Restored ordering (but not NDESORS) for DE2812a-c
 * Removed duplicate release Vi 09026-63386-2
 * Corrected drummer and location for 23 Jan 1966 session
+* 9 & 12 January 1940: Removed Ben Webster, added Duke Box release.
 
 ## September 2022
 * More Discogs for 09 January 1940.
