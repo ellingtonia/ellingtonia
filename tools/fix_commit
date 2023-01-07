@@ -1,0 +1,6 @@
+#!/bin/bash
+set -ue -o pipefail
+
+tools/database.py normalise
+tools/changelog "$@" "$(head -1 crud/commit.txt)"
+git commit -a -F crud/commit.txt

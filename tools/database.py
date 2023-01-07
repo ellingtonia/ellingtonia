@@ -443,10 +443,13 @@ def save_releases_to_json(database, generated):
         disc = er.disc
 
         # Disc could be e.g. [Side] "A" rather than a number
-        try:
-            disc = format(int(disc), "-03")
-        except (ValueError, TypeError) as e:
-            pass
+        if disc is None:
+            disc = ""
+        else:
+            try:
+                disc = format(int(disc), "-03")
+            except (ValueError, TypeError) as e:
+                pass
         return (disc, er.track, er.entry.sequence_no)
 
     releases = database.all_releases()
