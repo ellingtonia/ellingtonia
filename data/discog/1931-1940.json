@@ -19284,6 +19284,12 @@
                         "catalog": "JUCD-2069"
                     },
                     {
+                        "label": "MDD",
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 3
+                    },
+                    {
                         "label": "MR",
                         "catalog": "MCD-084-2"
                     },
@@ -19324,6 +19330,12 @@
                     {
                         "label": "JU",
                         "catalog": "JUCD-2069"
+                    },
+                    {
+                        "label": "MDD",
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 2
                     },
                     {
                         "label": "MR",
@@ -19369,7 +19381,9 @@
                     },
                     {
                         "label": "MDD",
-                        "catalog": "012"
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 4
                     },
                     {
                         "label": "MR",
@@ -19754,7 +19768,9 @@
                     },
                     {
                         "label": "MDD",
-                        "catalog": "012"
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 6
                     },
                     {
                         "label": "NI",
@@ -19779,7 +19795,9 @@
                     },
                     {
                         "label": "MDD",
-                        "catalog": "012"
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 5
                     },
                     {
                         "label": "NI",
@@ -19882,7 +19900,9 @@
                     },
                     {
                         "label": "MDD",
-                        "catalog": "012"
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 7
                     },
                     {
                         "label": "NI",
@@ -19933,7 +19953,9 @@
                     },
                     {
                         "label": "MDD",
-                        "catalog": "012"
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 8
                     },
                     {
                         "label": "NI",
@@ -19988,7 +20010,9 @@
                     },
                     {
                         "label": "MDD",
-                        "catalog": "012"
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 9
                     },
                     {
                         "label": "NI",
@@ -20549,6 +20573,12 @@
                     {
                         "label": "JS",
                         "catalog": "704"
+                    },
+                    {
+                        "label": "MDD",
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 10
                     }
                 ],
                 "desor": "DE4021e"
@@ -21012,6 +21042,12 @@
                     {
                         "label": "JS",
                         "catalog": "705"
+                    },
+                    {
+                        "label": "MDD",
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 11
                     }
                 ],
                 "desor": "DE4024a"
@@ -21533,6 +21569,12 @@
                         "catalog": "EV-3005"
                     },
                     {
+                        "label": "MDD",
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 12
+                    },
+                    {
                         "label": "NI",
                         "catalog": "4016"
                     }
@@ -21811,6 +21853,12 @@
                 "matrix": null,
                 "title": "Little Posey",
                 "releases": [
+                    {
+                        "label": "MDD",
+                        "catalog": "012",
+                        "flags": "",
+                        "track": 13
+                    },
                     {
                         "label": "NI",
                         "catalog": "4016"

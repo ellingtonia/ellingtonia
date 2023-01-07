@@ -926,11 +926,15 @@ def cmd_import_csv(args):
             if row.get("track"):
                 track = int(row["track"])
 
+            disc = None
+            if row.get("disc"):
+                disc = int(row["disc"])
+
             er = EntryRelease(
                 entry=entry,
                 release=release,
                 flags="",
-                disc=row.get("disc"),
+                disc=disc,
                 track=track,
                 title=row.get("title"),
                 length=length,
