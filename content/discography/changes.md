@@ -24,6 +24,7 @@ menu:
 * Corrected Ep LN-32337 to Ep LN-3237
 * Corrected pianist on 40-02-14/15.
 * Renamed El '97 to the commerical release JUCD-2069, and added one take to MDD 012
+* At A Dixie Roadside Diner: Re-attributed DE4028m as DE4014xa.
 
 ## September 2022
 * More Discogs for 09 January 1940.

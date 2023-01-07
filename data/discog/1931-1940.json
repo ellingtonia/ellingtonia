@@ -19730,7 +19730,12 @@
                 "index": "40-07-29-001",
                 "matrix": null,
                 "title": "At A Dixie Roadside Diner",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESS",
+                        "catalog": "CD-4"
+                    }
+                ],
                 "desor": "DE4014xa"
             },
             {
@@ -22194,25 +22199,12 @@
                 "desor": "DE4028l"
             },
             {
-                "type": "take",
-                "index": "40-10-00-014",
-                "matrix": null,
-                "title": "At A Dixie Roadside Diner",
-                "releases": [
-                    {
-                        "label": "DESS",
-                        "catalog": "CD-4"
-                    }
-                ],
-                "desor": "DE4028m"
-            },
-            {
                 "type": "artists",
                 "value": "Duke Ellington(p)"
             },
             {
                 "type": "take",
-                "index": "40-10-00-015",
+                "index": "40-10-00-014",
                 "matrix": null,
                 "title": "Black Beauty",
                 "releases": [
@@ -22229,7 +22221,7 @@
             },
             {
                 "type": "artists",
-                "value": "The above items are likely duplicates from the other listed sessions from Hotel Sherman but until these are definitively identified they remain as previously listed."
+                "value": "The above items are likely duplicates from the other listed sessions from Hotel Sherman but until these are definitively identified they remain as previously listed. DE4028m (was \"At A Dixie Roadside Diner\") now identified as DE4014x"
             }
         ]
     },
