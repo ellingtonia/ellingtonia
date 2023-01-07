@@ -33,6 +33,7 @@ menu:
 * Added tracks to Cl(F) 820 and Nw RP2051
 * Fixed typo in releases for DE4033m
 * Added Fargo concert to The Duke Box
+* Corrected Fargo 1940 NDESORs
 
 ## September 2022
 * More Discogs for 09 January 1940.
