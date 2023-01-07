@@ -7,12 +7,7 @@ menu:
     weight: 10
 ---
 
-## October 2022
-* Fixed "Troubled Water" -> "Troubled Waters"
-* Split up DE7344d into two parts (-1 and -2), in line with the presentation in the Centennial Edition
-* Removed redundant duplicates of the Centennial Edition RCA 09026-63386  and Vi 09026-63386
-* Restored ordering (but not NDESORS) for DE2812a-c
-* Removed duplicate release Vi 09026-63386-2
+## January 2023
 * Corrected drummer and location for 23 Jan 1966 session
 * 9 & 12 January 1940: Removed Ben Webster, added Duke Box release.
 * Corrected release MD9-248 to MD11-249
@@ -23,10 +18,9 @@ menu:
 * Corrected matrix numbers for 40-02-14/15
 * Corrected Ep LN-32337 to Ep LN-3237
 * Corrected pianist on 40-02-14/15.
-* Renamed El '97 to the commerical release JUCD-2069, and added one take to MDD 012
+* Renamed El '97 to the commerical release JUCD-2069
 * At A Dixie Roadside Diner: Re-attributed DE4028m as DE4014xa.
-* Added two takes to MDD 012 and Ev EV-3005
-* Added more takes to MDD 012
+* Added takes to Ev EV-3005
 * Corrected Victor release number of DE4018b "In A Mellow Tone"
 * Added DE4029f "Sophisticated Lady" to Nw RP2048
 * Fixed "Otto Otto" typo
@@ -36,7 +30,14 @@ menu:
 * Corrected Fargo 1940 NDESORs
 * Added missing track to Fargo Session (I Never Felt This Way Before)
 * Corrected more releases for the Fargo session
-* Added remaining MDD 012 tracks
+* Added MDD 012
+
+## October 2022
+* Fixed "Troubled Water" -> "Troubled Waters"
+* Split up DE7344d into two parts (-1 and -2), in line with the presentation in the Centennial Edition
+* Removed redundant duplicates of the Centennial Edition RCA 09026-63386  and Vi 09026-63386
+* Restored ordering (but not NDESORS) for DE2812a-c
+* Removed duplicate release Vi 09026-63386-2
 
 ## September 2022
 * More Discogs for 09 January 1940.
