@@ -22,6 +22,7 @@ menu:
 * Added 40-03-15-* to AMSC 1143
 * Corrected matrix numbers for 40-02-14/15
 * Corrected Ep LN-32337 to Ep LN-3237
+* Corrected pianist on 40-02-14/15.
 
 ## September 2022
 * More Discogs for 09 January 1940.
