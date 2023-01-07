@@ -26,6 +26,7 @@ menu:
 * Renamed El '97 to the commerical release JUCD-2069, and added one take to MDD 012
 * At A Dixie Roadside Diner: Re-attributed DE4028m as DE4014xa.
 * Added two takes to MDD 012 and Ev EV-3005
+* Added more takes to MDD 012
 
 ## September 2022
 * More Discogs for 09 January 1940.
