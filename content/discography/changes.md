@@ -31,6 +31,7 @@ menu:
 * Added missing track to Fargo Session (I Never Felt This Way Before)
 * Corrected more releases for the Fargo session
 * Added MDD 012
+* Added missing tracks to RCA 07863-66790-2 (and corrected a previous typo)
 
 ## October 2022
 * Fixed "Troubled Water" -> "Troubled Waters"
