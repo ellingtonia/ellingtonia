@@ -29,6 +29,7 @@ menu:
 * Added more takes to MDD 012
 * Corrected Victor release number of DE4018b "In A Mellow Tone"
 * Added DE4029f "Sophisticated Lady" to Nw RP2048
+* Fixed "Otto Otto" typo
 
 ## September 2022
 * More Discogs for 09 January 1940.
