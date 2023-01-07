@@ -27,6 +27,7 @@ menu:
 * At A Dixie Roadside Diner: Re-attributed DE4028m as DE4014xa.
 * Added two takes to MDD 012 and Ev EV-3005
 * Added more takes to MDD 012
+* Corrected Victor release number of DE4018b "In A Mellow Tone"
 
 ## September 2022
 * More Discogs for 09 January 1940.
