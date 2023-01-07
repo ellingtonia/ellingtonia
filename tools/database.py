@@ -800,6 +800,11 @@ def cmd_duplicate_release(args):
             entry=src_er.entry,
             release=dest,
             flags=src_er.flags,
+            # Note we don't copy these fields
+            disc=None,
+            track=None,
+            length=None,
+            title=None,
         )
         database.add_entry_release(dest_er)
 
