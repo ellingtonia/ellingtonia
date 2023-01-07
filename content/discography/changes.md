@@ -34,6 +34,7 @@ menu:
 * Fixed typo in releases for DE4033m
 * Added Fargo concert to The Duke Box
 * Corrected Fargo 1940 NDESORs
+* Added missing track to Fargo Session (I Never Felt This Way Before)
 
 ## September 2022
 * More Discogs for 09 January 1940.
