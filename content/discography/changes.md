@@ -36,7 +36,6 @@ menu:
 * Added 40-60-10 takes to The Duke Box
 * Correct trombonist to Juan Tizol for 40-11-11
 * Added "Dusk" to Cl(F) 805
-* More 40-11-11 corrections
 * Fixed discogs for JU JUCD-2022
 
 ## October 2022
