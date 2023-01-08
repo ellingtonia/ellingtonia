@@ -33,6 +33,7 @@ menu:
 * Added MDD 012
 * Added missing tracks to RCA 07863-66790-2 (and corrected a previous typo)
 * Corrected location for 43-06-19
+* Added 40-60-10 takes to The Duke Box
 
 ## October 2022
 * Fixed "Troubled Water" -> "Troubled Waters"
