@@ -32,6 +32,7 @@ menu:
 * Corrected more releases for the Fargo session
 * Added MDD 012
 * Added missing tracks to RCA 07863-66790-2 (and corrected a previous typo)
+* Corrected location for 43-06-19
 
 ## October 2022
 * Fixed "Troubled Water" -> "Troubled Waters"
