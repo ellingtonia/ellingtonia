@@ -39,6 +39,7 @@ menu:
 * Fixed discogs for JU JUCD-2022
 * Various corrections to session descriptions
 * Added missing take on Bb 09026-63953-2.
+* Added missing take on Bb 09026-63953-2.
 
 ## October 2022
 * Fixed "Troubled Water" -> "Troubled Waters"
