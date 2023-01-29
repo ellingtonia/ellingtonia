@@ -936,7 +936,7 @@ def cmd_import_csv(args):
             er = EntryRelease(
                 entry=entry,
                 release=release,
-                flags="",
+                flags=row.get("flags",""),
                 disc=disc,
                 track=track,
                 title=row.get("title"),
