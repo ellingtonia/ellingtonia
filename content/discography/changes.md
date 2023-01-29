@@ -41,6 +41,7 @@ menu:
 * Added missing take on Bb 09026-63953-2.
 * Added missing take on Bb 09026-63953-2.
 * Added missing NDESOR DE6363xa
+* Added Storyville "My People"
 
 ## October 2022
 * Fixed "Troubled Water" -> "Troubled Waters"
