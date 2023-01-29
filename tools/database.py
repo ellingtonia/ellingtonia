@@ -450,7 +450,11 @@ def save_releases_to_json(database, generated):
                 disc = format(int(disc), "-03")
             except (ValueError, TypeError) as e:
                 pass
-        return (disc, er.track, er.entry.sequence_no)
+
+        track = er.track
+        if track is None:
+            track = 0
+        return (disc, track, er.entry.sequence_no)
 
     releases = database.all_releases()
     json_releases = {}
