@@ -43,6 +43,7 @@ menu:
 * Added missing NDESOR DE6363xa
 * Added Storyville "My People"
 * Corrected description for 59-12-07
+* Added takes to 63-08-27 session
 
 ## October 2022
 * Fixed "Troubled Water" -> "Troubled Waters"
