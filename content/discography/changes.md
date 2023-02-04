@@ -7,6 +7,10 @@ menu:
     weight: 10
 ---
 
+## February 2023
+* Corrected description for 59-12-07
+* Added takes to 63-08-27 session
+
 ## January 2023
 * Corrected drummer and location for 23 Jan 1966 session
 * 9 & 12 January 1940: Removed Ben Webster, added Duke Box release.
@@ -39,11 +43,8 @@ menu:
 * Fixed discogs for JU JUCD-2022
 * Various corrections to session descriptions
 * Added missing take on Bb 09026-63953-2.
-* Added missing take on Bb 09026-63953-2.
 * Added missing NDESOR DE6363xa
 * Added Storyville "My People"
-* Corrected description for 59-12-07
-* Added takes to 63-08-27 session
 
 ## October 2022
 * Fixed "Troubled Water" -> "Troubled Waters"
