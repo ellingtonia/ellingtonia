@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## April 2023
+* {{< issue 82 >}}Various fixes for (F)RCA LPs series Works of Duke{{< /issue >}}
+
 ## February 2023
 * Corrected description for 59-12-07
 * Added takes to 63-08-27 session
