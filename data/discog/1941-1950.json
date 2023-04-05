@@ -533,6 +533,10 @@
                         "catalog": "FXM-1-7135"
                     },
                     {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
+                    },
+                    {
                         "label": "AMSC",
                         "catalog": "1143"
                     },
@@ -556,10 +560,6 @@
                     {
                         "label": "Vi",
                         "catalog": "27380"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
                     }
                 ],
                 "desor": "DE4105a"
@@ -575,6 +575,10 @@
                         "catalog": "FXM-1-7135"
                     },
                     {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
+                    },
+                    {
                         "label": "Nw",
                         "catalog": "RP2051"
                     },
@@ -586,10 +590,6 @@
                         "track": 9,
                         "length": 221,
                         "title": ""
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
                     }
                 ],
                 "desor": "DE4105b"
@@ -603,6 +603,10 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM-1-7135"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
                     },
                     {
                         "label": "AMSC",
@@ -628,10 +632,6 @@
                     {
                         "label": "Vi",
                         "catalog": "27356"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
                     }
                 ],
                 "desor": "DE4105c"
@@ -645,6 +645,10 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM-1-7135"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
                     },
                     {
                         "label": "AMSC",
@@ -670,10 +674,6 @@
                     {
                         "label": "Vi",
                         "catalog": "27434"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
                     }
                 ],
                 "desor": "DE4105d"
@@ -687,6 +687,10 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM-1-7135"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
                     },
                     {
                         "label": "AMSC",
@@ -718,10 +722,6 @@
                     {
                         "label": "Vi",
                         "catalog": "27356"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
                     }
                 ],
                 "desor": "DE4105e"
@@ -739,6 +739,10 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM-1-7135"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
                     },
                     {
                         "label": "AMSC",
@@ -764,10 +768,6 @@
                     {
                         "label": "Vi",
                         "catalog": "27434"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
                     }
                 ],
                 "desor": "DE4105f"
@@ -1080,6 +1080,10 @@
                         "catalog": "FXM-1-7135"
                     },
                     {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
+                    },
+                    {
                         "label": "Bb",
                         "catalog": "2178-2-RB"
                     },
@@ -1095,10 +1099,6 @@
                         "track": 14,
                         "length": 199,
                         "title": ""
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
                     }
                 ],
                 "desor": "DE4108a"
@@ -1109,6 +1109,14 @@
                 "matrix": "BS065604-2",
                 "title": "Dear Old Southland",
                 "releases": [
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "RCA-FXM-1-7135"
+                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "837"
@@ -1124,11 +1132,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27564,(F)RCA-FXM-1-7135"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
+                        "catalog": "27564(F)"
                     }
                 ],
                 "desor": "DE4108b"
@@ -1139,6 +1143,14 @@
                 "matrix": "BS065605-1",
                 "title": "Solitude",
                 "releases": [
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM-1-7135"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7134-v2"
+                    },
                     {
                         "label": "Bb",
                         "catalog": "2178-2-RB"
@@ -1158,11 +1170,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27564,(F)RCA-FXM-1-7135"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FXM1-7134-v2"
+                        "catalog": "27564"
                     }
                 ],
                 "desor": "DE4108c"
@@ -1193,6 +1201,10 @@
                         "track": 17,
                         "length": 196,
                         "title": ""
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4108d"
@@ -1316,6 +1328,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27502"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4110a"
@@ -1354,6 +1370,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27804"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4110b"
@@ -1380,6 +1400,10 @@
                         "track": 20,
                         "length": 184,
                         "title": ""
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4110c"
@@ -1424,6 +1448,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27502"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4110d"
@@ -1466,6 +1494,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27502"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4110e"
@@ -1780,6 +1812,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27531"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4115a"
@@ -1818,6 +1854,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27531"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4115b"
@@ -1848,6 +1888,10 @@
                         "track": 2,
                         "length": 202,
                         "title": ""
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4115c"
@@ -1924,6 +1968,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27700"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4116a"
@@ -1958,6 +2006,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27517"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4116b"
@@ -1992,6 +2044,10 @@
                     {
                         "label": "Vi",
                         "catalog": "27517"
+                    },
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "FXM1-7135-v2"
                     }
                 ],
                 "desor": "DE4116c"
