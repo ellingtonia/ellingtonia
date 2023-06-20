@@ -7,14 +7,16 @@ menu:
     weight: 10
 ---
 
-## April 2023
-* {{< issue 82 >}}Various fixes for (F)RCA LPs series Works of Duke{{< /issue >}}
+## June 2023
 * Fixes for 66-02-20 concerts
 * Added rehearsal session to 66-02-21
 * Fixed DESORS for 66-02-21
 * Added a release for 66-02-21
 * Formatting and spelling changes to 66-08-25
 * Significant correction: "second" concert DE6679 from 66-11-16 moved to 66-08-25 as an extension of the concert on that date
+
+## April 2023
+* {{< issue 82 >}}Various fixes for (F)RCA LPs series Works of Duke{{< /issue >}}
 
 ## February 2023
 * Corrected description for 59-12-07
