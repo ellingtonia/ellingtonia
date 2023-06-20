@@ -9,6 +9,7 @@ menu:
 
 ## April 2023
 * {{< issue 82 >}}Various fixes for (F)RCA LPs series Works of Duke{{< /issue >}}
+* Fixes for 66-02-20 concerts
 
 ## February 2023
 * Corrected description for 59-12-07
