@@ -14,6 +14,7 @@ menu:
 * Fixed DESORS for 66-02-21
 * Added a release for 66-02-21
 * Formatting and spelling changes to 66-08-25
+* Significant correction: "second" concert DE6679 from 66-11-16 moved to 66-08-25 as an extension of the concert on that date
 
 ## February 2023
 * Corrected description for 59-12-07
