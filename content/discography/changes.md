@@ -13,6 +13,7 @@ menu:
 * Added rehearsal session to 66-02-21
 * Fixed DESORS for 66-02-21
 * Added a release for 66-02-21
+* Formatting and spelling changes to 66-08-25
 
 ## February 2023
 * Corrected description for 59-12-07
