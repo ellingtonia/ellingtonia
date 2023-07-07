@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## July 2023
+* Correct orchestra / typo for 25 August 1966
+
 ## June 2023
 * Fixes for 66-02-20 concerts
 * Added rehearsal session to 66-02-21
