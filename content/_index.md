@@ -32,8 +32,7 @@ You can join us in talking all things Duke using the DESUK Discord chatroom at h
 * The Duke Ellington Society of Sweden (DESS): https://ellington.se
 * The Duke Ellington Society: http://thedukeellingtonsociety.org (archived site)
 * The Dooji Collection: Duke Ellington 78 rpm record labels and related materials: http://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection.htm
-* Archives of the DEMS bulletins http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html and http://desguin.net/DukeEllingtonPanorama/www.depanorama.net/dems/index.htm
-* The New DESOR correction sheets: http://desguin.net/DukeEllingtonPanorama/www.depanorama.net/desor/index.htm
+* Archives of the DEMS bulletins http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html
 * Jazz Online (older records in the public domain): http://www.jazz-on-line.com/artists/Duke_Ellington.htm
 
 
