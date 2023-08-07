@@ -24,6 +24,7 @@ menu:
 * Corrected TV station for 70-04-08.
 * Corrected location for interview 59-03-10.
 * Deleted non-existent session DE6417 (the material was recorded in Goteborg on March 11, 1964)
+* Typo: "I Can't be Wrong" -> "It Can't Be Wrong" (43-06-30)
 
 ## June 2023
 * Fixes for 66-02-20 concerts
