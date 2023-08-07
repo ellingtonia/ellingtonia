@@ -10,6 +10,7 @@ menu:
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
 * Remove William White Jr from 40-06-10
+* Evelyn Preer session corrected to 1927 (from 1926)
 
 ## June 2023
 * Fixes for 66-02-20 concerts
