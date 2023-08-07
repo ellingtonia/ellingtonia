@@ -19,6 +19,7 @@ menu:
 * Added personnel and corrected date for Turcaret. More info [here](https://ellingtonlive.blogspot.com/2023/07/turcaret-encore.html).
 * Added Ellington In Order Volume 1
 * Added Ellington In Order Volume 2
+* Correct 3rd December Session to 19 December 1927 (DE2712)
 
 ## June 2023
 * Fixes for 66-02-20 concerts
