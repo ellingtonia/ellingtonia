@@ -17,6 +17,7 @@ menu:
 * Corrected NDESORS for 50-11-20
 * Added missing "I Got It Bad" to 56-07-09 (Newport) session
 * Added personnel and corrected date for Turcaret. More info [here](https://ellingtonlive.blogspot.com/2023/07/turcaret-encore.html).
+* Added Ellington In Order Volume 1
 
 ## June 2023
 * Fixes for 66-02-20 concerts
