@@ -16,6 +16,7 @@ menu:
 * Clarified that stereo versions of 32-02-03 titles are also available on RCA CD
 * Corrected NDESORS for 50-11-20
 * Added missing "I Got It ad" to 56-07-09 (Newport) session
+* Added personnel and corrected date for Turcaret. More info [here](https://ellingtonlive.blogspot.com/2023/07/turcaret-encore.html).
 
 ## June 2023
 * Fixes for 66-02-20 concerts
