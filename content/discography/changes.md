@@ -15,6 +15,7 @@ menu:
 * Removed duplicate of DE2906b (3714-A)
 * Clarified that stereo versions of 32-02-03 titles are also available on RCA CD
 * Corrected NDESORS for 50-11-20
+* Added missing "I Got It ad" to 56-07-09 (Newport) session
 
 ## June 2023
 * Fixes for 66-02-20 concerts
