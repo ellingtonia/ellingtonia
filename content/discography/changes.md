@@ -20,6 +20,7 @@ menu:
 * Added Ellington In Order Volume 1
 * Added Ellington In Order Volume 2
 * Correct 3rd December Session to 19 December 1927 (DE2712)
+* Fixed swapped releases for DE2710b/c (Nw RP2009 / Cl(F) 542)
 
 ## June 2023
 * Fixes for 66-02-20 concerts
