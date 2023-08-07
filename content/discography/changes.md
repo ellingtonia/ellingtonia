@@ -14,6 +14,7 @@ menu:
 * Three Little Words DE3011g BVE61013-2 corrected to unissued and not on Masters of Jazz MJCD173.
 * Removed duplicate of DE2906b (3714-A)
 * Clarified that stereo versions of 32-02-03 titles are also available on RCA CD
+* Corrected NDESORS for 50-11-20
 
 ## June 2023
 * Fixes for 66-02-20 concerts
