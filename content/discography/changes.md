@@ -9,6 +9,8 @@ menu:
 
 ## July 2023
 * Correct orchestra / typo for 25 August 1966
+* Correct orchestra / typo for 25 August 1966
+* Remove William White Jr from 40-06-10
 
 ## June 2023
 * Fixes for 66-02-20 concerts
