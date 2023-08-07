@@ -22,6 +22,7 @@ menu:
 * Correct 3rd December Session to 19 December 1927 (DE2712)
 * Fixed swapped releases for DE2710b/c (Nw RP2009 / Cl(F) 542)
 * Corrected TV station for 70-04-08.
+* Corrected location for interview 59-03-10.
 
 ## June 2023
 * Fixes for 66-02-20 concerts
