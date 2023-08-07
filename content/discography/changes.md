@@ -7,8 +7,7 @@ menu:
     weight: 10
 ---
 
-## July 2023
-* Correct orchestra / typo for 25 August 1966
+## August 2023
 * Correct orchestra / typo for 25 August 1966
 * Remove William White Jr from 40-06-10
 
