@@ -893,7 +893,7 @@ def cmd_add_streaming(args):
     entries = find_entries(args, database)
 
     for entry in entries:
-        er = EntryRelease(entry=entry, release=release, flags="")
+        er = EntryRelease(entry=entry, release=release, disc=None, track=None, title=None, length=None, flags="")
         database.add_entry_release(er)
 
     save_to_json(database)
