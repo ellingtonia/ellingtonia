@@ -31,6 +31,7 @@ menu:
 * Corrected typo from W817767-C to W81777-C
 * Minor Turcaret corrections
 * Added YouTube for DE6440h/i.
+* Changed vocalist for DE6363e/f to Jimmy Grissom
 
 ## June 2023
 * Fixes for 66-02-20 concerts
