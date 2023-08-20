@@ -29,6 +29,7 @@ menu:
 * Added releases for DE5614e "I Got It Bad" (a fragment of which were used in the original Newport 56 issues)
 * Added two missing tracks from Ellington In Order Volume 1
 * Corrected typo from W817767-C to W81777-C
+* Minor Turcaret corrections
 
 ## June 2023
 * Fixes for 66-02-20 concerts
