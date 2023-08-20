@@ -30,6 +30,7 @@ menu:
 * Added two missing tracks from Ellington In Order Volume 1
 * Corrected typo from W817767-C to W81777-C
 * Minor Turcaret corrections
+* Added YouTube for DE6440h/i.
 
 ## June 2023
 * Fixes for 66-02-20 concerts
