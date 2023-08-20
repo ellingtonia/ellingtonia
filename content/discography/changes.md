@@ -26,6 +26,7 @@ menu:
 * Deleted non-existent session DE6417 (the material was recorded in Goteborg on March 11, 1964)
 * Typo: "I Can't be Wrong" -> "It Can't Be Wrong" (43-06-30)
 * Added video for 64-05-24
+* Added releases for DE5614e "I Got It Bad" (a fragment of which were used in the original Newport 56 issues)
 
 ## June 2023
 * Fixes for 66-02-20 concerts
