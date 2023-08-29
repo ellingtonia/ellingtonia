@@ -23353,7 +23353,7 @@
             },
             {
                 "type": "artists",
-                "value": "Note: I Got It Bad was edited in studio on 09 Jul 56."
+                "value": "I Got It Bad was edited in the studio session 5614 as Hodges had mouthpiece problems in bars 1 and 9."
             }
         ]
     },
@@ -23448,7 +23448,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "C2K-64932"
+                        "catalog": "C2K-64932",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
@@ -23461,7 +23462,11 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5614e"
+                "desor": ""
+            },
+            {
+                "type": "note",
+                "content": "See note in previous session. It is unclear if a whole take of I Got It Bad was recorded, or merely some overdubbing material."
             }
         ]
     },
