@@ -34,6 +34,7 @@ menu:
 * Changed vocalist for DE6363e/f to Jimmy Grissom
 * Removed extra tracks from Fk FJ-2198
 * Corrected "My Irish Colleen" to "In The Eyes Of My Irish Colleen" and added a link
+* Corrected 64-03-10 location to Helsinki
 
 ## June 2023
 * Fixes for 66-02-20 concerts
