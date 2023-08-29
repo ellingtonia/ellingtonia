@@ -46,7 +46,7 @@ class Session:
     index_date: int = None
 
 
-ENTRY_LINKS = ["youtube", "spotify", "tidal"]
+ENTRY_LINKS = ["youtube", "spotify", "tidal", "file"]
 
 
 class Entry:
