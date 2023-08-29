@@ -89,10 +89,6 @@
                     {
                         "label": "St",
                         "catalog": "P-132"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1003-2"
                     }
                 ],
                 "desor": "DE4101c"
@@ -106,10 +102,6 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM1-7134-Ie"
-                    },
-                    {
-                        "label": "DJD",
-                        "catalog": "28035"
                     },
                     {
                         "label": "Sd",
@@ -379,12 +371,13 @@
                 "index": "41-01-28-001",
                 "matrix": null,
                 "title": "Interview by Hatton",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-1"
+                    }
+                ],
                 "desor": "DE4103a"
-            },
-            {
-                "type": "note",
-                "content": "Issued on Bluebird DVD 82876-60091-2-2"
             }
         ]
     },
@@ -463,6 +456,10 @@
                 "title": "A Flower Is A Lovesome Thing",
                 "releases": [],
                 "desor": "DE9060h"
+            },
+            {
+                "type": "note",
+                "content": "The drummer may be Forrest 'Chico' Hamilton in some or all takes (see TDWAW)."
             }
         ]
     },
@@ -577,6 +574,10 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM1-7135-Ie"
+                    },
+                    {
+                        "label": "Bb",
+                        "catalog": "74321-13181-2"
                     },
                     {
                         "label": "Nw",
@@ -1252,13 +1253,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Jimmie Blanton(sb); John Scott Trotter Orch; CHO(v)"
+                "value": "Duke Ellington(p); Jimmie Blanton(sb); John Scott Trotter Orch and Choir"
             },
             {
                 "type": "take",
                 "index": "41-05-29-002",
                 "matrix": null,
-                "title": "Frankie And Johnny - vCHO",
+                "title": "Frankie And Johnny - vChoir",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -1273,6 +1274,14 @@
                     {
                         "label": "MR",
                         "catalog": "MCD-084-2"
+                    },
+                    {
+                        "label": "QD",
+                        "catalog": "Q-007"
+                    },
+                    {
+                        "label": "Sp",
+                        "catalog": "17"
                     },
                     {
                         "label": "Te",
@@ -1451,7 +1460,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27502"
+                        "catalog": "27587"
                     }
                 ],
                 "desor": "DE4110d"
@@ -2114,6 +2123,10 @@
                     },
                     {
                         "label": "RCA",
+                        "catalog": "07863-66790-2"
+                    },
+                    {
+                        "label": "RCA",
                         "catalog": "09026-63386-2",
                         "flags": "",
                         "disc": "12",
@@ -2234,6 +2247,10 @@
                         "catalog": "FXM1-7201-IIe"
                     },
                     {
+                        "label": "BD",
+                        "catalog": "T-1003"
+                    },
+                    {
                         "label": "HMV",
                         "catalog": "JO-282"
                     },
@@ -2294,7 +2311,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t); Lawrence Brown(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar) Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Ray Nance(t); Lawrence Brown(tb); Johnny Hodges(as); Harry Carney(bar) Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
             },
             {
                 "type": "take",
@@ -2317,6 +2334,10 @@
                     {
                         "label": "BL",
                         "catalog": "SPV-305822"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "851"
                     },
                     {
                         "label": "RCA",
@@ -2353,6 +2374,10 @@
                         "catalog": "SPV-305822"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "851"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "flags": "",
@@ -2387,6 +2412,10 @@
                         "catalog": "SPV-305822"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "851"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "flags": "",
@@ -2419,6 +2448,10 @@
                     {
                         "label": "BL",
                         "catalog": "SPV-305822"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "851"
                     },
                     {
                         "label": "RCA",
@@ -2627,10 +2660,6 @@
                         "catalog": "FXM1-7274-Ie"
                     },
                     {
-                        "label": "DJD",
-                        "catalog": "28035"
-                    },
-                    {
                         "label": "MDD",
                         "catalog": "012",
                         "flags": "",
@@ -2730,10 +2759,6 @@
                     {
                         "label": "St",
                         "catalog": "P-169"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1003-2"
                     }
                 ],
                 "desor": "DE4120e"
@@ -2840,10 +2865,6 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM1-7274-Ie"
-                    },
-                    {
-                        "label": "DJD",
-                        "catalog": "28035"
                     },
                     {
                         "label": "Sd",
@@ -3026,7 +3047,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t); ~JT(tb); Barney Bigard(cl,ts); Harry Carney(bar) Billy Strayhorn(p); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Ray Nance(t); Juan Tizol(tb); Barney Bigard(cl,ts); Harry Carney(bar) Billy Strayhorn(p); Jimmie Blanton(sb); Sonny Greer(d,ch)"
             },
             {
                 "type": "take",
@@ -3214,6 +3235,10 @@
                 "title": "Cotton Tail",
                 "releases": [
                     {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    },
+                    {
                         "label": "ER",
                         "catalog": "1002"
                     },
@@ -3230,6 +3255,10 @@
                 "matrix": null,
                 "title": "I Got It Bad - vIA",
                 "releases": [
+                    {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "SLP-6000"
@@ -3248,6 +3277,10 @@
                         "catalog": "FXM1-7274-Ie"
                     },
                     {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "SLP-6000"
                     }
@@ -3263,6 +3296,14 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "FXM1-7274-Ie"
+                    },
+                    {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "SLP-6000"
                     }
                 ],
                 "desor": "DE4124d"
@@ -3273,6 +3314,10 @@
                 "matrix": null,
                 "title": "C-Jam Blues",
                 "releases": [
+                    {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    },
                     {
                         "label": "ER",
                         "catalog": "1002"
