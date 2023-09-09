@@ -12,6 +12,7 @@ menu:
 * Corrected spelling of Ellis Blain
 * Clarified 41-02-06-* takes are from different sessions
 * Corrected DVD release number for DE4103a
+* Added missing "vJCn" to DE4608c
 
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
