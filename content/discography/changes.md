@@ -11,6 +11,7 @@ menu:
 * Corrected version of Hot And Bothered in DE In Order Vol 1
 * Corrected spelling of Ellis Blain
 * Clarified 41-02-06-* takes are from different sessions
+* Corrected DVD release number for DE4103a
 
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
