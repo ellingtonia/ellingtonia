@@ -37,6 +37,7 @@ menu:
 * Corrected 64-03-10 location to Helsinki
 * Cleaned up comments on 56-07-07 slightly
 * 1941 corrections from EC
+* Corrected version of Hot And Bothered in DE In Order Vol 1
 
 ## June 2023
 * Fixes for 66-02-20 concerts
