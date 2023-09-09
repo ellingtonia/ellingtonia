@@ -7,6 +7,11 @@ menu:
     weight: 10
 ---
 
+## September 2023
+* Corrected version of Hot And Bothered in DE In Order Vol 1
+* Corrected spelling of Ellis Blain
+* Clarified 41-02-06-* takes are from different sessions
+
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
 * Remove William White Jr from 40-06-10
@@ -37,9 +42,6 @@ menu:
 * Corrected 64-03-10 location to Helsinki
 * Cleaned up comments on 56-07-07 slightly
 * 1941 corrections from EC
-* Corrected version of Hot And Bothered in DE In Order Vol 1
-* Corrected spelling of Ellis Blain
-* Clarified 41-02-06-* takes are from different sessions
 
 ## June 2023
 * Fixes for 66-02-20 concerts
