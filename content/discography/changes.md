@@ -39,6 +39,7 @@ menu:
 * 1941 corrections from EC
 * Corrected version of Hot And Bothered in DE In Order Vol 1
 * Corrected spelling of Ellis Blain
+* Clarified 41-02-06-* takes are from different sessions
 
 ## June 2023
 * Fixes for 66-02-20 concerts
