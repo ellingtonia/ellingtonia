@@ -16,6 +16,7 @@ menu:
 * Corrected location of 63-10-10 concert to Bombay
 * Corrected matrix numbers for 44-12-11 session
 * Removed incorrect alternate title for Someone in DE4205g and De4355b (was "Blue Again")
+* Added full track listing for The OKeh ELlington
 
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
