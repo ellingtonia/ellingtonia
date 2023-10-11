@@ -15,6 +15,7 @@ menu:
 * Added missing "vJCn" to DE4608c
 * Corrected location of 63-10-10 concert to Bombay
 * Corrected location of 63-10-10 concert to Bombay
+* Removed incorrect alternate title for Someone in DE4205g and De4355b (was "Blue Again")
 
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
