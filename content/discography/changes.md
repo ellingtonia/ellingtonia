@@ -14,7 +14,7 @@ menu:
 * Corrected DVD release number for DE4103a
 * Added missing "vJCn" to DE4608c
 * Corrected location of 63-10-10 concert to Bombay
-* Corrected location of 63-10-10 concert to Bombay
+* Corrected matrix numbers for 44-12-11 session
 * Removed incorrect alternate title for Someone in DE4205g and De4355b (was "Blue Again")
 
 ## August 2023
