@@ -14,6 +14,7 @@ menu:
 * Corrected DVD release number for DE4103a
 * Added missing "vJCn" to DE4608c
 * Corrected location of 63-10-10 concert to Bombay
+* Corrected location of 63-10-10 concert to Bombay
 
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
