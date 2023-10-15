@@ -13,6 +13,7 @@ menu:
 * Removed incorrect alternate title for Someone in DE4205g and De4355b (was "Blue Again")
 * Added full track listing for The OKeh ELlington
 * Corrected date of DE2907 to 4 April 1929 (from 7 April)
+* Numerous corrections for 1942
 
 ## September 2023
 * Corrected version of Hot And Bothered in DE In Order Vol 1
