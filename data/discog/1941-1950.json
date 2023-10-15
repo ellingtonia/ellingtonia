@@ -8394,6 +8394,33 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
+        "date": "June 1943",
+        "index_date": 430608,
+        "same_session": false,
+        "description": "Broadcast entitled \"Pastel Period\" from the Hurricane Restaurant",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Wallace Jones, Harold Baker,Taft Jordan(t); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny\nHodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)"
+            },
+            {
+                "type": "take",
+                "index": "",
+                "matrix": null,
+                "title": "Bakiff",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
+                "desor": "DE4323a"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "New York City, NY",
         "date": "17, 19 June 1943",
         "index_date": 430617,
         "same_session": false,
@@ -8408,7 +8435,12 @@
                 "index": "43-06-17-001",
                 "matrix": null,
                 "title": "\u00ac Mood Indigo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    }
+                ],
                 "desor": "DE4324a"
             },
             {
@@ -8416,15 +8448,25 @@
                 "index": "43-06-17-002",
                 "matrix": null,
                 "title": "_| Sophisticated Lady",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    }
+                ],
                 "desor": "DE4324b"
             },
             {
                 "type": "take",
                 "index": "43-06-17-003",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
-                "releases": [],
+                "title": "It Don't Mean A Thing - vRN,TJ",
+                "releases": [
+                    {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    }
+                ],
                 "desor": "DE4324c"
             },
             {
@@ -8434,6 +8476,10 @@
                 "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
+                        "label": "Bb",
+                        "catalog": "82876-60091-2-2"
+                    },
+                    {
                         "label": "Co",
                         "catalog": "CK-48654"
                     }
@@ -8442,7 +8488,7 @@
             },
             {
                 "type": "note",
-                "content": "Film soundtrack from RKO Pictures' \"Duke Ellington And His Orchestra\" issued on Bb DVD 82876 60091 2 2. One of the four numbers (it is unknown which one) was recorded on the 17th with the remaining three on the 19th."
+                "content": "Film soundtrack from RKO Pictures' \"Duke Ellington And His Orchestra\". One of the four numbers (it is unknown which one) was recorded on the 17th with the remaining three on the 19th."
             }
         ]
     },
@@ -8980,7 +9026,7 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
-        "date": "June/July 1943",
+        "date": "June 1943",
         "index_date": 430630,
         "same_session": false,
         "description": "U.S. Treasury Department recording session",
@@ -9056,19 +9102,6 @@
                 "type": "take",
                 "index": "43-06-30-004",
                 "matrix": null,
-                "title": "Bond Promo",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "903-9001"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-06-30-005",
-                "matrix": null,
                 "title": "It Can't Be Wrong - vAH",
                 "releases": [
                     {
@@ -9088,7 +9121,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-006",
+                "index": "43-06-30-005",
                 "matrix": null,
                 "title": "Johnny Come Lately",
                 "releases": [
@@ -9109,7 +9142,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-007",
+                "index": "43-06-30-006",
                 "matrix": null,
                 "title": "Take The\"A\" Train",
                 "releases": [
@@ -9130,9 +9163,9 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-008",
+                "index": "43-06-30-007",
                 "matrix": null,
-                "title": "Wait For Me Mary",
+                "title": "Wait For Me, Mary",
                 "releases": [
                     {
                         "label": "DETS",
@@ -9151,7 +9184,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-009",
+                "index": "43-06-30-008",
                 "matrix": null,
                 "title": "Moon Mist",
                 "releases": [
@@ -9172,7 +9205,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-010",
+                "index": "43-06-30-009",
                 "matrix": null,
                 "title": "A Slip Of The Lip - vRN",
                 "releases": [
@@ -9193,7 +9226,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-011",
+                "index": "43-06-30-010",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [
@@ -9214,7 +9247,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-012",
+                "index": "43-06-30-011",
                 "matrix": null,
                 "title": "Take The \"A\" Train (Theme)",
                 "releases": [
@@ -9235,7 +9268,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-013",
+                "index": "43-06-30-012",
                 "matrix": null,
                 "title": "Tonight I Shall Sleep",
                 "releases": [
@@ -9256,7 +9289,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-014",
+                "index": "43-06-30-013",
                 "matrix": null,
                 "title": "Go Away Blues - vBR",
                 "releases": [
@@ -9277,20 +9310,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-015",
-                "matrix": null,
-                "title": "Bond Promo",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "903-9002"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-06-30-016",
+                "index": "43-06-30-014",
                 "matrix": null,
                 "title": "Creole Love Call",
                 "releases": [
@@ -9311,7 +9331,7 @@
             },
             {
                 "type": "take",
-                "index": "43-06-30-017",
+                "index": "43-06-30-015",
                 "matrix": null,
                 "title": "Three Cent Stomp",
                 "releases": [
@@ -9481,18 +9501,17 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
-        "date": "July 1943",
-        "index_date": 430715,
+        "date": "06 July 1943",
         "same_session": false,
         "description": "WMCA broadcast",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t)Taft Jordan(t,v); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny\nHodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Harold Baker(t)Taft Jordan(t,v); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny\nHodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Hal West(d,ch)"
             },
             {
                 "type": "take",
-                "index": "43-07-15-001",
+                "index": "43-07-06-001",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
@@ -9505,7 +9524,7 @@
             },
             {
                 "type": "take",
-                "index": "43-07-15-002",
+                "index": "43-07-06-002",
                 "matrix": null,
                 "title": "I Left My Sugar In Salt Lake City - vBR",
                 "releases": [],
@@ -9513,7 +9532,7 @@
             },
             {
                 "type": "take",
-                "index": "43-07-15-003",
+                "index": "43-07-06-003",
                 "matrix": null,
                 "title": "Sweet Georgia Brown",
                 "releases": [
@@ -9526,7 +9545,7 @@
             },
             {
                 "type": "take",
-                "index": "43-07-15-004",
+                "index": "43-07-06-004",
                 "matrix": null,
                 "title": "Going Up",
                 "releases": [
@@ -9536,6 +9555,10 @@
                     }
                 ],
                 "desor": "DE4334d"
+            },
+            {
+                "type": "note",
+                "content": "Recording date uncertain. Drummer may have been Sonny Greer."
             }
         ]
     },
@@ -9762,7 +9785,7 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "903-9021"
+                        "catalog": "903-9022"
                     }
                 ],
                 "desor": "DE4339a"
@@ -9775,7 +9798,7 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "903-9021"
+                        "catalog": "903-9022"
                     }
                 ],
                 "desor": "DE4339b"
@@ -9788,7 +9811,7 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "903-9021"
+                        "catalog": "903-9022"
                     }
                 ],
                 "desor": "DE4339c"
@@ -9873,7 +9896,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler(v)"
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)"
             },
             {
                 "type": "take",
@@ -10215,7 +10238,7 @@
                 "type": "take",
                 "index": "43-09-01-004",
                 "matrix": null,
-                "title": "Wait For Me, mary",
+                "title": "Wait For Me, Mary",
                 "releases": [
                     {
                         "label": "DETS",
@@ -10399,14 +10422,19 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler(v)"
             },
             {
                 "type": "take",
                 "index": "43-09-04-001",
                 "matrix": null,
                 "title": "Day Dream",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9084a"
             },
             {
@@ -10414,15 +10442,25 @@
                 "index": "43-09-04-002",
                 "matrix": null,
                 "title": "West Indian Dance",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9084b"
             },
             {
                 "type": "take",
                 "index": "43-09-04-003",
                 "matrix": null,
-                "title": "Tonight I Shall Sleep",
-                "releases": [],
+                "title": "Tonight I Shall Sleep - vAH",
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9084c"
             }
         ]
@@ -10469,7 +10507,12 @@
                 "index": "43-09-05-002",
                 "matrix": null,
                 "title": "Moon Mist",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
                 "desor": "DE4347a"
             },
             {
@@ -10477,7 +10520,12 @@
                 "index": "43-09-05-003",
                 "matrix": null,
                 "title": "C-Jam Blues",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
                 "desor": "DE4347b"
             },
             {
@@ -10492,8 +10540,13 @@
                 "type": "take",
                 "index": "43-09-05-005",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
-                "releases": [],
+                "title": "It Don't Mean A Thing - vRN,TJ",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
                 "desor": "DE4347d"
             },
             {
@@ -10501,7 +10554,12 @@
                 "index": "43-09-05-006",
                 "matrix": null,
                 "title": "Tonight I Shall Sleep - vAH",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
                 "desor": "DE4347e"
             },
             {
@@ -10509,7 +10567,12 @@
                 "index": "43-09-05-007",
                 "matrix": null,
                 "title": "Ring Dem Bells - vRN",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
                 "desor": "DE4347f"
             },
             {
@@ -10517,7 +10580,12 @@
                 "index": "43-09-05-008",
                 "matrix": null,
                 "title": "\u00ac Don't Get Around Much Anymore",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
                 "desor": "DE4347g"
             },
             {
@@ -10525,7 +10593,12 @@
                 "index": "43-09-05-009",
                 "matrix": null,
                 "title": "_| Things Ain't What They Used To Be",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9016"
+                    }
+                ],
                 "desor": "DE4347h"
             }
         ]
@@ -10547,7 +10620,12 @@
                 "index": "43-09-06-001",
                 "matrix": null,
                 "title": "Rumpus In Richmond",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9085a"
             },
             {
@@ -10555,7 +10633,12 @@
                 "index": "43-09-06-002",
                 "matrix": null,
                 "title": "Caravan",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9085b"
             }
         ]
@@ -10614,7 +10697,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)"
             },
             {
                 "type": "take",
@@ -10646,7 +10729,7 @@
                 "type": "take",
                 "index": "43-09-07-007",
                 "matrix": null,
-                "title": "Go Away Blues",
+                "title": "Go Away Blues -vBR",
                 "releases": [
                     {
                         "label": "DETS",
@@ -10708,7 +10791,12 @@
                 "index": "43-09-08-002",
                 "matrix": null,
                 "title": "Honeysuckle Rose",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9086b"
             },
             {
@@ -10724,7 +10812,12 @@
                 "index": "43-09-08-004",
                 "matrix": null,
                 "title": "Main Stem",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9086d"
             },
             {
@@ -10783,13 +10876,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts);\nJohnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler(v)"
             },
             {
                 "type": "take",
                 "index": "43-09-10-001",
                 "matrix": null,
-                "title": "Summertime",
+                "title": "Summertime - vAH",
                 "releases": [
                     {
                         "label": "DETS",
@@ -10815,7 +10908,7 @@
                 "type": "take",
                 "index": "43-09-10-003",
                 "matrix": null,
-                "title": "I Didn't Know About You (Sentimental Lady",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
                     {
                         "label": "DETS",
@@ -10908,14 +11001,19 @@
                 "index": "43-09-11-006",
                 "matrix": null,
                 "title": "On The Sands Of Time",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Te",
+                        "catalog": "M-554"
+                    }
+                ],
                 "desor": "DE4352f"
             },
             {
                 "type": "take",
                 "index": "43-09-11-007",
                 "matrix": null,
-                "title": "A Slip Of The Lip",
+                "title": "A Slip Of The Lip - vRN",
                 "releases": [],
                 "desor": "DE4352g"
             },
@@ -11203,7 +11301,7 @@
                 "type": "take",
                 "index": "43-09-20-007",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [],
                 "desor": "DE4357g"
             },
@@ -12372,7 +12470,7 @@
                 "type": "take",
                 "index": "43-12-01-001",
                 "matrix": "N1055-1",
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
                     {
                         "label": "Ci",
@@ -12389,7 +12487,7 @@
                 "type": "take",
                 "index": "43-12-01-002",
                 "matrix": "N1055-2",
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
                     {
                         "label": "Ci",
@@ -12406,7 +12504,7 @@
                 "type": "take",
                 "index": "43-12-01-003",
                 "matrix": "N1055-3",
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
                     {
                         "label": "Ci",
@@ -13902,7 +14000,7 @@
                 "type": "take",
                 "index": "44-04-09-003",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [],
                 "desor": "DE4406c"
             },
@@ -15077,7 +15175,7 @@
                 "type": "take",
                 "index": "44-05-07-003",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
                     {
                         "label": "MJ",
@@ -16096,7 +16194,7 @@
                 "type": "take",
                 "index": "44-06-04-002",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [],
                 "desor": "DE4430b"
             },
@@ -16285,7 +16383,7 @@
                 "type": "take",
                 "index": "44-06-08-006",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -19669,7 +19767,7 @@
                 "type": "take",
                 "index": "45-03-25-027",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
                     {
                         "label": "Jo",
@@ -20813,7 +20911,7 @@
                 "type": "take",
                 "index": "45-04-21-013",
                 "matrix": null,
-                "title": "It Don't Mean A Thing - vRN, Taft Jordan",
+                "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
                     {
                         "label": "AFRS",
