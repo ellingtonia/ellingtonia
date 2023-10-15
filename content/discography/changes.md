@@ -7,17 +7,19 @@ menu:
     weight: 10
 ---
 
+## October 2023
+* Corrected location of 63-10-10 concert to Bombay
+* Corrected matrix numbers for 44-12-11 session
+* Removed incorrect alternate title for Someone in DE4205g and De4355b (was "Blue Again")
+* Added full track listing for The OKeh ELlington
+* Corrected date of DE2907 to 4 April 1929 (from 7 April)
+
 ## September 2023
 * Corrected version of Hot And Bothered in DE In Order Vol 1
 * Corrected spelling of Ellis Blain
 * Clarified 41-02-06-* takes are from different sessions
 * Corrected DVD release number for DE4103a
 * Added missing "vJCn" to DE4608c
-* Corrected location of 63-10-10 concert to Bombay
-* Corrected matrix numbers for 44-12-11 session
-* Removed incorrect alternate title for Someone in DE4205g and De4355b (was "Blue Again")
-* Added full track listing for The OKeh ELlington
-* Corrected date of DE2907 to 4 April 1929 (from 7 April)
 
 ## August 2023
 * Correct orchestra / typo for 25 August 1966
