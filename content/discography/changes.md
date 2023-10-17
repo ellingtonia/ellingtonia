@@ -14,6 +14,7 @@ menu:
 * Added full track listing for The OKeh ELlington
 * Corrected date of DE2907 to 4 April 1929 (from 7 April)
 * Numerous corrections for 1942
+* Clarified different takes of "Hayfoot, Strawfoot" on different releases of Bb 5659-2-RB
 
 ## September 2023
 * Corrected version of Hot And Bothered in DE In Order Vol 1
