@@ -16,6 +16,7 @@ menu:
 * Numerous corrections for 1942
 * Clarified different takes of "Hayfoot, Strawfoot" on different releases of Bb 5659-2-RB
 * 1943, part 2
+* More 1943
 
 ## September 2023
 * Corrected version of Hot And Bothered in DE In Order Vol 1
