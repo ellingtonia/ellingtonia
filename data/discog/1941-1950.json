@@ -8405,7 +8405,7 @@
             },
             {
                 "type": "take",
-                "index": "",
+                "index": "43-06-08-001",
                 "matrix": null,
                 "title": "Bakiff",
                 "releases": [
@@ -13672,10 +13672,6 @@
                     }
                 ],
                 "desor": "DE4364x"
-            },
-            {
-                "type": "artists",
-                "value": "43121132"
             }
         ]
     },
@@ -13745,6 +13741,10 @@
                 "title": "Take The \"A\"Train (theme)",
                 "releases": [
                     {
+                        "label": "DETS",
+                        "catalog": "903-9024"
+                    },
+                    {
                         "label": "DRC",
                         "catalog": "DE-3"
                     }
@@ -13757,6 +13757,10 @@
                 "matrix": null,
                 "title": "Concerto For Cootie",
                 "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9024"
+                    },
                     {
                         "label": "DRC",
                         "catalog": "DE-3"
@@ -13771,6 +13775,10 @@
                 "title": "Johnny Come Lately",
                 "releases": [
                     {
+                        "label": "DETS",
+                        "catalog": "903-9024"
+                    },
+                    {
                         "label": "DRC",
                         "catalog": "DE-3"
                     }
@@ -13783,6 +13791,10 @@
                 "matrix": null,
                 "title": "My Heart Tells Me - vAH",
                 "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9024"
+                    },
                     {
                         "label": "DRC",
                         "catalog": "DE-3"
@@ -13797,6 +13809,10 @@
                 "title": "Blue Skies",
                 "releases": [
                     {
+                        "label": "DETS",
+                        "catalog": "903-9024"
+                    },
+                    {
                         "label": "DRC",
                         "catalog": "DE-3"
                     }
@@ -13809,6 +13825,10 @@
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9024"
+                    },
                     {
                         "label": "DRC",
                         "catalog": "DE-3"
@@ -13861,7 +13881,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Shelton Hemphill,  Rex Stewart(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Otto\nHardwick(cl,as); Johnny Hodges(as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Wini Johnson(v)"
+                "value": "Shelton Hemphill,  Rex Stewart(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Otto\nHardwick(cl,as); Johnny Hodges(as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Wini Johnson(v)"
             },
             {
                 "type": "take",
@@ -13923,7 +13943,7 @@
                 "type": "take",
                 "index": "44-04-02-010",
                 "matrix": null,
-                "title": "No Love, No Nothing",
+                "title": "No Love, No Nothing - vAH",
                 "releases": [],
                 "desor": "DE4403h"
             },
@@ -14084,22 +14104,32 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Shelton Hemphill,  Rex Stewart(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Otto\nHardwick(cl,as); Johnny Hodges(as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)"
+                "value": "Shelton Hemphill,  Rex Stewart(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Otto\nHardwick(cl,as); Johnny Hodges(as); Skippy Williams(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler(v)"
             },
             {
                 "type": "take",
                 "index": "44-04-09-001",
                 "matrix": null,
                 "title": "Take The \"A\"Train (theme)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4406a"
             },
             {
                 "type": "take",
                 "index": "44-04-09-002",
                 "matrix": null,
-                "title": "Do Nothin' Till You Hear From Me",
-                "releases": [],
+                "title": "Do Nothin' Till You Hear From Me - vAH",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4406b"
             },
             {
@@ -14107,7 +14137,12 @@
                 "index": "44-04-09-003",
                 "matrix": null,
                 "title": "It Don't Mean A Thing - vRN,TJ",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4406c"
             },
             {
@@ -14115,7 +14150,12 @@
                 "index": "44-04-09-004",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4406d"
             }
         ]
@@ -14306,7 +14346,12 @@
                 "index": "44-04-20-001",
                 "matrix": null,
                 "title": "Take The \"A\"Train (theme)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4409a"
             },
             {
@@ -14314,7 +14359,12 @@
                 "index": "44-04-20-002",
                 "matrix": null,
                 "title": "San Fernando Valley",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4409b"
             },
             {
@@ -14322,7 +14372,12 @@
                 "index": "44-04-20-003",
                 "matrix": null,
                 "title": "Way Low",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4409c"
             },
             {
@@ -14330,7 +14385,12 @@
                 "index": "44-04-20-004",
                 "matrix": null,
                 "title": "Suddenly It Jumped",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4409d"
             },
             {
@@ -14338,7 +14398,12 @@
                 "index": "44-04-20-005",
                 "matrix": null,
                 "title": "Summertime - vAH",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4409e"
             },
             {
@@ -14346,7 +14411,12 @@
                 "index": "44-04-20-006",
                 "matrix": null,
                 "title": "On The Alamo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4409f"
             },
             {
@@ -14354,7 +14424,12 @@
                 "index": "44-04-20-007",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4409g"
             }
         ]
@@ -14375,7 +14450,12 @@
                 "index": "44-04-21-001",
                 "matrix": null,
                 "title": "Boy Meets Horn",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4410a"
             },
             {
@@ -14383,7 +14463,12 @@
                 "index": "44-04-21-002",
                 "matrix": null,
                 "title": "Jump For Joy",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4410b"
             },
             {
@@ -14391,7 +14476,12 @@
                 "index": "44-04-21-003",
                 "matrix": null,
                 "title": "Three Cent Stomp",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    }
+                ],
                 "desor": "DE4410c"
             }
         ]
@@ -14537,7 +14627,12 @@
                 "index": "44-04-24-001",
                 "matrix": null,
                 "title": "Chloe",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9089a"
             },
             {
@@ -14545,7 +14640,12 @@
                 "index": "44-04-24-002",
                 "matrix": null,
                 "title": "Johnny Come Lately",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9089b"
             },
             {
@@ -14591,7 +14691,12 @@
                 "index": "44-04-25-001",
                 "matrix": null,
                 "title": "Rockabye River (Hop, Skip, Jump)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9090a"
             },
             {
@@ -14607,7 +14712,12 @@
                 "index": "44-04-25-003",
                 "matrix": null,
                 "title": "I Didn't Know About You (Sentimental Lady)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9090c"
             },
             {
@@ -14615,7 +14725,12 @@
                 "index": "44-04-25-004",
                 "matrix": null,
                 "title": "On The Alamo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9090d"
             },
             {
@@ -14698,7 +14813,12 @@
                 "index": "44-04-27-001",
                 "matrix": null,
                 "title": "Solid Old Man",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4412a"
             },
             {
@@ -14706,7 +14826,12 @@
                 "index": "44-04-27-002",
                 "matrix": null,
                 "title": "How Blue The Night",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4412b"
             },
             {
@@ -14714,7 +14839,12 @@
                 "index": "44-04-27-003",
                 "matrix": null,
                 "title": "Ring Dem Bells",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4412c"
             }
         ]
@@ -14737,6 +14867,10 @@
                 "title": "Rockabye River",
                 "releases": [
                     {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    },
+                    {
                         "label": "WL",
                         "catalog": "RM-343/344\u2020"
                     }
@@ -14754,6 +14888,10 @@
                         "catalog": "CAR-435"
                     },
                     {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    },
+                    {
                         "label": "WL",
                         "catalog": "RM-343/344\u2020"
                     }
@@ -14765,7 +14903,12 @@
                 "index": "44-04-28-003",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vAH",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4413c"
             },
             {
@@ -14773,7 +14916,12 @@
                 "index": "44-04-28-004",
                 "matrix": null,
                 "title": "Johnny Come Lately",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4413d"
             },
             {
@@ -14782,6 +14930,10 @@
                 "matrix": null,
                 "title": "Poinciana",
                 "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    },
                     {
                         "label": "WL",
                         "catalog": "RM-343/344\u2020"
@@ -14800,6 +14952,10 @@
                         "catalog": "CAR-435"
                     },
                     {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    },
+                    {
                         "label": "WL",
                         "catalog": "RM-343/344\u2020"
                     }
@@ -14811,7 +14967,12 @@
                 "index": "44-04-28-007",
                 "matrix": null,
                 "title": "Three Cent Stomp",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4413g"
             },
             {
@@ -14819,7 +14980,12 @@
                 "index": "44-04-28-008",
                 "matrix": null,
                 "title": "I Didn't Know About You (Sentimental Lady)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4413h"
             }
         ]
@@ -14941,7 +15107,12 @@
                 "index": "44-05-00-001",
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9094a"
             },
             {
@@ -14949,7 +15120,12 @@
                 "index": "44-05-00-002",
                 "matrix": null,
                 "title": "Mood To Be Wooed",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9094b"
             },
             {
@@ -14987,7 +15163,12 @@
                 "index": "44-05-01-001",
                 "matrix": null,
                 "title": "On The Alamo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9095a"
             },
             {
@@ -14995,7 +15176,12 @@
                 "index": "44-05-01-002",
                 "matrix": null,
                 "title": "Main Stem",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9095b"
             },
             {
@@ -15003,7 +15189,12 @@
                 "index": "44-05-01-003",
                 "matrix": null,
                 "title": "My Little Brown Book - vAH",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9095c"
             },
             {
@@ -15011,7 +15202,12 @@
                 "index": "44-05-01-004",
                 "matrix": null,
                 "title": "Rockabye River (Hop, Skip, Jump)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DESUK",
+                        "catalog": "CD-1"
+                    }
+                ],
                 "desor": "DE9095d"
             }
         ]
@@ -15324,7 +15520,12 @@
                 "index": "44-05-12-001",
                 "matrix": null,
                 "title": "Time Alone Will Tell",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4417a"
             },
             {
@@ -15332,7 +15533,12 @@
                 "index": "44-05-12-002",
                 "matrix": null,
                 "title": "San Fernando Valley",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4417b"
             },
             {
@@ -15340,7 +15546,12 @@
                 "index": "44-05-12-003",
                 "matrix": null,
                 "title": "Stomp, Look And Listen",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4417c"
             },
             {
@@ -15348,7 +15559,12 @@
                 "index": "44-05-12-004",
                 "matrix": null,
                 "title": "Concerto For Cootie",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4417d"
             }
         ]
@@ -15369,7 +15585,12 @@
                 "index": "44-05-19-001",
                 "matrix": null,
                 "title": "Long Ago And Far Away - vAH",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4418a"
             },
             {
@@ -15377,7 +15598,12 @@
                 "index": "44-05-19-002",
                 "matrix": null,
                 "title": "Someone",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4418b"
             },
             {
@@ -15385,7 +15611,12 @@
                 "index": "44-05-19-003",
                 "matrix": null,
                 "title": "Suddenly It Jumped",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4418c"
             },
             {
@@ -15393,7 +15624,12 @@
                 "index": "44-05-19-004",
                 "matrix": null,
                 "title": "Things Ain't What They Used to Be",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
+                    }
+                ],
                 "desor": "DE4418d"
             }
         ]
@@ -15565,10 +15801,6 @@
                 "matrix": null,
                 "title": "Blue Skies",
                 "releases": [
-                    {
-                        "label": "MJ",
-                        "catalog": "MJCD-1140"
-                    },
                     {
                         "label": "MJ",
                         "catalog": "MJCD-1141"
@@ -15940,6 +16172,10 @@
                 "matrix": null,
                 "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD-1124"
+                    },
                     {
                         "label": "Rt",
                         "catalog": "70"
@@ -16380,7 +16616,7 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Bainbridge, MD",
-        "date": "08 June 1944",
+        "date": "08 July 1944",
         "same_session": false,
         "description": "Broadcast, from Naval Training Center",
         "entries": [
@@ -16390,7 +16626,7 @@
             },
             {
                 "type": "take",
-                "index": "44-06-08-001",
+                "index": "44-07-08-001",
                 "matrix": null,
                 "title": "G.I. Jive",
                 "releases": [
@@ -16404,6 +16640,10 @@
                     },
                     {
                         "label": "Sv",
+                        "catalog": "108-8600"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8310"
                     }
                 ],
@@ -16411,7 +16651,7 @@
             },
             {
                 "type": "take",
-                "index": "44-06-08-002",
+                "index": "44-07-08-002",
                 "matrix": null,
                 "title": "Amor",
                 "releases": [
@@ -16429,6 +16669,10 @@
                     },
                     {
                         "label": "Sv",
+                        "catalog": "108-8600"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8310"
                     }
                 ],
@@ -16436,7 +16680,7 @@
             },
             {
                 "type": "take",
-                "index": "44-06-08-003",
+                "index": "44-07-08-003",
                 "matrix": null,
                 "title": "My Little Brown Book - vAH",
                 "releases": [
@@ -16449,7 +16693,7 @@
             },
             {
                 "type": "take",
-                "index": "44-06-08-004",
+                "index": "44-07-08-004",
                 "matrix": null,
                 "title": "Frankie And Johnny",
                 "releases": [
@@ -16467,6 +16711,10 @@
                     },
                     {
                         "label": "Sv",
+                        "catalog": "108-8600"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8310"
                     }
                 ],
@@ -16474,7 +16722,7 @@
             },
             {
                 "type": "take",
-                "index": "44-06-08-005",
+                "index": "44-07-08-005",
                 "matrix": null,
                 "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
@@ -16487,7 +16735,7 @@
             },
             {
                 "type": "take",
-                "index": "44-06-08-006",
+                "index": "44-07-08-006",
                 "matrix": null,
                 "title": "It Don't Mean A Thing - vRN,TJ",
                 "releases": [
@@ -16504,7 +16752,7 @@
             },
             {
                 "type": "take",
-                "index": "44-06-08-007",
+                "index": "44-07-08-007",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [
@@ -16592,7 +16840,7 @@
                 "type": "take",
                 "index": "44-12-01-001",
                 "matrix": "D4VB453-1",
-                "title": "I Ain't Got Nothin' But The Blues - vAH, Kay Davis",
+                "title": "I Ain't Got Nothin' But The Blues - vAH,KD",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -17092,6 +17340,27 @@
                     }
                 ],
                 "desor": "DE4437b"
+            },
+            {
+                "type": "take",
+                "index": "44-12-17-007",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me - vGN",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "YSS-110"
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "YSS-86"
+                    }
+                ],
+                "desor": "DE4437c"
+            },
+            {
+                "type": "note",
+                "content": "Most likely DE4437c was probably edited into the AFRS transcription and the performance did not feature Duke Ellington and his orchestra (see TDWAW)."
             }
         ]
     },
@@ -17772,7 +18041,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Junior Raglin(sb); HBetty Roche(d) only on 44121715. 44121720-44121722, presented as \"Three Dances\""
+                "value": "DE4438t,u,v presented as \"Three Dances\""
             }
         ]
     },

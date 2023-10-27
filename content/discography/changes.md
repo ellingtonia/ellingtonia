@@ -16,6 +16,7 @@ menu:
 * Numerous corrections for 1942, 1943
 * Clarified different takes of "Hayfoot, Strawfoot" on different releases of Bb 5659-2-RB
 * Corrected date of DE6667 to 18 August 1966
+* Corrections for 1944
 
 ## September 2023
 * Corrected version of Hot And Bothered in DE In Order Vol 1
