@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## November 2023
+* Added a dating note to DE3312 and corrected the date for DE3313.
+
 ## October 2023
 * Corrected location of 63-10-10 concert to Bombay
 * Corrected matrix numbers for 44-12-11 session
