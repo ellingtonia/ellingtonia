@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## Feb 2024
+* Corrected vocalist for DE4920e (Joog Joog) to Joe Van Loan (was Kay Davis), with many thanks to Marv Goldberg (see [uncamarvy](https://www.uncamarvy.com/Ravens/ravens07.html)).
+
 ## November 2023
 * Added a dating note to DE3312 and corrected the date for DE3313.
 
