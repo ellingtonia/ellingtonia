@@ -19,6 +19,7 @@ menu:
 * Removed Norris Turney from some Feb 73 dates
 * Corrected location and typo in 73-02-08 session
 * Added missing track in 73-04-12 concert; minor corrections
+* 73-04-20: Changed "Woods" to "Soso".
 
 ## Feb 2024
 * Corrected vocalist for DE4920e (Joog Joog) to Joe Van Loan (was Kay Davis), with many thanks to Marv Goldberg (see [uncamarvy](https://www.uncamarvy.com/Ravens/ravens07.html)).
