@@ -16,6 +16,7 @@ menu:
 * Added and broadcast date of of 73-06-06 telecast
 * Telecast fixes early 1973
 * Various 1973 fixes
+* Removed Norris Turney from some Feb 73 dates
 
 ## Feb 2024
 * Corrected vocalist for DE4920e (Joog Joog) to Joe Van Loan (was Kay Davis), with many thanks to Marv Goldberg (see [uncamarvy](https://www.uncamarvy.com/Ravens/ravens07.html)).
