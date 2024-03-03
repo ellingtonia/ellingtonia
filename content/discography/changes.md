@@ -14,6 +14,7 @@ menu:
 * Correct vocalist on DE4436c to Joya Sherrill (was Betty Roche). With thanks to Stephen Macatee.
 * Added missing DE7189g
 * Removed "NBC" from Japenese broadcast description on 71-12-31.
+* Fixed description of 58-10-17 telecats
 
 ## November 2023
 * Added a dating note to DE3312 and corrected the date for DE3313.
