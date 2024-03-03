@@ -15,6 +15,7 @@ menu:
 * Added missing DE7189g
 * Removed "NBC" from Japenese broadcast description on 71-12-31.
 * Fixed description of 58-10-17 telecats
+* Various minor fixes for 63-08-26
 
 ## November 2023
 * Added a dating note to DE3312 and corrected the date for DE3313.
