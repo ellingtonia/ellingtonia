@@ -14,6 +14,7 @@ menu:
 * Various minor fixes for 63-08-26
 * Corrected spelling of Vince Prudente and Stéphane Grappelli.
 * Added and broadcast date of of 73-06-06 telecast
+* Telecast fixes early 1973
 
 ## Feb 2024
 * Corrected vocalist for DE4920e (Joog Joog) to Joe Van Loan (was Kay Davis), with many thanks to Marv Goldberg (see [uncamarvy](https://www.uncamarvy.com/Ravens/ravens07.html)).
