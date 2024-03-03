@@ -12,6 +12,7 @@ menu:
 * Removed "NBC" from Japenese broadcast description on 71-12-31.
 * Fixed description of 58-10-17 telecats
 * Various minor fixes for 63-08-26
+* Corrected spelling of Vince Prudente
 
 ## Feb 2024
 * Corrected vocalist for DE4920e (Joog Joog) to Joe Van Loan (was Kay Davis), with many thanks to Marv Goldberg (see [uncamarvy](https://www.uncamarvy.com/Ravens/ravens07.html)).
