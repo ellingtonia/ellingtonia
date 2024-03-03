@@ -12,6 +12,7 @@ menu:
 * Added YouTube links to the 10 Jan 1957 concert, and removed Jimmy Grissom (who is not heard).
 * Correct artists for 1 Feb 1953 telecast (with thanks to http://ellingtongalaxy.org/)
 * Correct vocalist on DE4436c to Joya Sherrill (was Betty Roche). With thanks to Stephen Macatee.
+* Added missing DE7189g
 
 ## November 2023
 * Added a dating note to DE3312 and corrected the date for DE3313.
