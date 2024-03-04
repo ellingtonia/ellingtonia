@@ -22,6 +22,7 @@ menu:
 * 73-04-20: Changed "Woods" to "Soso".
 * Vocalist fixes for 73-04-30
 * Many 1973 fixes
+* Re-dated and moved DE7341 with minor tweaks
 
 ## Feb 2024
 * Corrected vocalist for DE4920e (Joog Joog) to Joe Van Loan (was Kay Davis), with many thanks to Marv Goldberg (see [uncamarvy](https://www.uncamarvy.com/Ravens/ravens07.html)).
