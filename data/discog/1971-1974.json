@@ -34813,7 +34813,7 @@
                 "type": "take",
                 "index": "73-10-25-020",
                 "matrix": null,
-                "title": "Woods",
+                "title": "Soso",
                 "releases": [],
                 "desor": null
             },
@@ -35280,11 +35280,11 @@
     },
     {
         "group": "DUKE ELLINGTON",
-        "location": "n/k, D",
+        "location": "Unknown Location, D",
         "date": "October/November 1973",
         "index_date": 731100,
         "same_session": false,
-        "description": "Concert, Konserthuset",
+        "description": "Pre-recording for the U.S. Armed Forces News",
         "entries": [
             {
                 "type": "artists",
@@ -35328,19 +35328,29 @@
                 "index": "73-11-02-002",
                 "matrix": null,
                 "title": "Metcuria The Lion",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "TLR",
+                        "catalog": "204041"
+                    }
+                ],
                 "desor": "DE7348b"
             },
             {
                 "type": "artists",
-                "value": "Harold \"Money\" Johnson(t,v); Russell Procope(cl,as); Paul Gonsalves Harold Ashby(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Joe Benjamin(sb); Quentin \"Rocky\" White(d)"
+                "value": "Harold \"Money\" Johnson(t,v); Russell Procope(cl,as); Paul Gonsalves, Harold Ashby(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Joe Benjamin(sb); Quentin \"Rocky\" White(d)"
             },
             {
                 "type": "take",
                 "index": "73-11-02-003",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "TLR",
+                        "catalog": "204041"
+                    }
+                ],
                 "desor": "DE7348c"
             },
             {
@@ -35348,7 +35358,12 @@
                 "index": "73-11-02-004",
                 "matrix": null,
                 "title": "Mood Indigo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "JD",
+                        "catalog": "11023"
+                    }
+                ],
                 "desor": "DE7348d"
             },
             {
@@ -35384,7 +35399,16 @@
                 "index": "73-11-02-007",
                 "matrix": null,
                 "title": "Pitter Panther Patter",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "JD",
+                        "catalog": "11023"
+                    },
+                    {
+                        "label": "TLR",
+                        "catalog": "204041"
+                    }
+                ],
                 "desor": "DE7348g"
             },
             {
@@ -35396,7 +35420,12 @@
                 "index": "73-11-02-008",
                 "matrix": null,
                 "title": "Sophisticated Lady",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "TLR",
+                        "catalog": "204041"
+                    }
+                ],
                 "desor": "DE7348h"
             },
             {
@@ -35412,7 +35441,12 @@
                 "index": "73-11-02-010",
                 "matrix": null,
                 "title": "Mack The Knife - vMJ",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "JD",
+                        "catalog": "11023"
+                    }
+                ],
                 "desor": "DE7348j"
             },
             {
@@ -35442,6 +35476,27 @@
                 "title": "Come Sunday - vTW",
                 "releases": [],
                 "desor": "DE7348m"
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington(p); Joe Benjamin(sb); Quentin \"Rocky\" White(d); Baby Laurence(td)"
+            },
+            {
+                "type": "take",
+                "index": "73-11-02-014",
+                "matrix": null,
+                "title": "Tap Dance",
+                "releases": [
+                    {
+                        "label": "JD",
+                        "catalog": "11023"
+                    },
+                    {
+                        "label": "TLR",
+                        "catalog": "204041"
+                    }
+                ],
+                "desor": null
             }
         ]
     },
@@ -35460,7 +35515,7 @@
                 "type": "take",
                 "index": "73-11-03-001",
                 "matrix": null,
-                "title": "Take The \"A\" Train theme)",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE7349a"
             },
@@ -35612,7 +35667,7 @@
                 "type": "take",
                 "index": "73-11-03-019",
                 "matrix": null,
-                "title": "      3. I'm Beginning To See The Light",
+                "title": "      3. It Don't Mean A Thing",
                 "releases": [],
                 "desor": null
             },
@@ -35644,7 +35699,7 @@
                 "type": "take",
                 "index": "73-11-03-023",
                 "matrix": null,
-                "title": "Take The \"A\" Train theme)",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE7349t"
             }
@@ -35937,7 +35992,7 @@
                 "type": "take",
                 "index": "73-11-05-033",
                 "matrix": null,
-                "title": "Woods",
+                "title": "Soso",
                 "releases": [],
                 "desor": "DE7350ad"
             },
@@ -36062,7 +36117,7 @@
                 "type": "take",
                 "index": "73-11-07-008",
                 "matrix": null,
-                "title": "Woods",
+                "title": "Soso",
                 "releases": [],
                 "desor": "DE7351h"
             },
@@ -36094,7 +36149,7 @@
                 "type": "take",
                 "index": "73-11-07-011",
                 "matrix": null,
-                "title": "      3. I'm Beginning To See The Light",
+                "title": "      3. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -36200,7 +36255,13 @@
                 "index": "73-11-08-003",
                 "matrix": null,
                 "title": "Creole Love Call",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352c"
             },
             {
@@ -36208,7 +36269,13 @@
                 "index": "73-11-08-004",
                 "matrix": null,
                 "title": "Satin Doll",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352d"
             },
             {
@@ -36216,7 +36283,13 @@
                 "index": "73-11-08-005",
                 "matrix": null,
                 "title": "Spacemen",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352e"
             },
             {
@@ -36224,7 +36297,13 @@
                 "index": "73-11-08-006",
                 "matrix": null,
                 "title": "In A Sentimental Mood",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352f"
             },
             {
@@ -36248,7 +36327,13 @@
                 "index": "73-11-08-009",
                 "matrix": null,
                 "title": "New York, New York - vAMo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352i"
             },
             {
@@ -36256,7 +36341,13 @@
                 "index": "73-11-08-010",
                 "matrix": null,
                 "title": "I Got It Bad - vAMo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352j"
             },
             {
@@ -36264,7 +36355,13 @@
                 "index": "73-11-08-011",
                 "matrix": null,
                 "title": "Blem - vAMo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352k"
             },
             {
@@ -36272,7 +36369,13 @@
                 "index": "73-11-08-012",
                 "matrix": null,
                 "title": "Chinoiserie",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352l"
             },
             {
@@ -36280,7 +36383,13 @@
                 "index": "73-11-08-013",
                 "matrix": null,
                 "title": "Basin Street Blues - vMJ",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352m"
             },
             {
@@ -36288,7 +36397,13 @@
                 "index": "73-11-08-014",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7352n"
             },
             {
@@ -36304,7 +36419,13 @@
                 "index": "73-11-08-015",
                 "matrix": null,
                 "title": "      1. Don't Get Around Much Anymore",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": null
             },
             {
@@ -36312,7 +36433,13 @@
                 "index": "73-11-08-016",
                 "matrix": null,
                 "title": "      2. Mood Indigo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": null
             },
             {
@@ -36320,7 +36447,13 @@
                 "index": "73-11-08-017",
                 "matrix": null,
                 "title": "      3. I'm Beginning To See The Light",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": null
             },
             {
@@ -36328,7 +36461,13 @@
                 "index": "73-11-08-018",
                 "matrix": null,
                 "title": "      4. Sophisticated Lady",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "8",
+                        "flags": ""
+                    }
+                ],
                 "desor": null
             },
             {
@@ -36374,14 +36513,20 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Barry Lee Hall, Johnny Coles(t,flh); Vince Prudente, Art Baron(tb); Chuck Connors(btb); Russell \nProcope(cl,as); Harold Minerve(cl,as,fl,pic); Harold Ashby(ts,cl); Paul Gonsalves, Percy Marion(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Joe Benjamin(sb); Quentin \"Rocky\" White(d); Alice Babs, Anita Moore, Roscoe Gill, Toney Watkins(v)"
+                "value": "Mercer Ellington(t); Harold \"Money\" Johnson(t); Barry Lee Hall, Johnny Coles(t,flh); Vince Prudente, Art Baron(tb); Chuck Connors(btb); Russell \nProcope(cl,as); Harold Minerve(cl,as,fl,pic); Harold Ashby(ts,cl); Paul Gonsalves, Percy Marion(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Joe Benjamin(sb); Quentin \"Rocky\" White(d); Alice Babs, Anita Moore, Roscoe Gill, Toney Watkins(v)"
             },
             {
                 "type": "take",
                 "index": "73-11-10-001",
                 "matrix": null,
                 "title": "Somebody Cares",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353a"
             },
             {
@@ -36397,7 +36542,13 @@
                 "index": "73-11-10-002",
                 "matrix": null,
                 "title": "  01. Praise God And Dance (Opening Theme)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353b"
             },
             {
@@ -36405,7 +36556,13 @@
                 "index": "73-11-10-003",
                 "matrix": null,
                 "title": "  03. Hallelujah",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353c"
             },
             {
@@ -36413,7 +36570,13 @@
                 "index": "73-11-10-004",
                 "matrix": null,
                 "title": "  04. Heaven - vTW",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353d"
             },
             {
@@ -36421,15 +36584,27 @@
                 "index": "73-11-10-005",
                 "matrix": null,
                 "title": "  05 Supreme Being - vRG",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353e"
             },
             {
                 "type": "take",
                 "index": "73-11-10-006",
                 "matrix": null,
-                "title": "  06. The Majesty Of God - vABa,JAC",
-                "releases": [],
+                "title": "  06. The Majesty Of God - vABa",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353f"
             },
             {
@@ -36437,7 +36612,13 @@
                 "index": "73-11-10-007",
                 "matrix": null,
                 "title": "  07. Is God A Three-Letter Word For Love? - vABa",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353g"
             },
             {
@@ -36445,7 +36626,13 @@
                 "index": "73-11-10-008",
                 "matrix": null,
                 "title": "  08. My Love - vABa",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353h"
             },
             {
@@ -36453,7 +36640,13 @@
                 "index": "73-11-10-009",
                 "matrix": null,
                 "title": "  10. The Shepherd",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353i"
             },
             {
@@ -36461,7 +36654,13 @@
                 "index": "73-11-10-010",
                 "matrix": null,
                 "title": "  11. Tell Me It's The Truth - vAMo,TW",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353j"
             },
             {
@@ -36469,7 +36668,13 @@
                 "index": "73-11-10-011",
                 "matrix": null,
                 "title": "  12. Somebody Cares - vABa,AMo,TW",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353k"
             },
             {
@@ -36477,15 +36682,27 @@
                 "index": "73-11-10-012",
                 "matrix": null,
                 "title": "  13. Every Man Prays In His Own Language - vABa",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353l"
             },
             {
                 "type": "take",
                 "index": "73-11-10-013",
                 "matrix": null,
-                "title": "  14. Ain't Nobody Nowhere Without God - vTW",
-                "releases": [],
+                "title": "  14. Ain't Nobody Nowhere Nothin' Without God - vTW",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353m"
             },
             {
@@ -36493,7 +36710,13 @@
                 "index": "73-11-10-014",
                 "matrix": null,
                 "title": "  15. Praise God And Dance - vABa,Amo,RG,TW",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353n"
             },
             {
@@ -36505,7 +36728,13 @@
                 "index": "73-11-10-015",
                 "matrix": null,
                 "title": "The Preacher's Song - vTW",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "9",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7353o"
             }
         ]
