@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## May 2024
+* More 1973-74 fixes
+
 ## March 2024
 * Added missing DE7189g
 * Removed "NBC" from Japenese broadcast description on 71-12-31.
