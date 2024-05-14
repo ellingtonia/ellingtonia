@@ -9,6 +9,7 @@ menu:
 
 ## May 2024
 * More 1973-74 fixes
+* Fixed description for DE5836
 
 ## March 2024
 * Added missing DE7189g
