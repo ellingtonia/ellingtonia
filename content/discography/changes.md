@@ -12,6 +12,7 @@ menu:
 * 1972 corrections
 * Updates for 1960
 * Fixes for 1959
+* Fixes for 1958
 
 ## May 2024
 * More 1973-74 fixes
