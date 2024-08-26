@@ -7,10 +7,13 @@ menu:
     weight: 10
 ---
 
+## August 2024
+* Minor 1941 corrections
+* 1972 corrections
+
 ## May 2024
 * More 1973-74 fixes
 * Fixed description for DE5836
-* Minor 1941 corrections
 
 ## March 2024
 * Added missing DE7189g
