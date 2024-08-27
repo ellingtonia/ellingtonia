@@ -37499,10 +37499,10 @@
     },
     {
         "group": "DUKE ELLINGTON",
-        "location": "NBC Studios, New York City, NY",
+        "location": "New York City, NY",
         "date": "26 March 1958",
         "same_session": false,
-        "description": "NBC Educational TV Recording: The Subject Is Jazz",
+        "description": "NBC Educational TV Recording, NBC Studios: The Subject Is Jazz",
         "entries": [
             {
                 "type": "artists",
@@ -38513,7 +38513,7 @@
         "location": "Newport, RI",
         "date": "03 July 1958",
         "same_session": false,
-        "description": "Concert, Freebody Park",
+        "description": "Afternoon Radio Broadcast, Newport Jazz Festival, Freebody Park",
         "entries": [
             {
                 "type": "artists",
@@ -38522,32 +38522,6 @@
             {
                 "type": "take",
                 "index": "58-07-03-001",
-                "matrix": null,
-                "title": "Princess Blue",
-                "releases": [
-                    {
-                        "label": "Co",
-                        "catalog": "C2K-53584"
-                    }
-                ],
-                "desor": "DE5824a"
-            },
-            {
-                "type": "take",
-                "index": "58-07-03-002",
-                "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vOB",
-                "releases": [
-                    {
-                        "label": "Co",
-                        "catalog": "C2K-53584"
-                    }
-                ],
-                "desor": "DE5824b"
-            },
-            {
-                "type": "take",
-                "index": "58-07-03-003",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [
@@ -38561,6 +38535,32 @@
                     }
                 ],
                 "desor": "DE5826i"
+            },
+            {
+                "type": "take",
+                "index": "58-07-03-002",
+                "matrix": null,
+                "title": "Princess Blue",
+                "releases": [
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-53584"
+                    }
+                ],
+                "desor": "DE5824a"
+            },
+            {
+                "type": "take",
+                "index": "58-07-03-003",
+                "matrix": null,
+                "title": "C-Jam Blues (Duke's Place) - vOB",
+                "releases": [
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-53584"
+                    }
+                ],
+                "desor": "DE5824b"
             }
         ]
     },
@@ -38569,7 +38569,7 @@
         "location": "Newport, RI",
         "date": "03 July 1958",
         "same_session": true,
-        "description": "Concert, Freebody Park",
+        "description": "Evening Concert, Newport Jazz Festival, Freebody Park",
         "entries": [
             {
                 "type": "artists",
@@ -44251,7 +44251,12 @@
                 "index": "58-11-07-002",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018540"
+                    }
+                ],
                 "desor": "DE5850a"
             },
             {
@@ -44259,7 +44264,12 @@
                 "index": "58-11-07-003",
                 "matrix": null,
                 "title": "Newport Up",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018540"
+                    }
+                ],
                 "desor": "DE5850b"
             },
             {
@@ -44267,7 +44277,12 @@
                 "index": "58-11-07-004",
                 "matrix": null,
                 "title": "My Funny Valentine",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018540"
+                    }
+                ],
                 "desor": "DE5850c"
             },
             {
@@ -44275,7 +44290,12 @@
                 "index": "58-11-07-005",
                 "matrix": null,
                 "title": "Perdido",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018540"
+                    }
+                ],
                 "desor": "DE5850d"
             },
             {
@@ -44283,7 +44303,12 @@
                 "index": "58-11-07-006",
                 "matrix": null,
                 "title": "Sophisticated Lady",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018540"
+                    }
+                ],
                 "desor": "DE5850e"
             },
             {
@@ -44291,7 +44316,12 @@
                 "index": "58-11-07-007",
                 "matrix": null,
                 "title": "Sonnet To Hank Cinq",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018540"
+                    }
+                ],
                 "desor": "DE5850f"
             },
             {
@@ -44299,7 +44329,12 @@
                 "index": "58-11-07-008",
                 "matrix": null,
                 "title": "What Else Can You Do With A Drum? - vOB",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018540"
+                    }
+                ],
                 "desor": "DE5850g"
             },
             {
@@ -45030,12 +45065,7 @@
                 "index": null,
                 "matrix": null,
                 "title": "Medley:",
-                "releases": [
-                    {
-                        "label": "Sv",
-                        "catalog": "108-8617"
-                    }
-                ],
+                "releases": [],
                 "desor": "DE5853m"
             },
             {
@@ -45044,6 +45074,10 @@
                 "matrix": null,
                 "title": "      1. Don't Get Around Much Anymore",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "108-8617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8324"
@@ -45059,6 +45093,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "108-8617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8324"
                     }
                 ],
@@ -45070,6 +45108,10 @@
                 "matrix": null,
                 "title": "      4. In A Sentimental Mood",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "108-8617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8324"
@@ -45085,6 +45127,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "108-8617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8324"
                     }
                 ],
@@ -45096,6 +45142,10 @@
                 "matrix": null,
                 "title": "      6. I'm Beginning To See The Light",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "108-8617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8324"
@@ -45111,6 +45161,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "108-8617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8324"
                     }
                 ],
@@ -45122,6 +45176,10 @@
                 "matrix": null,
                 "title": "      8. Caravan",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "108-8617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8324"
@@ -45137,6 +45195,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "108-8617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8324"
                     }
                 ],
@@ -45148,6 +45210,10 @@
                 "matrix": null,
                 "title": "    10. Just Squeeze Me - vRN",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "108-8617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8324"
@@ -45163,6 +45229,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "108-8617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8324"
                     }
                 ],
@@ -45174,6 +45244,10 @@
                 "matrix": null,
                 "title": "    12. Satin Doll",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "108-8617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8324"
@@ -45189,6 +45263,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "108-8617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8324"
                     }
                 ],
@@ -45200,6 +45278,10 @@
                 "matrix": null,
                 "title": "    14. I Let A Song & Don't Get Around Much",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "108-8617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8324"
