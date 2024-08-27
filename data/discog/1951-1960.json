@@ -27223,7 +27223,7 @@
         "location": "New York City, NY",
         "date": "22 October 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 7th Avenue Columbia Studio A.",
         "entries": [
             {
                 "type": "artists",
@@ -27244,20 +27244,9 @@
                 "title": "    02. Rhythm Pum Te Dum (Carribee Sequence)",
                 "releases": [
                     {
-                        "label": "Co",
-                        "catalog": "471320-2"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "CL-951"
-                    },
-                    {
                         "label": "CSP",
-                        "catalog": "JCL-951"
-                    },
-                    {
-                        "label": "JT",
-                        "catalog": "933"
+                        "catalog": "JCL-951",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5633a"
@@ -27274,15 +27263,18 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5633b"
@@ -27299,15 +27291,18 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5633c"
@@ -27370,15 +27365,18 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5634a"
@@ -27391,19 +27389,23 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "CSP",
-                        "catalog": "JCL-951"
+                        "catalog": "JCL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5634b"
@@ -27445,15 +27447,18 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5634d"
@@ -27466,15 +27471,18 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5634e"
@@ -27486,7 +27494,7 @@
         "location": "New York City, NY",
         "date": "18 November 1956",
         "same_session": false,
-        "description": "Broadcast, Birdland",
+        "description": "CBS Broadcast, Birdland",
         "entries": [
             {
                 "type": "artists",
@@ -27563,7 +27571,7 @@
         "location": "New York City, NY",
         "date": "18 November 1956",
         "same_session": false,
-        "description": "Telecast, Birdland",
+        "description": "NBC Telecast, \"The Steve Allen Show\", Birdland",
         "entries": [
             {
                 "type": "artists",
@@ -27635,7 +27643,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add SA(p)"
+                "value": "Add Steve Allen(p)"
             },
             {
                 "type": "take",
@@ -27652,7 +27660,7 @@
         "location": "New York City, NY",
         "date": "22 November 1956",
         "same_session": false,
-        "description": "CBS Telecast,",
+        "description": "CBS Telecast, Longines-Wittnauer Thanksgiving Festival",
         "entries": [
             {
                 "type": "artists",
@@ -27673,7 +27681,7 @@
         "location": "New York City, NY",
         "date": "06 December 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -27716,11 +27724,11 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "B-9511"
                     },
                     {
-                        "label": "CSP",
-                        "catalog": "JCL-951"
+                        "label": "Co",
+                        "catalog": "CL-951"
                     },
                     {
                         "label": "JT",
@@ -27874,6 +27882,10 @@
                 "title": "Caf\u00e9 Au Lait",
                 "releases": [
                     {
+                        "label": "CBS",
+                        "catalog": "88653"
+                    },
+                    {
                         "label": "Co",
                         "catalog": "CG-33961"
                     },
@@ -27976,7 +27988,7 @@
         "location": "Pennsauken, NJ",
         "date": "08 December 1956",
         "same_session": false,
-        "description": "Broadcast, Red Hill Inn",
+        "description": "MBS Broadcast, \"Bandstand U.S.A.\", Red Hill Inn",
         "entries": [
             {
                 "type": "artists",
@@ -28053,7 +28065,7 @@
         "location": "Pennsauken, NJ",
         "date": "09 December 1956",
         "same_session": false,
-        "description": "Broadcast, Red Hill Inn",
+        "description": "MBS Broadcast, \"Bandstand U.S.A.\", Red Hill Inn",
         "entries": [
             {
                 "type": "artists",
@@ -28106,6 +28118,10 @@
                 "title": "Tulip Or Turnip - vRN",
                 "releases": [],
                 "desor": "DE5640f"
+            },
+            {
+                "type": "note",
+                "content": "Previously dated 09 December"
             }
         ]
     },
