@@ -22349,7 +22349,7 @@
         "location": "New York City, NY",
         "date": "14 April 1956",
         "same_session": false,
-        "description": "Broadcast, Basin Street",
+        "description": "CBS Broadcast, Basin Street",
         "entries": [
             {
                 "type": "artists",
@@ -22377,6 +22377,10 @@
                     {
                         "label": "AFRS",
                         "catalog": "BSJ-15"
+                    },
+                    {
+                        "label": "Ec",
+                        "catalog": "EJCD-04"
                     }
                 ],
                 "desor": "DE5609b"
@@ -22407,10 +22411,6 @@
                     {
                         "label": "AFRS",
                         "catalog": "BSJ-15"
-                    },
-                    {
-                        "label": "Ec",
-                        "catalog": "EJCD-04"
                     }
                 ],
                 "desor": "DE5609d"
@@ -22486,7 +22486,7 @@
         "location": "New York City, NY",
         "date": "14 April 1956",
         "same_session": false,
-        "description": "Broadcast, Basin Street",
+        "description": "CBS Broadcast, Basin Street",
         "entries": [
             {
                 "type": "artists",
@@ -22834,6 +22834,10 @@
                 "desor": "DE5612d"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(tk); acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
+            },
+            {
                 "type": "take",
                 "index": "56-07-02-011",
                 "matrix": null,
@@ -22845,6 +22849,10 @@
                     }
                 ],
                 "desor": "DE5612e"
+            },
+            {
+                "type": "artists",
+                "value": "As before"
             },
             {
                 "type": "take",
@@ -23091,7 +23099,7 @@
         "location": "Newport, RI",
         "date": "07 July 1956",
         "same_session": false,
-        "description": "Concert, Freebody Park",
+        "description": "Concert, American Jazz Festival, Freebody Park",
         "entries": [
             {
                 "type": "artists",
@@ -23414,7 +23422,7 @@
         "location": "New York City, NY",
         "date": "09 July 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 7th Avenue Columbia Studio.",
         "entries": [
             {
                 "type": "artists",
@@ -23527,7 +23535,7 @@
         "location": "New York City, NY",
         "date": "09 July 1956",
         "same_session": false,
-        "description": "Film soundtrack",
+        "description": "Film soundtrack: Time Life Promo",
         "entries": [
             {
                 "type": "artists",
@@ -23537,7 +23545,7 @@
                 "type": "take",
                 "index": "56-07-09-006",
                 "matrix": null,
-                "title": "Mood Indigo",
+                "title": "Mood Indigo - tkDE",
                 "releases": [],
                 "desor": "DE5615a"
             },
@@ -23545,7 +23553,7 @@
                 "type": "take",
                 "index": "56-07-09-007",
                 "matrix": null,
-                "title": "Mood Indigo",
+                "title": "Mood Indigo - tkDE",
                 "releases": [],
                 "desor": "DE5615b"
             },
@@ -23553,7 +23561,7 @@
                 "type": "take",
                 "index": "56-07-09-008",
                 "matrix": null,
-                "title": "Caravan",
+                "title": "Caravan - tkDE",
                 "releases": [],
                 "desor": "DE5615c"
             },
@@ -23561,7 +23569,7 @@
                 "type": "take",
                 "index": "56-07-09-009",
                 "matrix": null,
-                "title": "Sophisticated Lady",
+                "title": "Sophisticated Lady - tkDE",
                 "releases": [],
                 "desor": "DE5615d"
             },
@@ -23569,7 +23577,7 @@
                 "type": "take",
                 "index": "56-07-09-010",
                 "matrix": null,
-                "title": "Satin Doll",
+                "title": "Satin Doll - tkDE",
                 "releases": [],
                 "desor": "DE5615e"
             },
@@ -23588,7 +23596,7 @@
         "location": "New Haven, CT",
         "date": "10 July 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Concert, Yale Bowl",
         "entries": [
             {
                 "type": "artists",
@@ -23937,6 +23945,10 @@
                 "desor": "DE5617i"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(tk); acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
+            },
+            {
                 "type": "take",
                 "index": "56-07-15-010",
                 "matrix": null,
@@ -23948,6 +23960,10 @@
                     }
                 ],
                 "desor": "DE5617j"
+            },
+            {
+                "type": "artists",
+                "value": "As before"
             },
             {
                 "type": "take",
@@ -24362,6 +24378,10 @@
                 "desor": "DE5618h"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(tk); acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
+            },
+            {
                 "type": "take",
                 "index": "56-07-18-009",
                 "matrix": null,
@@ -24377,6 +24397,10 @@
                     }
                 ],
                 "desor": "DE5618i"
+            },
+            {
+                "type": "artists",
+                "value": "As before"
             },
             {
                 "type": "take",
@@ -25064,7 +25088,16 @@
                 "index": "56-07-28-007",
                 "matrix": null,
                 "title": "\u00ac Diminuendo In Blue",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1153"
+                    },
+                    {
+                        "label": "QD",
+                        "catalog": "Q-044"
+                    }
+                ],
                 "desor": "DE5622g"
             },
             {
@@ -25072,7 +25105,16 @@
                 "index": "56-07-28-008",
                 "matrix": null,
                 "title": "\u00a0| Wailing Interval",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1153"
+                    },
+                    {
+                        "label": "QD",
+                        "catalog": "Q-044"
+                    }
+                ],
                 "desor": "DE5622h"
             },
             {
@@ -25080,7 +25122,16 @@
                 "index": "56-07-28-009",
                 "matrix": null,
                 "title": "_| Crescendo In Blue",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1153"
+                    },
+                    {
+                        "label": "QD",
+                        "catalog": "Q-044"
+                    }
+                ],
                 "desor": "DE5622i"
             },
             {
@@ -25216,7 +25267,7 @@
         "location": "New York City, NY",
         "date": "29 July 1956",
         "same_session": false,
-        "description": "CBS Broadcast,",
+        "description": "CBS Broadcast, \"The Woolworth Hour - The Best In Music\"",
         "entries": [
             {
                 "type": "artists",
@@ -25293,7 +25344,7 @@
         "location": "New York City, NY",
         "date": "01 August 1956",
         "same_session": false,
-        "description": "CBS studios Telecast,",
+        "description": "CBS studios Telecast, Frankie Laine Time",
         "entries": [
             {
                 "type": "artists",
@@ -25335,7 +25386,7 @@
         "location": "New York City, NY",
         "date": "07 August 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -25437,7 +25488,7 @@
             {
                 "type": "take",
                 "index": "56-08-07-006",
-                "matrix": "CO56566-1",
+                "matrix": "CO56566-3",
                 "title": "    11. Half The Fun",
                 "releases": [
                     {
@@ -25724,7 +25775,7 @@
         "location": "New York City, NY",
         "date": "17 September 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -25759,7 +25810,19 @@
                 "index": "56-09-17-003",
                 "matrix": "-3",
                 "title": "    07. Congo Square (Matumbe)",
+                "releases": [],
+                "desor": "DE5629c"
+            },
+            {
+                "type": "take",
+                "index": "56-09-17-004",
+                "matrix": "-4",
+                "title": "    07. Congo Square (Matumbe)",
                 "releases": [
+                    {
+                        "label": "Az",
+                        "catalog": "411"
+                    },
                     {
                         "label": "Co",
                         "catalog": "471320-2"
@@ -25775,19 +25838,6 @@
                     {
                         "label": "JT",
                         "catalog": "933"
-                    }
-                ],
-                "desor": "DE5629c"
-            },
-            {
-                "type": "take",
-                "index": "56-09-17-004",
-                "matrix": "-4",
-                "title": "    07. Congo Square (Matumbe)",
-                "releases": [
-                    {
-                        "label": "Az",
-                        "catalog": "411"
                     },
                     {
                         "label": "UA",
@@ -26032,6 +26082,10 @@
                     }
                 ],
                 "desor": "DE5629v"
+            },
+            {
+                "type": "note",
+                "content": "Duke Ellington, Joya Sherrill(tk) and Candido Camero(bo) were dubbed in on October 22."
             }
         ]
     },
@@ -26040,7 +26094,7 @@
         "location": "New York City, NY",
         "date": "24 September 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -26429,6 +26483,10 @@
                     }
                 ],
                 "desor": "DE5630ag"
+            },
+            {
+                "type": "note",
+                "content": "Duke Ellington(tk) and Candido Camero(bo) were dubbed in on October 22."
             }
         ]
     },
@@ -26437,7 +26495,7 @@
         "location": "New York City, NY",
         "date": "25 September 1956",
         "same_session": false,
-        "description": "New York City, NY",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -26563,7 +26621,7 @@
                 "type": "take",
                 "index": "56-09-25-005",
                 "matrix": null,
-                "title": "    07. Congo Square (Matumbe)",
+                "title": "    07. Congo Square",
                 "releases": [
                     {
                         "label": "Az",
@@ -26633,6 +26691,10 @@
                     }
                 ],
                 "desor": "DE5631g"
+            },
+            {
+                "type": "note",
+                "content": "Duke Ellington(tk) and choir were dubbed in on October 22."
             }
         ]
     },
@@ -26641,7 +26703,7 @@
         "location": "New York City, NY",
         "date": "28 September 1956",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -26675,19 +26737,23 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "CSP",
-                        "catalog": "JCL-951"
+                        "catalog": "JCL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5632b"
@@ -26704,15 +26770,18 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5632c"
@@ -26744,20 +26813,8 @@
                         "catalog": "411"
                     },
                     {
-                        "label": "Co",
-                        "catalog": "471320-2"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "CL-951"
-                    },
-                    {
                         "label": "CSP",
                         "catalog": "JCL-951"
-                    },
-                    {
-                        "label": "JT",
-                        "catalog": "933"
                     }
                 ],
                 "desor": "DE5632f"
@@ -26830,15 +26887,18 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5632n"
@@ -26972,23 +27032,28 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "CSP",
-                        "catalog": "JCL-951"
+                        "catalog": "JCL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     },
                     {
                         "label": "UA",
-                        "catalog": "NUA-7"
+                        "catalog": "NUA-7",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5632ab"
@@ -27041,15 +27106,18 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5632ag"
@@ -27070,19 +27138,23 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "CSP",
-                        "catalog": "JCL-951"
+                        "catalog": "JCL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5632ai"
@@ -27103,19 +27175,23 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "471320-2"
+                        "catalog": "471320-2",
+                        "flags": "*"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-951"
+                        "catalog": "CL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "CSP",
-                        "catalog": "JCL-951"
+                        "catalog": "JCL-951",
+                        "flags": "*"
                     },
                     {
                         "label": "JT",
-                        "catalog": "933"
+                        "catalog": "933",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE5632ak"
@@ -27135,6 +27211,10 @@
                 "title": "    ??. Trumpet Fugue",
                 "releases": [],
                 "desor": "DE5632am"
+            },
+            {
+                "type": "note",
+                "content": "Duke Ellington, Joya Sherrill(tk), Candido Camero(bo) and choir were dubbed in on October 22."
             }
         ]
     },
