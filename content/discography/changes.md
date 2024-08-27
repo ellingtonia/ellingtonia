@@ -11,6 +11,7 @@ menu:
 * Minor 1941 corrections
 * Many corrections for 1958-1960, 1972
 * More 1959 fixes
+* Fixes for Malmo 25 October 1973
 
 ## May 2024
 * More 1973-74 fixes
