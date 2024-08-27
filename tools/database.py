@@ -319,9 +319,9 @@ def load_from_json():
                 json_filename=os.path.basename(session_path),
                 index_date=jsession.get("index_date"),
             )
-            if sess.description == "Columbia Recording Session" and sess.location ==  "Radio Recorders, Los Angeles, CA":
-                sess.description =  "Columbia Recording Session. Radio Recorders."
-                sess.location = "Los Angeles, CA"
+            if sess.location ==  "30th Street Columbia Studio, New York City, NY":
+                sess.description =  "Columbia Recording Session, 30th Street Columbia Studio"
+                sess.location = "New York City, NY"
 
             entries = []
             for entry_idx, jentry in enumerate(jsession["entries"]):
