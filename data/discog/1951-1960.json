@@ -8755,7 +8755,7 @@
         "date": "probably 1952/53",
         "index_date": 530000,
         "same_session": false,
-        "description": "Broadcast,",
+        "description": "Broadcast, \"March Of The Dimes\"",
         "entries": [
             {
                 "type": "artists",
@@ -9160,7 +9160,7 @@
         "location": "New York City, NY",
         "date": "04 February 1953",
         "same_session": false,
-        "description": "NBC Telecast,",
+        "description": "NBC Telecast, \"Scott Music Hall\", sponsored by Scott Paper.",
         "entries": [
             {
                 "type": "artists",
@@ -9229,6 +9229,10 @@
                 "title": "Don't Get Around Much Anymore - vPP",
                 "releases": [],
                 "desor": "DE5308b"
+            },
+            {
+                "type": "note",
+                "content": "Date is probable but not confirmed."
             }
         ]
     },
@@ -9603,7 +9607,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vl,v); Britt Woodman, Quentin Jackson(tb); Jimmy Hamilton(cl,ts); Russell\nProcope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Oscar Pettiford(sb); Butch Ballard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vl,v); Britt Woodman, Quentin Jackson(tb); Jimmy Hamilton(cl,ts); Russell\nProcope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Oscar Pettiford(sb); Butch Ballard(d); Jimmy Grissom, n/k male(v)"
             },
             {
                 "type": "take",
@@ -9793,7 +9797,7 @@
                 "type": "take",
                 "index": "53-03-22-024",
                 "matrix": null,
-                "title": "I'm In The Mood For Love  - vJimmy Grissom,UM",
+                "title": "I'm In The Mood For Love  - vJG,n/k",
                 "releases": [],
                 "desor": "DE5311x"
             },
@@ -9929,7 +9933,7 @@
     },
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Passadena, CA",
+        "location": "Pasadena, CA",
         "date": "30 March 1953",
         "same_session": false,
         "description": "Concert, Civic Auditorium",
@@ -10428,7 +10432,7 @@
         "location": "Los Angeles, CA",
         "date": "06 April 1953",
         "same_session": false,
-        "description": "Capitol Recording Session",
+        "description": "Capitol Recording Session, Capitol Studio, Holywood",
         "entries": [
             {
                 "type": "artists",
@@ -10512,7 +10516,7 @@
         "location": "Los Angeles, CA",
         "date": "07 April 1953",
         "same_session": false,
-        "description": "Capitol Recording Session",
+        "description": "Capitol Recording Session, Capitol Studio, Holywood",
         "entries": [
             {
                 "type": "artists",
@@ -10692,7 +10696,7 @@
         "location": "Los Angeles, CA",
         "date": "09 April 1953",
         "same_session": false,
-        "description": "Capitol Recording Session",
+        "description": "Capitol Recording Session, Capitol Studio, Holywood",
         "entries": [
             {
                 "type": "artists",
@@ -10870,17 +10874,21 @@
     {
         "group": "DUKE ELLINGTON WITH RHYTHM ACCOMPANIMENT",
         "location": "Los Angeles, CA",
-        "date": "13 April 1953",
+        "date": "14 April 1953",
         "same_session": false,
-        "description": "Capitol Recording Session",
+        "description": "Capitol Recording Session, Capitol Studio, Holywood",
         "entries": [
+            {
+                "type": "note",
+                "content": "Session started at circa 12.30am"
+            },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Wendell Marshall(sb); Butch Ballard(d)"
             },
             {
                 "type": "take",
-                "index": "53-04-13-001",
+                "index": "53-04-14-001",
                 "matrix": "11431-6",
                 "title": "Who Knows?",
                 "releases": [
@@ -10901,11 +10909,11 @@
             },
             {
                 "type": "artists",
-                "value": "BBa out"
+                "value": "Butch Ballard out"
             },
             {
                 "type": "take",
-                "index": "53-04-13-002",
+                "index": "53-04-14-002",
                 "matrix": "11432-1",
                 "title": "Retrospection",
                 "releases": [
@@ -10930,7 +10938,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-13-003",
+                "index": "53-04-14-003",
                 "matrix": "11433-4",
                 "title": "B-Sharp Blues",
                 "releases": [
@@ -10951,7 +10959,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-13-004",
+                "index": "53-04-14-004",
                 "matrix": "11434-3",
                 "title": "Passion Flower",
                 "releases": [
@@ -10972,7 +10980,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-13-005",
+                "index": "53-04-14-005",
                 "matrix": "11435-2",
                 "title": "Dancers In Love",
                 "releases": [
@@ -10997,7 +11005,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-13-006",
+                "index": "53-04-14-006",
                 "matrix": "11436-1",
                 "title": "Reflections In D",
                 "releases": [
@@ -11018,7 +11026,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-13-007",
+                "index": "53-04-14-007",
                 "matrix": "11437-4",
                 "title": "Melancholia",
                 "releases": [
@@ -11043,7 +11051,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-13-008",
+                "index": "53-04-14-008",
                 "matrix": "11438-2",
                 "title": "Prelude To A Kiss",
                 "releases": [
@@ -11061,23 +11069,14 @@
                     }
                 ],
                 "desor": "DE5316h"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON WITH RHYTHM ACCOMPANIMENT",
-        "location": "Los Angeles, CA",
-        "date": "14 April 1953",
-        "same_session": false,
-        "description": "Capitol Recording Session",
-        "entries": [
+            },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Wendell Marshall(sb); Butch Ballard(d)"
             },
             {
                 "type": "take",
-                "index": "53-04-14-001",
+                "index": "53-04-14-009",
                 "matrix": null,
                 "title": "In A Sentimental Mood",
                 "releases": [
@@ -11098,7 +11097,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-14-002",
+                "index": "53-04-14-010",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [
@@ -11119,7 +11118,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-14-003",
+                "index": "53-04-14-011",
                 "matrix": null,
                 "title": "All Too Soon",
                 "releases": [
@@ -11140,7 +11139,7 @@
             },
             {
                 "type": "take",
-                "index": "53-04-14-004",
+                "index": "53-04-14-012",
                 "matrix": null,
                 "title": "Janet",
                 "releases": [
@@ -11304,7 +11303,7 @@
                 "type": "take",
                 "index": "53-04-30-010",
                 "matrix": null,
-                "title": "Creole Love Cal",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "La",
@@ -11431,7 +11430,7 @@
                 "type": "take",
                 "index": "53-04-30-017",
                 "matrix": null,
-                "title": "Y'ha Sue",
+                "title": "H'ya Sue",
                 "releases": [
                     {
                         "label": "Acr",
@@ -11472,6 +11471,10 @@
                 "title": "\u00ac I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
+                    {
                         "label": "La",
                         "catalog": "15784"
                     }
@@ -11485,6 +11488,10 @@
                 "title": "_| Don't Get Around Much Anymore - vRN",
                 "releases": [
                     {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
+                    {
                         "label": "La",
                         "catalog": "15784"
                     }
@@ -11497,6 +11504,10 @@
                 "matrix": null,
                 "title": "Just Squeeze Me - vRN",
                 "releases": [
+                    {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
                     {
                         "label": "La",
                         "catalog": "15784"
@@ -11524,6 +11535,10 @@
                 "title": "Perdido",
                 "releases": [
                     {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
+                    {
                         "label": "La",
                         "catalog": "15784"
                     }
@@ -11536,6 +11551,10 @@
                 "matrix": null,
                 "title": "Without A Song - vJG",
                 "releases": [
+                    {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
                     {
                         "label": "La",
                         "catalog": "15784"
@@ -11563,6 +11582,10 @@
                 "title": "Come On Home - vJG",
                 "releases": [
                     {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
+                    {
                         "label": "SR",
                         "catalog": "203"
                     }
@@ -11573,7 +11596,7 @@
                 "type": "take",
                 "index": "53-04-30-027",
                 "matrix": null,
-                "title": "Vagabonds",
+                "title": "Vagabonds - vJG",
                 "releases": [
                     {
                         "label": "JBi",
@@ -12013,7 +12036,7 @@
         "date": "Jun 1953",
         "index_date": 530615,
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "Broadcast, Blue Note, \"All-Star Parade Of Bands\"",
         "entries": [
             {
                 "type": "artists",
@@ -12197,7 +12220,7 @@
         "date": "Jun 1953",
         "index_date": 530618,
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "Broadcast, Blue Note, \"All-Star Parade Of Bands\"",
         "entries": [
             {
                 "type": "artists",
@@ -12330,7 +12353,7 @@
         "date": "Jun 1953",
         "index_date": 530621,
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "Broadcast, Blue Note, \"All-Star Parade Of Bands\"",
         "entries": [
             {
                 "type": "artists",
@@ -12511,7 +12534,7 @@
         "location": "Chicago, IL",
         "date": "24 June 1953",
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "Broadcast, Blue Note, \"Music For Moderns\"",
         "entries": [
             {
                 "type": "artists",
@@ -13065,7 +13088,7 @@
         "location": "Chicago, IL",
         "date": "01 July 1953",
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "Broadcast, Blue Note, \"All-Star Parade Of Bands\"",
         "entries": [
             {
                 "type": "artists",
