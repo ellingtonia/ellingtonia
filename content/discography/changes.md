@@ -10,8 +10,6 @@ menu:
 ## August 2024
 * Minor 1941 corrections
 * Many corrections for 1958-1960, 1972
-* 1960 corrections
-* 1958 corrections
 
 ## May 2024
 * More 1973-74 fixes
