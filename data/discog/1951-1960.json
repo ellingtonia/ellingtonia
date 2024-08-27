@@ -28342,7 +28342,7 @@
         "location": "Chicago, IL",
         "date": "01 January 1957",
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "NBC Broadcast, Blue Note",
         "entries": [
             {
                 "type": "artists",
@@ -28812,7 +28812,7 @@
         "location": "Chicago, IL",
         "date": "17 January 1957",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session, Universal Studios",
         "entries": [
             {
                 "type": "artists",
@@ -29033,10 +29033,10 @@
     },
     {
         "group": "DUKE ELLINGTON GROUP",
-        "location": "Evanston, IL",
+        "location": "Chicago, IL",
         "date": "29 January 1957",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session, Universal Studios",
         "entries": [
             {
                 "type": "artists",
@@ -29514,7 +29514,7 @@
             },
             {
                 "type": "artists",
-                "value": "Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Choir(v)"
+                "value": "Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
             },
             {
                 "type": "take",
@@ -29613,7 +29613,7 @@
         "location": "Boston, MA",
         "date": "02 March 1957",
         "same_session": false,
-        "description": "Broadcast, Storyville",
+        "description": "MBS Broadcast, Storyville",
         "entries": [
             {
                 "type": "artists",
@@ -29682,7 +29682,7 @@
         "location": "New York City, NY",
         "date": "07 March 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -29792,7 +29792,7 @@
             },
             {
                 "type": "artists",
-                "value": "Note: There are three issues of Pomegranate all using the same take. One has narration and bongos over dubbed and one with just Bongos. All are on Az 411"
+                "value": "Note: There are three issues of Pomegranate all using the same take. One has narration and bongos over dubbed and one with just bongos. All are on Az 411."
             }
         ]
     },
@@ -29822,7 +29822,7 @@
         "location": "New York City, NY",
         "date": "13 March 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -29933,7 +29933,7 @@
         "location": "New York City, NY",
         "date": "20 March 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -29970,6 +29970,10 @@
                 "matrix": "CO57562-2",
                 "title": "Allah-Bye",
                 "releases": [
+                    {
+                        "label": "MDD",
+                        "catalog": "006"
+                    },
                     {
                         "label": "UtD",
                         "catalog": "2007"
@@ -30010,10 +30014,6 @@
                     {
                         "label": "FMRS",
                         "catalog": "FM-4001/02"
-                    },
-                    {
-                        "label": "MDD",
-                        "catalog": "006"
                     }
                 ],
                 "desor": "DE5713g"
@@ -30325,7 +30325,7 @@
         "location": "New York City, NY",
         "date": "15 April 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -30429,7 +30429,7 @@
         "location": "New York City, NY",
         "date": "20 April 1957",
         "same_session": false,
-        "description": "Broadcast, Birdland",
+        "description": "MBS Broadcast, \"Bandstand U.S.A.\", Birdland",
         "entries": [
             {
                 "type": "artists",
@@ -30498,7 +30498,7 @@
         "location": "New York City, NY",
         "date": "21 April 1957",
         "same_session": false,
-        "description": "Broadcast, Birdland",
+        "description": "CBS Broadcast, Birdland",
         "entries": [
             {
                 "type": "artists",
@@ -30575,11 +30575,11 @@
         "location": "New York City, NY",
         "date": "23 April 1957",
         "same_session": false,
-        "description": "Telecast, Hickory House",
+        "description": "Telecast, \"Tonight! America After Dark\", Hickory House",
         "entries": [
             {
                 "type": "artists",
-                "value": "Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Oscar Pettiford(sb); Max Roach(d)"
+                "value": "Johnny Hodges(as); Harry Carney(cl,as,bar); Duke Ellington(p); Oscar Pettiford(sb); Max Roach(d)"
             },
             {
                 "type": "take",
@@ -30759,11 +30759,11 @@
         "location": null,
         "date": "26 April 1957",
         "same_session": false,
-        "description": "Telecast, Waldorf Astoria Hotel",
+        "description": "Telecast, \"Close-Up\", Waldorf Astoria Hotel",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p,tk); Tex McCrary, Jinx Falkenburg(tk)"
+                "value": "Duke Ellington(p,tk); Tex McCrary, Jinx Falkenburg Jerry Valburn(tk)"
             },
             {
                 "type": "take",
@@ -30780,6 +30780,10 @@
                 "title": "Piano Interlude",
                 "releases": [],
                 "desor": "DE5719b"
+            },
+            {
+                "type": "note",
+                "content": "TDWAW titles this \"Self Portrait of Duke Ellington\". It was later recorded under the title \"Take It Slow\" (July 25, 1962)."
             },
             {
                 "type": "take",
@@ -30812,7 +30816,7 @@
         "location": "New York City, NY",
         "date": "27 April 1957",
         "same_session": false,
-        "description": "Broadcast, Birdland",
+        "description": "MBS Broadcast, \"Bandstand U.S.A.\", Birdland",
         "entries": [
             {
                 "type": "artists",
@@ -31011,7 +31015,7 @@
         "location": "New York City, NY",
         "date": "03 May 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -31218,7 +31222,7 @@
     },
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Carroltown, PA",
+        "location": "Carrolltown, PA",
         "date": "22 June 1957",
         "same_session": false,
         "description": "Dance Sunset Ballroom",
@@ -31699,7 +31703,7 @@
         "location": "New York City, NY",
         "date": "24 June 1957",
         "same_session": false,
-        "description": "Verve recording session",
+        "description": "Verve recording session, Fine Sound Studios",
         "entries": [
             {
                 "type": "artists",
@@ -32359,7 +32363,7 @@
         "location": "Chicago, IL",
         "date": "12 July 1957",
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "NBC Monitor Broadcast, Blue Note",
         "entries": [
             {
                 "type": "artists",
@@ -33013,11 +33017,33 @@
         ]
     },
     {
+        "group": "DUKE ELLINGTON",
+        "location": "Chicago, IL",
+        "date": "07 August 1957",
+        "same_session": false,
+        "description": "CBS Broadcast, \"The Howard Miller Show\", for the radio station WIND",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Duke Ellington, Howard Miller(tk)"
+            },
+            {
+                "type": "take",
+                "index": "57-08-07-001",
+                "matrix": null,
+                "title": "Interview by Howard Miller",
+                "releases": [],
+                "desor": null,
+                "youtube": "https://www.youtube.com/watch?v=FLjG_iHU0e4&t=200s"
+            }
+        ]
+    },
+    {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "24 August 1957",
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "NBC Monitor Broadcast, Blue Note",
         "entries": [
             {
                 "type": "artists",
@@ -33054,7 +33080,7 @@
         "location": "Chicago, IL",
         "date": "31 August 1957",
         "same_session": false,
-        "description": "Broadcast, Blue Note",
+        "description": "NBC Monitor Broadcast, Blue Note",
         "entries": [
             {
                 "type": "artists",
@@ -33099,7 +33125,7 @@
         "location": "Chicago, IL",
         "date": "02 September 1957",
         "same_session": false,
-        "description": "Verve recording session",
+        "description": "Verve recording session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -33288,7 +33314,7 @@
         "location": "Stratford, Canada",
         "date": "05 September 1957",
         "same_session": false,
-        "description": "Concert, Festival Concert Hall",
+        "description": "Concert, Festival Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -33397,7 +33423,7 @@
         "location": "New York City, NY",
         "date": "09 September 1957",
         "same_session": false,
-        "description": "Columbia recording sessioin",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -33528,7 +33554,7 @@
         "location": "New York City, NY",
         "date": "11 September 1957",
         "same_session": false,
-        "description": "CBS Telecast,",
+        "description": "CBS Telecast, \"The Vic Damone Show\"",
         "entries": [
             {
                 "type": "artists",
@@ -33611,10 +33637,10 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Boston, MA",
-        "date": "Sep 1957",
+        "date": "September 1957",
         "index_date": 570931,
         "same_session": false,
-        "description": "Broadcast, Storyville",
+        "description": "MBS Broadcast, Storyville",
         "entries": [
             {
                 "type": "artists",
@@ -33667,7 +33693,7 @@
         "location": "New York City, NY",
         "date": "01 October 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -33755,7 +33781,7 @@
         "location": "New York City, NY",
         "date": "03 October 1957",
         "same_session": false,
-        "description": "Verve recording session",
+        "description": "Verve recording session, Fine Sound Studios",
         "entries": [
             {
                 "type": "artists",
@@ -33960,7 +33986,7 @@
         "location": "New York City, NY",
         "date": "10 October 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -34162,7 +34188,7 @@
         "location": "New York City, NY",
         "date": "13 October 1957",
         "same_session": false,
-        "description": "NBC Telecast,",
+        "description": "NBC Telecast: \"Standard Oil 75th Anniversary\" Esso Show.",
         "entries": [
             {
                 "type": "artists",
@@ -34255,7 +34281,7 @@
         "location": "New York City, NY",
         "date": "14 October 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -34740,7 +34766,7 @@
         "location": "Chicago, IL",
         "date": "25 November 1957",
         "same_session": false,
-        "description": "WGN TV Telecast,",
+        "description": "WGN TV Telecast, \"Hour Of Music\"",
         "entries": [
             {
                 "type": "artists",
@@ -35050,6 +35076,10 @@
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE5744o"
+            },
+            {
+                "type": "note",
+                "content": "Clark Terry notes this date as the first recording session in which he played the flugelhorn"
             }
         ]
     },
@@ -35058,7 +35088,7 @@
         "location": "New York City, NY",
         "date": "02 December 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -35126,7 +35156,7 @@
         "location": "New York City, NY",
         "date": "09 December 1957",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -35152,7 +35182,7 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "4-4098"
+                        "catalog": "4-41098"
                     }
                 ],
                 "desor": "DE5746b"
@@ -35206,7 +35236,7 @@
         "location": "Chicago, IL",
         "date": "30 December 1957",
         "same_session": false,
-        "description": "Telecast, Blue Note",
+        "description": "Telecast, Blue Note: \"Timex All Star Jazz Show #1\"",
         "entries": [
             {
                 "type": "artists",
@@ -35251,9 +35281,9 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
-        "date": "01 January 1958",
+        "date": "31 December 1957",
         "same_session": false,
-        "description": "Early AM Broadcast, Blue Note",
+        "description": "Broadcast, Blue Note",
         "entries": [
             {
                 "type": "artists",
@@ -35261,7 +35291,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-001",
+                "index": "57-12-31-001",
                 "matrix": null,
                 "title": "Auld Lang Syne",
                 "releases": [],
@@ -35269,7 +35299,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-002",
+                "index": "57-12-31-002",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -35277,7 +35307,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-003",
+                "index": "57-12-31-003",
                 "matrix": null,
                 "title": "Auld Lang Syne",
                 "releases": [],
@@ -35285,7 +35315,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-004",
+                "index": "57-12-31-004",
                 "matrix": null,
                 "title": "Newport Up",
                 "releases": [],
@@ -35293,7 +35323,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-005",
+                "index": "57-12-31-005",
                 "matrix": null,
                 "title": "Together - vJG",
                 "releases": [],
@@ -35301,7 +35331,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-006",
+                "index": "57-12-31-006",
                 "matrix": null,
                 "title": "La Virgen De La Macarena",
                 "releases": [],
@@ -35309,7 +35339,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-007",
+                "index": "57-12-31-007",
                 "matrix": null,
                 "title": "You Better Know It - vOB",
                 "releases": [],
@@ -35317,7 +35347,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-008",
+                "index": "57-12-31-008",
                 "matrix": null,
                 "title": "Star-Crossed Lovers",
                 "releases": [],
@@ -35325,7 +35355,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-009",
+                "index": "57-12-31-009",
                 "matrix": null,
                 "title": "Such Sweet Thunder",
                 "releases": [],
@@ -35333,7 +35363,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-010",
+                "index": "57-12-31-010",
                 "matrix": null,
                 "title": "\u00ac Diminuendo In Blue",
                 "releases": [],
@@ -35341,7 +35371,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-011",
+                "index": "57-12-31-011",
                 "matrix": null,
                 "title": "\u00a0| Wailing Interval",
                 "releases": [],
@@ -35349,7 +35379,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-012",
+                "index": "57-12-31-012",
                 "matrix": null,
                 "title": "_| Crescendo In Blue",
                 "releases": [],
@@ -35357,7 +35387,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-013",
+                "index": "57-12-31-013",
                 "matrix": null,
                 "title": "Such Sweet Thunder",
                 "releases": [],
@@ -35378,7 +35408,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-014",
+                "index": "58-01-01-001",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -35386,7 +35416,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-015",
+                "index": "58-01-01-002",
                 "matrix": null,
                 "title": "The Telecasters",
                 "releases": [],
@@ -35394,7 +35424,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-016",
+                "index": "58-01-01-003",
                 "matrix": null,
                 "title": "Jump For Joy - vRN",
                 "releases": [],
@@ -35402,7 +35432,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-017",
+                "index": "58-01-01-004",
                 "matrix": null,
                 "title": "Passion Flower",
                 "releases": [],
@@ -35410,7 +35440,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-018",
+                "index": "58-01-01-005",
                 "matrix": null,
                 "title": "Newport Up",
                 "releases": [],
@@ -35418,7 +35448,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-019",
+                "index": "58-01-01-006",
                 "matrix": null,
                 "title": "C-Jam Blues (Duke's Place) - vOB",
                 "releases": [],
@@ -35426,7 +35456,7 @@
             },
             {
                 "type": "take",
-                "index": "58-01-01-020",
+                "index": "58-01-01-007",
                 "matrix": null,
                 "title": "My Heart, My Mind, My Everything - vJG",
                 "releases": [],

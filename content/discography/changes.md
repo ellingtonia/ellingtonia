@@ -13,6 +13,7 @@ menu:
 * More 1959 fixes
 * Fixes for Malmo 25 October 1973
 * Fixes for 1956
+* Fixes for 1957
 
 ## May 2024
 * More 1973-74 fixes
