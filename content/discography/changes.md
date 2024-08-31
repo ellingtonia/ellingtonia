@@ -14,6 +14,7 @@ menu:
 * Fixes for Malmo 25 October 1973
 * Fixes for 1956
 * Fixes for 1957
+* Corrections for 1953
 
 ## May 2024
 * More 1973-74 fixes
