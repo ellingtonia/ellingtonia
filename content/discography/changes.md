@@ -17,6 +17,7 @@ menu:
 * Corrections for 1953
 * Correct take number for DE2803e.
 * Mark DE5826i original release as incomplete
+* Various fixes from the experts
 
 ## May 2024
 * More 1973-74 fixes
