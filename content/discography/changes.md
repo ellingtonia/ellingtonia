@@ -20,6 +20,7 @@ menu:
 * Various fixes from the experts
 * Fixes for 1954
 * Fixes for 1955
+* Fixes for 1952 and 1952
 
 ## May 2024
 * More 1973-74 fixes
