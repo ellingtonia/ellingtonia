@@ -14973,7 +14973,7 @@
         "location": "Chicago, IL",
         "date": "01 January 1954",
         "same_session": false,
-        "description": "Capitol recording session",
+        "description": "Capitol recording session, Universal Studios",
         "entries": [
             {
                 "type": "artists",
@@ -15024,7 +15024,7 @@
         "location": "Chicago, IL",
         "date": "02 January 1954",
         "same_session": false,
-        "description": "Capitol recording session",
+        "description": "Capitol recording session, Universal Studios",
         "entries": [
             {
                 "type": "artists",
@@ -15075,7 +15075,7 @@
         "location": "Chicago, IL",
         "date": "17 January 1954",
         "same_session": false,
-        "description": "Capitol recording session",
+        "description": "Capitol recording session, Universal Studios",
         "entries": [
             {
                 "type": "artists",
@@ -15084,7 +15084,7 @@
             {
                 "type": "take",
                 "index": "54-01-17-001",
-                "matrix": "12309-",
+                "matrix": "12309-4",
                 "title": "Happy Go Lucky Local",
                 "releases": [
                     {
@@ -15105,7 +15105,7 @@
             {
                 "type": "take",
                 "index": "54-01-17-002",
-                "matrix": "12310-",
+                "matrix": "12310-2",
                 "title": "Rockin' In Rhythm",
                 "releases": [
                     {
@@ -15124,9 +15124,13 @@
                 "desor": "DE5403b"
             },
             {
+                "type": "artists",
+                "value": "Add Billy Strayhorn(p)"
+            },
+            {
                 "type": "take",
                 "index": "54-01-17-003",
-                "matrix": "12311-",
+                "matrix": "12311-12",
                 "title": "Falling Like A Raindrop",
                 "releases": [
                     {
@@ -16135,7 +16139,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add RCo(co)"
+                "value": "Add Ron Collier(co)"
             },
             {
                 "type": "take",
@@ -16156,7 +16160,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add GWi(t)"
+                "value": "Add Gerald Wilson(t)"
             },
             {
                 "type": "take",
@@ -16177,7 +16181,7 @@
             },
             {
                 "type": "artists",
-                "value": "GWi,RCo  out"
+                "value": "Gerald Wilson, Ron Collier out"
             },
             {
                 "type": "take",
@@ -16347,6 +16351,10 @@
                 "title": "Liza",
                 "releases": [
                     {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
+                    {
                         "label": "JG",
                         "catalog": "1004"
                     }
@@ -16393,6 +16401,10 @@
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [
+                    {
+                        "label": "JBi",
+                        "catalog": "61746-80298-2"
+                    },
                     {
                         "label": "La",
                         "catalog": "15786"
@@ -16534,7 +16546,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407aa"
@@ -16547,7 +16559,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407ab"
@@ -16576,7 +16588,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407ae"
@@ -16589,7 +16601,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407af"
@@ -16610,7 +16622,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407ah"
@@ -16623,7 +16635,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407ai"
@@ -16676,7 +16688,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407ao"
@@ -16689,7 +16701,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407ap"
@@ -16702,7 +16714,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407aq"
@@ -16715,7 +16727,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407ar"
@@ -16728,7 +16740,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407as"
@@ -16741,7 +16753,7 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15786"
+                        "catalog": "15787"
                     }
                 ],
                 "desor": "DE5407at"
@@ -17207,7 +17219,7 @@
         "location": "New York City, NY",
         "date": "15 June 1954",
         "same_session": false,
-        "description": "Broadcast, Birdland",
+        "description": "WNBT Telecast, Birdland",
         "entries": [
             {
                 "type": "artists",
@@ -17260,7 +17272,7 @@
         "location": "New York City, NY",
         "date": "17 June 1954",
         "same_session": false,
-        "description": "Capitol Recording Session",
+        "description": "Capitol recording session, Capitol Studios",
         "entries": [
             {
                 "type": "artists",
@@ -17299,7 +17311,7 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2007"
+                        "catalog": "2006"
                     }
                 ],
                 "desor": "DE5411b"
@@ -17312,7 +17324,7 @@
         "date": "Jun 1954",
         "index_date": 540631,
         "same_session": false,
-        "description": "Dance Mentor Ballroom",
+        "description": "Dance, Mentor Ballroom",
         "entries": [
             {
                 "type": "artists",
@@ -17562,7 +17574,7 @@
         "location": "Los Angeles, CA",
         "date": "26 July 1954",
         "same_session": false,
-        "description": "NBC television",
+        "description": "NBC TV daytime \"House Party\" show",
         "entries": [
             {
                 "type": "artists",
@@ -17627,7 +17639,7 @@
         "location": "Los Angeles, CA",
         "date": "01 September 1954",
         "same_session": false,
-        "description": "Capitol Recording Session",
+        "description": "Capitol Recording Session, Capitol Studio, Holywood",
         "entries": [
             {
                 "type": "artists",
@@ -17656,7 +17668,7 @@
             },
             {
                 "type": "artists",
-                "value": "G~Wi out"
+                "value": "Gerald Wilson out"
             },
             {
                 "type": "take",
@@ -17677,7 +17689,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add GWi(t)"
+                "value": "Add Gerald Wilson(t)"
             },
             {
                 "type": "take",
@@ -17698,13 +17710,13 @@
             },
             {
                 "type": "artists",
-                "value": "G~Wi out"
+                "value": "Gerald Wilson out"
             },
             {
                 "type": "take",
                 "index": "54-09-01-004",
                 "matrix": "12995-6",
-                "title": "Chile Bowl",
+                "title": "Chili Bowl",
                 "releases": [
                     {
                         "label": "Cp",
@@ -17719,7 +17731,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add GWi(t); RCo(co)"
+                "value": "Add Gerald Wilson(t); Ron Collier(co)"
             },
             {
                 "type": "take",
@@ -17771,7 +17783,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson(t); Clark Terry(t,fl); Ray Nance(t,vl,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Oscar Pettiford(sb); Frank Rollo(bg); Dave Black(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson(t); Clark Terry(t,fl); Ray Nance(t,vl,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Oscar Pettiford(sb); Frank Rollo(bo); Dave Black(d); Jimmy Grissom(v)"
             },
             {
                 "type": "take",
@@ -17791,6 +17803,10 @@
                 "desor": "DE5417a"
             },
             {
+                "type": "artists",
+                "value": "Frank Rollo out"
+            },
+            {
                 "type": "take",
                 "index": "54-10-08-002",
                 "matrix": "13091-2",
@@ -17806,6 +17822,10 @@
                     }
                 ],
                 "desor": "DE5417b"
+            },
+            {
+                "type": "artists",
+                "value": "As before"
             },
             {
                 "type": "take",
@@ -18102,12 +18122,20 @@
                 "desor": "DE5418ag"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(tk); Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)"
+            },
+            {
                 "type": "take",
                 "index": "54-11-13-034",
                 "matrix": null,
                 "title": "Monologue - tkDE",
                 "releases": [],
                 "desor": "DE5418ah"
+            },
+            {
+                "type": "artists",
+                "value": "As before"
             },
             {
                 "type": "take",
@@ -18122,10 +18150,9 @@
     {
         "group": "DUKE ELLINGTON WITH RHYTHM",
         "location": "New York City, NY",
-        "date": "28 Dec1954",
-        "index_date": 541228,
+        "date": "28 December 1954",
         "same_session": false,
-        "description": "NBC Telecast,",
+        "description": "NBC Telecast, \"Tonight\"",
         "entries": [
             {
                 "type": "artists",
