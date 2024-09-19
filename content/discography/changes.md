@@ -19,6 +19,7 @@ menu:
 * Mark DE5826i original release as incomplete
 * Various fixes from the experts
 * Fixes for 1954
+* Fixes for 1955
 
 ## May 2024
 * More 1973-74 fixes
