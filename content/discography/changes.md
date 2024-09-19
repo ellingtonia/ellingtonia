@@ -15,6 +15,7 @@ menu:
 * Fixes for 1956
 * Fixes for 1957
 * Corrections for 1953
+* Correct take number for DE2803e.
 
 ## May 2024
 * More 1973-74 fixes
