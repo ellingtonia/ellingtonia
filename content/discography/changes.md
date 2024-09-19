@@ -7,6 +7,12 @@ menu:
     weight: 10
 ---
 
+## September 2024
+* Correct take number for DE2803e.
+* Mark DE5826i original release as incomplete
+* Various fixes from the experts
+* Fixes for 1952-1955 from EC
+
 ## August 2024
 * Minor 1941 corrections
 * Many corrections for 1958-1960, 1972
@@ -15,12 +21,6 @@ menu:
 * Fixes for 1956
 * Fixes for 1957
 * Corrections for 1953
-* Correct take number for DE2803e.
-* Mark DE5826i original release as incomplete
-* Various fixes from the experts
-* Fixes for 1954
-* Fixes for 1955
-* Fixes for 1952 and 1952
 
 ## May 2024
 * More 1973-74 fixes
