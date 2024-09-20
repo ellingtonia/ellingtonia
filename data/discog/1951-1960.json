@@ -279,10 +279,6 @@
                 "desor": "DE5102g"
             },
             {
-                "type": "artists",
-                "value": "Russell Procope(ss) instead of (as)"
-            },
-            {
                 "type": "take",
                 "index": "51-01-21-008",
                 "matrix": null,
@@ -302,6 +298,10 @@
                     }
                 ],
                 "desor": "DE5102h"
+            },
+            {
+                "type": "artists",
+                "value": "Russell Procope(ss) instead of (as)"
             },
             {
                 "type": "take",
@@ -807,16 +807,16 @@
                 "desor": "DE9059h"
             },
             {
-                "type": "artists",
-                "value": "Russell Procope(ss) instead of (as)"
-            },
-            {
                 "type": "take",
                 "index": "51-02-09-009",
                 "matrix": null,
                 "title": "HARLEM",
                 "releases": [],
                 "desor": "DE9059i"
+            },
+            {
+                "type": "artists",
+                "value": "Russell Procope(ss) instead of (as)"
             },
             {
                 "type": "take",
@@ -1622,7 +1622,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Ken Murray, unknown male, unknown female(v), Choir with David Brockman and His Orchestra"
+                "value": "Duke Ellington(p); Ken Murray, unknown male, unknown female, choir(v) with David Brockman and His Orchestra"
             },
             {
                 "type": "take",
@@ -4407,7 +4407,7 @@
                 "releases": [
                     {
                         "label": "Cm",
-                        "catalog": "Cm-CA-3038"
+                        "catalog": "CA-3038"
                     }
                 ],
                 "desor": "DE5203e"
