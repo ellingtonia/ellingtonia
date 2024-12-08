@@ -6562,11 +6562,11 @@
         "location": "New York City, NY",
         "date": "30 June 1952",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson, Clark Terry(t); Britt Woodman, Quentin Jackson(tb); Russell Procope(cl,ss,as); Paul Gonsalves(ts); Harry Carney(bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)"
+                "value": "Cat Anderson, Clark Terry(t); Britt Woodman(tb); Russell Procope(as); Jimmy Hamilton, Paul Gonsalves(ts); Harry Carney(bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)"
             },
             {
                 "type": "take",
@@ -6675,7 +6675,7 @@
         "location": "New York City, NY",
         "date": "01 July 1952",
         "same_session": false,
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, 30th Street Columbia Studio",
         "entries": [
             {
                 "type": "artists",
@@ -6684,7 +6684,7 @@
             {
                 "type": "take",
                 "index": "52-07-01-001",
-                "matrix": "CO48344",
+                "matrix": "CO48344-4",
                 "title": "The Mooche",
                 "releases": [
                     {
@@ -6707,9 +6707,13 @@
                 "desor": "DE5211a"
             },
             {
+                "type": "artists",
+                "value": "Add Billy Strayhorn(p)"
+            },
+            {
                 "type": "take",
                 "index": "52-07-01-002",
-                "matrix": "CO48345",
+                "matrix": "CO48345-3",
                 "title": "Perdido",
                 "releases": [
                     {
@@ -6730,6 +6734,10 @@
                     }
                 ],
                 "desor": "DE5211b"
+            },
+            {
+                "type": "note",
+                "content": "Ledger notes \"The Mooche\" is take 4 with new ending from insert 2; Perdido is take 3. (Steven Lasker, 27 Nov 2024, via email)"
             }
         ]
     },
