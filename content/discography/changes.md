@@ -14,6 +14,7 @@ menu:
 * Fixes for 1952-1955 from EC
 * Fixes for 1956-1957
 * Fixes for 30 Jone and 1 July 1952
+* Fixes for 21 Feb and 20 March 1930
 
 ## August 2024
 * Minor 1941 corrections
