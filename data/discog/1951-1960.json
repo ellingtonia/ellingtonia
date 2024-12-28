@@ -8811,7 +8811,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t,vl,v);Jimmy Hamilton(cl,ts); Harry Carney(cl,as,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Jimmy Grissom(d,v)"
+                "value": "Ray Nance(t,vl,v);Jimmy Hamilton(ts); Harry Carney(as,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Jimmy Grissom(d,v)"
             },
             {
                 "type": "take",
@@ -8892,6 +8892,10 @@
                 "desor": "DE5230f"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) and Wendell Marshall(sb) only"
+            },
+            {
                 "type": "take",
                 "index": "52-12-29-007",
                 "matrix": null,
@@ -8905,10 +8909,14 @@
                 "desor": "DE5230g"
             },
             {
+                "type": "artists",
+                "value": "As before"
+            },
+            {
                 "type": "take",
                 "index": "52-12-29-008",
                 "matrix": null,
-                "title": "New York City Blues\\Sophisticated Lady",
+                "title": "New York City Blues",
                 "releases": [
                     {
                         "label": "LLR",
