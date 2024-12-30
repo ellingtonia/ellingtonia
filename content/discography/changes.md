@@ -14,6 +14,7 @@ menu:
 * Corrections for 11 Aug 1934
 * Corrections for Murder at the Vanities
 * Remove vocal from DE6374n
+* Removed fake NDESOR from 46-08-24-005
 
 ## September 2024
 * Correct take number for DE2803e.
