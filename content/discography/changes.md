@@ -11,6 +11,7 @@ menu:
 * Fixes for 30 June and 1 July 1952
 * Fixes for 21 Feb and 20 March 1930
 * Corrections for 29 Dec 1952
+* Corrections for 11 Aug 1934
 
 ## September 2024
 * Correct take number for DE2803e.
