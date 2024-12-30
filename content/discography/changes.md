@@ -13,6 +13,7 @@ menu:
 * Corrections for 29 Dec 1952
 * Corrections for 11 Aug 1934
 * Corrections for Murder at the Vanities
+* Remove vocal from DE6374n
 
 ## September 2024
 * Correct take number for DE2803e.
