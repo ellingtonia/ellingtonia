@@ -5000,16 +5000,16 @@
         "location": "Los Angeles, CA",
         "date": "26 February 1934",
         "same_session": false,
-        "description": "Paramount film recording session",
+        "description": "Paramount soundtrack recording session. Paramount Sound Stage 1.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny\nHodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,ch); BVB(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,ch); Barbara Van Brunt(v)"
             },
             {
                 "type": "take",
                 "index": "34-02-26-001",
-                "matrix": "79093/1",
+                "matrix": "PBS79093-1 PBS79094-1",
                 "title": "Ebony Rhapsody",
                 "releases": [
                     {
@@ -5022,7 +5022,7 @@
             {
                 "type": "take",
                 "index": "34-02-26-002",
-                "matrix": "79094/1",
+                "matrix": "PBS79095-1 PBS79096-1",
                 "title": "Ebony Rhapsody",
                 "releases": [
                     {
@@ -5035,7 +5035,7 @@
             {
                 "type": "take",
                 "index": "34-02-26-003",
-                "matrix": "79105/1",
+                "matrix": "PCS79194-1",
                 "title": "Ebony Rhapsody",
                 "releases": [
                     {
@@ -5048,19 +5048,19 @@
             {
                 "type": "take",
                 "index": "34-02-26-004",
-                "matrix": "79106/1",
+                "matrix": "PCS79193-1",
                 "title": "Ebony Rhapsody - vBVB",
                 "releases": [
                     {
-                        "label": "BMG",
-                        "catalog": "88697302362"
+                        "label": "Uni",
+                        "catalog": "61106092"
                     }
                 ],
                 "desor": "DE3403d"
             },
             {
                 "type": "artists",
-                "value": "Film sound track from Paramount's \"Murder At The Vanities\" NB. Vocal on 34022604 overdubbed on 16 Apr 1934"
+                "value": "Film sound track from Paramount's \"Murder At The Vanities\" NB. Vocal on 34-02-26-004 overdubbed on 16 Apr 1934."
             }
         ]
     },

@@ -12,6 +12,7 @@ menu:
 * Fixes for 21 Feb and 20 March 1930
 * Corrections for 29 Dec 1952
 * Corrections for 11 Aug 1934
+* Corrections for Murder at the Vanities
 
 ## September 2024
 * Correct take number for DE2803e.
