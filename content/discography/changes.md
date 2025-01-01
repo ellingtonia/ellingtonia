@@ -16,6 +16,7 @@ menu:
 * Remove vocal from DE6374n
 * Removed fake NDESOR from 46-08-24-005
 * Corrections 1924-1928
+* Corrections for 1946
 
 ## September 2024
 * Correct take number for DE2803e.

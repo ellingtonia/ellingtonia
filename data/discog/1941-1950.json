@@ -40116,7 +40116,7 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "951"
+                        "catalog": "985"
                     },
                     {
                         "label": "RCA",
@@ -40146,7 +40146,7 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "951"
+                        "catalog": "985"
                     },
                     {
                         "label": "RCA",
@@ -40175,12 +40175,12 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Louis Armstrong(t,v); Charlie Shavers(t); Jimmy Hamilton(cl); Johnny Hodges(as); Don Byas(ts); Duke Ellington(p); Remo Palmieri(g); Chubby Jackson(sb); Sonny Greer(d)"
+                "value": "Louis Armstrong(t,v); Charlie Shavers(t); Jimmy Hamilton(cl); Johnny Hodges(as); Don Byas(ts); Duke Ellington, Billy Strayhorn(p); Remo Palmieri(g); Chubby Jackson(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
                 "index": "46-01-10-003",
-                "matrix": "D6VC5020-2",
+                "matrix": "D6VC5020-1",
                 "title": "Long Long Journey - vLA",
                 "releases": [
                     {
@@ -40244,7 +40244,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harry Edison, Pete Candoli, Neal Hefti, Sonny Berman (t); Tommy Dorsey, Bill Harris, J C Higginbotham (tb); Buddy De Franco (cl); Johnny Hodges (as); Herbie Fields, Flip Phillips, George Auld (ts); Harry Carney (bs); Teddy Wilson (p); Red Norvo (vib); Tiny Grimes, Billy Bauer (g); Chubby Jackson (sb); Dave Tough (d); Duke Ellington (cond.)"
+                "value": "Harry Edison, Pete Candoli, Neal Hefti, Sonny Berman (t); Tommy Dorsey, Bill Harris, J C Higginbotham (tb); Buddy De Franco (cl); Herbie Fields, Johnny Hodges (as); Flip Phillips, George Auld (ts); Harry Carney (bs); Teddy Wilson (p); Red Norvo (vib); Tiny Grimes, Billy Bauer (g); Chubby Jackson (sb); Dave Tough (d); Duke Ellington (cond.)"
             },
             {
                 "type": "take",
@@ -40274,6 +40274,10 @@
                 "youtube": "https://www.youtube.com/watch?v=hZjkMgNI6MU",
                 "spotify": "https://open.spotify.com/track/6kDufhQQwCo10w8AwP6STQ?si=0808118858ed4cec",
                 "tidal": "https://tidal.com/browse/track/45008042"
+            },
+            {
+                "type": "note",
+                "content": "Vail says Herbie Fields plays alto, not tenor sax."
             }
         ],
         "maintainer_comment": "See Github #13"
@@ -40343,6 +40347,10 @@
                 "title": "Esquire Swank",
                 "releases": [
                     {
+                        "label": "Cl(F)",
+                        "catalog": "985"
+                    },
+                    {
                         "label": "Sdi",
                         "catalog": "125"
                     },
@@ -40381,7 +40389,11 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Shelton Hemphill, Taft Jordan, Cat Anderson, Francis Williams, Bernard Flood, Sonny Berman, Muzzy Marcellino,Conrad Gozzo(t); Lawrence\nBrown, Wilbur De Paris, Claude Jones, Bill Harris, Ed Kiefer, Ralph Pfeffner(tb); Woody Herman(cl); Otto Hardwick(cl,as); JimmyHamilton(cl,ts);\nJohnny Hodges, John LaPorta, Sam Marowitz(as); Al Sears, Mickey Folus, Flip Phillips(ts); Harry Carney(cl,as,bar); Sam Rubinowitch(bar); Duke\nEllington, Tony Aless, Billy Bauer(p); Red Norvo(vib); Fred Guy(g); Oscar Pettiford, Chubby Jackson(sb); Sonny Greer, Don Lamond(d)"
+                "value": "Shelton Hemphill, Taft Jordan, Cat Anderson, Francis Williams, Bernard Flood, Woody Herman Trumpet Section(t); Lawrence\nBrown, Wilbur De Paris, Claude Jones, Bill Harris, Ed Kiefer, Ralph Pfeffner(tb); Woody Herman(cl); Otto Hardwick(cl,as); Jimmy Hamilton(cl,ts);\nJohnny Hodges, John LaPorta, Sam Marowitz(as); Al Sears, Mickey Folus, Flip Phillips(ts); Harry Carney(cl,as,bar); Sam Rubinowitch(bar); Duke\nEllington, Tony Aless, Billy Bauer(p); Red Norvo(vib); Fred Guy(g); Oscar Pettiford, Chubby Jackson(sb); Sonny Greer, Don Lamond(d); Muzzy Marcellino(v)"
+            },
+            {
+                "type": "note",
+                "content": "Woody Herman's trumpet section is unclear. Various sources suggest different players out of Conrad Gozzo, Irv Lewis, Irv Markowitz, Marky Markowitz, Neal Hefti, Pete Candoli Shorty Rogers, Sonny Berman."
             },
             {
                 "type": "take",
@@ -40389,6 +40401,18 @@
                 "matrix": null,
                 "title": "C-Jam Blues",
                 "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "985"
+                    },
+                    {
+                        "label": "He",
+                        "catalog": "35"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1305"
+                    },
                     {
                         "label": "Sdi",
                         "catalog": "125"
@@ -40405,7 +40429,16 @@
                 "index": "46-01-16-008",
                 "matrix": null,
                 "title": "C-Jam Blues",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "He",
+                        "catalog": "35"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1305"
+                    }
+                ],
                 "desor": "DE4605h"
             }
         ]
@@ -40419,7 +40452,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Shelton Hemphill, Taft Jordan, Cat Anderson, Francis Williams, Bernard Flood(t); Lawrence Brown, Wilbur De Paris, Claude Jones(tb); Jimmy\nHamilton(cl,ts); Otto Hardwick(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Oscar Pettiford(sb); Sonny Greer(d,ch); Kay Davis(v)    "
+                "value": "Shelton Hemphill, Taft Jordan, Cat Anderson, Francis Williams, Bernard Flood(t); Lawrence Brown, Wilbur De Paris, Claude Jones(tb); Jimmy\nHamilton(cl,ts); Otto Hardwick(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Al Lucas, Oscar Pettiford(sb); Sonny Greer(d,ch); Kay Davis(v)    "
             },
             {
                 "type": "take",
@@ -40443,6 +40476,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4606b"
@@ -40510,6 +40547,10 @@
                         "catalog": "33"
                     },
                     {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    },
+                    {
                         "label": "MM",
                         "catalog": "65110-2"
                     }
@@ -40525,6 +40566,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4606h"
@@ -40538,6 +40583,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4606i"
@@ -40548,6 +40597,14 @@
                 "matrix": null,
                 "title": "Circe",
                 "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    },
                     {
                         "label": "MM",
                         "catalog": "65110-2"
@@ -40645,6 +40702,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4606p"
@@ -40658,6 +40719,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4606q"
@@ -40671,6 +40736,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4606r"
@@ -40735,6 +40804,14 @@
                 "title": "Suburbanite",
                 "releases": [
                     {
+                        "label": "DETS",
+                        "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
+                    },
+                    {
                         "label": "MM",
                         "catalog": "65110-2"
                     }
@@ -40767,6 +40844,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4607a"
@@ -40797,6 +40878,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4607c"
@@ -40814,6 +40899,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4607d"
@@ -40831,6 +40920,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4607e"
@@ -40848,6 +40941,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4607f"
@@ -40869,6 +40966,10 @@
                     {
                         "label": "DETS",
                         "catalog": "33"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9017"
                     }
                 ],
                 "desor": "DE4607f"
@@ -41253,7 +41354,7 @@
                 "releases": [
                     {
                         "label": "Cp",
-                        "catalog": "B-165/166"
+                        "catalog": "X-25"
                     },
                     {
                         "label": "Hs",
@@ -41278,7 +41379,7 @@
                     },
                     {
                         "label": "Cp",
-                        "catalog": "B-165/166"
+                        "catalog": "X-25"
                     },
                     {
                         "label": "Hs",
@@ -41332,7 +41433,7 @@
                     },
                     {
                         "label": "Ld",
-                        "catalog": "HMP-5033"
+                        "catalog": "HMP-5034"
                     }
                 ],
                 "desor": "DE4609q"
@@ -41359,6 +41460,10 @@
                     {
                         "label": "DETS",
                         "catalog": "34"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4610a"
@@ -41372,6 +41477,10 @@
                     {
                         "label": "DETS",
                         "catalog": "34"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4610b"
@@ -41389,6 +41498,10 @@
                     {
                         "label": "DETS",
                         "catalog": "34"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4610c"
@@ -41448,7 +41561,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -41478,7 +41591,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -41583,12 +41696,7 @@
                 "index": "46-04-20-012",
                 "matrix": null,
                 "title": "D.E. Bond Promo",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "34"
-                    }
-                ],
+                "releases": [],
                 "desor": "DE4611l"
             },
             {
@@ -41639,6 +41747,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612a"
@@ -41652,6 +41764,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612b"
@@ -41665,13 +41781,17 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612c"
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -41682,6 +41802,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612d"
@@ -41695,6 +41819,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612e"
@@ -41703,11 +41831,15 @@
                 "type": "take",
                 "index": "46-04-27-006",
                 "matrix": null,
-                "title": "I Can't Believe That You'rein Love With Me",
+                "title": "I Can't Believe That You're In Love With Me",
                 "releases": [
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612f"
@@ -41725,6 +41857,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612g"
@@ -41742,6 +41878,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612h"
@@ -41755,6 +41895,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612i"
@@ -41768,6 +41912,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612j"
@@ -41781,6 +41929,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612k"
@@ -41794,13 +41946,17 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612l"
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -41811,13 +41967,17 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612m"
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -41828,6 +41988,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612n"
@@ -41841,6 +42005,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612o"
@@ -41854,6 +42022,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612p"
@@ -41867,6 +42039,10 @@
                     {
                         "label": "DETS",
                         "catalog": "35"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9018"
                     }
                 ],
                 "desor": "DE4612q"
@@ -42088,7 +42264,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add  Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -42341,7 +42517,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before but add Billy Strayhorn(p)"
+                "value": "As before but Billy Strayhorn(p) replaces Duke Ellington."
             },
             {
                 "type": "take",
@@ -42379,7 +42555,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -42637,7 +42813,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -42679,7 +42855,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -42801,7 +42977,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -42843,7 +43019,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -43020,7 +43196,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -43066,7 +43242,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -43167,7 +43343,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -43209,7 +43385,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -43353,7 +43529,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -43391,7 +43567,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -44361,7 +44537,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -44386,7 +44562,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -45094,7 +45270,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -45183,7 +45359,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -45390,7 +45566,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -45407,7 +45583,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -45603,7 +45779,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -47470,7 +47646,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
             },
             {
                 "type": "take",
@@ -47508,7 +47684,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
