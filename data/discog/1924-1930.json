@@ -5,7 +5,7 @@
         "date": "November 1924",
         "index_date": 241101,
         "same_session": false,
-        "description": null,
+        "description": "Blu Disc recording session",
         "entries": [
             {
                 "type": "artists",
@@ -65,11 +65,11 @@
         "date": "November 1924",
         "index_date": 241102,
         "same_session": false,
-        "description": "Blu Disc recording session",
+        "description": "Up-to-Date Recording session, possibly at Emerson Recording Laboratories",
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley(t); Charlie Irvis(tb); Otto Hardwick(as); Duke Ellington(p);George Francis(bj); Sonny Greer(d)"
+                "value": "Bubber Miley(t); Charlie Irvis(tb); Otto Hardwick(as); Duke Ellington(p);Fred Guy(bj); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -128,6 +128,10 @@
                     }
                 ],
                 "desor": "DE2402b"
+            },
+            {
+                "type": "note",
+                "content": "The banjo player was reported as George Francis in the NDESOR."
             }
         ]
     },
@@ -141,7 +145,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Otto Hardwick(cms); Duke Ellington(p);George Francis(bj); Sonny Greer(d); Jo Trent(v)"
+                "value": "Otto Hardwick(cms); Duke Ellington(p);Fred Guy(bj); Sonny Greer(d); Jo Trent(v)"
             },
             {
                 "type": "take",
@@ -163,6 +167,10 @@
                     }
                 ],
                 "desor": "DE2402c"
+            },
+            {
+                "type": "note",
+                "content": "The banjo player was reported as George Francis in the NDESOR."
             }
         ]
     },
@@ -176,7 +184,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Otto Hardwick(cms); Duke Ellington(p); George Francis(bj); Sonny Greer(v)"
+                "value": "Otto Hardwick(cms); Duke Ellington(p); Fred Guy(bj); Sonny Greer(v)"
             },
             {
                 "type": "take",
@@ -198,6 +206,10 @@
                     }
                 ],
                 "desor": "DE2402d"
+            },
+            {
+                "type": "note",
+                "content": "The banjo player was reported as George Francis in the NDESOR."
             }
         ]
     },
@@ -237,92 +249,147 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON'S WASHINGTONIANS",
+        "group": "BERT LEWIS THE SOUTHERN SYNCOPATOR",
         "location": "New York City, NY",
-        "date": "September 1925",
-        "index_date": 250901,
+        "date": "April-May 1925",
+        "index_date": 250401,
         "same_session": false,
-        "description": "Path\u00e9 recording session",
+        "description": "Everybodys Recording Session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Pike Davis(t); Charlie Irvis(tb); Prince Robinson(cl,ts); Otto Hardwick(as); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb); Sonny Greer(d)"
+                "value": "Bert Lewis(v); possibly Duke Ellington(p)"
             },
             {
                 "type": "take",
-                "index": "25-09-01-001",
-                "matrix": "106250",
-                "title": "I\u2019m Gonna Hang Around My Sugar",
+                "index": "25-04-01-001",
+                "matrix": "SAH 1",
+                "title": "Don't Bring Lulu",
                 "releases": [
                     {
-                        "label": "Cl(F)",
-                        "catalog": "539"
-                    },
-                    {
-                        "label": "Hi",
-                        "catalog": "20.4140-302"
-                    },
-                    {
-                        "label": "HnS",
-                        "catalog": "FDC-5104"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-8"
-                    },
-                    {
-                        "label": "Pt",
-                        "catalog": "36333-CBS-67264"
+                        "label": "Ev",
+                        "catalog": "1047-A"
                     }
                 ],
-                "desor": "DE2501a"
+                "desor": null
             },
             {
                 "type": "take",
-                "index": "25-09-01-002",
-                "matrix": "106251",
-                "title": "Trombone Blues",
+                "index": "25-04-01-002",
+                "matrix": "SAH 1",
+                "title": "It's Time To Keep Away From You",
                 "releases": [
                     {
-                        "label": "Cl(F)",
-                        "catalog": "539"
-                    },
-                    {
-                        "label": "Hi",
-                        "catalog": "20.4140-302"
-                    },
-                    {
-                        "label": "HnS",
-                        "catalog": "FDC-5104"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-8"
-                    },
-                    {
-                        "label": "Pt",
-                        "catalog": "36333-CBS-67264"
+                        "label": "Ev",
+                        "catalog": "1047-B"
                     }
                 ],
-                "desor": "DE2501b"
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "See \"The Duke, the 'Southern Syncopator' and a Mysterious Record Label from 1925\" by Steven Lasker, http://vjm.biz/unknown-1925-duke-ellington.html."
             }
         ]
     },
     {
         "group": "DUKE ELLINGTON'S WASHINGTONIANS",
         "location": "New York City, NY",
-        "date": "March 1926",
-        "index_date": 260301,
+        "date": "11 September 1925",
         "same_session": false,
         "description": "Path\u00e9 recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Harry Cooper, Leroy Rutledge(t); Charlie Irvis(tb); Don Redman(cl,as); Prince Robinson(cl,ts); Otto Hardwick(as,bs); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb); Sonny Greer(d)"
+                "value": "Pike Davis(t); Charlie Irvis(tb); Prince Robinson(cl,ts); Otto Hardwick(as); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb)"
             },
             {
                 "type": "take",
-                "index": "26-03-01-001",
+                "index": "25-09-11-001",
+                "matrix": "106250",
+                "title": "I\u2019m Gonna Hang Around My Sugar",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "67264"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "539"
+                    },
+                    {
+                        "label": "Hi",
+                        "catalog": "20.4140-302"
+                    },
+                    {
+                        "label": "HnS",
+                        "catalog": "FDC-5104"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-8"
+                    },
+                    {
+                        "label": "Pt",
+                        "catalog": "36333"
+                    }
+                ],
+                "desor": "DE2501a"
+            },
+            {
+                "type": "take",
+                "index": "25-09-11-002",
+                "matrix": "106251",
+                "title": "Trombone Blues",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "67264"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "539"
+                    },
+                    {
+                        "label": "Hi",
+                        "catalog": "20.4140-302"
+                    },
+                    {
+                        "label": "HnS",
+                        "catalog": "FDC-5104"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-8"
+                    },
+                    {
+                        "label": "Pt",
+                        "catalog": "36333"
+                    }
+                ],
+                "desor": "DE2501b"
+            },
+            {
+                "type": "note",
+                "content": "Previously reported as just \"September 1925\". TDWAW suggests 11 September most likely."
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON'S WASHINGTONIANS",
+        "location": "New York City, NY",
+        "date": "Circa 18 March 1926",
+        "index_date": 260318,
+        "same_session": false,
+        "description": "Path\u00e9 recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Harry Cooper, Leroy Rutledge(t); Charlie Irvis(tb); Don Redman(cl,as); Prince Robinson(cl,ts); Otto Hardwick(as,bar); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb)"
+            },
+            {
+                "type": "take",
+                "index": "26-03-18-001",
                 "matrix": "106729",
                 "title": "Georgia Grind",
                 "releases": [
@@ -355,7 +422,7 @@
             },
             {
                 "type": "take",
-                "index": "26-03-01-002",
+                "index": "26-03-18-002",
                 "matrix": "106730",
                 "title": "Parlor Social Stomp",
                 "releases": [
@@ -397,7 +464,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harry Cooper, Leroy Rutledge(t); Charlie Irvis(tb); Don Redman(cl,as); Prince Robinson(cl,ts); Otto Hardwick(as,bs); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb); Sonny Greer(d,v)"
+                "value": "Harry Cooper, Leroy Rutledge(t); Charlie Irvis(tb); Don Redman(cl,as); Prince Robinson(cl,ts); Otto Hardwick(as,bar); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb); Sonny Greer(d,v)"
             },
             {
                 "type": "take",
@@ -405,6 +472,10 @@
                 "matrix": "X57-A",
                 "title": "\u201cWanna Go Back Again\u201d Blues - vSG",
                 "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "539"
+                    },
                     {
                         "label": "Ge",
                         "catalog": "3291"
@@ -430,6 +501,10 @@
                 "matrix": "X58-A",
                 "title": "If You Can\u2019t Hold The Man You Love - vSG",
                 "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "539"
+                    },
                     {
                         "label": "Ge",
                         "catalog": "3291"
@@ -460,7 +535,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Charlie Johnson(t);Joe Nanton(tb); Harvey Boone(cl,as); Prince Robinson(cl,ts); Otto Hardwick(as,bs); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d,v)\n "
+                "value": "Bubber Miley, Charlie Johnson(t);Joe Nanton(tb); Harvey Boone (possibly) (cl,as); Prince Robinson(cl,ts); Otto Hardwick(as,bar); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d,v)\n "
             },
             {
                 "type": "take",
@@ -602,7 +677,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t);Joe Nanton(tb); n/k(cl,as); Edgar Sampson(as); Otto Hardwick(as,bs); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t);Joe Nanton(tb); n/k(cl); n/k(as); Otto Hardwick(cms,as,ss,bar,bass sax); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -618,6 +693,10 @@
                 "matrix": "E4110W",
                 "title": "East St. Louis Toodle-O",
                 "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "67264"
+                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "539"
@@ -701,11 +780,15 @@
                     }
                 ],
                 "desor": "DE2605d"
+            },
+            {
+                "type": "note",
+                "content": "According to NDESOR the alto sax is Edgar Sampson; according to Steven Lasker the clarinet could be Prince Robinson"
             }
         ]
     },
     {
-        "group": "GUSSY ALEXANDER",
+        "group": "Gussie Alexander",
         "location": "New York City, NY",
         "date": "01 December 1926",
         "same_session": false,
@@ -713,72 +796,47 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Otto Hardwick(as,bs); Duke Ellington(p); Gussy Alexander(v)"
+                "value": "Otto Hardwick(as,bar); Duke Ellington(p); Gussie Alexander(v)"
             },
             {
                 "type": "take",
                 "index": "26-12-01-001",
                 "matrix": null,
-                "title": "I Do It - vGAx",
-                "releases": [
-                    {
-                        "label": "X",
-                        "catalog": "Rejected"
-                    }
-                ],
+                "title": "They Say I Do It - vGA",
+                "releases": [],
                 "desor": null
             },
             {
                 "type": "take",
                 "index": "26-12-01-002",
                 "matrix": null,
-                "title": "Drifting From You Blues - vGAx",
-                "releases": [
-                    {
-                        "label": "X",
-                        "catalog": "Rejected"
-                    }
-                ],
+                "title": "Drifting From You Blues - vGA",
+                "releases": [],
                 "desor": null
             },
             {
                 "type": "take",
                 "index": "26-12-01-003",
                 "matrix": null,
-                "title": "Drifting From You Blues - vGAx",
-                "releases": [
-                    {
-                        "label": "X",
-                        "catalog": "Rejected"
-                    }
-                ],
+                "title": "Drifting From You Blues - vGA",
+                "releases": [],
                 "desor": null
-            }
-        ]
-    },
-    {
-        "group": "GUSSY ALEXANDER",
-        "location": "New York City, NY",
-        "date": "01 December 1926",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Gussy Alexander(v)"
+                "value": "Duke Ellington(p); Gussie Alexander(v)"
             },
             {
                 "type": "take",
                 "index": "26-12-01-004",
                 "matrix": null,
-                "title": "Drifting From You Blues - vGAx",
-                "releases": [
-                    {
-                        "label": "X",
-                        "catalog": "Rejected"
-                    }
-                ],
+                "title": "Drifting From You Blues - vGA",
+                "releases": [],
                 "desor": null
+            },
+            {
+                "type": "note",
+                "content": "All takes rejected"
             }
         ]
     },
@@ -791,7 +849,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t);Joe Nanton(tb); n/k(cl,as); Edgar Sampson(as); Otto Hardwick(as,bs); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t);Joe Nanton(tb); n/k(cl); n/k(as); Otto Hardwick(cms,as,ss,bar,bass sax); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -836,6 +894,10 @@
                 "matrix": "E4323W",
                 "title": "The Creeper",
                 "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "539"
+                    },
                     {
                         "label": "COPS",
                         "catalog": "7394-D/1"
@@ -899,6 +961,10 @@
                     }
                 ],
                 "desor": "DE2606c"
+            },
+            {
+                "type": "note",
+                "content": "Unknown as/cl: as per note on 29 November 1926."
             }
         ]
     },
@@ -911,7 +977,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley(t);  n/k(cl,ts);  Edgar Sampson(as,vn);  Otto Hardwick(as);  Duke Ellington(p); Sonny Greer(d); EPr(v)"
+                "value": "Bubber Miley(t);  n/k(cl,ts);  Edgar Sampson(as,vn);  Otto Hardwick(as);  Duke Ellington(p); Sonny Greer(d); Evelyn Preer(v)"
             },
             {
                 "type": "take",
@@ -968,7 +1034,7 @@
         ]
     },
     {
-        "group": "GUSSY ALEXANDER",
+        "group": "Gussie Alexander",
         "location": "New York City, NY",
         "date": "21 January 1927",
         "same_session": false,
@@ -976,33 +1042,27 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Gussy Alexander(v)"
+                "value": "Duke Ellington(p); Gussie Alexander(v)"
             },
             {
                 "type": "take",
                 "index": "27-01-21-001",
                 "matrix": null,
-                "title": "I Do It - vGAx",
-                "releases": [
-                    {
-                        "label": "X",
-                        "catalog": "Rejected"
-                    }
-                ],
+                "title": "They Say I Do It - vGA",
+                "releases": [],
                 "desor": null
             },
             {
                 "type": "take",
                 "index": "27-01-21-002",
                 "matrix": null,
-                "title": "Drifting From You Blues - vGAx",
-                "releases": [
-                    {
-                        "label": "X",
-                        "catalog": "Rejected"
-                    }
-                ],
+                "title": "Drifting From You Blues - vGA",
+                "releases": [],
                 "desor": null
+            },
+            {
+                "type": "note",
+                "content": "All takes rejected"
             }
         ]
     },
@@ -1015,7 +1075,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,ts);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1102,7 +1162,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,ts); n/k(as,cl);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1160,7 +1220,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,ts); n/k(as,cl);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1210,7 +1270,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,ts); n/k(as,cl);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1349,7 +1409,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,ts); n/k(as,cl);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1391,7 +1451,7 @@
         ]
     },
     {
-        "group": "THE TRAYMORE ORCHESTRA",
+        "group": "THE WASHINGTONIANS",
         "location": "New York City, NY",
         "date": "30 April 1927",
         "same_session": false,
@@ -1399,7 +1459,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "June Clark, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
+                "value": "June Clark, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,ts); n/k(as,cl);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1407,6 +1467,10 @@
                 "matrix": "E22809",
                 "title": "Soliloquy",
                 "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "3526"
+                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "539"
@@ -1449,7 +1513,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson(cl,as); Otto Hardwick(cl,ss,as,bar,bsax); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1550,7 +1614,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb);  n/k(cl,as);  Edgar Sampson(as);  Otto Hardwick(cl,ss,as,bar,bsax);  Duke Ellington(p); Fred Guy(bj);  Mack Shaw(bb); Sonny Greer(d)  Adelaide Hall(v)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson(cl,as); Otto Hardwick (cl,ss,as,bar,bsax); Duke Ellington(p); Fred Guy(bj); Wendell Braud(bb); Sonny Greer(d); Adelaide Hall(v)"
             },
             {
                 "type": "take",
@@ -1565,6 +1629,10 @@
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-1"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "542"
                     },
                     {
                         "label": "HnS",
@@ -1607,6 +1675,10 @@
                         "catalog": "731043"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "542"
+                    },
+                    {
                         "label": "HnS",
                         "catalog": "FDC-5111"
                     },
@@ -1647,7 +1719,7 @@
                     },
                     {
                         "label": "BMG",
-                        "catalog": "88697-2985-4-2"
+                        "catalog": "88697298542"
                     },
                     {
                         "label": "Cl(F)",
@@ -1950,7 +2022,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": " n/k(vl);  Duke Ellington(p);  n/k(sb); Marguerite Lee(v)"
+                "value": " n/k(vl);  Duke Ellington(p);  n/k(ce); Marguerite Lee(v)"
             },
             {
                 "type": "take",
@@ -1971,7 +2043,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": " n/k(vl);  Duke Ellington(p);  n/k(sb); Walter Richardson(v)"
+                "value": " n/k(vl);  Duke Ellington(p);  n/k(ce); Walter Richardson(v)"
             },
             {
                 "type": "take",
@@ -1992,7 +2064,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": " n/k(vl);  Duke Ellington(p);  n/k(sb); Marguerite Lee(v)"
+                "value": " n/k(vl);  Duke Ellington(p);  n/k(ce); Marguerite Lee(v)"
             },
             {
                 "type": "take",
@@ -2038,10 +2110,6 @@
                         "catalog": "X-EIO-1",
                         "flags": "",
                         "track": 15
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-1308"
                     },
                     {
                         "label": "MoJ",
@@ -2121,6 +2189,10 @@
                     },
                     {
                         "label": "MoJ",
+                        "catalog": "MJCD-1308"
+                    },
+                    {
+                        "label": "MoJ",
                         "catalog": "MJCD-25"
                     },
                     {
@@ -2142,7 +2214,7 @@
             {
                 "type": "take",
                 "index": "27-12-19-004",
-                "matrix": "BVE41245-1",
+                "matrix": "BVE41245-2",
                 "title": "East St. Louis Toodle-O",
                 "releases": [
                     {
@@ -2190,7 +2262,7 @@
             {
                 "type": "take",
                 "index": "27-12-19-005",
-                "matrix": "BVE41246-2",
+                "matrix": "BVE41246-1",
                 "title": "Blue Bubbles",
                 "releases": [
                     {
@@ -2234,12 +2306,16 @@
             {
                 "type": "take",
                 "index": "27-12-19-006",
-                "matrix": "BVE41246-1",
+                "matrix": "BVE41246-2",
                 "title": "Blue Bubbles",
                 "releases": [
                     {
                         "label": "(F)RCA",
                         "catalog": "731043"
+                    },
+                    {
+                        "label": "HnS",
+                        "catalog": "FDC-5112"
                     },
                     {
                         "label": "LR",
@@ -2365,7 +2441,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson(cl,as);Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,ss,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson (possibly) (cl,as);Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,ss,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -2661,6 +2737,10 @@
                         "catalog": "8182"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "542"
+                    },
+                    {
                         "label": "HnS",
                         "catalog": "FDC-5112"
                     },
@@ -2684,10 +2764,6 @@
                     {
                         "label": "CBS",
                         "catalog": "67264"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "542"
                     },
                     {
                         "label": "HnS",
@@ -2765,7 +2841,7 @@
             {
                 "type": "take",
                 "index": "28-03-07-005",
-                "matrix": "108081",
+                "matrix": "108081-",
                 "title": "Take It Easy",
                 "releases": [
                     {
@@ -2831,7 +2907,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,ss,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
+                "value": "Arthur Whetsel, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,ss,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -2850,6 +2926,10 @@
                     {
                         "label": "COPS",
                         "catalog": "7394-D/2"
+                    },
+                    {
+                        "label": "De",
+                        "catalog": "GRD-3-640"
                     },
                     {
                         "label": "Df",
@@ -3117,7 +3197,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21580"
+                        "catalog": "21703"
                     }
                 ],
                 "desor": "DE2805c"
@@ -3470,10 +3550,6 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-1305"
-                    },
-                    {
-                        "label": "MoJ",
                         "catalog": "MJCD-1306"
                     },
                     {
@@ -3482,7 +3558,7 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8636"
+                        "catalog": "8623"
                     }
                 ],
                 "desor": "DE2808c"
@@ -3520,7 +3596,7 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8636"
+                        "catalog": "8638"
                     }
                 ],
                 "desor": "DE2808d"
@@ -3556,7 +3632,7 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8636"
+                        "catalog": "8623"
                     }
                 ],
                 "desor": "DE2808e"
@@ -3581,7 +3657,7 @@
             {
                 "type": "take",
                 "index": "28-10-02-001",
-                "matrix": "E28441-A",
+                "matrix": "E28441-",
                 "title": "Awful Sad",
                 "releases": [
                     {
@@ -3661,7 +3737,7 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4122"
+                        "catalog": "4110"
                     },
                     {
                         "label": "Cl(F)",
@@ -3706,7 +3782,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
+                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(ssph); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -3716,7 +3792,7 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "67264"
+                        "catalog": "68275"
                     },
                     {
                         "label": "Cl(F)",
@@ -3759,6 +3835,10 @@
                 "desor": "DE2811b"
             },
             {
+                "type": "artists",
+                "value": "Wellman Braud out"
+            },
+            {
                 "type": "take",
                 "index": "28-10-20-003",
                 "matrix": "108447-2",
@@ -3778,7 +3858,7 @@
                     },
                     {
                         "label": "Pt",
-                        "catalog": "36899"
+                        "catalog": "36915"
                     }
                 ],
                 "desor": "DE2811c"
@@ -3791,7 +3871,7 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "67264"
+                        "catalog": "68275"
                     },
                     {
                         "label": "Cl(F)",
@@ -3811,19 +3891,112 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
+        "group": "OZZIE WARE WITH \"HOT FIVE\"",
         "location": "New York City, NY",
         "date": "30 October 1928",
         "same_session": false,
-        "description": null,
+        "description": "Victor recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
+                "value": " Freddie Jenkins(t); Barney Bigard(cl);  Duke Ellington(p); Wellman Braud(tu); Sonny Greer(d); Ozie Ware(v)"
             },
             {
                 "type": "take",
                 "index": "28-10-30-001",
+                "matrix": "BVE48100-1",
+                "title": "Santa Claus, Bring My Man Back To Me - vOW",
+                "releases": [
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "741028"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "550"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-1",
+                        "flags": "",
+                        "track": 38
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-52"
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "flags": "",
+                        "disc": "1",
+                        "track": 18,
+                        "length": 181,
+                        "title": ""
+                    },
+                    {
+                        "label": "Vi",
+                        "catalog": "21777"
+                    }
+                ],
+                "desor": "DE2812a"
+            },
+            {
+                "type": "take",
+                "index": "28-10-30-002",
+                "matrix": "BVE48101-2",
+                "title": "I Done Caught You Blues - vOW",
+                "releases": [
+                    {
+                        "label": "(F)RCA",
+                        "catalog": "741028"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "550"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-1",
+                        "flags": "",
+                        "track": 39
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-52"
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "flags": "",
+                        "disc": "1",
+                        "track": 19,
+                        "length": 177,
+                        "title": ""
+                    },
+                    {
+                        "label": "Vi",
+                        "catalog": "21777"
+                    }
+                ],
+                "desor": "DE2812b"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
+        "location": null,
+        "date": "30 October 1928",
+        "same_session": true,
+        "description": null,
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(tu); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Baby Cox,Ozie Ware(v)"
+            },
+            {
+                "type": "take",
+                "index": "28-10-30-003",
                 "matrix": "BVE47799-2",
                 "title": "The Mooche",
                 "releases": [
@@ -3864,104 +4037,6 @@
                     }
                 ],
                 "desor": "DE2812c"
-            }
-        ]
-    },
-    {
-        "group": "OZZIE WARE WITH \"HOT FIVE\"",
-        "location": "New York City, NY",
-        "date": "30 October 1928",
-        "same_session": true,
-        "description": "Victor recording session",
-        "entries": [
-            {
-                "type": "artists",
-                "value": " Freddie Jenkins(t); Barney Bigard(cl);  Duke Ellington(p); Wellman Braud(bb); Sonny Greer(d); Ozzie Ware(v)"
-            },
-            {
-                "type": "take",
-                "index": "28-10-30-002",
-                "matrix": "BVE48100-1",
-                "title": "Santa Claus, Bring My Man Back To Me - vOW",
-                "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "741028"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "550"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-1",
-                        "flags": "",
-                        "track": 38
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-52"
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "flags": "",
-                        "disc": "1",
-                        "track": 18,
-                        "length": 181,
-                        "title": ""
-                    }
-                ],
-                "desor": "DE2812a"
-            },
-            {
-                "type": "take",
-                "index": "28-10-30-003",
-                "matrix": "BVE48101-2",
-                "title": "I Done Caught You Blues - vOW",
-                "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "741028"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "550"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-1",
-                        "flags": "",
-                        "track": 39
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-52"
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "flags": "",
-                        "disc": "1",
-                        "track": 19,
-                        "length": 177,
-                        "title": ""
-                    }
-                ],
-                "desor": "DE2812b"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
-        "location": null,
-        "date": "30 October 1928",
-        "same_session": true,
-        "description": null,
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, Baby Cox,Ozzie Ware(v)"
             },
             {
                 "type": "take",
@@ -3969,6 +4044,10 @@
                 "matrix": "BVE48102-1",
                 "title": "I Can't Give You Anything But Love - vIM,BC",
                 "releases": [
+                    {
+                        "label": "Bb",
+                        "catalog": "2499-2-RB"
+                    },
                     {
                         "label": "LR",
                         "catalog": "X-EIO-1",
@@ -4077,7 +4156,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, Baby Cox(v)"
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Baby Cox(v)"
             },
             {
                 "type": "take",
@@ -4114,7 +4193,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "38008"
+                        "catalog": "V-38008"
                     }
                 ],
                 "desor": "DE2813a"
@@ -4138,7 +4217,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, Baby Cox(v)"
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Baby Cox(v)"
             },
             {
                 "type": "take",
@@ -4149,6 +4228,10 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "741028"
+                    },
+                    {
+                        "label": "Bb",
+                        "catalog": "2499-2-RB"
                     },
                     {
                         "label": "Cl(F)",
@@ -4175,7 +4258,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "38007"
+                        "catalog": "V-38007"
                     }
                 ],
                 "desor": "DE2814a"
@@ -4215,7 +4298,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "38007"
+                        "catalog": "V-38008"
                     }
                 ],
                 "desor": "DE2814b"
@@ -4229,6 +4312,10 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "741028"
+                    },
+                    {
+                        "label": "Bb",
+                        "catalog": "2499-2-RB"
                     },
                     {
                         "label": "Cl(F)",
@@ -4255,7 +4342,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "38007"
+                        "catalog": "V-38007"
                     }
                 ],
                 "desor": "DE2814c"
@@ -4347,7 +4434,7 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8675"
+                        "catalog": "8662"
                     }
                 ],
                 "desor": "DE2816a"
@@ -4392,7 +4479,7 @@
             },
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Lonnie Johnson(g); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
+                "value": "Add Lonnie Johnson(g)"
             },
             {
                 "type": "take",
@@ -4444,7 +4531,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(tu); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -4510,7 +4597,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl);  Duke Ellington(p); Fred Guy(bj); Sonny Greer(d); Ozzie Ware(v)"
+                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl);  Duke Ellington(p); Fred Guy(bj); Sonny Greer(d); Ozie Ware(v)"
             },
             {
                 "type": "take",
@@ -4540,7 +4627,7 @@
             },
             {
                 "type": "artists",
-                "value": " Duke Ellington(p); Ozzie Ware(v)"
+                "value": " Duke Ellington(p); Ozie Ware(v)"
             },
             {
                 "type": "take",
@@ -4575,11 +4662,11 @@
         "location": "New York City, NY",
         "date": "20 December 1928",
         "same_session": false,
-        "description": "Brunswick recording session",
+        "description": "Victor recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "MM(vn); Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); n/k, Hall Johnson Choir(v)"
+                "value": "Matt Malneck, dir; white instrumentalists(5v,t,tb,2as,ts,p,g,bb,d); Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); n/k, Hall Johnson Choir(v)"
             },
             {
                 "type": "take",
@@ -4599,7 +4686,7 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-69"
+                        "catalog": "MJCD-52"
                     },
                     {
                         "label": "RCA",
@@ -4635,7 +4722,7 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-69"
+                        "catalog": "MJCD-52"
                     },
                     {
                         "label": "RCA",
@@ -5645,7 +5732,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": " Cootie Williams(t); Barney Bigard(cl); Johnny Hodges(as);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(bb); Ozzie Ware(v)"
+                "value": " Cootie Williams(t); Barney Bigard(cl); Johnny Hodges(as);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(bb); Ozie Ware(v)"
             },
             {
                 "type": "take",
