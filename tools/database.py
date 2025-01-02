@@ -675,7 +675,7 @@ def cmd_normalise(args):
         if release.discogs:
             assert re.match(DISCOGS_REGEX, release.discogs)
 
-        # TODO: What does this even check, and why does "file" break?
+        # Checks very roughly that URLs etc look reasonable
         for key in [
             "discogs",
             "musicbrainz",
@@ -684,7 +684,6 @@ def cmd_normalise(args):
             "spotify",
             "tidal",
             "youtube",
-            # "file",
         ]:
             if v := getattr(release, key):
                 assert key in v, (release, key, v)
