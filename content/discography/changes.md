@@ -18,6 +18,7 @@ menu:
 * Corrections 1924-1928
 * Corrections for 1946
 * New sessions for 1946
+* Fix Otto Hardwick instruments in 1924
 
 ## September 2024
 * Correct take number for DE2803e.
