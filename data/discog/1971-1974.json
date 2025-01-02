@@ -181,7 +181,7 @@
         "location": "New York City, NY",
         "date": "01 February 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -276,11 +276,11 @@
         "location": "New York City, NY",
         "date": "02 February 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Norris Turney(fl,cl,as,ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)"
+                "value": "Norris Turney(fl); Harry Carney(bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)"
             },
             {
                 "type": "take",
@@ -302,7 +302,7 @@
         "location": "Philadelphia, PA",
         "date": "02 February 1971",
         "same_session": false,
-        "description": "Pre-recording for KYW telecast",
+        "description": "Pre-recording for KYW telecast, \"The Mike Douglas Show\"",
         "entries": [
             {
                 "type": "artists",
@@ -343,7 +343,7 @@
         "location": "New York City, NY",
         "date": "03 February 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -381,11 +381,15 @@
                 "type": "take",
                 "index": "71-02-03-004",
                 "matrix": "(39)",
-                "title": "Looking For My Man",
+                "title": "Looking For My Man - vNB",
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018401"
+                        "catalog": "1018402"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7105d"
@@ -415,6 +419,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -435,11 +443,11 @@
         "location": "New York City, NY",
         "date": "10 February 1971",
         "same_session": false,
-        "description": "ABC Telecast",
+        "description": "ABC Telecast, \"The Dick Cavett Show\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); studio orchestra cond. Bobby Rosengarden"
+                "value": "Duke Ellington(p); acc. by studio orchestra cond. Bobby Rosengarden"
             },
             {
                 "type": "take",
@@ -472,51 +480,10 @@
                 "title": "I Got It Bad - vNB,CW",
                 "releases": [],
                 "desor": "DE7108c"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON WITH ORCHESTRA",
-        "location": "New York City, NY",
-        "date": "10 February 1971",
-        "same_session": false,
-        "description": "ABC Telecast",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Duke Ellington(p); studio orchestra cond. Bobby Rosengarden"
             },
             {
-                "type": "take",
-                "index": "71-02-10-004",
-                "matrix": null,
-                "title": "In A Mellow Tone",
-                "releases": [],
-                "desor": "DE7108a"
-            },
-            {
-                "type": "artists",
-                "value": "Duke Ellington, Dick Cavett(tk)"
-            },
-            {
-                "type": "take",
-                "index": "71-02-10-005",
-                "matrix": null,
-                "title": "Interview By Cavett",
-                "releases": [],
-                "desor": "DE7108b"
-            },
-            {
-                "type": "artists",
-                "value": "As before. Add Cootie Williams(t,v), Nell Brookshire(v)"
-            },
-            {
-                "type": "take",
-                "index": "71-02-10-006",
-                "matrix": null,
-                "title": "I Got It Bad - vNB,CW",
-                "releases": [],
-                "desor": "DE7108c"
+                "type": "note",
+                "content": "NDESOR incorrectly lists this as 17 February."
             }
         ]
     },
@@ -525,7 +492,7 @@
         "location": "New York City, NY",
         "date": "11 February 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -535,23 +502,15 @@
                 "type": "take",
                 "index": "71-02-11-001",
                 "matrix": "(01)",
-                "title": "Blues No.17",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "71-02-11-002",
-                "matrix": "(01)",
-                "title": "Blues No.17",
+                "title": "Blues No. 17",
                 "releases": [],
                 "desor": "DE7106a"
             },
             {
                 "type": "take",
-                "index": "71-02-11-003",
+                "index": "71-02-11-002",
                 "matrix": "(02)",
-                "title": "Blues N.o.17",
+                "title": "Blues No. 17",
                 "releases": [],
                 "desor": "DE7106b"
             },
@@ -565,7 +524,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-004",
+                "index": "71-02-11-003",
                 "matrix": "(04)",
                 "title": "1. Gong",
                 "releases": [],
@@ -573,7 +532,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-005",
+                "index": "71-02-11-004",
                 "matrix": null,
                 "title": "1. Gong",
                 "releases": [],
@@ -581,7 +540,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-006",
+                "index": "71-02-11-005",
                 "matrix": "(05)",
                 "title": "1. Gong",
                 "releases": [],
@@ -589,7 +548,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-007",
+                "index": "71-02-11-006",
                 "matrix": "(06)",
                 "title": "1. Gong",
                 "releases": [],
@@ -597,7 +556,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-008",
+                "index": "71-02-11-007",
                 "matrix": "(07)",
                 "title": "1. Gong",
                 "releases": [],
@@ -605,7 +564,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-009",
+                "index": "71-02-11-008",
                 "matrix": "(08)",
                 "title": "1. Gong",
                 "releases": [],
@@ -613,7 +572,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-010",
+                "index": "71-02-11-009",
                 "matrix": "(09)",
                 "title": "1. Gong",
                 "releases": [],
@@ -621,7 +580,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-011",
+                "index": "71-02-11-010",
                 "matrix": "(10)",
                 "title": "1. Gong",
                 "releases": [],
@@ -629,7 +588,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-012",
+                "index": "71-02-11-011",
                 "matrix": "(11)",
                 "title": "1. Gong",
                 "releases": [],
@@ -637,7 +596,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-013",
+                "index": "71-02-11-012",
                 "matrix": null,
                 "title": "1. Gong",
                 "releases": [],
@@ -645,7 +604,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-014",
+                "index": "71-02-11-013",
                 "matrix": "(12)",
                 "title": "1. Gong",
                 "releases": [],
@@ -653,7 +612,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-015",
+                "index": "71-02-11-014",
                 "matrix": "(13)",
                 "title": "1. Gong",
                 "releases": [],
@@ -661,7 +620,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-016",
+                "index": "71-02-11-015",
                 "matrix": "(14)",
                 "title": "1. Gong",
                 "releases": [],
@@ -669,7 +628,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-017",
+                "index": "71-02-11-016",
                 "matrix": "(15)",
                 "title": "1. Gong",
                 "releases": [],
@@ -677,7 +636,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-018",
+                "index": "71-02-11-017",
                 "matrix": "(16)",
                 "title": "2. Chinoiserie",
                 "releases": [],
@@ -685,7 +644,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-019",
+                "index": "71-02-11-018",
                 "matrix": "(17)",
                 "title": "3. Tang",
                 "releases": [],
@@ -693,7 +652,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-020",
+                "index": "71-02-11-019",
                 "matrix": "(18)",
                 "title": "3. Tang",
                 "releases": [],
@@ -701,7 +660,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-021",
+                "index": "71-02-11-020",
                 "matrix": "(19)",
                 "title": "3. Tang",
                 "releases": [],
@@ -709,7 +668,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-022",
+                "index": "71-02-11-021",
                 "matrix": "(20)",
                 "title": "3. Tang",
                 "releases": [],
@@ -721,26 +680,34 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-023",
+                "index": "71-02-11-022",
                 "matrix": "(21)",
                 "title": "Riddle",
                 "releases": [
                     {
                         "label": "Sv",
                         "catalog": "101-8399"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7106v"
             },
             {
                 "type": "take",
-                "index": "71-02-11-024",
+                "index": "71-02-11-023",
                 "matrix": "(22)",
-                "title": "Blues No.18",
+                "title": "Blues No. 18",
                 "releases": [
                     {
                         "label": "Sv",
                         "catalog": "101-8399"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7106w"
@@ -759,7 +726,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-025",
+                "index": "71-02-11-024",
                 "matrix": null,
                 "title": "5. Didjeridoo",
                 "releases": [],
@@ -767,7 +734,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-026",
+                "index": "71-02-11-025",
                 "matrix": null,
                 "title": "5. Didjeridoo",
                 "releases": [],
@@ -775,7 +742,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-027",
+                "index": "71-02-11-026",
                 "matrix": "(24)",
                 "title": "5. Didjeridoo",
                 "releases": [],
@@ -783,7 +750,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-028",
+                "index": "71-02-11-027",
                 "matrix": "(25)",
                 "title": "5. Didjeridoo",
                 "releases": [],
@@ -791,7 +758,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-029",
+                "index": "71-02-11-028",
                 "matrix": null,
                 "title": "5. Didjeridoo",
                 "releases": [],
@@ -799,7 +766,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-030",
+                "index": "71-02-11-029",
                 "matrix": "(26)",
                 "title": "5. Didjeridoo",
                 "releases": [],
@@ -807,7 +774,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-031",
+                "index": "71-02-11-030",
                 "matrix": "(27)",
                 "title": "5. Didjeridoo",
                 "releases": [],
@@ -815,7 +782,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-032",
+                "index": "71-02-11-031",
                 "matrix": "(28)",
                 "title": "4. True=Tell Me It's The Truth",
                 "releases": [],
@@ -823,7 +790,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-033",
+                "index": "71-02-11-032",
                 "matrix": "(29)",
                 "title": "4. True=Tell Me It's The Truth",
                 "releases": [],
@@ -831,7 +798,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-034",
+                "index": "71-02-11-033",
                 "matrix": "(31)",
                 "title": "4. True=Tell Me It's The Truth",
                 "releases": [],
@@ -839,7 +806,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-035",
+                "index": "71-02-11-034",
                 "matrix": null,
                 "title": "4. True=Tell Me It's The Truth",
                 "releases": [],
@@ -847,7 +814,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-036",
+                "index": "71-02-11-035",
                 "matrix": null,
                 "title": "4. True=Tell Me It's The Truth",
                 "releases": [],
@@ -855,7 +822,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-037",
+                "index": "71-02-11-036",
                 "matrix": "(32)",
                 "title": "4. True=Tell Me It's The Truth",
                 "releases": [],
@@ -863,7 +830,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-038",
+                "index": "71-02-11-037",
                 "matrix": "(34)",
                 "title": "No Title",
                 "releases": [],
@@ -871,7 +838,7 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-039",
+                "index": "71-02-11-038",
                 "matrix": "(36)",
                 "title": "No Title",
                 "releases": [],
@@ -879,13 +846,17 @@
             },
             {
                 "type": "take",
-                "index": "71-02-11-040",
+                "index": "71-02-11-039",
                 "matrix": "(38)",
                 "title": "No Title",
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018401"
+                        "catalog": "1018402"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7106am"
@@ -1318,7 +1289,7 @@
         "location": "New York City, NY",
         "date": "17 February 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -1600,7 +1571,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); John Lamb(sb); Toney Watkins (v)"
+                "value": "Duke Ellington(p); John Lamb(sb)"
             },
             {
                 "type": "take",
@@ -1731,6 +1702,10 @@
                 "desor": "DE7110p"
             },
             {
+                "type": "artists",
+                "value": "Add Toney Watkins(v)"
+            },
+            {
                 "type": "take",
                 "index": "71-02-22-017",
                 "matrix": null,
@@ -1764,7 +1739,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk)"
+                "value": "Toney Watkins out. Duke Ellington(tk)"
             },
             {
                 "type": "take",
@@ -2074,7 +2049,7 @@
         "location": "New York City, NY",
         "date": "23 February 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -2152,6 +2127,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -2189,6 +2168,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -2200,6 +2183,10 @@
                 "matrix": "(16)",
                 "title": "Blues No. 20",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8323"
@@ -2216,6 +2203,10 @@
                     {
                         "label": "Sv",
                         "catalog": "101-8399"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7112o"
@@ -2227,7 +2218,7 @@
         "location": "Milwaukee, WI",
         "date": "26 February 1971",
         "same_session": false,
-        "description": "Concert, St. John Hospital",
+        "description": "Concert, Uihlein Hall, Performing Arts Center.",
         "entries": [
             {
                 "type": "artists",
@@ -2389,7 +2380,7 @@
                 "type": "take",
                 "index": "71-02-26-018",
                 "matrix": null,
-                "title": "      7. I'm Beginning To See The Light",
+                "title": "      7. I'm Beginning To See The Light - vDE",
                 "releases": [],
                 "desor": null
             },
@@ -2552,7 +2543,7 @@
         "location": "Toronto, CDN",
         "date": "27 February 1971",
         "same_session": false,
-        "description": "Concert, Four Seasons Hotel",
+        "description": "Concert, St. Paul's Anglican Church",
         "entries": [
             {
                 "type": "artists",
@@ -2581,7 +2572,7 @@
         "location": "Toronto, CDN",
         "date": "02 March 1971",
         "same_session": false,
-        "description": "CBC Telecast",
+        "description": "CBC Telecast, Lounge of Four Seasons Hotel, \"Luncheon Date With Elwood Glover\"",
         "entries": [
             {
                 "type": "artists",
@@ -2607,7 +2598,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Ray Nance(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Russell Procope(cl,as); Norris \nTurney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d)"
+                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Russell Procope(cl,as); Norris \nTurney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d)"
             },
             {
                 "type": "take",
@@ -2632,7 +2623,7 @@
         "location": "Toronto, CDN",
         "date": "05 March 1971",
         "same_session": false,
-        "description": "Pre-recording for CBC telecast",
+        "description": "Pre-recording for CBC telecast, Beverly Hill Motor Hotel",
         "entries": [
             {
                 "type": "artists",
@@ -2653,7 +2644,7 @@
         "location": "Los Angeles, CA",
         "date": "16 March 1971",
         "same_session": false,
-        "description": "ABC telecast",
+        "description": "ABC telecast, Hollywood Palladium, Sunset Blvd",
         "entries": [
             {
                 "type": "artists",
@@ -2666,6 +2657,10 @@
                 "title": "Grammy Awards Presentation",
                 "releases": [],
                 "desor": "DE7118a"
+            },
+            {
+                "type": "note",
+                "content": "See https://www.grammy.com/awards/13th-annual-grammy-awards"
             }
         ]
     },
@@ -2675,7 +2670,7 @@
         "date": "March 1971",
         "index_date": 710320,
         "same_session": false,
-        "description": "Concert, St. Paul's Anglican Church",
+        "description": "Telecast \"And beautiful Too\", unknown location",
         "entries": [
             {
                 "type": "artists",
@@ -2700,7 +2695,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Tom Griffen(as); Norris \nTurney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire(v)"
+                "value": "Cootie Williams(t,v); Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Tom Griffin(as); Norris \nTurney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire(v)"
             },
             {
                 "type": "take",
@@ -2873,7 +2868,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Tom Griffen(as); Norris \nTurney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)"
+                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Tom Griffin(as); Norris \nTurney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)"
             },
             {
                 "type": "take",
@@ -3110,7 +3105,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Harold Minerve(cl,as,f,pi);\nNorris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)"
+                "value": "Cootie Williams(t,v); Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Harold Minerve(cl,as,f,pi);\nNorris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)"
             },
             {
                 "type": "take",
@@ -3516,7 +3511,7 @@
         "location": "New York City, NY",
         "date": "27 April 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -3750,7 +3745,7 @@
         "location": "New York City, NY",
         "date": "28 April 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -3780,6 +3775,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -3801,6 +3800,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -3812,6 +3815,10 @@
                 "matrix": "(34)",
                 "title": "Something",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8323"
@@ -3831,6 +3838,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -3843,7 +3854,7 @@
         "location": "New York City, NY",
         "date": "05 May 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -3975,7 +3986,7 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018401"
+                        "catalog": "1018402"
                     }
                 ],
                 "desor": "DE7126l"
@@ -4008,7 +4019,7 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018401"
+                        "catalog": "1018402"
                     }
                 ],
                 "desor": "DE7126o"
@@ -4020,17 +4031,17 @@
         "location": "Hartford, CT",
         "date": "07 May 1971",
         "same_session": false,
-        "description": "WTIC broadcast, Bushnell Memorial Auditorium",
+        "description": "WTIC broadcast, \"One Night Stand With The Big Bands\", Bushnell Memorial Auditorium",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk)"
+                "value": "Duke Ellington, Arnold Dean(tk)"
             },
             {
                 "type": "take",
                 "index": "71-05-07-001",
                 "matrix": null,
-                "title": "Interview",
+                "title": "Interview by Dean",
                 "releases": [],
                 "desor": "DE9069a"
             }
@@ -4179,6 +4190,159 @@
     },
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "New York City, NY",
+        "date": "13 May 1971",
+        "same_session": false,
+        "description": "Duke Ellington recording session. National Recording studio.",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Buddy Pearson(as);\nNorris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire(v)"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-001",
+                "matrix": null,
+                "title": "Lover Man - vNB",
+                "releases": [],
+                "desor": "DE7128a"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-002",
+                "matrix": "(01)",
+                "title": "Lover Man - vNB",
+                "releases": [],
+                "desor": "DE7128b"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-003",
+                "matrix": "(02)",
+                "title": "Lover Man - vNB",
+                "releases": [],
+                "desor": "DE7128c"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-004",
+                "matrix": "(03)",
+                "title": "Lover Man",
+                "releases": [],
+                "desor": "DE7128d"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-005",
+                "matrix": "(05)",
+                "title": "Lover Man",
+                "releases": [],
+                "desor": "DE7128e"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-006",
+                "matrix": "(06)",
+                "title": "Lover Man",
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "STCD-8323"
+                    }
+                ],
+                "desor": "DE7128f"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-007",
+                "matrix": "(07)",
+                "title": "Lover Man",
+                "releases": [],
+                "desor": "DE7128g"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-008",
+                "matrix": null,
+                "title": "Lover Man",
+                "releases": [],
+                "desor": "DE7128h"
+            },
+            {
+                "type": "take",
+                "index": null,
+                "matrix": null,
+                "title": "AFRO-EURASIAN ECLIPSE",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-009",
+                "matrix": "(08)",
+                "title": "    8. Ocht O'Clock Rock",
+                "releases": [],
+                "desor": "DE7128i"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-010",
+                "matrix": "(09)",
+                "title": "    8. Ocht O'Clock Rock",
+                "releases": [
+                    {
+                        "label": "Fa",
+                        "catalog": "F-9498"
+                    }
+                ],
+                "desor": "DE7128j"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-011",
+                "matrix": "(10)",
+                "title": "Charpoy",
+                "releases": [],
+                "desor": "DE7128k"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-012",
+                "matrix": "(11)",
+                "title": "Perdido",
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "STCD-8323"
+                    }
+                ],
+                "desor": "DE7128l"
+            },
+            {
+                "type": "take",
+                "index": "71-05-13-013",
+                "matrix": "(12)",
+                "title": "Charpoy",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "5041-2C"
+                    }
+                ],
+                "desor": "DE7128m"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Boston, MA",
         "date": "22 May 1971",
         "same_session": false,
@@ -4263,151 +4427,6 @@
                 "title": "Come Sunday - vTW",
                 "releases": [],
                 "desor": "DE9002h"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "New York City, NY",
-        "date": "13 May 1971",
-        "same_session": false,
-        "description": "Duke Ellington Recording Session",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Buddy Pearson(as);\nNorris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire(v)"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-001",
-                "matrix": null,
-                "title": "Lover Man - vNB",
-                "releases": [],
-                "desor": "DE7128a"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-002",
-                "matrix": "(01)",
-                "title": "Lover Man - vNB",
-                "releases": [],
-                "desor": "DE7128b"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-003",
-                "matrix": "(02)",
-                "title": "Lover Man - vNB",
-                "releases": [],
-                "desor": "DE7128c"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-004",
-                "matrix": "(03)",
-                "title": "Lover Man",
-                "releases": [],
-                "desor": "DE7128d"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-005",
-                "matrix": "(05)",
-                "title": "Lover Man",
-                "releases": [],
-                "desor": "DE7128e"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-006",
-                "matrix": "(06)",
-                "title": "Lover Man",
-                "releases": [
-                    {
-                        "label": "Sv",
-                        "catalog": "STCD-8323"
-                    }
-                ],
-                "desor": "DE7128f"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-007",
-                "matrix": "(07)",
-                "title": "Lover Man",
-                "releases": [],
-                "desor": "DE7128g"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-008",
-                "matrix": null,
-                "title": "Lover Man",
-                "releases": [],
-                "desor": "DE7128h"
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AFRO-EURASIAN ECLIPSE",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-009",
-                "matrix": "(08)",
-                "title": "    8. Ocht O'Clock Rock",
-                "releases": [],
-                "desor": "DE7128i"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-010",
-                "matrix": "(09)",
-                "title": "    8. Ocht O'Clock Rock",
-                "releases": [
-                    {
-                        "label": "Fa",
-                        "catalog": "F-9498"
-                    }
-                ],
-                "desor": "DE7128j"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-011",
-                "matrix": "(10)",
-                "title": "Charpoy",
-                "releases": [],
-                "desor": "DE7128k"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-012",
-                "matrix": "(11)",
-                "title": "Perdido",
-                "releases": [
-                    {
-                        "label": "Sv",
-                        "catalog": "STCD-8323"
-                    }
-                ],
-                "desor": "DE7128l"
-            },
-            {
-                "type": "take",
-                "index": "71-05-13-013",
-                "matrix": "(12)",
-                "title": "Charpoy",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "5041-2C"
-                    }
-                ],
-                "desor": "DE7128m"
             }
         ]
     },
@@ -4754,7 +4773,7 @@
                 "type": "take",
                 "index": "71-06-18-017",
                 "matrix": null,
-                "title": "Bog Luv",
+                "title": "Big Luv",
                 "releases": [],
                 "desor": "DE7132o"
             },
@@ -4866,7 +4885,7 @@
                 "type": "take",
                 "index": "71-06-18-031",
                 "matrix": null,
-                "title": "Everybody Wants To Know",
+                "title": "Everybody Wants To Know - vNB",
                 "releases": [],
                 "desor": "DE7132ac"
             },
@@ -5285,7 +5304,7 @@
         "location": "New York City, NY",
         "date": "28 June 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -5313,6 +5332,10 @@
                 "matrix": "(01)",
                 "title": "  1. Soul Soothing Beach (Mkis)",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD-8323"
@@ -5360,6 +5383,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -5405,6 +5432,10 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "1088617"
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD-8323"
                     }
                 ],
@@ -5417,7 +5448,7 @@
         "location": "New York City, NY",
         "date": "29 June 1971",
         "same_session": false,
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. National Recording studio.",
         "entries": [
             {
                 "type": "artists",
@@ -5461,6 +5492,10 @@
                     {
                         "label": "Sv",
                         "catalog": "STCD-8323"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7136c"
@@ -5474,6 +5509,10 @@
                     {
                         "label": "Sv",
                         "catalog": "STCD-8323"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7136d"
@@ -5482,7 +5521,7 @@
                 "type": "take",
                 "index": "71-06-29-005",
                 "matrix": null,
-                "title": "Woods (Soso)",
+                "title": "Soso",
                 "releases": [],
                 "desor": "DE7136e"
             },
@@ -5490,11 +5529,15 @@
                 "type": "take",
                 "index": "71-06-29-006",
                 "matrix": "(22)",
-                "title": "Woods (Soso)",
+                "title": "Soso",
                 "releases": [
                     {
                         "label": "Sv",
                         "catalog": "STCD-8323"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7136f"
@@ -5529,7 +5572,7 @@
                 "type": "take",
                 "index": "71-06-29-009",
                 "matrix": "(32)",
-                "title": "Afrique (Toto)",
+                "title": "Toto",
                 "releases": [],
                 "desor": "DE7136i"
             },
@@ -5537,11 +5580,15 @@
                 "type": "take",
                 "index": "71-06-29-010",
                 "matrix": "(34)",
-                "title": "Afrique (Toto)",
+                "title": "Toto",
                 "releases": [
                     {
                         "label": "Sv",
                         "catalog": "STCD-8323"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7136j"
@@ -5553,11 +5600,11 @@
         "location": "Newport, RI",
         "date": "02 July 1971",
         "same_session": false,
-        "description": "Concert, Freebody Park",
+        "description": "Concert, Newport Jazz Festival, Freebody Park",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Russell Procope(cl,as); \nNorris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)"
+                "value": "Cootie Williams, Eddie Preston, Harold \"Money\" Johnson, Ray Nance, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Russell Procope(cl,as); \nNorris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)"
             },
             {
                 "type": "take",
@@ -10203,7 +10250,16 @@
                 "index": "71-10-25-002",
                 "matrix": null,
                 "title": "R.T.M.",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018402"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
+                    }
+                ],
                 "desor": "DE7162b"
             },
             {
