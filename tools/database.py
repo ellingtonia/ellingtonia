@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+import datetime
 import collections
 import csv
 import json
@@ -35,7 +36,8 @@ session_paths = [
 class Session:
     group: str
     location: str
-    date: str
+    # May or may not be a valid date (e.g. "Circa Jan 1932")
+    date_str: str
     same_session: bool
     description: str
     maintainer_comment: str
@@ -43,7 +45,8 @@ class Session:
     # e.g. "1924-1930.json"
     json_filename: str
 
-    index_date: int = None
+    # date used for indexing purposes if the actual date is uncertain
+    date: int
 
 
 ENTRY_LINKS = ["youtube", "spotify", "tidal", "file"]
@@ -292,33 +295,33 @@ def load_from_json():
         with open(session_path) as f:
             json_sessions = json.load(f)
 
-        old_date_num = None
+        old_date = None
 
         for session_idx, jsession in enumerate(json_sessions):
-            date, date_num = fix_date(jsession["date"])
+            date_str, date = fix_date(jsession["date"])
 
             # "index_date" is used to indicate indexing if the date is ambiguous
-            if date_num is None:
-                date_num = jsession["index_date"]
+            if date is None:
+                date = jsession["index_date"]
             else:
                 assert "index_date" not in jsession
 
-            if date_num != old_date_num:
+            if date != old_date:
                 idx = 1
 
-            old_date_num = date_num
+            old_date = date
 
             same_session = jsession["same_session"]
 
             sess = Session(
                 group=jsession["group"],
                 location=jsession["location"],
-                date=date,
+                date_str=date_str,
                 same_session=same_session,
                 description=jsession["description"],
                 maintainer_comment=jsession.get("maintainer_comment", ""),
                 json_filename=os.path.basename(session_path),
-                index_date=jsession.get("index_date"),
+                date=date,
             )
             if sess.location ==  "30th Street Columbia Studio, New York City, NY":
                 sess.description =  "Columbia Recording Session, 30th Street Columbia Studio"
@@ -346,8 +349,8 @@ def load_from_json():
                     # If an index is present, we always replace it with an
                     # auto-number, so errors get corrected.
                     if index:
-                        str_date_num = str(date_num)
-                        index = f"{str_date_num[0:2]}-{str_date_num[2:4]}-{str_date_num[4:6]}-{idx:03}"
+                        str_date = str(date)
+                        index = f"{str_date[0:2]}-{str_date[2:4]}-{str_date[4:6]}-{idx:03}"
                         idx += 1
 
                         # Check for duplicates
@@ -590,12 +593,12 @@ def save_to_json(database):
             jsession = {
                 "group": session.group,
                 "location": session.location,
-                "date": session.date,
+                "date": session.date_str,
             }
 
             # Careful ordering
-            if session.index_date:
-                jsession["index_date"] = session.index_date
+            if session.date != fix_date(session.date_str)[1]:
+                jsession["index_date"] = session.date
 
             jsession["same_session"] = session.same_session
             jsession["description"] = session.description
