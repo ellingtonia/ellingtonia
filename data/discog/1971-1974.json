@@ -5491,11 +5491,11 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "STCD-8323"
+                        "catalog": "1088617"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "1088617"
+                        "catalog": "STCD-8323"
                     }
                 ],
                 "desor": "DE7136c"
@@ -5508,11 +5508,11 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "STCD-8323"
+                        "catalog": "1088617"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "1088617"
+                        "catalog": "STCD-8323"
                     }
                 ],
                 "desor": "DE7136d"
@@ -5533,11 +5533,11 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "STCD-8323"
+                        "catalog": "1088617"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "1088617"
+                        "catalog": "STCD-8323"
                     }
                 ],
                 "desor": "DE7136f"
@@ -5584,11 +5584,11 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "STCD-8323"
+                        "catalog": "1088617"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "1088617"
+                        "catalog": "STCD-8323"
                     }
                 ],
                 "desor": "DE7136j"
@@ -5610,25 +5610,149 @@
                 "type": "take",
                 "index": "71-07-02-001",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "C-Jam Blues",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "10",
+                        "flags": ""
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": null,
+                "matrix": null,
+                "title": "TOGO BRAVA SUITE",
                 "releases": [],
-                "desor": "DE7137a"
+                "desor": null
             },
             {
                 "type": "take",
                 "index": "71-07-02-002",
                 "matrix": null,
-                "title": "Take The \"A\" Train",
-                "releases": [],
-                "desor": "DE7137b"
+                "title": "  1. Soul Soothing Beach (Mkis)",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "10",
+                        "flags": ""
+                    }
+                ],
+                "desor": null
             },
             {
                 "type": "take",
                 "index": "71-07-02-003",
                 "matrix": null,
+                "title": "  2. Naturellement (Yoyo)",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "10",
+                        "flags": ""
+                    }
+                ],
+                "desor": "DE7137a"
+            },
+            {
+                "type": "take",
+                "index": "71-07-02-004",
+                "matrix": null,
+                "title": "  4. Right On Togo (Buss)",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "10",
+                        "flags": ""
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "71-07-02-005",
+                "matrix": null,
+                "title": "Chinoiserie",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "10",
+                        "flags": ""
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "71-07-02-006",
+                "matrix": null,
+                "title": "Bourbon Street Jingling Jollies",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "11",
+                        "flags": ""
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "71-07-02-007",
+                "matrix": null,
+                "title": "Take The \"A\" Train",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "11",
+                        "flags": ""
+                    }
+                ],
+                "desor": "DE7137b"
+            },
+            {
+                "type": "take",
+                "index": "71-07-02-008",
+                "matrix": null,
+                "title": "Lover Man - vNB",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "11",
+                        "flags": ""
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "71-07-02-009",
+                "matrix": null,
                 "title": "I Don't Want Nobody But You - vTW",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "11",
+                        "flags": ""
+                    }
+                ],
                 "desor": "DE7137c"
+            },
+            {
+                "type": "take",
+                "index": "71-07-02-010",
+                "matrix": null,
+                "title": "One More Tie For The People - vNB,TW",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "11",
+                        "flags": ""
+                    }
+                ],
+                "desor": null
             }
         ]
     },
@@ -5637,7 +5761,7 @@
         "location": "Highland Park, IL",
         "date": "14 July 1971",
         "same_session": false,
-        "description": "Concert, Freebody Park",
+        "description": "Concert, Ravina Festival Pavilion",
         "entries": [
             {
                 "type": "artists",
@@ -5947,7 +6071,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t,v); Eddie Preston, Harold \"Money\" Johnson, Johnny Coles(t,flh)Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); \nRussell Procope(cl,as); Norris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)"
+                "value": "Cootie Williams(t,v); Eddie Preston, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); \nRussell Procope(cl,as); Norris Turney(fl,cl,as,ts); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)"
             },
             {
                 "type": "take",
@@ -6255,7 +6379,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d)"
+                "value": "Duke Ellington(tk); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d)"
             },
             {
                 "type": "take",
@@ -6712,7 +6836,7 @@
         "location": "New York City, NY",
         "date": "23 August 1971",
         "same_session": false,
-        "description": "NBC telecast",
+        "description": "NBC telecast, \"The Tonight Show\"",
         "entries": [
             {
                 "type": "artists",
@@ -6754,7 +6878,7 @@
         "location": "New York City, NY",
         "date": "24 August 1971",
         "same_session": false,
-        "description": "NBC telecast",
+        "description": "NBC telecast, \"The Today Show\"",
         "entries": [
             {
                 "type": "artists",
@@ -7663,7 +7787,7 @@
                 "type": "take",
                 "index": "71-10-18-016",
                 "matrix": null,
-                "title": "Tego",
+                "title": "Addi",
                 "releases": [],
                 "desor": "DE7151n"
             },
@@ -7743,7 +7867,15 @@
                 "type": "take",
                 "index": "71-10-18-025",
                 "matrix": null,
-                "title": "      8. Sophisticated Lady",
+                "title": "      8. Everybody Wants To Know - vNB,CW",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "71-10-18-026",
+                "matrix": null,
+                "title": "      9. Sophisticated Lady",
                 "releases": [],
                 "desor": null
             }
@@ -8855,7 +8987,7 @@
                 "type": "take",
                 "index": "71-10-20-056",
                 "matrix": null,
-                "title": "Hello Dolly!",
+                "title": "Hello, Dolly! - vMJ",
                 "releases": [],
                 "desor": "DE7155q"
             },
@@ -9526,6 +9658,14 @@
                 "title": "Happy Reunion",
                 "releases": [
                     {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
+                    {
                         "label": "UA",
                         "catalog": "UXS-92"
                     }
@@ -9552,6 +9692,14 @@
                 "title": "Soul Flute",
                 "releases": [
                     {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
+                    {
                         "label": "UA",
                         "catalog": "UXS-92"
                     }
@@ -9573,6 +9721,14 @@
                 "title": "  1. Soul Soothing Beach (Mkis)",
                 "releases": [
                     {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
+                    {
                         "label": "UA",
                         "catalog": "UXS-92"
                     }
@@ -9585,6 +9741,14 @@
                 "matrix": null,
                 "title": "  2. Naturellement (Yoyo)",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -9599,6 +9763,14 @@
                 "title": "  3. Amour, Amour (Too Kee)",
                 "releases": [
                     {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
+                    {
                         "label": "UA",
                         "catalog": "UXS-92"
                     }
@@ -9611,6 +9783,14 @@
                 "matrix": null,
                 "title": "  4. Right On Togo (Buss)",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -9625,6 +9805,14 @@
                 "title": "La Plus Belle Africaine",
                 "releases": [
                     {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
+                    {
                         "label": "UA",
                         "catalog": "UXS-92"
                     }
@@ -9638,6 +9826,14 @@
                 "title": "In A Mellow Tone",
                 "releases": [
                     {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
+                    {
                         "label": "UA",
                         "catalog": "UXS-92"
                     }
@@ -9650,6 +9846,14 @@
                 "matrix": null,
                 "title": "Addi",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -9667,6 +9871,14 @@
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -9693,6 +9905,14 @@
                 "matrix": null,
                 "title": "C-Jam Blues",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -9770,6 +9990,14 @@
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -9879,6 +10107,14 @@
                 "matrix": null,
                 "title": "      6. I Got It Bad - vNB",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -10177,6 +10413,14 @@
                 "matrix": null,
                 "title": "Melancholia",
                 "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
                     {
                         "label": "UA",
                         "catalog": "UXS-92"
@@ -10679,7 +10923,7 @@
                 "type": "take",
                 "index": "71-10-27-035",
                 "matrix": null,
-                "title": "Hello Dolly!",
+                "title": "Hello, Dolly! - vMJ",
                 "releases": [],
                 "desor": "DE7163y"
             },
@@ -10976,7 +11220,7 @@
                 "type": "take",
                 "index": "71-10-27-068",
                 "matrix": null,
-                "title": "Hello Dolly!",
+                "title": "Hello, Dolly! - vMJ",
                 "releases": [],
                 "desor": "DE7164v"
             },
@@ -11139,7 +11383,7 @@
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
-                "desor": null
+                "desor": "DE7165xa"
             },
             {
                 "type": "take",
@@ -11225,7 +11469,7 @@
                 "type": "take",
                 "index": "71-10-28-025",
                 "matrix": null,
-                "title": "      9. I Got It Bad - vNB",
+                "title": "      9. I Got It Bad - vNB,CW",
                 "releases": [],
                 "desor": null
             },
@@ -11233,7 +11477,7 @@
                 "type": "take",
                 "index": "71-10-28-026",
                 "matrix": null,
-                "title": "    10. Everybody Wants To Know - vNB,CW",
+                "title": "    10. Everybody Wants To Know - vNB",
                 "releases": [],
                 "desor": null
             },
