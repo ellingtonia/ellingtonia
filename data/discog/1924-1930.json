@@ -1,11 +1,11 @@
 [
     {
-        "group": "ALBERTA PRIME",
+        "group": "ALBERTA PRIME - SONNY GREER",
         "location": "New York City, NY",
         "date": "November 1924",
         "index_date": 241101,
-        "same_session": false,
-        "description": "Blu Disc recording session",
+        "same_session": true,
+        "description": "Blu-Disc recording session",
         "entries": [
             {
                 "type": "artists",
@@ -19,7 +19,7 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "1007"
+                        "catalog": "T1007"
                     },
                     {
                         "label": "HnS",
@@ -34,7 +34,7 @@
             },
             {
                 "type": "artists",
-                "value": "add Sonny Greer(v)"
+                "value": "add Sonny Greer(wtw,v)"
             },
             {
                 "type": "take",
@@ -44,7 +44,7 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "1007"
+                        "catalog": "T1007"
                     },
                     {
                         "label": "HnS",
@@ -79,7 +79,7 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "1002"
+                        "catalog": "T1002"
                     },
                     {
                         "label": "Cl(F)",
@@ -108,7 +108,7 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "1002"
+                        "catalog": "T1002"
                     },
                     {
                         "label": "Cl(F)",
@@ -155,7 +155,7 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "1003"
+                        "catalog": "T1003"
                     },
                     {
                         "label": "HnS",
@@ -194,7 +194,7 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "1003"
+                        "catalog": "T1003"
                     },
                     {
                         "label": "HnS",
@@ -219,7 +219,7 @@
         "date": "January 1925",
         "index_date": 250113,
         "same_session": false,
-        "description": "Blu Disc recording session",
+        "description": "Up-to-Date Recording session",
         "entries": [
             {
                 "type": "artists",
@@ -276,7 +276,7 @@
             {
                 "type": "take",
                 "index": "25-04-01-002",
-                "matrix": "SAH 1",
+                "matrix": "SAH 2",
                 "title": "It's Time To Keep Away From You",
                 "releases": [
                     {
