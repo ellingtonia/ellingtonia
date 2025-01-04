@@ -1,10 +1,10 @@
 [
     {
-        "group": "ALBERTA PRIME - SONNY GREER",
+        "group": "ALBERTA PRIME",
         "location": "New York City, NY",
         "date": "November 1924",
         "index_date": 241101,
-        "same_session": true,
+        "same_session": false,
         "description": "Blu-Disc recording session",
         "entries": [
             {
@@ -31,10 +31,21 @@
                     }
                 ],
                 "desor": "DE2401a"
-            },
+            }
+        ]
+    },
+
+    {
+        "group": "ALBERTA PRIME - SONNY GREER",
+        "location": "New York City, NY",
+        "date": "November 1924",
+        "index_date": 241101,
+        "same_session": true,
+        "description": null,
+        "entries": [
             {
                 "type": "artists",
-                "value": "add Sonny Greer(wtw,v)"
+                "value": "Duke Ellington(p); Alberta Prime (v); Sonny Greer(v, d, wooden train whistle)"
             },
             {
                 "type": "take",
@@ -65,11 +76,11 @@
         "date": "November 1924",
         "index_date": 241102,
         "same_session": false,
-        "description": "Up-to-Date Recording session, possibly at Emerson Recording Laboratories",
+        "description": "Blu-Disc Recording session, possibly at Emerson Recording Laboratories",
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley(t); Charlie Irvis(tb); Otto Hardwick(as); Duke Ellington(p);Fred Guy(bj); Sonny Greer(d)"
+                "value": "Bubber Miley(t); Charlie Irvis(tb); Otto Hardwick(as); Duke Ellington(p);Fred Guy(bj); Sonny Greer(d, wooden train whistle)"
             },
             {
                 "type": "take",
@@ -136,7 +147,7 @@
         ]
     },
     {
-        "group": "JO TRENT AND THE D C'NS",
+        "group": "JO. TRENT AND THE D C'NS",
         "location": "New York City, NY",
         "date": "November 1924",
         "index_date": 241102,
@@ -145,7 +156,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Otto Hardwick(bar, cms); Duke Ellington(p);Fred Guy(bj); Sonny Greer(d); Jo Trent(v)"
+                "value": "Otto Hardwick(bar, cms); Duke Ellington(p);Fred Guy(bj); Sonny Greer(d); Jo. Trent(v)"
             },
             {
                 "type": "take",
