@@ -3878,7 +3878,16 @@
                 "index": "71-05-05-002",
                 "matrix": "(37)",
                 "title": "Pretty Girl",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "1018402"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
+                    }
+                ],
                 "desor": "DE7126b"
             },
             {
@@ -3987,6 +3996,10 @@
                     {
                         "label": "Sv",
                         "catalog": "1018402"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7126l"
@@ -4020,6 +4033,10 @@
                     {
                         "label": "Sv",
                         "catalog": "1018402"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "1088617"
                     }
                 ],
                 "desor": "DE7126o"
@@ -10208,7 +10225,20 @@
                 "index": "71-10-24-031",
                 "matrix": null,
                 "title": "Checkered Hat",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "BGO",
+                        "catalog": "CD451"
+                    },
+                    {
+                        "label": "BN",
+                        "catalog": "CDP-7243-8-30082-2-3"
+                    },
+                    {
+                        "label": "UA",
+                        "catalog": "UXS-92"
+                    }
+                ],
                 "desor": "DE7161c"
             },
             {
@@ -13142,12 +13172,7 @@
                 "index": "71-11-07-023",
                 "matrix": null,
                 "title": "Addi",
-                "releases": [
-                    {
-                        "label": "QL",
-                        "catalog": "QLDVD-0253"
-                    }
-                ],
+                "releases": [],
                 "desor": "DE7171n"
             },
             {
@@ -13155,12 +13180,7 @@
                 "index": "71-11-07-024",
                 "matrix": null,
                 "title": "One More Time For The People - vNB,TW",
-                "releases": [
-                    {
-                        "label": "QL",
-                        "catalog": "QLDVD-0253"
-                    }
-                ],
+                "releases": [],
                 "desor": "DE7171o"
             }
         ]
