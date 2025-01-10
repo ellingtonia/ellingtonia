@@ -65,6 +65,10 @@ class Entry:
 
     session: Session = None
 
+    # TODO: Add the concept of a rejected entry here
+    # TODO: Add "Recorded as" for the original recording title, e.g. "DE2802c"
+    # was first released as "Harlem Twist".
+
     # This is a fudge to ensure consistent ordering when adding a release to an entry
     sequence_no: int = None
 
