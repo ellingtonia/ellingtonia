@@ -1,0 +1,164 @@
+[
+    {
+        "group": "FLORENCE BRISTOL",
+        "location": "New York City, NY",
+        "date": "January 1925",
+        "index_date": 250113,
+        "same_session": false,
+        "description": "Up-to-Date Recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Otto Hardwick(as); Duke Ellington(p);Florence Bristol(v)"
+            },
+            {
+                "type": "take",
+                "index": "25-01-13-001",
+                "matrix": "T2018-2",
+                "title": "How Come You Do Me Like You Do - vFB",
+                "releases": [
+                    {
+                        "label": "HnS",
+                        "catalog": "FDC-5104"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-8"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2019"
+                    }
+                ],
+                "desor": "DE2403a"
+            }
+        ]
+    },
+    {
+        "group": "BERT LEWIS THE SOUTHERN SYNCOPATOR",
+        "location": "New York City, NY",
+        "date": "April-May 1925",
+        "index_date": 250401,
+        "same_session": false,
+        "description": "Everybodys Recording Session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Bert Lewis(v); possibly Duke Ellington(p)"
+            },
+            {
+                "type": "take",
+                "index": "25-04-01-001",
+                "matrix": "SAH 1",
+                "title": "Don't Bring Lulu",
+                "releases": [
+                    {
+                        "label": "Ev",
+                        "catalog": "1047-A"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "25-04-01-002",
+                "matrix": "SAH 2",
+                "title": "It's Time To Keep Away From You",
+                "releases": [
+                    {
+                        "label": "Ev",
+                        "catalog": "1047-B"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "See \"The Duke, the 'Southern Syncopator' and a Mysterious Record Label from 1925\" by Steven Lasker, http://vjm.biz/unknown-1925-duke-ellington.html."
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON'S WASHINGTONIANS",
+        "location": "New York City, NY",
+        "date": "11 September 1925",
+        "same_session": false,
+        "description": "Path\u00e9 recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Pike Davis(t); Charlie Irvis(tb); Prince Robinson(cl,ts); Otto Hardwick(as); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb)"
+            },
+            {
+                "type": "take",
+                "index": "25-09-11-001",
+                "matrix": "106250",
+                "title": "I'm Gonna Hang Around My Sugar",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "67264"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "539"
+                    },
+                    {
+                        "label": "Hi",
+                        "catalog": "20.4140-302"
+                    },
+                    {
+                        "label": "HnS",
+                        "catalog": "FDC-5104"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-8"
+                    },
+                    {
+                        "label": "Pt",
+                        "catalog": "36333"
+                    }
+                ],
+                "desor": "DE2501a"
+            },
+            {
+                "type": "take",
+                "index": "25-09-11-002",
+                "matrix": "106251",
+                "title": "Trombone Blues",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "67264"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "539"
+                    },
+                    {
+                        "label": "Hi",
+                        "catalog": "20.4140-302"
+                    },
+                    {
+                        "label": "HnS",
+                        "catalog": "FDC-5104"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-8"
+                    },
+                    {
+                        "label": "Pt",
+                        "catalog": "36333"
+                    }
+                ],
+                "desor": "DE2501b"
+            },
+            {
+                "type": "note",
+                "content": "Previously reported as just \"September 1925\". TDWAW suggests 11 September most likely."
+            }
+        ]
+    }
+]

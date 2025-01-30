@@ -48,6 +48,11 @@ class Session:
     # date used for indexing purposes if the actual date is uncertain
     date: int
 
+    def year(self):
+        # TODO This is horrible, switch to a proper date time when we get rid of
+        # nonsense dates.
+        return 1900 + self.date // 10000
+
 
 ENTRY_LINKS = ["youtube", "spotify", "tidal", "file"]
 
@@ -548,12 +553,12 @@ def save_to_json(database):
     save_releases_to_json(database, generated=False)
     save_releases_to_json(database, generated=True)
 
-    for session_path in session_paths:
-        sessions = [
-            session
-            for session in database.all_sessions()
-            if session.json_filename == os.path.basename(session_path)
-        ]
+    sessions_by_year = {}
+    for session in database.all_sessions():
+        sessions_by_year.setdefault(session.year(), []).append(session)
+
+    for session_year, sessions in sessions_by_year.items():
+        session_path = f"data/discog/{session_year}.json"
         json_sessions = []
         for session in sessions:
             json_entries = []
