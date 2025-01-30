@@ -10,6 +10,7 @@ import logging
 import re
 import requests
 import time
+import glob
 
 from dataclasses import dataclass
 
@@ -20,16 +21,6 @@ json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
 json_releases_path = json_prefix + "/releases.json"
 json_generated_path = json_prefix + "/generated.json"
-
-session_paths = [
-    json_prefix + "/1924-1930.json",
-    json_prefix + "/1931-1940.json",
-    json_prefix + "/1941-1950.json",
-    json_prefix + "/1951-1960.json",
-    json_prefix + "/1961-1970.json",
-    json_prefix + "/1971-1974.json",
-]
-
 
 # Need eq=False as we have duplicates
 @dataclass(frozen=False, eq=False)
@@ -300,6 +291,7 @@ def load_from_json():
 
     all_indices = set()
 
+    session_paths = glob.glob("data/discog/19*.json")
     for session_path in session_paths:
         with open(session_path) as f:
             json_sessions = json.load(f)
