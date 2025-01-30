@@ -16,75 +16,77 @@
 
 {{ $release_data := $.Site.Data.discog.generated.releases }}
 
-{{ range index $.Site.Data.discog (.Get 0) }}
-  <tr>
-    <td>&nbsp;</td>
-  </tr>
-  <tr class="session_heading">
-    <th colspan="3"> {{ .group }} </th>
-    <th colspan="1"> {{ .location }} </th>
-    <th colspan="2">
-      {{ if .same_session }}
-        Same session
-      {{ else }}
-        {{ .date }}
-      {{ end }}
-    </th>
-  </tr>
-  <tr class="take">
-    <td colspan="6"> {{ .description }} </td>
-  </tr>
+{{ range $year := seq (.Get 0) (.Get 1) }}
+  {{ range index (index $.Site.Data.discog (string $year)) }}
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr class="session_heading">
+      <th colspan="3"> {{ .group }} </th>
+      <th colspan="1"> {{ .location }} </th>
+      <th colspan="2">
+        {{ if .same_session }}
+          Same session
+        {{ else }}
+          {{ .date }}
+        {{ end }}
+      </th>
+    </tr>
+    <tr class="take">
+      <td colspan="6"> {{ .description }} </td>
+    </tr>
 
-  {{ range $entry := .entries }}
-    {{ if eq .type "take" }}
-      <tr class="take" id="take-{{ .index }}">
-        <td class="index"> {{ $entry.index }} </td>
-        <td> {{ $entry.matrix }} </td>
-        <td> {{ $entry.title }}
-          {{ range $link_data := $.Site.Params.entry_links }}
-            {{- if index $entry $link_data.key -}}
-            <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
-            {{- end -}}
-          {{- end -}}
-        </td>
-        <td>
-          {{ range $idx, $elem := $entry.releases }}
-            {{/* Label, identifier and any trailing symbol like a dagger */}}
-
-            {{- $label := $elem.label -}}
-            {{- $catalog := $elem.catalog -}}
-            {{- $flags := $elem.flags -}}
-            {{- $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog ) -}}
-
-            {{- $release_info := index $release_data $label $catalog -}}
-            {{- $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
-
-            {{- $title_str := "" -}}
-            {{- if $release_info.title -}}
-              {{ $title_str = printf "%s (%s)" $release_info.title $release_info.format }}
-            {{- end -}}
-
-            <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
-
-            {{- range $link_data := $.Site.Params.entry_links -}}
-              {{- if index $release_info $link_data.key -}}
-              <a href="{{ index $release_info $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+    {{ range $entry := .entries }}
+      {{ if eq .type "take" }}
+        <tr class="take" id="take-{{ .index }}">
+          <td class="index"> {{ $entry.index }} </td>
+          <td> {{ $entry.matrix }} </td>
+          <td> {{ $entry.title }}
+            {{ range $link_data := $.Site.Params.entry_links }}
+              {{- if index $entry $link_data.key -}}
+              <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
               {{- end -}}
             {{- end -}}
+          </td>
+          <td>
+            {{ range $idx, $elem := $entry.releases }}
+              {{/* Label, identifier and any trailing symbol like a dagger */}}
 
-            {{- if ne (len $entry.releases) (add $idx 1) -}}, {{- end -}}
-          {{ end }}
-        </td>
-        <td> {{ .desor }} </td>
-      </tr>
-    {{ else if eq .type "note" }}
-      <tr class="artists">
-        <td colspan="6"> {{ $.Page.RenderString .content }} </td>
-      </tr>
-    {{ else }}
-      <tr class="artists">
-        <td colspan="6"> {{ .value }} </td>
-      </tr>
+              {{- $label := $elem.label -}}
+              {{- $catalog := $elem.catalog -}}
+              {{- $flags := $elem.flags -}}
+              {{- $escaped_release_name := printf "%s-%s" (urlquery $label) (urlquery $catalog ) -}}
+
+              {{- $release_info := index $release_data $label $catalog -}}
+              {{- $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
+
+              {{- $title_str := "" -}}
+              {{- if $release_info.title -}}
+                {{ $title_str = printf "%s (%s)" $release_info.title $release_info.format }}
+              {{- end -}}
+
+              <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
+
+              {{- range $link_data := $.Site.Params.entry_links -}}
+                {{- if index $release_info $link_data.key -}}
+                <a href="{{ index $release_info $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+                {{- end -}}
+              {{- end -}}
+
+              {{- if ne (len $entry.releases) (add $idx 1) -}}, {{- end -}}
+            {{ end }}
+          </td>
+          <td> {{ .desor }} </td>
+        </tr>
+      {{ else if eq .type "note" }}
+        <tr class="artists">
+          <td colspan="6"> {{ $.Page.RenderString .content }} </td>
+        </tr>
+      {{ else }}
+        <tr class="artists">
+          <td colspan="6"> {{ .value }} </td>
+        </tr>
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
