@@ -7,6 +7,16 @@ menu:
     weight: 10
 ---
 
+## January 2025
+* Corrections 1924-1928
+* Corrections for 1946
+* New sessions for 1946
+* Fix Otto Hardwick instruments in 1924
+* Fixes for 1971
+* Fixes for 21 Feb and 20 March 1930
+* More corrections 1929/1930
+* Replaced "Mooche" with "Mooch" everywhere
+
 ## December 2024
 * Fixes for 30 June and 1 July 1952
 * Fixes for 21 Feb and 20 March 1930
@@ -15,13 +25,7 @@ menu:
 * Corrections for Murder at the Vanities
 * Remove vocal from DE6374n
 * Removed fake NDESOR from 46-08-24-005
-* Corrections 1924-1928
-* Corrections for 1946
-* New sessions for 1946
-* Fix Otto Hardwick instruments in 1924
-* Fixes for 1971
-* Fixes for 21 Feb and 20 March 1930
-* More corrections 1929/1930
+
 
 ## September 2024
 * Correct take number for DE2803e.
