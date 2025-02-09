@@ -7,6 +7,10 @@ menu:
     weight: 10
 ---
 
+## February 2025
+* Replaced "Mooche" with "Mooch" everywhere
+* Fixes for 44-12-17 (new unissued take etc)
+
 ## January 2025
 * Corrections 1924-1928
 * Corrections for 1946
@@ -15,7 +19,6 @@ menu:
 * Fixes for 1971
 * Fixes for 21 Feb and 20 March 1930
 * More corrections 1929/1930
-* Replaced "Mooche" with "Mooch" everywhere
 
 ## December 2024
 * Fixes for 30 June and 1 July 1952
