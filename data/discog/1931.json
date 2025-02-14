@@ -1,14 +1,14 @@
 [
     {
-        "group": "THE WHOOPEE MAKERS",
+        "group": "THE NEW YORK SYNCOPATORS",
         "location": "New York City, NY",
         "date": "08 January 1931",
         "same_session": false,
-        "description": "RCA-Victor recording session",
+        "description": "OKeh recording session. OKeh studio, probably 1819 Broadway.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch); Sid Garry(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch); Sid Garry(v)"
             },
             {
                 "type": "take",
@@ -32,8 +32,9 @@
                         "track": 23
                     },
                     {
-                        "label": "FR",
-                        "catalog": "DP-656"
+                        "label": "FMRS",
+                        "catalog": "FM-4001/02\u2020",
+                        "flags": ""
                     },
                     {
                         "label": "MoJ",
@@ -41,7 +42,11 @@
                     },
                     {
                         "label": "Od",
-                        "catalog": "ONY-36166"
+                        "catalog": "ONY-36190"
+                    },
+                    {
+                        "label": "Pa",
+                        "catalog": "PNY-34183"
                     }
                 ],
                 "desor": "DE3018a"
@@ -73,15 +78,23 @@
                     },
                     {
                         "label": "Od",
-                        "catalog": "ONY-36166"
+                        "catalog": "ONY-36189"
+                    },
+                    {
+                        "label": "Pa",
+                        "catalog": "PNY-34183"
                     }
                 ],
                 "desor": "DE3018b"
+            },
+            {
+                "type": "note",
+                "content": "Od ONY-36189, Od ONY-36190 (as The New York Syncopators) and Pa PNY 34183 (as The Harlem Foot Warmers) were issued contemporaneously."
             }
         ]
     },
     {
-        "group": "THE WHOOPEE MAKERS",
+        "group": "THE HARLEM FOOTWARMERS",
         "location": null,
         "date": "08 January 1931",
         "same_session": true,
@@ -89,7 +102,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Same personnel"
+                "value": "Same personnel, minus Sid Garry"
             },
             {
                 "type": "take",
@@ -130,6 +143,30 @@
                     }
                 ],
                 "desor": "DE3018c"
+            },
+            {
+                "type": "artists",
+                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)"
+            },
+            {
+                "type": "take",
+                "index": "31-01-08-004",
+                "matrix": "W404481-D",
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": "DE3018d"
+            },
+            {
+                "type": "take",
+                "index": "31-01-08-005",
+                "matrix": "W404481-E",
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "Mood Indigo takes are rejected/lost"
             }
         ]
     },
@@ -138,7 +175,7 @@
         "location": "New York City, NY",
         "date": "10 January 1931",
         "same_session": false,
-        "description": "RCA-Victor recording session",
+        "description": "ARC recording session. ARC studio, prob. 114 East 32nd Street.",
         "entries": [
             {
                 "type": "artists",
@@ -230,8 +267,12 @@
                         "catalog": "605"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-174"
+                    },
+                    {
                         "label": "Or",
-                        "catalog": "2191-MoJ-MJCD-174"
+                        "catalog": "2191"
                     }
                 ],
                 "desor": "DE3101d"
@@ -281,20 +322,33 @@
                 "title": "Rockin' Chair - vCBu",
                 "releases": [
                     {
+                        "label": "Ba",
+                        "catalog": "32070"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88000"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-174"
                     },
                     {
                         "label": "Nw",
                         "catalog": "RP2018"
-                    },
-                    {
-                        "label": "Vi",
-                        "catalog": "22587"
                     }
                 ],
                 "desor": "DE3101g"
-            },
+            }
+        ]
+    },
+    {
+        "group": "GEORGIA SYNCOPATORS",
+        "location": null,
+        "date": "10 January 1931",
+        "same_session": true,
+        "description": null,
+        "entries": [
             {
                 "type": "take",
                 "index": "31-01-10-008",
@@ -327,7 +381,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch); Bennie Payne(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch); Bennie Payne(v,p)"
             },
             {
                 "type": "take",
@@ -352,11 +406,19 @@
                         "catalog": "DRCD-11196"
                     },
                     {
+                        "label": "MCA",
+                        "catalog": "1374"
+                    },
+                    {
                         "label": "Ml",
                         "catalog": "M-12093"
                     }
                 ],
                 "desor": "DE3102a"
+            },
+            {
+                "type": "note",
+                "content": "(From NDESOR) Rockin' Chair as EARL JACKSON AND HIS MUSICAL CHAMPIONS"
             },
             {
                 "type": "take",
@@ -419,7 +481,7 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "16 January 1931",
         "same_session": false,
@@ -586,7 +648,7 @@
         "location": "New York City, NY",
         "date": "20 January 1931",
         "same_session": false,
-        "description": "Brunswick recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
@@ -611,6 +673,10 @@
                         "catalog": "DRCD-11196"
                     },
                     {
+                        "label": "MCA",
+                        "catalog": "1374"
+                    },
+                    {
                         "label": "Ml",
                         "catalog": "M-12080"
                     }
@@ -621,7 +687,7 @@
                 "type": "take",
                 "index": "31-01-20-002",
                 "matrix": "E35939-A",
-                "title": "CREOLE RHAPSODY - Part 1",
+                "title": "Creole Rhapsody - Part 1",
                 "releases": [
                     {
                         "label": "Br",
@@ -654,7 +720,7 @@
                 "type": "take",
                 "index": "31-01-20-003",
                 "matrix": "E35940-A",
-                "title": "CREOLE RHAPSODY - Part 2",
+                "title": "Creole Rhapsody - Part 2",
                 "releases": [
                     {
                         "label": "Br",
@@ -736,6 +802,10 @@
                     }
                 ],
                 "desor": "DE3104e"
+            },
+            {
+                "type": "note",
+                "content": "The Peanut Vendor / Is That Religion as Earl Jackson & His Musical Champions."
             }
         ]
     },

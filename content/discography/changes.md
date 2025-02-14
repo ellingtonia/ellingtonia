@@ -10,6 +10,7 @@ menu:
 ## February 2025
 * Replaced "Mooche" with "Mooch" everywhere
 * Fixes for 44-12-17 (new unissued take etc)
+* Fixes for Jan 1931
 
 ## January 2025
 * Corrections 1924-1928
