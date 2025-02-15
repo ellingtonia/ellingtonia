@@ -312,7 +312,7 @@ def load_from_json():
 
             old_date = date
 
-            same_session = jsession["same_session"]
+            same_session = jsession.get("same_session", False)
 
             sess = Session(
                 group=jsession["group"],
@@ -624,7 +624,8 @@ def save_to_json(database):
             if session.date != fix_date(session.date_str)[1]:
                 jsession["index_date"] = session.date
 
-            jsession["same_session"] = session.same_session
+            if session.same_session:
+                jsession["same_session"] = True
             jsession["description"] = session.description
             jsession["entries"] = json_entries
 
