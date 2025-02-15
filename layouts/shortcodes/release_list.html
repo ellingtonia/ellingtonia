@@ -81,7 +81,7 @@ case tracks are listed in the order in they were recorded.</p>
               <span class="detail">({{ $take.disc_track }})</span>
             {{ end }}
 
-            {{ $take.title -}}
+            {{ $.Page.RenderString $take.title -}}
 
             {{ if $take.as_title }}
               <span class="detail">(as {{ $take.as_title }})</span>

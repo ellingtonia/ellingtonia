@@ -41,7 +41,7 @@
         <tr class="take" id="take-{{ .index }}">
           <td class="index"> {{ $entry.index }} </td>
           <td> {{ $entry.matrix }} </td>
-          <td> {{ $entry.title }}
+          <td> {{ $.Page.RenderString $entry.title }}
             {{ range $link_data := $.Site.Params.entry_links }}
               {{- if index $entry $link_data.key -}}
               <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
@@ -62,7 +62,7 @@
 
               {{- $title_str := "" -}}
               {{- if $release_info.title -}}
-                {{ $title_str = printf "%s (%s)" $release_info.title $release_info.format }}
+                {{ $title_str = printf "%s (%s)" ($.Page.RenderString $release_info.title) $release_info.format }}
               {{- end -}}
 
               <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
