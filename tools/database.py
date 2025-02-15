@@ -310,9 +310,12 @@ def load_from_json():
             if date != old_date:
                 idx = 1
 
-            old_date = date
 
             same_session = jsession.get("same_session", False)
+            if same_session:
+                assert date == old_date, (old_date, date)
+
+            old_date = date
 
             sess = Session(
                 group=jsession["group"],
