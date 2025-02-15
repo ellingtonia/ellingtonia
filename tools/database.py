@@ -453,11 +453,11 @@ def load_from_json():
     return database
 
 
-def save_json(path, obj, ensure_ascii=False):
+def save_json(path, obj):
     tmp_path = path + ".tmp"
     try:
         with open(tmp_path, "w") as f:
-            json.dump(obj, f, indent=4, ensure_ascii=ensure_ascii)
+            json.dump(obj, f, indent=4, ensure_ascii=False)
             f.write("\n")
     except Exception as e:
         try:
@@ -645,7 +645,7 @@ def save_to_json(database):
                 jsession["maintainer_comment"] = session.maintainer_comment
 
             json_sessions.append(jsession)
-        save_json(session_path, json_sessions, ensure_ascii=True)
+        save_json(session_path, json_sessions)
 
 
 class Discogs:
