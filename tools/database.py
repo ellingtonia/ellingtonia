@@ -350,6 +350,15 @@ def load_from_json():
                 elif jentry["type"] == "take":
                     index = jentry["index"]
 
+                    title = jentry["title"]
+
+                    # Tidy up whitespace issues. Annoyingly hugo doesn't cope
+                    # well with leading nbsps, so we add a minus.
+                    title.replace("\u00a0", "&nbsp;")
+                    n_leading_whitespace = len(title) - len(title.lstrip())
+                    if n_leading_whitespace > 0:
+                        title = "-" + "&nbsp;" * n_leading_whitespace + title.lstrip()
+
                     # If an index is present, we always replace it with an
                     # auto-number, so errors get corrected.
                     if index:
@@ -360,7 +369,7 @@ def load_from_json():
                         # Check for duplicates
                         assert index not in all_indices, (
                             index,
-                            jentry["title"],
+                            title
                         )
                         all_indices.add(index)
 
@@ -368,7 +377,7 @@ def load_from_json():
                         type="take",
                         index=index,
                         matrix=jentry["matrix"],
-                        title=jentry["title"],
+                        title=title,
                         desor=jentry["desor"],
                     )
 
