@@ -420,6 +420,10 @@ def load_from_json():
                                 for flag in flags:
                                     assert flag in "*◊‡", flag
 
+                        er_title = release_dict.get("title")
+                        if er_title == "":
+                            er_title = None
+
                         er = EntryRelease(
                             entry=entry,
                             release=release,
@@ -427,7 +431,7 @@ def load_from_json():
                             disc=release_dict.get("disc"),
                             track=release_dict.get("track"),
                             length=release_dict.get("length"),
-                            title=release_dict.get("title"),
+                            title=er_title
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
