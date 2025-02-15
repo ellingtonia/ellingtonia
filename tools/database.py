@@ -399,10 +399,19 @@ def load_from_json():
                             database.get_label(label), catalog
                         )
 
+                        flags = release_dict.get("flags")
+
+                        if flags is not None:
+                            if flags == "":
+                                flags = None
+                            else:
+                                for flag in flags:
+                                    assert flag in "*◊‡", flag
+
                         er = EntryRelease(
                             entry=entry,
                             release=release,
-                            flags=release_dict.get("flags"),
+                            flags=flags,
                             disc=release_dict.get("disc"),
                             track=release_dict.get("track"),
                             length=release_dict.get("length"),
