@@ -11,6 +11,7 @@ menu:
 * Replaced "Mooche" with "Mooch" everywhere
 * Fixes for 44-12-17 (new unissued take etc)
 * Fixes for Jan 1931
+* From EC
 
 ## January 2025
 * Corrections 1924-1928
