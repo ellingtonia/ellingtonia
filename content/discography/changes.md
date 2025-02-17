@@ -13,6 +13,7 @@ menu:
 * Fixes for Jan 1931
 * From EC
 * EC changes for 1932
+* EC changes for 1933
 
 ## January 2025
 * Corrections 1924-1928
