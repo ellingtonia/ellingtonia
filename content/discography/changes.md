@@ -12,6 +12,7 @@ menu:
 * Fixes for 44-12-17 (new unissued take etc)
 * Fixes for Jan 1931
 * From EC
+* EC changes for 1932
 
 ## January 2025
 * Corrections 1924-1928
