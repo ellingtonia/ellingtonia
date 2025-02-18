@@ -16,6 +16,7 @@ menu:
 * EC changes for 1933
 * EC changes for 1933 (additional)
 * EC changes for 1934
+* EC changes for 1935
 
 ## January 2025
 * Corrections 1924-1928
