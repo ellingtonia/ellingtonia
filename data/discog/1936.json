@@ -3,7 +3,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "03 January 1936",
-        "description": "ARC recording session",
+        "description": "ARC recording session. Brunswick studios.",
         "entries": [
             {
                 "type": "artists",
@@ -40,6 +40,10 @@
                 "title": "Farewell Blues",
                 "releases": [],
                 "desor": "DE3601d"
+            },
+            {
+                "type": "note",
+                "content": "This entire session remains unissued and the masters no longer exist."
             }
         ]
     },
@@ -47,11 +51,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "20 January 1936",
-        "description": "ARC recording session",
+        "description": "ARC recording session. Brunswick studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as);Otto Hardwick\n(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick\n(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -126,6 +130,10 @@
                         "catalog": "1003"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1307"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -152,7 +160,7 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "TE-23001"
+                        "catalog": "RTE-23001"
                     }
                 ],
                 "desor": "DE3602d"
@@ -163,11 +171,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "27 February 1936",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -199,10 +207,6 @@
                 "desor": "DE3604a"
             },
             {
-                "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
-            },
-            {
                 "type": "take",
                 "index": "36-02-27-002",
                 "matrix": "B18735-1",
@@ -226,10 +230,6 @@
                     }
                 ],
                 "desor": "DE3604b"
-            },
-            {
-                "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -299,11 +299,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "28 February 1936",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Pete\nClark(as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Pete\nClark(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -332,7 +332,7 @@
             },
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Pete Clark(as);\nHarry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Add Billy Taylor(sb)."
             },
             {
                 "type": "take",
@@ -365,7 +365,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Taylor out"
+                "value": "Billy Taylor out."
             },
             {
                 "type": "take",
@@ -398,7 +398,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "09 May 1936",
-        "description": "WMAQ broadcast",
+        "description": "WMAQ broadcast. Congress Hotel.",
         "entries": [
             {
                 "type": "artists",
@@ -450,7 +450,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "26 May 1936",
-        "description": "WMAQ broadcast",
+        "description": "WMAQ broadcast. Congress Hotel.",
         "entries": [
             {
                 "type": "artists",
@@ -494,11 +494,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "17 July 1936",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Pete\nClark(as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(bb,sb); Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -542,6 +542,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "666"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1308"
                     },
                     {
                         "label": "Ms",
@@ -614,11 +618,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "29 July 1936",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(as); Ben Webster(ts); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
             },
             {
                 "type": "take",
@@ -651,7 +655,7 @@
             },
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch)"
+                "value": "Add Hayes Alvis(sb)."
             },
             {
                 "type": "take",
@@ -701,7 +705,7 @@
             },
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Billy Taylor out."
             },
             {
                 "type": "take",
@@ -742,11 +746,11 @@
         "group": "REX STEWART AND HIS FIFTY SECOND STREET STOMPERS",
         "location": "Los Angeles, CA",
         "date": "16 December 1936",
-        "description": "Master recording session",
+        "description": "Master recording session. Recordings Incorporated, Hollywood.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(cl,bar); Ceele Burke(g); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Rex Stewart(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(cl,bar); Ceele Burke(g,stg); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -761,6 +765,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "666"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -826,6 +834,10 @@
                         "catalog": "666"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -842,11 +854,11 @@
         "group": "BARNEY BIGARD AND HIS JAZZOPATORS",
         "location": "Los Angeles, CA",
         "date": "19 December 1936",
-        "description": "Master recording session",
+        "description": "Master recording session. Associated Cinema studios, Hollywood.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Juan Tizol(tb); Barney Bigard(cs); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Cootie Williams(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -886,6 +898,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "666"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -938,6 +954,10 @@
                         "catalog": "666"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -961,6 +981,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "666"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1013,6 +1037,10 @@
                         "catalog": "666"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1054,17 +1082,17 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "21 December 1936",
-        "description": "Master recording session",
+        "description": "Master recording session. Associated Cinema studios, Hollywood.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Pete Clark(as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d,ch)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "36-12-21-001",
                 "matrix": "L0375-1",
-                "title": "Scattin' At The Kit Kat",
+                "title": "Scattin' At The Kit Kat (Scattin' At The Cotton Club)",
                 "releases": [
                     {
                         "label": "BMG",
@@ -1081,6 +1109,10 @@
                     {
                         "label": "FDC",
                         "catalog": "1022"
+                    },
+                    {
+                        "label": "FMRS",
+                        "catalog": "FM-4001/02†"
                     },
                     {
                         "label": "Ms",
@@ -1163,6 +1195,10 @@
                         "catalog": "102"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1309"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1190,6 +1226,10 @@
                     {
                         "label": "Ma",
                         "catalog": "102"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1309"
                     },
                     {
                         "label": "Ms",
@@ -1221,6 +1261,10 @@
                         "catalog": "102"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1309"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1250,6 +1294,10 @@
                         "catalog": "102"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1309"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1277,6 +1325,10 @@
                     {
                         "label": "Ma",
                         "catalog": "102"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1309"
                     },
                     {
                         "label": "Ms",
