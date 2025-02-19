@@ -3,17 +3,17 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "09 January 1935",
-        "description": "ARC recording session",
+        "description": "ARC recording session. Brunswick studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as);\nOtto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Billy Taylor(bb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as);\nOtto Hardwick(as,bsax); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Billy Taylor(bb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
                 "index": "35-01-09-001",
                 "matrix": "C883-2",
-                "title": "Admiration Stomp",
+                "title": "Admiration",
                 "releases": [
                     {
                         "label": "CBS",
@@ -86,7 +86,7 @@
             },
             {
                 "type": "artists",
-                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(tb); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); n/k(mc)"
+                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(tb); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); n/k(mc)."
             },
             {
                 "type": "take",
@@ -100,6 +100,10 @@
                     }
                 ],
                 "desor": "DE3501d"
+            },
+            {
+                "type": "note",
+                "content": "\"Admiration\" is not the same composition recorded on 20 March 1930."
             }
         ]
     },
@@ -107,11 +111,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "05 March 1935",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud,Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Johnny Hodges(ss); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Wellman Braud, Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -140,7 +144,7 @@
             },
             {
                 "type": "artists",
-                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(tb); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Wellman Braud, Billy Taylor(sb); Sonny Greer(d); n/k(mc)"
+                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(tb); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Wellman Braud, Billy Taylor(sb); Sonny Greer(d); n/k(mc); n/k(clv)."
             },
             {
                 "type": "take",
@@ -159,6 +163,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "659"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1304"
                     },
                     {
                         "label": "Ms",
@@ -187,7 +195,7 @@
                     },
                     {
                         "label": "FMRS",
-                        "catalog": "(FM-4001/02"
+                        "catalog": "FM-4001/02†"
                     },
                     {
                         "label": "Ms",
@@ -207,7 +215,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart(t); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Wellman Braud,Billy Taylor(sb)"
+                "value": "Rex Stewart(t); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Wellman Braud, Billy Taylor(sb)."
             },
             {
                 "type": "take",
@@ -226,6 +234,10 @@
                     {
                         "label": "Nw",
                         "catalog": "RP2033"
+                    },
+                    {
+                        "label": "Ra",
+                        "catalog": "RTE-23001"
                     }
                 ],
                 "desor": "DE3502d"
@@ -247,6 +259,10 @@
                     {
                         "label": "Co",
                         "catalog": "37297"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "MJ",
@@ -299,6 +315,10 @@
                         "catalog": "37297"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     }
@@ -311,11 +331,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "30 April 1935",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -325,7 +345,7 @@
                 "releases": [
                     {
                         "label": "BMG",
-                        "catalog": "88697-2985-4-2"
+                        "catalog": "88697298542"
                     },
                     {
                         "label": "BMG",
@@ -412,7 +432,7 @@
                 "type": "take",
                 "index": "35-04-30-004",
                 "matrix": "B17409-1",
-                "title": "Admiration Stomp",
+                "title": "Admiration",
                 "releases": [
                     {
                         "label": "Br",
@@ -439,11 +459,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "19 August 1935",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto\nHardwick(as); Ben Webster(ts); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -489,6 +509,10 @@
                         "catalog": "659"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1304"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -526,11 +550,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "12 September 1935",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto\nHardwick(cl,ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
