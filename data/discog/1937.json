@@ -8,7 +8,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); The Chrinoline Choir(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson, The Chrinoline Choir(v)."
             },
             {
                 "type": "take",
@@ -16,6 +16,10 @@
                 "matrix": null,
                 "title": "All God's Chillun Got Rhythm - vIA,TCC",
                 "releases": [
+                    {
+                        "label": "BJ",
+                        "catalog": "LP-3004"
+                    },
                     {
                         "label": "TCM",
                         "catalog": "R2-79805"
@@ -25,7 +29,7 @@
             },
             {
                 "type": "artists",
-                "value": "Film sound track from RKO Pictures' \"A Day At The Races\""
+                "value": "Film sound track from MGM Pictures' \"A Day At The Races\""
             }
         ]
     },
@@ -34,17 +38,17 @@
         "location": "Los Angeles, CA",
         "date": "22-25 February 1937",
         "index_date": 370222,
-        "description": "Republic film recording session   ",
+        "description": "Republic film recording session. Republic studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d,ch); Sammy White(v)"
+                "value": "Arthur Whetsel, Cootie Williams(t); Rex Stewart(t,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar,v); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb,v); Sonny Greer(d,ch); Sammy White(v)."
             },
             {
                 "type": "take",
                 "index": "37-02-22-001",
                 "matrix": null,
-                "title": "I've Got To Be A Rug Cutter - vIA, Rex Stewart,HC, Hayes Alvis",
+                "title": "I've Got To Be A Rug Cutter - vIA,RS,HC,HA",
                 "releases": [
                     {
                         "label": "TOM",
@@ -92,14 +96,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "05 March 1937",
-        "description": "Master recording session",
+        "description": "Master recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d); Freddy Jenkins(ch)"
+                "value": "Arthur Whetsel, Cootie Williams(t); Rex Stewart(t,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto\nHardwick(as,bsax); Harry Carney(cl,bar,v); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Hayes Alvis(sb,v); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -174,6 +178,10 @@
                         "catalog": "123"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1308"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -209,11 +217,11 @@
                 "type": "take",
                 "index": "37-03-05-005",
                 "matrix": "M179-1",
-                "title": "I've Got To Be A Rug Cutter - vIA, Rex Stewart,HC, Hayes Alvis",
+                "title": "I've Got To Be A Rug Cutter - vIA,RS,HC,HA",
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88185"
                     },
                     {
                         "label": "Cl(F)",
@@ -222,6 +230,10 @@
                     {
                         "label": "Ma",
                         "catalog": "101"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1313"
                     },
                     {
                         "label": "Ms",
@@ -234,11 +246,11 @@
                 "type": "take",
                 "index": "37-03-05-006",
                 "matrix": "M179-2",
-                "title": "I've Got To Be A Rug Cutter - vIA, Rex Stewart,HC, Hayes Alvis",
+                "title": "I've Got To Be A Rug Cutter - vIA,RS,HC,HA",
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88185"
                     },
                     {
                         "label": "Ms",
@@ -267,7 +279,7 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88185"
                     },
                     {
                         "label": "Cl(F)",
@@ -276,6 +288,10 @@
                     {
                         "label": "Ma",
                         "catalog": "101"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1306"
                     },
                     {
                         "label": "Ms",
@@ -292,7 +308,7 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88185"
                     },
                     {
                         "label": "Ms",
@@ -315,11 +331,11 @@
         "group": "COOTIE WILLIAMS AND HIS RUG CUTTERS",
         "location": "New York City, NY",
         "date": "08 March 1937",
-        "description": "Master recording session",
+        "description": "Master recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Joe Nanton(tb); Johnny Hodges(ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar); Duke Ellington(p); Hayes Alvis(sb); Sonny Greer(d)"
+                "value": "Cootie Williams(t); Joe Nanton(tb); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Hayes Alvis(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -334,6 +350,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "675"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -386,8 +406,16 @@
                         "catalog": "675"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Tx",
+                        "catalog": "M-8011"
                     },
                     {
                         "label": "Va",
@@ -434,6 +462,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "675"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -503,6 +535,10 @@
                         "catalog": "675"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -522,6 +558,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88185"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -565,11 +605,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "18 March 1937",
-        "description": "MBS broadcast",
+        "description": "MBS broadcast from the Cotton Club.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny\nHodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny\nHodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -626,7 +666,7 @@
                 "releases": [
                     {
                         "label": "BJ",
-                        "catalog": "LP-2004"
+                        "catalog": "LP-3004"
                     }
                 ],
                 "desor": "DE3704e"
@@ -639,7 +679,7 @@
                 "releases": [
                     {
                         "label": "BJ",
-                        "catalog": "LP-2004"
+                        "catalog": "LP-3004"
                     }
                 ],
                 "desor": "DE3704f"
@@ -688,12 +728,61 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
-        "date": "09 April 1937",
-        "description": "Master recording session",
+        "date": "Spring 1937",
+        "index_date": 370331,
+        "description": "MBS broadcast from the Cotton Club.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Rex Stewart(t,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny\nHodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar,v); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Hayes Alvis(sb,v); Sonny Greer(d,ch); Ivie Anderson(v)."
+            },
+            {
+                "type": "take",
+                "index": "37-03-31-001",
+                "matrix": null,
+                "title": "Swing Low",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "37-03-31-002",
+                "matrix": null,
+                "title": "I've Got To Be A Rug Cutter -vIA,RS,HC,HA",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "37-03-31-003",
+                "matrix": null,
+                "title": "Azure",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "37-03-31-004",
+                "matrix": null,
+                "title": "Ducky Wucky",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "These four selections are preserved in a collector's item, an aluminium aircheck disc, containing only a part of the first and fourth titles."
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
+        "location": "New York City, NY",
+        "date": "09 April 1937",
+        "description": "Master recording session. Master Records studio.",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor or Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -807,7 +896,7 @@
                 "type": "take",
                 "index": "37-04-09-005",
                 "matrix": "M381-1",
-                "title": "You Can'y Run Away From Love Tonight",
+                "title": "You Can't Run Away From Love Tonight",
                 "releases": [
                     {
                         "label": "CBS",
@@ -836,7 +925,7 @@
                 "type": "take",
                 "index": "37-04-09-006",
                 "matrix": "M381-2",
-                "title": "You Can'y Run Away From Love Tonight",
+                "title": "You Can't Run Away From Love Tonight",
                 "releases": [
                     {
                         "label": "CBS",
@@ -860,14 +949,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "22 April 1937",
-        "description": "Master recording session",
+        "description": "Master recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor or Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -997,6 +1086,10 @@
                     }
                 ],
                 "desor": "DE3706e"
+            },
+            {
+                "type": "note",
+                "content": "\"Old Plantation\" issued as Ivie Anderson and her Boys From Dixie."
             }
         ]
     },
@@ -1004,11 +1097,11 @@
         "group": "BARNEY BIGARD AND HIS JAZZOPATORS",
         "location": "New York City, NY",
         "date": "29 April 1937",
-        "description": "Master recording session",
+        "description": "Master recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1050,6 +1143,10 @@
                         "catalog": "675"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1073,6 +1170,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "675"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1123,6 +1224,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "675"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1200,6 +1305,10 @@
                         "catalog": "675"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1216,11 +1325,11 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "08 May 1937",
-        "description": "CBS broadcast",
+        "description": "CBS broadcast \"Saturday Night Swing Club\" from Club Playhouse.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -1280,14 +1389,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "14 May 1937",
-        "description": "Master recording session",
+        "description": "Master recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto\nHardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor or Hayes Alvis(sb); Sonny Greer(d,ch)"
             },
             {
                 "type": "take",
@@ -1297,7 +1406,7 @@
                 "releases": [
                     {
                         "label": "BMG",
-                        "catalog": "88697-2985-4-2"
+                        "catalog": "88697298542"
                     },
                     {
                         "label": "BMG",
@@ -1357,16 +1466,16 @@
         "group": "JOHNNY HODGES AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 May 1937",
-        "description": "Master recording session",
+        "description": "Recording session for ARC's dime store labels (later transferred to Variety). ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t,v); Barney Bigard(cl,ts); Johnny Hodges,Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d,ch); Buddy Clark(v)"
+                "value": "Cootie Williams(t,v); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Hayes Alvis(sb); Sonny Greer(d); Buddy Clark(v)"
             },
             {
                 "type": "take",
                 "index": "37-05-20-001",
-                "matrix": "B21186-1",
+                "matrix": "21186-1",
                 "title": "Foolin' Myself - vBCk",
                 "releases": [
                     {
@@ -1376,6 +1485,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "675"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1391,7 +1504,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-002",
-                "matrix": "B21186-2",
+                "matrix": "21186-2",
                 "title": "Foolin' Myself - vBCk",
                 "releases": [
                     {
@@ -1416,7 +1529,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-003",
-                "matrix": "B21187-1",
+                "matrix": "21187-1",
                 "title": "A Sailboat In The Moonlight - vBCk",
                 "releases": [
                     {
@@ -1426,6 +1539,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "675"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1441,7 +1558,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-004",
-                "matrix": "B21187-2",
+                "matrix": "21187-2",
                 "title": "A Sailboat In The Moonlight - vBCk",
                 "releases": [
                     {
@@ -1466,7 +1583,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-005",
-                "matrix": "B21188-1",
+                "matrix": "21188-1",
                 "title": "You'll Never Go To Heaven - vBCk",
                 "releases": [
                     {
@@ -1479,7 +1596,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-006",
-                "matrix": "B21188-2",
+                "matrix": "21188-2",
                 "title": "You'll Never Go To Heaven - vBCk",
                 "releases": [
                     {
@@ -1489,6 +1606,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1504,7 +1625,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-007",
-                "matrix": "B21189-1",
+                "matrix": "21189-1",
                 "title": "Peckin' - vCW",
                 "releases": [
                     {
@@ -1514,6 +1635,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1529,7 +1654,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-008",
-                "matrix": "B21189-2",
+                "matrix": "21189-2",
                 "title": "Peckin' - vCW",
                 "releases": [
                     {
@@ -1539,6 +1664,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2042"
                     },
                     {
                         "label": "Ra",
@@ -1550,7 +1679,7 @@
             {
                 "type": "take",
                 "index": "37-05-20-009",
-                "matrix": "B21189-3",
+                "matrix": "21189-3",
                 "title": "Peckin' - vCW",
                 "releases": [
                     {
@@ -1562,6 +1691,10 @@
                         "catalog": "MD7-235"
                     },
                     {
+                        "label": "Nw",
+                        "catalog": "RP2042"
+                    },
+                    {
                         "label": "Ra",
                         "catalog": "RTE-23005"
                     }
@@ -1571,14 +1704,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "08 June 1937",
-        "description": "Master recording session",
+        "description": "Master recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams(t); Rex Stewart(t,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as);\nOtto Hardwick(cl,as); Harry Carney(cl,as,bar,v); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Hayes Alvis(sb,v); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams(t); Rex Stewart(t,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as);\nOtto Hardwick(as); Harry Carney(cl,as,bar,v); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Hayes Alvis(sb,v); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1728,11 +1861,11 @@
         "group": "DUKE ELLINGTON'S JAM ENSEMBLE",
         "location": "New York City, NY",
         "date": "12 June 1937",
-        "description": "CBS broadcast",
+        "description": "CBS broadcast \"Saturday Night Swing Club\" from Club Playhouse.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Hayes Alvis(sb); JWl(d)"
+                "value": "Cootie Williams(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Hayes Alvis(sb); John Williams(d)."
             },
             {
                 "type": "take",
@@ -1740,6 +1873,10 @@
                 "matrix": null,
                 "title": "Frolic Sam",
                 "releases": [
+                    {
+                        "label": "JU",
+                        "catalog": "JUCD-2056/57"
+                    },
                     {
                         "label": "So",
                         "catalog": "LP-1013"
@@ -1753,7 +1890,7 @@
         "group": "BARNEY BIGARD AND HIS JAZZOPATORS",
         "location": "New York City, NY",
         "date": "16 June 1937",
-        "description": "Master recording session",
+        "description": "Master recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
@@ -1772,6 +1909,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1795,6 +1936,10 @@
                         "catalog": "T-1003"
                     },
                     {
+                        "label": "Nw",
+                        "catalog": "RP2042"
+                    },
+                    {
                         "label": "R/V",
                         "catalog": "1001-CD"
                     }
@@ -1803,7 +1948,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Charlie Barnet(mc)"
+                "value": "Add Charlie Barnet(mc)."
             },
             {
                 "type": "take",
@@ -1822,6 +1967,14 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2042"
                     }
                 ],
                 "desor": "DE3713c"
@@ -1841,6 +1994,10 @@
                         "catalog": "687"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1853,7 +2010,7 @@
             },
             {
                 "type": "artists",
-                "value": "Charlie Barnet out"
+                "value": "Charlie Barnet out."
             },
             {
                 "type": "take",
@@ -1868,6 +2025,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1895,6 +2056,10 @@
                         "catalog": "MD7-235"
                     },
                     {
+                        "label": "Nw",
+                        "catalog": "RP2042"
+                    },
+                    {
                         "label": "R/V",
                         "catalog": "1001-CD"
                     }
@@ -1914,6 +2079,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -1941,6 +2110,10 @@
                         "catalog": "MD7-235"
                     },
                     {
+                        "label": "Nw",
+                        "catalog": "RP2042"
+                    },
+                    {
                         "label": "R/V",
                         "catalog": "1001-CD"
                     }
@@ -1954,11 +2127,11 @@
         "location": "New York City, NY",
         "date": "Late June 1937",
         "index_date": 370630,
-        "description": "Paramount film recording session",
+        "description": "Paramount film recording session. Master Records studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1982,11 +2155,19 @@
                 "matrix": null,
                 "title": "Daybreak Express",
                 "releases": [],
-                "desor": "DE3714d"
+                "desor": "DE3714c"
             },
             {
                 "type": "take",
                 "index": "37-06-30-004",
+                "matrix": null,
+                "title": "Daybreak Express",
+                "releases": [],
+                "desor": "DE3714d"
+            },
+            {
+                "type": "take",
+                "index": "37-06-30-005",
                 "matrix": null,
                 "title": "Oh Babe Maybe Someday",
                 "releases": [],
@@ -1994,15 +2175,15 @@
             },
             {
                 "type": "take",
-                "index": "37-06-30-005",
+                "index": "37-06-30-006",
                 "matrix": null,
                 "title": "Oh Babe Maybe Someday - vIA",
                 "releases": [],
                 "desor": "DE3714f"
             },
             {
-                "type": "artists",
-                "value": "Film sound track from Paramount's \"Paramount Pictorial No. 889\" The whole film was issued on Bluebird DVD 82876-60091-2-2"
+                "type": "note",
+                "content": "Film sound track from Paramount's \"Paramount Pictorial P7-2.\" The whole film was issued on Bluebird DVD 82876-60091-2-2."
             }
         ]
     },
@@ -2010,11 +2191,11 @@
         "group": "REX STEWART AND HIS FIFTY SECOND STREET STOMPERS ",
         "location": "New York City, NY",
         "date": "07 July 1937",
-        "description": "Master recording session",
+        "description": "Variety recording session at Master Records studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart, Freddie Jenkins(t); Johnny Hodges(as);Harry Carney(bar); Duke Ellington(p); Brick Fleagle(g); Hayes Alvis(sb); Jack Maisel(d)"
+                "value": "Rex Stewart, Freddie Jenkins(t); Johnny Hodges(cl,as); Harry Carney(bar); Duke Ellington(p); Brick Fleagle(g); Hayes Alvis(sb); Jack Maisel(d)"
             },
             {
                 "type": "take",
@@ -2023,20 +2204,29 @@
                 "title": "Back Room Romp",
                 "releases": [
                     {
-                        "label": "Br",
-                        "catalog": "8029"
+                        "label": "CBS",
+                        "catalog": "88210"
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "M-52628"
                     },
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Va",
+                        "catalog": "618",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3715a"
@@ -2052,8 +2242,17 @@
                         "catalog": "88210"
                     },
                     {
+                        "label": "CBS",
+                        "catalog": "M-52628",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2042"
                     }
                 ],
                 "desor": "DE3715b"
@@ -2065,20 +2264,33 @@
                 "title": "Swing, Baby, Swing (Love In My Heart)",
                 "releases": [
                     {
-                        "label": "Br",
-                        "catalog": "8004"
+                        "label": "CBS",
+                        "catalog": "88120"
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88120"
+                        "catalog": "M-52628"
                     },
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1309"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Va",
+                        "catalog": "664",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3715c"
@@ -2086,31 +2298,66 @@
             {
                 "type": "take",
                 "index": "37-07-07-004",
+                "matrix": "M550-2",
+                "title": "Swing, Baby, Swing (Love In My Heart)",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88120",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2042"
+                    }
+                ],
+                "desor": "DE3715d"
+            },
+            {
+                "type": "take",
+                "index": "37-07-07-005",
                 "matrix": "M551-1",
                 "title": "Sugar Hill Shim-Sham",
                 "releases": [
                     {
-                        "label": "Br",
-                        "catalog": "8004"
+                        "label": "CBS",
+                        "catalog": "88120"
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88120"
+                        "catalog": "M-52628"
                     },
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1308"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Va",
+                        "catalog": "664",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3715e"
             },
             {
                 "type": "take",
-                "index": "37-07-07-005",
+                "index": "37-07-07-006",
                 "matrix": "M551-2",
                 "title": "Sugar Hill Shim-Sham",
                 "releases": [
@@ -2119,15 +2366,24 @@
                         "catalog": "88210"
                     },
                     {
+                        "label": "CBS",
+                        "catalog": "M-52628",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2042"
                     }
                 ],
                 "desor": "DE3715f"
             },
             {
                 "type": "take",
-                "index": "37-07-07-006",
+                "index": "37-07-07-007",
                 "matrix": "M552-1",
                 "title": "Tea And Trumpets",
                 "releases": [
@@ -2136,58 +2392,73 @@
                         "catalog": "88210"
                     },
                     {
+                        "label": "CBS",
+                        "catalog": "M-52628"
+                    },
+                    {
                         "label": "Cl(F)",
                         "catalog": "687"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Va",
+                        "catalog": "618",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3715g"
             },
             {
                 "type": "take",
-                "index": "37-07-07-007",
+                "index": "37-07-07-008",
                 "matrix": "M552-2",
                 "title": "Tea And Trumpets",
                 "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "8044"
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88120"
-                    },
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3715h"
             },
             {
                 "type": "take",
-                "index": "37-07-07-008",
+                "index": "37-07-07-009",
                 "matrix": "M552-3",
                 "title": "Tea And Trumpets",
                 "releases": [
                     {
-                        "label": "Br",
-                        "catalog": "8029"
+                        "label": "BD",
+                        "catalog": "T-1003"
                     },
                     {
                         "label": "CBS",
                         "catalog": "88210"
                     },
                     {
+                        "label": "CBS",
+                        "catalog": "M-52628",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2042"
                     }
                 ],
                 "desor": "DE3715i"
@@ -2198,11 +2469,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 September 1937",
-        "description": "ARC-Brunswick recording session",
+        "description": "ARC-Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny\nHodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny\nHodges(cl,ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2225,6 +2496,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1312"
                     },
                     {
                         "label": "Ms",
@@ -2443,6 +2718,10 @@
                         "catalog": "687"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1308"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -2497,16 +2776,16 @@
         "group": "COOTIE WILLIAMS AND HIS RUG CUTTERS",
         "location": "New York City, NY",
         "date": "26 October 1937",
-        "description": "ARC-Brunswick recording session",
+        "description": "ARC-Brunswick recording session. ",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Juan Tizol(tb); Barney Bigard(cl,ts); Otto Hardwick(ss,as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Jerry Kruger(v)"
+                "value": "Cootie Williams(t); Juan Tizol(tb); Barney Bigard(cl,ts); Otto Hardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Jerry Kruger(v)."
             },
             {
                 "type": "take",
                 "index": "37-10-26-001",
-                "matrix": "M699-1",
+                "matrix": "M699-2",
                 "title": "Jubilesta",
                 "releases": [
                     {
@@ -2516,6 +2795,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
@@ -2547,6 +2830,10 @@
                         "catalog": "687"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -2572,6 +2859,10 @@
                         "catalog": "687"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -2595,6 +2886,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "687"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-46995"
                     },
                     {
                         "label": "Ms",
