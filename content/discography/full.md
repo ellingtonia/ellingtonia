@@ -1,5 +1,5 @@
 ---
-title: "All years" # em-dash
+title: "Full Discography" # em-dash
 wide: true
 menu: main
 menu:
