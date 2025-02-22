@@ -528,18 +528,18 @@ def save_releases_to_json(database, generated):
                     length = f"{er.length//60}:{er.length%60:-02}"
 
                 year = er.entry.session.year ()
-                if year < 1931:
-                    page = "1924-1930"
-                elif year < 1941:
-                    page = "1931-1940"
-                elif year < 1951:
-                    page = "1941-1950"
-                elif year < 1961:
-                    page = "1951-1960"
-                elif year < 1971:
-                    page = "1961-1970"
+                if year < 1930:
+                    page = "1924-1929"
+                elif year < 1940:
+                    page = "1930-1939"
+                elif year < 1950:
+                    page = "1940-1949"
+                elif year < 1960:
+                    page = "1950-1959"
+                elif year < 1970:
+                    page = "1960-1969"
                 else:
-                    page = "1971-1974"
+                    page = "1970-1974"
 
                 json_entry = {
                     "title": er.entry.title,

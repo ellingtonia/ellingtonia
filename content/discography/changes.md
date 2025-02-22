@@ -12,6 +12,8 @@ menu:
 * Fixes for 44-12-17 (new unissued take etc)
 * Various fixes 1931-1936
 * EC changes for 1937
+* Standardised decades so we now have e.g. 1930-1939 rather than 1931-1940.
+* Added a page with the entire discography.
 
 ## January 2025
 * Corrections 1924-1928
@@ -400,8 +402,8 @@ menu:
 ## May 2022
 * Many small fixes to releases (missing labels etc.)
 * Tidied up labels page substantially, adding missing entries and deleting unused ones.
-* Included YouTube/Spotify/Tidal links for [one take]({{< ref "discography/1941-1950" >}}#take-46011502)
-* Added [Bill Swisher interview]({{< ref "discography/1961-1970" >}}#take-69111101) with YouTube link{{< issue 19 />}}
+* Included YouTube/Spotify/Tidal links for one take (46011502)
+* Added [Bill Swisher interview] with YouTube link{{< issue 19 />}}
 * {{< issue 15 >}}Fix: 13 April 1946 session to San Pedro Playhouse (previously Fort Sam Houston){{< /issue >}}
 * {{< issue 14 >}}Fix: 42111903 "Just As I Thought You Were Here" -> "Just As Though You Were Here"{{< /issue >}}
 * {{< issue 13 >}}Fix: Metronome All Star Band session 15 January 1946{{< /issue >}}
