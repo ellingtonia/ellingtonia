@@ -15,6 +15,7 @@ menu:
 * Standardised decades so we now have e.g. 1930-1939 rather than 1931-1940.
 * Added a page with the entire discography.
 * EC changes for 1938
+* EC changes for 1939
 
 ## January 2025
 * Corrections 1924-1928

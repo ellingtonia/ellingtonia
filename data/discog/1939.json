@@ -3,7 +3,7 @@
         "group": "JOHNNY HODGES AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "27 February 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "ARC-Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
@@ -22,6 +22,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "747"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
                     },
                     {
                         "label": "Ms",
@@ -53,6 +57,10 @@
                         "catalog": "747"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -82,6 +90,18 @@
                         "catalog": "747"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1003"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1306"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -107,6 +127,10 @@
                         "catalog": "747"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -123,7 +147,7 @@
         "group": "COOTIE WILLIAMS AND HIS RUG CUTTERS",
         "location": "New York City, NY",
         "date": "28 February 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "ARC-Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
@@ -142,6 +166,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "747"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
                     },
                     {
                         "label": "Ms",
@@ -169,12 +197,12 @@
                         "catalog": "747"
                     },
                     {
-                        "label": "Ms",
-                        "catalog": "MD7-235"
+                        "label": "Co",
+                        "catalog": "C2K-48835"
                     },
                     {
-                        "label": "Tx",
-                        "catalog": "M-8011"
+                        "label": "Ms",
+                        "catalog": "MD7-235"
                     },
                     {
                         "label": "Vo",
@@ -196,6 +224,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "747"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
                     },
                     {
                         "label": "Ms",
@@ -229,6 +261,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2056"
                     }
                 ],
                 "desor": "DE3903d"
@@ -248,8 +284,20 @@
                         "catalog": "747"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1313"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2048"
                     },
                     {
                         "label": "Vo",
@@ -264,16 +312,16 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "08 March 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "ARC-Brunswick recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
                 "index": "39-03-08-001",
-                "matrix": "M990-1",
+                "matrix": "MW990-1",
                 "title": "Just Good Fun",
                 "releases": [
                     {
@@ -298,7 +346,7 @@
             {
                 "type": "take",
                 "index": "39-03-08-002",
-                "matrix": "M991-1",
+                "matrix": "MW991-1",
                 "title": "Informal Blues",
                 "releases": [
                     {
@@ -316,6 +364,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "TSC",
+                        "catalog": "P-14274"
                     }
                 ],
                 "desor": "DE3904b"
@@ -326,7 +378,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "15 March 1939",
-        "description": "CBS broadcast for BBC",
+        "description": "CBS broadcast \"America Dances\" for BBC. CBS studio.",
         "entries": [
             {
                 "type": "artists",
@@ -385,6 +437,10 @@
                 "desor": "DE3905c"
             },
             {
+                "type": "artists",
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
+            },
+            {
                 "type": "take",
                 "index": "39-03-15-004",
                 "matrix": null,
@@ -408,7 +464,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -471,11 +527,11 @@
         "group": "REX STEWART AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 March 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "ARC-Brunswick recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart(t); Louis Bacon(t,v); Joe Nanton(tb); Barney Bigard(cl); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Rex Stewart(t); Louis Bacon(t,v); Joe Nanton(tb); Barney Bigard(cl); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -490,6 +546,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "747"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
                     },
                     {
                         "label": "FDC",
@@ -525,6 +585,10 @@
                         "catalog": "747"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -550,6 +614,10 @@
                         "catalog": "747"
                     },
                     {
+                        "label": "Co",
+                        "catalog": "C2K-48835"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -571,7 +639,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as,cl); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -598,6 +666,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "TSC",
+                        "catalog": "P-14274"
                     }
                 ],
                 "desor": "DE3906d"
@@ -625,8 +697,16 @@
                         "catalog": "747"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1302"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "TSC",
+                        "catalog": "P-14274"
                     }
                 ],
                 "desor": "DE3906e"
@@ -634,7 +714,7 @@
             {
                 "type": "take",
                 "index": "39-03-20-006",
-                "matrix": "WM998-2",
+                "matrix": "WM998-",
                 "title": "Subtle Lament",
                 "releases": [
                     {
@@ -671,12 +751,20 @@
                         "catalog": "35291"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1307"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     },
                     {
                         "label": "Ra",
                         "catalog": "RTE-23003"
+                    },
+                    {
+                        "label": "TSC",
+                        "catalog": "P-14274"
                     }
                 ],
                 "desor": "DE3906g"
@@ -684,7 +772,7 @@
             {
                 "type": "take",
                 "index": "39-03-20-008",
-                "matrix": "WM999-2",
+                "matrix": "WM999-",
                 "title": "Lady In Blue",
                 "releases": [
                     {
@@ -745,11 +833,11 @@
         "group": "JOHNNY HODGES AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "21 March 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "ARC-Brunswick recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as); Otto Hardwick(cl,as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(cl,bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -760,6 +848,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88518"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "765"
                     },
                     {
                         "label": "Ms",
@@ -785,6 +877,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2048"
                     }
                 ],
                 "desor": "DE3907b"
@@ -798,6 +894,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88518"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "765"
                     },
                     {
                         "label": "Ms",
@@ -821,6 +921,10 @@
                         "catalog": "88518"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "765"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -830,7 +934,7 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4979"
+                        "catalog": "4941"
                     }
                 ],
                 "desor": "DE3907d"
@@ -844,6 +948,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88518"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "765"
                     },
                     {
                         "label": "Ms",
@@ -888,6 +996,10 @@
                         "catalog": "CL-663"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -909,7 +1021,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(ts); Johnny Hodges(as); Otto Hardwick(ss,as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -955,6 +1067,10 @@
                         "catalog": "88518"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1310"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     },
@@ -963,8 +1079,9 @@
                         "catalog": "RP2048"
                     },
                     {
-                        "label": "Sw",
-                        "catalog": "307"
+                        "label": "Pa",
+                        "catalog": "DP-288",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3907h"
@@ -994,6 +1111,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "765"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1313"
                     },
                     {
                         "label": "Ms",
@@ -1078,7 +1199,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -1174,11 +1295,11 @@
         "group": "JOHNNY HODGES AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "02 June 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1189,6 +1310,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88158"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "765"
                     },
                     {
                         "label": "Ms",
@@ -1210,6 +1335,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88518"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "765"
                     },
                     {
                         "label": "Ms",
@@ -1237,6 +1366,10 @@
                         "catalog": "88521"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "765"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1258,6 +1391,10 @@
                         "catalog": "88521"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "765"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -1274,11 +1411,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "06 June 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(ss,as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1297,6 +1434,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "765"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1308"
                     },
                     {
                         "label": "Ms",
@@ -1402,6 +1543,10 @@
                         "catalog": "35214"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     },
@@ -1418,11 +1563,11 @@
         "group": "THE QUINTONES WITH BARNEY BIGARD AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "08 June 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Joe Nanton(tb); Barney Bigard(cl); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); The Quintones(v)"
+                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); The Quintones: Irving Deutsch, Murray Deutsch, Lloyd Hundling, Al Lane, Patti Davis(v)."
             },
             {
                 "type": "take",
@@ -1441,6 +1586,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Ra",
+                        "catalog": "RTE-23006"
                     },
                     {
                         "label": "Vo",
@@ -1469,7 +1618,7 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE-23004"
+                        "catalog": "RTE-23006"
                     },
                     {
                         "label": "Vo",
@@ -1489,7 +1638,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Joe Nanton(tb); Barney Bigard(cl); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1499,7 +1648,7 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88521,TSC-P-14274"
+                        "catalog": "88521"
                     },
                     {
                         "label": "Cl(F)",
@@ -1508,6 +1657,14 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235"
+                    },
+                    {
+                        "label": "Ra",
+                        "catalog": "RTE-23006"
+                    },
+                    {
+                        "label": "TSC",
+                        "catalog": "P-14274"
                     },
                     {
                         "label": "Vo",
@@ -1537,6 +1694,10 @@
                     {
                         "label": "Ok",
                         "catalog": "5663"
+                    },
+                    {
+                        "label": "Ra",
+                        "catalog": "RTE-23006"
                     }
                 ],
                 "desor": "DE3913d"
@@ -1547,11 +1708,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "12 June 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1601,12 +1762,12 @@
                         "catalog": "35208"
                     },
                     {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
+                        "label": "MoJ",
+                        "catalog": "MJCD-1313"
                     },
                     {
-                        "label": "Ra",
-                        "catalog": "RTE-23004"
+                        "label": "Ms",
+                        "catalog": "MD11-248"
                     }
                 ],
                 "desor": "DE3914b"
@@ -1671,11 +1832,11 @@
         "group": "COOTIE WILLIAMS AND HIS RUG CUTTERS",
         "location": "New York City, NY",
         "date": "21 June 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t,v); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Cootie Williams(t); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1708,11 +1869,11 @@
         "group": "COOTIE WILLIAMS AND HIS RUG CUTTERS",
         "location": "New York City, NY",
         "date": "22 June 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t,v); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Billy Strayhorn(p); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Cootie Williams(t); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Billy Strayhorn(p); Billy Taylor(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -1720,6 +1881,10 @@
                 "matrix": "WM1043-A",
                 "title": "Blues A Poppin'",
                 "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88521"
+                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "780"
@@ -1730,7 +1895,7 @@
                     },
                     {
                         "label": "Tx",
-                        "catalog": "M-8011CBS-88521"
+                        "catalog": "M-8011"
                     },
                     {
                         "label": "Vo",
@@ -1775,7 +1940,7 @@
             {
                 "type": "take",
                 "index": "39-06-22-003",
-                "matrix": "WM1044-A",
+                "matrix": "WM1045-A",
                 "title": "Black Beauty",
                 "releases": [
                     {
@@ -1807,7 +1972,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -1966,13 +2131,13 @@
     },
     {
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
-        "location": "Boston, MA",
+        "location": "New York City, NY",
         "date": "28 August 1939",
-        "description": "ARC-Brunswick recording session    ",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2032,10 +2197,6 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Ra",
-                        "catalog": "RTE-23004"
                     }
                 ],
                 "desor": "DE3917b"
@@ -2075,11 +2236,11 @@
         "group": "JOHNNY HODGES AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "01 September 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as); Otto Hardwick(cl,as); Harry Carney(bar); Billy Strayhorn(p); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as); Harry Carney(bar); Billy Strayhorn(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2090,6 +2251,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88521"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "780"
                     },
                     {
                         "label": "Ms",
@@ -2113,6 +2278,10 @@
                         "catalog": "88521"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "780"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -2128,6 +2297,10 @@
                 "desor": "DE3918b"
             },
             {
+                "type": "artists",
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)."
+            },
+            {
                 "type": "take",
                 "index": "39-09-01-003",
                 "matrix": "WM1074-A",
@@ -2138,19 +2311,23 @@
                         "catalog": "88521"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "780"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
                     {
                         "label": "Ra",
                         "catalog": "RTE-23005"
+                    },
+                    {
+                        "label": "Vo",
+                        "catalog": "5330"
                     }
                 ],
                 "desor": "DE3918c"
-            },
-            {
-                "type": "artists",
-                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
             },
             {
                 "type": "take",
@@ -2161,6 +2338,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88521"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "780"
                     },
                     {
                         "label": "Ms",
@@ -2179,7 +2360,7 @@
         "group": "DUKE ELLINGTON WITH ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 September 1939",
-        "description": "NBC broadcast",
+        "description": "NBC broadcast \"George Jessel's Celebrities.\"",
         "entries": [
             {
                 "type": "artists",
@@ -2197,7 +2378,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "1. Sophisticated Lady",
+                "title": "-&nbsp;&nbsp;1. Sophisticated Lady",
                 "releases": [],
                 "desor": null
             },
@@ -2205,7 +2386,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "2. Solitude",
+                "title": "-&nbsp;&nbsp;2. Solitude",
                 "releases": [],
                 "desor": null
             },
@@ -2213,7 +2394,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "3. I Let A Song Go Out Of My Heart",
+                "title": "-&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
                 "releases": [],
                 "desor": null
             }
@@ -2223,11 +2404,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "14 October 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2246,6 +2427,10 @@
                     {
                         "label": "Co",
                         "catalog": "35291"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1310"
                     },
                     {
                         "label": "Ms",
@@ -2275,6 +2460,10 @@
                     {
                         "label": "Co",
                         "catalog": "35353"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
                     },
                     {
                         "label": "Ms",
@@ -2352,12 +2541,20 @@
                         "catalog": "88521"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "780"
+                    },
+                    {
                         "label": "Co",
                         "catalog": "35310"
                     },
                     {
                         "label": "MJ",
                         "catalog": "MJCD-1140"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1303"
                     },
                     {
                         "label": "Ms",
@@ -2375,10 +2572,6 @@
                     {
                         "label": "CBS",
                         "catalog": "88521"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "780"
                     },
                     {
                         "label": "Ms",
@@ -2410,16 +2603,20 @@
                         "catalog": "88522"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "780"
+                    },
+                    {
                         "label": "Co",
                         "catalog": "35353"
                     },
                     {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
+                        "label": "MoJ",
+                        "catalog": "1310"
                     },
                     {
-                        "label": "Ra",
-                        "catalog": "RTE-23004"
+                        "label": "Ms",
+                        "catalog": "MD11-248"
                     }
                 ],
                 "desor": "DE3920g"
@@ -2435,7 +2632,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(bar); Billy Strayhorn(p); Billy Taylor(sb); Sonny Greer(d)"
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(bar); Billy Strayhorn(p); Billy Taylor(sb); Sonny Greer(d)"
             },
             {
                 "type": "take",
@@ -2446,6 +2643,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88522"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "780"
                     },
                     {
                         "label": "Ms",
@@ -2473,6 +2674,10 @@
                         "catalog": "88522"
                     },
                     {
+                        "label": "Cl(F)",
+                        "catalog": "780"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -2496,6 +2701,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88522"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "780"
                     },
                     {
                         "label": "Ms",
@@ -2525,6 +2734,10 @@
                     {
                         "label": "CBS",
                         "catalog": "88522"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "780"
                     },
                     {
                         "label": "Ms",
@@ -2569,6 +2782,10 @@
                         "catalog": "790"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1302"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
@@ -2585,7 +2802,7 @@
         "group": "BARNEY BIGARD AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "16 October 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session. World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
@@ -2627,11 +2844,40 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Billy Strayhorn(p,v); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Billy Strayhorn(p,v); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
                 "index": "39-10-16-002",
+                "matrix": "WM1107-A",
+                "title": "Your Love Has Faded - vIA",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88522"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "790"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "35640"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Ra",
+                        "catalog": "RTE-23004"
+                    }
+                ],
+                "desor": "DE3921c"
+            },
+            {
+                "type": "take",
+                "index": "39-10-16-003",
                 "matrix": "WM1106-A",
                 "title": "Killin' Myself - vIA,BS",
                 "releases": [
@@ -2656,48 +2902,11 @@
                         "catalog": "MD11-248"
                     },
                     {
-                        "label": "Ms",
-                        "catalog": "MD7-235"
-                    },
-                    {
                         "label": "Ra",
                         "catalog": "RTE-23004"
                     }
                 ],
                 "desor": "DE3921b"
-            },
-            {
-                "type": "take",
-                "index": "39-10-16-003",
-                "matrix": "WM1107-A",
-                "title": "Your Love Has Faded - vIA",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88522"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "790"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "35640"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD7-235"
-                    },
-                    {
-                        "label": "Ra",
-                        "catalog": "RTE-23004"
-                    }
-                ],
-                "desor": "DE3921c"
             },
             {
                 "type": "artists",
@@ -2726,12 +2935,12 @@
                         "catalog": "35776"
                     },
                     {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
+                        "label": "MoJ",
+                        "catalog": "MJCD-1307"
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD11-248"
                     },
                     {
                         "label": "Ra",
@@ -2750,7 +2959,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Billy Strayhorn(p,V); Fred Guy(g); Billy Taylor,Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Billy Strayhorn(p,V); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -2797,7 +3006,7 @@
         "group": "BARNEY BIGARD AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "22 November 1939",
-        "description": "ARC-Brunswick recording session",
+        "description": "Columbia Recording Corporation recording session.",
         "entries": [
             {
                 "type": "artists",
@@ -2881,7 +3090,7 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND Jimmie Blanton",
+        "group": "DUKE ELLINGTON AND JIMMIE BLANTON",
         "location": null,
         "date": "22 November 1939",
         "same_session": true,
@@ -2895,7 +3104,7 @@
                 "type": "take",
                 "index": "39-11-22-004",
                 "matrix": "WM1120-A",
-                "title": "The Blues #",
+                "title": "Blues #",
                 "releases": [
                     {
                         "label": "CBS",
@@ -2908,6 +3117,10 @@
                     {
                         "label": "Co",
                         "catalog": "35322"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1302"
                     },
                     {
                         "label": "Ms",
@@ -2955,11 +3168,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "24 November 1939",
-        "description": "CBS broadcast",
+        "description": "CBS broadcast \"Young Man With A Band.\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor,Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -3045,7 +3258,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "10. I Let A Song Go Out Of My Heart",
+                "title": "-&nbsp;&nbsp;10. I Let A Song Go Out Of My Heart",
                 "releases": [],
                 "desor": null
             },
@@ -3075,8 +3288,24 @@
                 "desor": "DE3924b"
             },
             {
+                "type": "artists",
+                "value": "Add Ruth Fredrickson(v)."
+            },
+            {
                 "type": "take",
                 "index": "39-11-24-003",
+                "matrix": null,
+                "title": "Beer Barrel Polka - vRF",
+                "releases": [],
+                "desor": "DE3901a"
+            },
+            {
+                "type": "artists",
+                "value": "Ruth Fredrickson out."
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-004",
                 "matrix": null,
                 "title": "Tootin' Through The Roof",
                 "releases": [
@@ -3094,6 +3323,10 @@
                     }
                 ],
                 "desor": "DE3924c"
+            },
+            {
+                "type": "note",
+                "content": "NB. Beer Barrel Polka was previously dated February 1939.  Ruth Frederickson was an audience member drafted to sing one song."
             }
         ]
     },
@@ -3106,7 +3339,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor,Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d,ch)"
             },
             {
                 "type": "take",
@@ -3138,8 +3371,8 @@
                 "desor": "DE3925c"
             },
             {
-                "type": "artists",
-                "value": "NB. These titles are from various unknown sessions in 1939"
+                "type": "note",
+                "content": "NB. These titles are from various unknown sessions in 1939."
             }
         ]
     }
