@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor,Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -272,7 +272,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor,Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -290,14 +290,79 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
-        "location": "Chicago, IL",
-        "date": "14 February 1940",
-        "description": "ARC-Brunswick recording session",
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "Chicago. IL",
+        "date": "February 1940",
+        "index_date": 400200,
+        "description": "Stage show at State Lake Theatre",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
+            },
+            {
+                "type": "take",
+                "index": "40-02-00-001",
+                "matrix": null,
+                "title": "Clarinet Lament",
+                "releases": [],
+                "desor": "DE4007a"
+            },
+            {
+                "type": "take",
+                "index": "40-02-00-002",
+                "matrix": null,
+                "title": "Serenade To Sweden",
+                "releases": [],
+                "desor": "DE4007b"
+            },
+            {
+                "type": "take",
+                "index": "40-02-00-003",
+                "matrix": null,
+                "title": "Pyramid",
+                "releases": [],
+                "desor": "DE4007d"
+            },
+            {
+                "type": "take",
+                "index": "40-02-00-004",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": "DE4007e"
+            },
+            {
+                "type": "take",
+                "index": "40-02-00-005",
+                "matrix": null,
+                "title": "St. Louis Blues - vCW",
+                "releases": [],
+                "desor": "DE4007f"
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington(p); Sonny Greer(d); Ivie Anderson(v) only"
+            },
+            {
+                "type": "take",
+                "index": "40-02-00-006",
+                "matrix": null,
+                "title": "I Want A Man Like That - vIA",
+                "releases": [],
+                "desor": "DE4007g"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
+        "location": "Chicago, IL",
+        "date": "14 February 1940",
+        "description": "Columbia Recording Corporation recording session. Probably World Broadcasting System studios.",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -316,6 +381,10 @@
                     {
                         "label": "Co",
                         "catalog": "35427"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
                     },
                     {
                         "label": "Ms",
@@ -368,6 +437,10 @@
                         "catalog": "35427"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -393,6 +466,10 @@
                         "catalog": "35556"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1307"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -403,13 +480,13 @@
     },
     {
         "group": "BARNEY BIGARD AND HIS ORCHESTRA",
-        "location": "Chicago, IL",
+        "location": null,
         "date": "14 February 1940",
         "description": null,
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Billy Strayhorn(p); Jimmie Blanton(sb); Sonny Greer(d)"
+                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Billy Strayhorn(p); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -467,11 +544,11 @@
         "group": "BARNEY BIGARD AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "15 February 1940",
-        "description": null,
+        "description": "Columbia Recording Corporation recording session. Probably World Broadcasting System studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Billy Strayhorn(p); Jimmie Blanton(sb); Sonny Greer(d)"
+                "value": "Rex Stewart(t); Juan Tizol(tb); Barney Bigard(cl); Harry Carney(bar); Billy Strayhorn(p); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -529,11 +606,11 @@
         "group": "COOTIE WILLIAMS AND HIS RUG CUTTERS",
         "location": null,
         "date": "15 February 1940",
-        "description": "ARC-Brunswick recording session",
+        "description": null,
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t,v); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)"
+                "value": "Cootie Williams(t,v); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -548,6 +625,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "790"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
                     },
                     {
                         "label": "Ms",
@@ -654,79 +735,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Chicago. IL",
-        "date": "February 1940",
-        "index_date": 400220,
-        "description": "Stage show at State Lake Theatre",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
-            },
-            {
-                "type": "take",
-                "index": "40-02-20-001",
-                "matrix": null,
-                "title": "Clarinet Lament",
-                "releases": [],
-                "desor": "DE4007a"
-            },
-            {
-                "type": "take",
-                "index": "40-02-20-002",
-                "matrix": null,
-                "title": "Serenade To Sweden",
-                "releases": [],
-                "desor": "DE4007b"
-            },
-            {
-                "type": "take",
-                "index": "40-02-20-003",
-                "matrix": null,
-                "title": "Pyramid",
-                "releases": [],
-                "desor": "DE4007d"
-            },
-            {
-                "type": "take",
-                "index": "40-02-20-004",
-                "matrix": null,
-                "title": "Mood Indigo",
-                "releases": [],
-                "desor": "DE4007e"
-            },
-            {
-                "type": "take",
-                "index": "40-02-20-005",
-                "matrix": null,
-                "title": "St. Louis Blues - vCW",
-                "releases": [],
-                "desor": "DE4007f"
-            },
-            {
-                "type": "artists",
-                "value": "Duke Ellington(p); Sonny Greer(d); Ivie Anderson(v) only"
-            },
-            {
-                "type": "take",
-                "index": "40-02-20-006",
-                "matrix": null,
-                "title": "I Want A Man Like That - vIA",
-                "releases": [],
-                "desor": "DE4007g"
-            }
-        ]
-    },
-    {
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago. IL",
         "date": "06 March 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. Possibly RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries, Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries, Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -801,6 +817,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "805"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1310"
                     },
                     {
                         "label": "RCA",
@@ -879,6 +899,10 @@
                         "catalog": "805"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1303"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "8",
@@ -925,6 +949,10 @@
                     {
                         "label": "MJ",
                         "catalog": "MJCD-1140"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1311"
                     },
                     {
                         "label": "RCA",
@@ -990,11 +1018,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago. IL",
         "date": "15 March 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1021,6 +1049,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "805"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1304"
                     },
                     {
                         "label": "RCA",
@@ -1070,6 +1102,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "805"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1303"
                     },
                     {
                         "label": "RCA",
@@ -1131,11 +1167,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "04 May 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. Hollywood RCA studio",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -1186,6 +1222,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "805"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1312"
                     },
                     {
                         "label": "RCA",
@@ -1277,11 +1317,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "28 May 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -1308,6 +1348,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "805"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
                     },
                     {
                         "label": "RCA",
@@ -1374,6 +1418,10 @@
                         "catalog": "805"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1310"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "07863-66790-2",
                         "track": 8
@@ -1417,6 +1465,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "805"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1310"
                     },
                     {
                         "label": "RCA",
@@ -1482,11 +1534,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "10 June 1940",
-        "description": "CBS recording for BBC",
+        "description": "CBS recording for BBC. CBS studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1787,11 +1839,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "22 July 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio 2.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1818,6 +1870,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "805"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1308"
                     },
                     {
                         "label": "RCA",
@@ -1900,6 +1956,10 @@
                         "catalog": "805"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1301"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "07863-66790-2",
                         "track": 2
@@ -1913,7 +1973,7 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26247"
+                        "catalog": "27247"
                     }
                 ],
                 "desor": "DE4012c"
@@ -1964,16 +2024,16 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "24 July 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio 2.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
                 "index": "40-07-24-001",
-                "matrix": "BS0546214-1",
+                "matrix": "BS054624-1",
                 "title": "My Greatest Mistake",
                 "releases": [
                     {
@@ -2089,13 +2149,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
                 "index": "40-07-29-001",
                 "matrix": null,
-                "title": "At A Dixie Roadside Diner",
+                "title": "At A Dixie Roadside Diner -vIA",
                 "releases": [
                     {
                         "label": "DESS",
@@ -2108,7 +2168,7 @@
                 "type": "take",
                 "index": "40-07-29-002",
                 "matrix": null,
-                "title": "Harlem Air-Shaft",
+                "title": "Harlem Air Shaft",
                 "releases": [
                     {
                         "label": "EV",
@@ -2235,7 +2295,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2286,7 +2346,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -2302,6 +2362,10 @@
                         "label": "MDD",
                         "catalog": "012",
                         "track": 8
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1312"
                     },
                     {
                         "label": "NI",
@@ -2372,11 +2436,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "05 September 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -2443,6 +2507,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "820"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1303"
                     },
                     {
                         "label": "RCA",
@@ -2517,6 +2585,10 @@
                         "catalog": "820"
                     },
                     {
+                        "label": "MoJ",
+                        "catalog": "MJCD-1307"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "9",
@@ -2532,61 +2604,15 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "06 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\n Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
                 "index": "40-09-06-001",
-                "matrix": null,
-                "title": "Sepia Panorama",
-                "releases": [
-                    {
-                        "label": "Ev",
-                        "catalog": "EV-3005"
-                    },
-                    {
-                        "label": "NI",
-                        "catalog": "4016"
-                    }
-                ],
-                "desor": "DE4019a"
-            },
-            {
-                "type": "take",
-                "index": "40-09-06-002",
-                "matrix": null,
-                "title": "Concerto For Cootie",
-                "releases": [
-                    {
-                        "label": "Ev",
-                        "catalog": "EV-3005"
-                    },
-                    {
-                        "label": "NI",
-                        "catalog": "4016"
-                    }
-                ],
-                "desor": "DE4019b"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Chicago, IL",
-        "date": "06 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\n Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
-            },
-            {
-                "type": "take",
-                "index": "40-09-06-003",
                 "matrix": null,
                 "title": "Sepia Panorama (Theme)",
                 "releases": [
@@ -2603,7 +2629,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-06-004",
+                "index": "40-09-06-002",
                 "matrix": null,
                 "title": "Stompy Jones",
                 "releases": [
@@ -2624,7 +2650,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-06-005",
+                "index": "40-09-06-003",
                 "matrix": null,
                 "title": "Gal From Joe's",
                 "releases": [
@@ -2641,7 +2667,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-06-006",
+                "index": "40-09-06-004",
                 "matrix": null,
                 "title": "Me And You - vIA",
                 "releases": [
@@ -2658,7 +2684,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-06-007",
+                "index": "40-09-06-005",
                 "matrix": null,
                 "title": "In A Mellow Tone",
                 "releases": [
@@ -2673,13 +2699,17 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1003"
+                    },
+                    {
+                        "label": "Rt",
+                        "catalog": "70"
                     }
                 ],
                 "desor": "DE4020e"
             },
             {
                 "type": "take",
-                "index": "40-09-06-008",
+                "index": "40-09-06-006",
                 "matrix": null,
                 "title": "Chatterbox",
                 "releases": [
@@ -2700,7 +2730,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-06-009",
+                "index": "40-09-06-007",
                 "matrix": null,
                 "title": "Echoes Of Harlem",
                 "releases": [
@@ -2717,7 +2747,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-06-010",
+                "index": "40-09-06-008",
                 "matrix": null,
                 "title": "St. Louis Blues - vIA",
                 "releases": [
@@ -2738,11 +2768,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "07 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2756,7 +2786,7 @@
                 "type": "take",
                 "index": "40-09-07-002",
                 "matrix": null,
-                "title": "Harlem Airshaft",
+                "title": "Harlem Air Shaft",
                 "releases": [],
                 "desor": null
             },
@@ -2820,7 +2850,7 @@
                 "type": "take",
                 "index": "40-09-07-010",
                 "matrix": null,
-                "title": "Warm Valley (Theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -2830,11 +2860,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "08 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2965,8 +2995,17 @@
                 "index": "40-09-08-008",
                 "matrix": null,
                 "title": "Concerto For Cootie",
-                "releases": [],
-                "desor": null
+                "releases": [
+                    {
+                        "label": "JS",
+                        "catalog": "704"
+                    },
+                    {
+                        "label": "Mx",
+                        "catalog": "MLP-1001"
+                    }
+                ],
+                "desor": "DE4019b"
             }
         ]
     },
@@ -2974,11 +3013,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "10 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3001,14 +3040,23 @@
                 "index": "40-09-10-003",
                 "matrix": null,
                 "title": "April In Paris",
-                "releases": [],
-                "desor": null
+                "releases": [
+                    {
+                        "label": "JS",
+                        "catalog": "704"
+                    },
+                    {
+                        "label": "Rt",
+                        "catalog": "56"
+                    }
+                ],
+                "desor": "DE4022b"
             },
             {
                 "type": "take",
                 "index": "40-09-10-004",
                 "matrix": null,
-                "title": "The Same Old Story",
+                "title": "It's The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -3033,81 +3081,6 @@
                 "index": "40-09-10-007",
                 "matrix": null,
                 "title": "Whispering Grass",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "40-09-10-008",
-                "matrix": null,
-                "title": "The Mystery Song",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "40-09-10-009",
-                "matrix": null,
-                "title": "Warm Valley (Theme)",
-                "releases": [],
-                "desor": null
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Chicago, IL",
-        "date": "11 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
-            },
-            {
-                "type": "take",
-                "index": "40-09-11-001",
-                "matrix": null,
-                "title": "Tootin' Through The Roof",
-                "releases": [
-                    {
-                        "label": "JS",
-                        "catalog": "704"
-                    }
-                ],
-                "desor": "DE4022a"
-            },
-            {
-                "type": "take",
-                "index": "40-09-11-002",
-                "matrix": null,
-                "title": "April In Paris",
-                "releases": [
-                    {
-                        "label": "JS",
-                        "catalog": "704"
-                    }
-                ],
-                "desor": "DE4022b"
-            },
-            {
-                "type": "take",
-                "index": "40-09-11-003",
-                "matrix": null,
-                "title": "So Far, So Good - vIA",
-                "releases": [
-                    {
-                        "label": "JS",
-                        "catalog": "704"
-                    }
-                ],
-                "desor": "DE4022c"
-            },
-            {
-                "type": "take",
-                "index": "40-09-11-004",
-                "matrix": null,
-                "title": "Whispering Grass",
                 "releases": [
                     {
                         "label": "DESS",
@@ -3116,13 +3089,17 @@
                     {
                         "label": "JS",
                         "catalog": "704"
+                    },
+                    {
+                        "label": "Rt",
+                        "catalog": "56"
                     }
                 ],
                 "desor": "DE4022d"
             },
             {
                 "type": "take",
-                "index": "40-09-11-005",
+                "index": "40-09-10-008",
                 "matrix": null,
                 "title": "The Mystery Song",
                 "releases": [
@@ -3139,7 +3116,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-006",
+                "index": "40-09-10-009",
                 "matrix": null,
                 "title": "Warm Valley",
                 "releases": [
@@ -3160,15 +3137,15 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "11 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
-                "index": "40-09-11-007",
+                "index": "40-09-11-001",
                 "matrix": null,
                 "title": "East St Louis Toodle-O (theme)",
                 "releases": [],
@@ -3176,7 +3153,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-008",
+                "index": "40-09-11-002",
                 "matrix": null,
                 "title": "Madame Will Drop Her Shawl",
                 "releases": [
@@ -3193,7 +3170,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-009",
+                "index": "40-09-11-003",
                 "matrix": null,
                 "title": "Blue Goose",
                 "releases": [
@@ -3210,7 +3187,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-010",
+                "index": "40-09-11-004",
                 "matrix": null,
                 "title": "All This And Heaven Too",
                 "releases": [],
@@ -3218,7 +3195,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-011",
+                "index": "40-09-11-005",
                 "matrix": null,
                 "title": "Slap Happy",
                 "releases": [
@@ -3239,7 +3216,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-012",
+                "index": "40-09-11-006",
                 "matrix": null,
                 "title": "All Too Soon",
                 "releases": [
@@ -3252,7 +3229,20 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-013",
+                "index": "40-09-11-007",
+                "matrix": null,
+                "title": "So Far, So Good - vIA",
+                "releases": [
+                    {
+                        "label": "JS",
+                        "catalog": "704"
+                    }
+                ],
+                "desor": "DE4022c"
+            },
+            {
+                "type": "take",
+                "index": "40-09-11-008",
                 "matrix": null,
                 "title": "Solitude",
                 "releases": [],
@@ -3260,7 +3250,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-11-014",
+                "index": "40-09-11-009",
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
                 "releases": [
@@ -3281,11 +3271,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "12 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3331,7 +3321,7 @@
                 "type": "take",
                 "index": "40-09-12-006",
                 "matrix": null,
-                "title": "So Far So Good - vIA",
+                "title": "Harlem Air Shaft",
                 "releases": [],
                 "desor": null
             },
@@ -3339,7 +3329,7 @@
                 "type": "take",
                 "index": "40-09-12-007",
                 "matrix": null,
-                "title": "Solitude",
+                "title": "T.T. On Toast",
                 "releases": [],
                 "desor": null
             },
@@ -3347,7 +3337,15 @@
                 "type": "take",
                 "index": "40-09-12-008",
                 "matrix": null,
-                "title": "Rockin In Rhythm (theme)",
+                "title": "Tootin' Through The Roof",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "40-09-12-009",
+                "matrix": null,
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -3356,16 +3354,16 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
-        "date": "12 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "date": "13 September 1940",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
-                "index": "40-09-12-009",
+                "index": "40-09-13-001",
                 "matrix": null,
                 "title": "Sepia panorama (theme)",
                 "releases": [],
@@ -3373,7 +3371,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-12-010",
+                "index": "40-09-13-002",
                 "matrix": null,
                 "title": "Solid Old Man",
                 "releases": [
@@ -3391,14 +3389,10 @@
             },
             {
                 "type": "take",
-                "index": "40-09-12-011",
+                "index": "40-09-13-003",
                 "matrix": null,
                 "title": "Maybe - vIA",
                 "releases": [
-                    {
-                        "label": "DESS",
-                        "catalog": "CD-4"
-                    },
                     {
                         "label": "JS",
                         "catalog": "705"
@@ -3408,7 +3402,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-12-012",
+                "index": "40-09-13-004",
                 "matrix": null,
                 "title": "Oh Babe, Maybe Someday - vIA",
                 "releases": [
@@ -3421,7 +3415,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-12-013",
+                "index": "40-09-13-005",
                 "matrix": null,
                 "title": "I Don't Mind",
                 "releases": [],
@@ -3429,7 +3423,7 @@
             },
             {
                 "type": "take",
-                "index": "40-09-12-014",
+                "index": "40-09-13-006",
                 "matrix": null,
                 "title": "Blueberry Hill",
                 "releases": [
@@ -3442,14 +3436,10 @@
             },
             {
                 "type": "take",
-                "index": "40-09-12-015",
+                "index": "40-09-13-007",
                 "matrix": null,
-                "title": "Harlem Air-Shaft",
+                "title": "Harlem Air Shaft",
                 "releases": [
-                    {
-                        "label": "DESS",
-                        "catalog": "CD-4"
-                    },
                     {
                         "label": "JS",
                         "catalog": "705"
@@ -3459,9 +3449,9 @@
             },
             {
                 "type": "take",
-                "index": "40-09-12-016",
+                "index": "40-09-13-008",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": "DE4024g"
             }
@@ -3471,11 +3461,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "14 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3537,7 +3527,7 @@
                 "type": "take",
                 "index": "40-09-14-008",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -3547,11 +3537,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "15 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3605,7 +3595,7 @@
                 "type": "take",
                 "index": "40-09-15-007",
                 "matrix": null,
-                "title": "Harlem Airshaft",
+                "title": "Harlem Air Shaft",
                 "releases": [],
                 "desor": null
             },
@@ -3631,11 +3621,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "17 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3657,7 +3647,7 @@
                 "type": "take",
                 "index": "40-09-17-003",
                 "matrix": null,
-                "title": "The Same Old Story",
+                "title": "It's The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -3678,12 +3668,20 @@
                 "desor": null
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) only."
+            },
+            {
                 "type": "take",
                 "index": "40-09-17-006",
                 "matrix": null,
                 "title": "Black Beauty",
                 "releases": [],
                 "desor": null
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -3697,7 +3695,7 @@
                 "type": "take",
                 "index": "40-09-17-008",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -3707,11 +3705,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "18 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3783,11 +3781,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "19 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3865,7 +3863,7 @@
                 "type": "take",
                 "index": "40-09-19-010",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -3875,11 +3873,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "21 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -3972,14 +3970,19 @@
                 "index": "40-09-21-010",
                 "matrix": null,
                 "title": "Tootin' Through The Roof",
-                "releases": [],
-                "desor": null
+                "releases": [
+                    {
+                        "label": "JS",
+                        "catalog": "704"
+                    }
+                ],
+                "desor": "DE4022a"
             },
             {
                 "type": "take",
                 "index": "40-09-21-011",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": "DE4025b"
             }
@@ -3989,11 +3992,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "25 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -4031,7 +4034,7 @@
                 "type": "take",
                 "index": "40-09-25-005",
                 "matrix": null,
-                "title": "Harlem Airshaft",
+                "title": "Harlem Air Shaft",
                 "releases": [],
                 "desor": null
             },
@@ -4087,7 +4090,7 @@
                 "type": "take",
                 "index": "40-09-25-012",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -4097,11 +4100,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "26 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -4163,7 +4166,7 @@
                 "type": "take",
                 "index": "40-09-26-008",
                 "matrix": null,
-                "title": "Here I Go",
+                "title": "There I Go",
                 "releases": [],
                 "desor": null
             },
@@ -4182,6 +4185,10 @@
                 "title": "Little Posey",
                 "releases": [
                     {
+                        "label": "Ev",
+                        "catalog": "EV-3005"
+                    },
+                    {
                         "label": "MDD",
                         "catalog": "012",
                         "track": 13
@@ -4197,8 +4204,12 @@
                 "type": "take",
                 "index": "40-09-26-011",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [
+                    {
+                        "label": "Ev",
+                        "catalog": "EV-3005"
+                    },
                     {
                         "label": "NI",
                         "catalog": "4016"
@@ -4212,11 +4223,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "27 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -4248,11 +4259,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "28 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -4314,7 +4325,7 @@
                 "type": "take",
                 "index": "40-09-28-008",
                 "matrix": null,
-                "title": "Madame Will Drop Her Shawl",
+                "title": "Rumpus In Richmond",
                 "releases": [],
                 "desor": null
             },
@@ -4322,15 +4333,7 @@
                 "type": "take",
                 "index": "40-09-28-009",
                 "matrix": null,
-                "title": "Rumpus In Richmond",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "40-09-28-010",
-                "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -4340,11 +4343,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "29 September 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -4422,15 +4425,7 @@
                 "type": "take",
                 "index": "40-09-29-010",
                 "matrix": null,
-                "title": "Two Dreams Met",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "40-09-29-011",
-                "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -4441,31 +4436,53 @@
         "location": "Chicago, IL",
         "date": "September / October 1940",
         "index_date": 401000,
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
                 "index": "40-10-00-001",
                 "matrix": null,
-                "title": "Maybe - vIA",
-                "releases": [],
-                "desor": "DE4028xa"
+                "title": "Sepia Panorama",
+                "releases": [
+                    {
+                        "label": "JS",
+                        "catalog": "704"
+                    },
+                    {
+                        "label": "Mx",
+                        "catalog": "MLP-1001"
+                    }
+                ],
+                "desor": "DE4019a"
             },
             {
                 "type": "take",
                 "index": "40-10-00-002",
                 "matrix": null,
-                "title": "I Give You My word",
+                "title": "Maybe - vIA",
+                "releases": [
+                    {
+                        "label": "DESS",
+                        "catalog": "CD-4"
+                    }
+                ],
+                "desor": "DE4028xa"
+            },
+            {
+                "type": "take",
+                "index": "40-10-00-003",
+                "matrix": null,
+                "title": "I Give You My Word",
                 "releases": [],
                 "desor": "DE4028a"
             },
             {
                 "type": "take",
-                "index": "40-10-00-003",
+                "index": "40-10-00-004",
                 "matrix": null,
                 "title": "So You're The One",
                 "releases": [],
@@ -4473,7 +4490,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-004",
+                "index": "40-10-00-005",
                 "matrix": null,
                 "title": "I Want To Live",
                 "releases": [],
@@ -4481,7 +4498,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-005",
+                "index": "40-10-00-006",
                 "matrix": null,
                 "title": "Madame Will Drop Her Shawl",
                 "releases": [],
@@ -4489,7 +4506,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-006",
+                "index": "40-10-00-007",
                 "matrix": null,
                 "title": "There I Go",
                 "releases": [],
@@ -4497,15 +4514,20 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-007",
+                "index": "40-10-00-008",
                 "matrix": null,
-                "title": "Harlem Air-Shaft",
-                "releases": [],
+                "title": "Harlem Air Shaft",
+                "releases": [
+                    {
+                        "label": "DESS",
+                        "catalog": "CD-4"
+                    }
+                ],
                 "desor": "DE4028f"
             },
             {
                 "type": "take",
-                "index": "40-10-00-008",
+                "index": "40-10-00-009",
                 "matrix": null,
                 "title": "Stardust - vHJ",
                 "releases": [
@@ -4522,7 +4544,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-009",
+                "index": "40-10-00-010",
                 "matrix": null,
                 "title": "Subtle Lament",
                 "releases": [
@@ -4539,7 +4561,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-010",
+                "index": "40-10-00-011",
                 "matrix": null,
                 "title": "It's The Same Old Story",
                 "releases": [
@@ -4556,7 +4578,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-011",
+                "index": "40-10-00-012",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
@@ -4573,7 +4595,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-012",
+                "index": "40-10-00-013",
                 "matrix": null,
                 "title": "T.T. On Toast",
                 "releases": [
@@ -4586,7 +4608,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-013",
+                "index": "40-10-00-014",
                 "matrix": null,
                 "title": "The Sergeant Was Shy",
                 "releases": [
@@ -4603,7 +4625,7 @@
             },
             {
                 "type": "take",
-                "index": "40-10-00-014",
+                "index": "40-10-00-015",
                 "matrix": null,
                 "title": "Black Beauty",
                 "releases": [
@@ -4628,11 +4650,11 @@
         "group": "DUKE ELLINGTON AND Jimmie Blanton",
         "location": "Chicago, IL",
         "date": "01 October 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Jimmie Blanton(sb)"
+                "value": "Duke Ellington(p); Jimmie Blanton(sb)."
             },
             {
                 "type": "take",
@@ -4924,11 +4946,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "01 October 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -5014,7 +5036,7 @@
                 "type": "take",
                 "index": "40-10-01-020",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -5024,11 +5046,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "03 October 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart(t); Cootie Williams(t,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as);\nOtto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Rex Stewart(t); Cootie Williams(t,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as);\nOtto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -5059,6 +5081,10 @@
                     }
                 ],
                 "desor": "DE4030b"
+            },
+            {
+                "type": "note",
+                "content": "According to Carl Hällström, Ring Dem Bells might be from the \"Meet the Band\" broadcast of December 31, 1939."
             }
         ]
     },
@@ -5066,11 +5092,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "05 October 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5140,7 +5166,7 @@
                 "type": "take",
                 "index": "40-10-05-009",
                 "matrix": null,
-                "title": "I Don't Mind",
+                "title": "All Too Soon",
                 "releases": [],
                 "desor": null
             },
@@ -5156,7 +5182,7 @@
                 "type": "take",
                 "index": "40-10-05-011",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -5166,11 +5192,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "06 October 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5256,7 +5282,7 @@
                 "type": "take",
                 "index": "40-10-06-011",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -5266,11 +5292,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "08 October 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5316,7 +5342,7 @@
                 "type": "take",
                 "index": "40-10-08-006",
                 "matrix": null,
-                "title": "The Same Old Story",
+                "title": "It's The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -5356,7 +5382,7 @@
                 "type": "take",
                 "index": "40-10-08-011",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -5366,11 +5392,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "12 October 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -5416,7 +5442,7 @@
                 "type": "take",
                 "index": "40-10-12-006",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -5426,11 +5452,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "13 October 1940",
-        "description": "NBC broadcast from Hotel Sherman",
+        "description": "NBC broadcast from Hotel Sherman.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)\nNBC broadcast from Hotel Sherman"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5468,7 +5494,7 @@
                 "type": "take",
                 "index": "40-10-13-005",
                 "matrix": null,
-                "title": "The Same Old Story",
+                "title": "It's The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -5524,7 +5550,7 @@
                 "type": "take",
                 "index": "40-10-13-012",
                 "matrix": null,
-                "title": "Warm Valley (theme)",
+                "title": "Warm Valley",
                 "releases": [],
                 "desor": null
             }
@@ -5534,11 +5560,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "17 October 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as);\nOtto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as);\nOtto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -5698,11 +5724,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "28 October 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)"
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5879,11 +5905,11 @@
         "group": "JOHNNY HODGES AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "02 November 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. . RCA Studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)"
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -6076,7 +6102,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Rex Stewart(t); Lawrence Brown(tb); Ben Webster(ts); Harry Carney(as,bar); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)"
+                "value": "Rex Stewart(t); Lawrence Brown(tb); Ben Webster(ts); Harry Carney(as,bar); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -6242,7 +6268,7 @@
             {
                 "type": "take",
                 "index": "40-11-02-013",
-                "matrix": "BS05310-2",
+                "matrix": "BS053610-2",
                 "title": "Linger Awhile",
                 "releases": [
                     {
@@ -6286,7 +6312,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch);Herb Jeffries, Ivie Anderson(v)"
+                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g, wooden whistle); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries, Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -6295,12 +6321,12 @@
                 "title": "It's Glory",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6320,12 +6346,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6341,12 +6367,12 @@
                 "title": "The Sheik Of Araby",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6362,12 +6388,12 @@
                 "title": "Sepia Panorama",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6387,12 +6413,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6408,12 +6434,12 @@
                 "title": "There Shall Be No Night - vHJ",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6433,12 +6459,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6458,12 +6484,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6483,12 +6509,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6501,19 +6527,19 @@
                 "type": "take",
                 "index": "40-11-07-010",
                 "matrix": null,
-                "title": "Harlem Air-Shaft",
+                "title": "Harlem Air Shaft",
                 "releases": [
                     {
                         "label": "JSo",
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6529,12 +6555,12 @@
                 "title": "Ferryboat Serenade - vIA",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6554,12 +6580,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6574,10 +6600,6 @@
                 "matrix": null,
                 "title": "Chaser",
                 "releases": [
-                    {
-                        "label": "Sv",
-                        "catalog": "108-8600"
-                    },
                     {
                         "label": "VJC",
                         "catalog": "1019-2"
@@ -6596,12 +6618,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6617,12 +6639,12 @@
                 "title": "Chloe",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6642,12 +6664,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6667,12 +6689,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6692,12 +6714,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6713,12 +6735,12 @@
                 "title": "Chaser",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6734,12 +6756,12 @@
                 "title": "The Sidewallks Of New York",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6759,12 +6781,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6784,12 +6806,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6805,12 +6827,12 @@
                 "title": "Caravan",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6830,12 +6852,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6855,12 +6877,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6880,12 +6902,16 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "MoJ",
+                        "catalog": "MJCD-1303"
                     },
                     {
                         "label": "Sv",
                         "catalog": "108-8600"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6905,12 +6931,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6930,12 +6956,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6955,12 +6981,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -6980,12 +7006,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7001,12 +7027,12 @@
                 "title": "Fanfare",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7022,12 +7048,12 @@
                 "title": "Call Of The Canyon - vHJ",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7043,12 +7069,12 @@
                 "title": "Unidentified Title",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7064,12 +7090,12 @@
                 "title": "All This And Heaven Too - vHJ",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7085,12 +7111,12 @@
                 "title": "Chaser",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7110,12 +7136,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7135,12 +7161,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7156,12 +7182,12 @@
                 "title": "Cotton Tail",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7181,12 +7207,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7206,12 +7232,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7227,12 +7253,12 @@
                 "title": "I Never Felt This Way Before - vHJ",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7252,6 +7278,10 @@
                         "catalog": "108-8600"
                     },
                     {
+                        "label": "Sv",
+                        "catalog": "STCD-8316/17"
+                    },
+                    {
                         "label": "VJC",
                         "catalog": "1020-2"
                     }
@@ -7265,12 +7295,12 @@
                 "title": "Across The Track Blues",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7286,12 +7316,12 @@
                 "title": "Honeysuckle Rose",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7311,12 +7341,12 @@
                         "catalog": "70"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7336,12 +7366,16 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "MoJ",
+                        "catalog": "MJCD-1311"
                     },
                     {
                         "label": "Sv",
                         "catalog": "108-8600"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7361,12 +7395,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7386,12 +7420,12 @@
                         "catalog": "AA-520/521"
                     },
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7407,12 +7441,12 @@
                 "title": "Warm Valley",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7428,12 +7462,12 @@
                 "title": "God Bless America",
                 "releases": [
                     {
-                        "label": "St",
-                        "catalog": "STCD-5316/17"
+                        "label": "Sv",
+                        "catalog": "108-8600"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "108-8600"
+                        "catalog": "STCD-8316/17"
                     },
                     {
                         "label": "VJC",
@@ -7448,11 +7482,11 @@
         "group": "BARNEY BIGARD AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "11 November 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t); Juan Tizol(tb); Barney Bigard(cl); Ben Webster(ts); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)"
+                "value": "Ray Nance(t); Juan Tizol(tb); Barney Bigard(cl); Ben Webster(ts); Duke Ellington(p); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -7758,11 +7792,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "28 December 1940",
-        "description": "RCA-Victor recording session",
+        "description": "RCA-Victor recording session. RCA studio A.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch);Herb Jeffries(v)"
+                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto\nHardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
