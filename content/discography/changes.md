@@ -7,6 +7,10 @@ menu:
     weight: 10
 ---
 
+## March 2025
+* Fixes for 1940
+* Standardised on the spelling of "Harlem Air Shaft"
+
 ## February 2025
 * Replaced "Mooche" with "Mooch" everywhere
 * Fixes for 44-12-17 (new unissued take etc)
@@ -15,7 +19,6 @@ menu:
 * Standardised decades so we now have e.g. 1930-1939 rather than 1931-1940.
 * Added a page with the entire discography.
 * Fixes for 26 Mar 1965 session
-* Ezio 1940 changes
 
 ## January 2025
 * Corrections 1924-1928
