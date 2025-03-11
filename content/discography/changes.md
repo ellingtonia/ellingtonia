@@ -14,6 +14,7 @@ additional corrections pending.
 ## March 2025
 * Fixes for 1940
 * Standardised on the spelling of "Harlem Air Shaft"
+* Ezio 1943 changes
 
 ## February 2025
 * Replaced "Mooche" with "Mooch" everywhere
