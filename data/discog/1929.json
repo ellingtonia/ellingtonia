@@ -1636,7 +1636,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Hall Johnson Choir(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton, Juan Tizol(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Choir(v)"
             },
             {
                 "type": "take",
@@ -1812,7 +1812,7 @@
                 "type": "take",
                 "index": "29-08-12-011",
                 "matrix": null,
-                "title": "Same Train - vHJC",
+                "title": "Same Train - vCho",
                 "releases": [
                     {
                         "label": "MoJ",
@@ -1829,7 +1829,7 @@
                 "type": "take",
                 "index": "29-08-12-012",
                 "matrix": null,
-                "title": "Black And Tan Fantasy - vHJC",
+                "title": "Black And Tan Fantasy - vCho",
                 "releases": [
                     {
                         "label": "MoJ",
@@ -1845,6 +1845,10 @@
             {
                 "type": "artists",
                 "value": "Same Train is by HJC only"
+            },
+            {
+                "type": "note",
+                "content": "NOTE: Although several reference works identify the choir as the Hall Johnson Choir, Steven Lasker has found no credible evidence that the Hall Johnson Choir worked on ‘Black and Tan’."
             }
         ]
     },
