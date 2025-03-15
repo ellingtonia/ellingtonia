@@ -1,0 +1,18 @@
+<table class="striped">
+    <thead>
+        <tr>
+            <th>
+                Abbreviation
+            </th>
+            <th>
+                Instrument
+            </th>
+        </tr>
+    </thead>
+{{ range $code, $instrument := $.Site.Data.discog.instruments }}
+  <tr>
+      <td>{{ $code }}</a></td>
+      <td>{{ $instrument }}</td>
+  </tr>
+{{ end }}
+</table>
