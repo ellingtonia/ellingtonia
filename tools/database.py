@@ -303,6 +303,9 @@ def load_from_json():
 
             # "index_date" is used to indicate indexing if the date is ambiguous
             if date is None:
+                if not "index_date" in jsession:
+                    raise RuntimeError (f"Could not parse {date_str}")
+
                 date = jsession["index_date"]
             else:
                 assert "index_date" not in jsession
