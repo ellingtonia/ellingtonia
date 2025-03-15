@@ -344,9 +344,15 @@ def load_from_json():
                     entries.append(entry)
 
                 elif jentry["type"] == "note":
+                    # Ezio sometimes types "value", maybe we should switch to
+                    # that anyway.
+                    if "value" in jentry:
+                        content = jentry["value"]
+                    else:
+                        content = jentry["content"]
                     entry = Entry(
                         type="note",
-                        content=jentry["content"],
+                        content=content
                     )
                     entries.append(entry)
 
