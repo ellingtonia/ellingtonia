@@ -12,11 +12,8 @@ are up-to-date to the year 1940 inclusive. Dates after that year might have
 additional corrections pending.
 
 ## March 2025
-* Fixes for 1940
+* Fixes for 1940, 1943-1945
 * Standardised on the spelling of "Harlem Air Shaft"
-* Ezio 1943 changes
-* Ezio 1944 changes
-* Ezio 1945 changes
 
 ## February 2025
 * Replaced "Mooche" with "Mooch" everywhere
