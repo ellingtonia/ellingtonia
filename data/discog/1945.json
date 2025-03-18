@@ -425,8 +425,12 @@
                         "catalog": "CCD-104"
                     },
                     {
+                        "label": "Ci",
+                        "catalog": "CLP-106"
+                    },
+                    {
                         "label": "Wo",
-                        "catalog": "6909/6918Ci-CLP-106"
+                        "catalog": "6909/6918"
                     }
                 ],
                 "desor": "DE4502j"
@@ -807,6 +811,10 @@
                         "length": 168
                     },
                     {
+                        "label": "RCA",
+                        "catalog": "LPM-6009"
+                    },
+                    {
                         "label": "Vi",
                         "catalog": "20-1644"
                     }
@@ -833,6 +841,11 @@
                         "disc": "14",
                         "track": 12,
                         "length": 175
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LPM-6009",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4503b"
@@ -1980,7 +1993,7 @@
                 "type": "take",
                 "index": "45-03-25-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancer In Love (Naiveté)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love (Naiveté)",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2273,7 +2286,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 April 1945",
-        "description": "ABC broadcast, from 400 Restaurant",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from 400 Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -2500,7 +2513,7 @@
                 "type": "take",
                 "index": "45-04-07-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancer In Love (Naiveté)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love (Naiveté)",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2704,7 +2717,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "14 April 1945",
-        "description": "ABC broadcast, from 400 Restaurant",
+        "description": "ABC broadcast \"A Tribute to F.D.R. by The American Negro\", from 400 Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -2961,7 +2974,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "21 April 1945",
-        "description": "ABC broadcast, from 400 Restaurant",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from 400 Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -3525,7 +3538,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "28 April 1945",
-        "description": "ABC broadcast, from 400 Restaurant",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from 400 Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4164,7 +4177,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Newark, NJ",
         "date": "05 May 1945",
-        "description": "ABC broadcast, from Adams Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from Adams Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -4775,7 +4788,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "12 May 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -5736,7 +5749,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "DETROIT, MI",
         "date": "19 May 1945",
-        "description": "ABC broadcast, from Paradise Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from Paradise Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -6214,7 +6227,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "26 May 1945",
-        "description": "ABC broadcast, from Regal Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from Regal Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -6727,7 +6740,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Battle Creek, MI",
         "date": "02 June 1945",
-        "description": "ABC broadcast, from Percy Jones Hospital Center",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from Percy Jones Hospital Center",
         "entries": [
             {
                 "type": "artists",
@@ -7219,7 +7232,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Toledo, OH",
         "date": "09 June 1945",
-        "description": "ABC broadcast, from Paramount Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from Paramount Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -7677,7 +7690,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Eavnsville, IN",
         "date": "16 June 1945",
-        "description": "ABC broadcast, from Franklin Gardens",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from Franklin Gardens",
         "entries": [
             {
                 "type": "artists",
@@ -8082,7 +8095,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Akron, OH",
         "date": "23 June 1945",
-        "description": "Broadcast, from Army Camp",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", from Army Camp",
         "entries": [
             {
                 "type": "artists",
@@ -8386,6 +8399,14 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9006"
+                    },
+                    {
+                        "label": "Ff",
+                        "catalog": "LP-35135"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-299/300†"
                     }
                 ],
                 "desor": "DE4540n"
@@ -8530,7 +8551,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Atlantic City, NJ",
         "date": "27 June 1945",
-        "description": "Broadcast, US Coastguard Training Center",
+        "description": "MBS broadcast, Coca-Cola's \"Victory Parade of Spotlight Bands No. 863.\", U.S. Coast Guard Training Center",
         "entries": [
             {
                 "type": "artists",
@@ -8636,7 +8657,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "30 June 1945",
-        "description": "ABC broadcast, Apollo Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Apollo Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -8824,7 +8845,7 @@
                     },
                     {
                         "label": "AFRS",
-                        "catalog": "DWTD-49"
+                        "catalog": "DWTD-46"
                     },
                     {
                         "label": "AFRS",
@@ -9263,7 +9284,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 July 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -9565,7 +9586,7 @@
                 "type": "take",
                 "index": "45-07-07-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling (Violence) - vAH",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling - vAH",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -9594,7 +9615,7 @@
                 "type": "take",
                 "index": "45-07-07-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancer In Love (Naiveté)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -9623,7 +9644,7 @@
                 "type": "take",
                 "index": "45-07-07-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura (Sophistication)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -9763,7 +9784,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Boston, MA",
         "date": "14 July 1945",
-        "description": "ABC broadcast, RKO Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", RKO Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -10051,7 +10072,7 @@
                 "type": "take",
                 "index": "45-07-14-015",
                 "matrix": null,
-                "title": "If You Are But A Dream",
+                "title": "If You Are But A Dream - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10179,7 +10200,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Marshfield, MA",
         "date": "21 July 1945",
-        "description": "ABC broadcast, Fieldstone Ballroom",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Fieldston Ballroom",
         "entries": [
             {
                 "type": "artists",
@@ -10600,7 +10621,7 @@
                 "type": "take",
                 "index": "45-07-24-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling (Violence) - vAH",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling - vAH",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -10618,6 +10639,10 @@
                         "length": 193
                     },
                     {
+                        "label": "RCA",
+                        "catalog": "LPM-6009"
+                    },
+                    {
                         "label": "UA",
                         "catalog": "NUA-7"
                     },
@@ -10632,7 +10657,7 @@
                 "type": "take",
                 "index": "45-07-24-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura (Sophistication)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -10656,7 +10681,7 @@
                 "type": "take",
                 "index": "45-07-24-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade (Love)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -10672,6 +10697,10 @@
                         "disc": "15",
                         "track": 12,
                         "length": 189
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LPM-6009"
                     },
                     {
                         "label": "UA",
@@ -10690,7 +10719,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Hartford, CT",
         "date": "28 July 1945",
-        "description": "ABC broadcast, State Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", State Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -11243,7 +11272,7 @@
                 "type": "take",
                 "index": "45-07-30-001",
                 "matrix": "D5VB506-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura (Sophistication)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -11259,6 +11288,10 @@
                         "disc": "15",
                         "track": 15,
                         "length": 178
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LPM-6009"
                     },
                     {
                         "label": "UA",
@@ -11293,6 +11326,10 @@
                         "length": 187
                     },
                     {
+                        "label": "RCA",
+                        "catalog": "LPM-6009"
+                    },
+                    {
                         "label": "Vi",
                         "catalog": "20-1718"
                     }
@@ -11324,7 +11361,7 @@
                 "type": "take",
                 "index": "45-07-30-003",
                 "matrix": "D5VB519-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancer In Love (Naiveté)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -11340,6 +11377,10 @@
                         "disc": "15",
                         "track": 14,
                         "length": 141
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LPM-6009"
                     },
                     {
                         "label": "UA",
@@ -11358,7 +11399,7 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "31 July 1945",
-        "description": "World Broadcasting System recording session",
+        "description": "World Broadcasting System recording session. World Broadcasting Studio",
         "entries": [
             {
                 "type": "artists",
@@ -11611,11 +11652,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "03 August 1945",
-        "description": "World Broadcasting System pre-recording for BBC broadcast. Radio City",
+        "description": "World Broadcasting System pre-recording for BBC broadcast \"Kings Of Jazz\". Radio City",
         "entries": [
             {
                 "type": "artists",
-                "value": "Shelton Hemphill, Rex Stewart, Taft Jordan, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Claude Jones(tb); Jimmy\nHamilton(cl,ts); Otto Hardwick(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)"
+                "value": "Shelton Hemphill, Rex Stewart, Taft Jordan, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Claude Jones(tb); Jimmy\nHamilton(cl,ts); Otto Hardwick(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Al Lucas, Junior Raglin(sb); Sonny Greer(d,ch)"
             },
             {
                 "type": "take",
@@ -11759,7 +11800,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "04 August 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -11824,6 +11865,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9009"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-299/300†"
                     }
                 ],
                 "desor": "DE4553c"
@@ -11899,6 +11944,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9009"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-299/300†"
                     }
                 ],
                 "desor": "DE4553f"
@@ -12080,6 +12129,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9009"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-299/300†"
                     }
                 ],
                 "desor": "DE4553o"
@@ -12528,7 +12581,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "11 August 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -12860,7 +12913,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "18 August 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -12908,6 +12961,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9010"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-343/344†"
                     }
                 ],
                 "desor": "DE4556b"
@@ -12967,6 +13024,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9010"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-343/344†"
                     }
                 ],
                 "desor": "DE4556e"
@@ -13005,6 +13066,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9010"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-343/344†"
                     }
                 ],
                 "desor": "DE4556g"
@@ -13026,6 +13091,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9010"
+                    },
+                    {
+                        "label": "WL",
+                        "catalog": "RM-343/344†"
                     }
                 ],
                 "desor": "DE4556h"
@@ -13333,7 +13402,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Marshfield, MA",
         "date": "25 August 1945",
-        "description": "ABC broadcast, Fieldstone Ballroom",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Fieldston Ballroom",
         "entries": [
             {
                 "type": "artists",
@@ -13469,6 +13538,10 @@
                     {
                         "label": "MDD",
                         "catalog": "006"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "2MJP-1055"
                     }
                 ],
                 "desor": "DE4558f"
@@ -13663,10 +13736,6 @@
                 "desor": "DE4558n"
             },
             {
-                "type": "artists",
-                "value": "Billy Strayhorn out."
-            },
-            {
                 "type": "take",
                 "index": "45-08-25-016",
                 "matrix": null,
@@ -13686,6 +13755,10 @@
                     }
                 ],
                 "desor": "DE4558o"
+            },
+            {
+                "type": "artists",
+                "value": "Billy Strayhorn out."
             },
             {
                 "type": "take",
@@ -13769,7 +13842,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Philadelphia, PA",
         "date": "01 September 1945",
-        "description": "ABC broadcast, Earl Theatre",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Earle Theatre",
         "entries": [
             {
                 "type": "artists",
@@ -14164,7 +14237,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "08 September 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -14313,6 +14386,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9012"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "2MJP-1055"
                     }
                 ],
                 "desor": "DE4560g"
@@ -14347,6 +14424,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9012"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "2MJP-1055"
                     }
                 ],
                 "desor": "DE4560i"
@@ -14364,6 +14445,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9012"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "2MJP-1055"
                     }
                 ],
                 "desor": "DE4560j"
@@ -14421,6 +14506,10 @@
                         "catalog": "DWTD-52"
                     },
                     {
+                        "label": "AFRS",
+                        "catalog": "DWTD-56"
+                    },
+                    {
                         "label": "DETS",
                         "catalog": "22"
                     },
@@ -14454,6 +14543,10 @@
                 "matrix": null,
                 "title": "Summertime - vAH",
                 "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-22"
+                    },
                     {
                         "label": "AFRS",
                         "catalog": "DWTD-52"
@@ -14597,7 +14690,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "15 September 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -15525,7 +15618,7 @@
             },
             {
                 "type": "note",
-                "content": "Take The \"A\" Train DE4582a was used as opening and/or closing theme for AFRS DWTD-6/9, 11/20, 22/24, 29, 42/48, 50/58, 60, 63/71, 73/76."
+                "content": "This broadcast had been wrongly dated 21 October 1945, indeed the date when this aircheck was cut to record. Take The \"A\" Train DE4582a was used as opening and/or closing theme for AFRS DWTD-6/9, 11/20, 22/24, 29, 42/48, 50/58, 60, 63/71, 73/76."
             }
         ]
     },
@@ -15533,7 +15626,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "22 September 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -16564,7 +16657,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "06 October 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -17016,6 +17109,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9002"
+                    },
+                    {
+                        "label": "Ff",
+                        "catalog": "LP-35135"
                     },
                     {
                         "label": "Jo",
@@ -17651,7 +17748,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "13 October 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -18408,7 +18505,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 October 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -18942,7 +19039,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "27 October 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -19695,7 +19792,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "03 November 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -20161,7 +20258,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "10 November 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -20655,7 +20752,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "17 November 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
@@ -21048,6 +21145,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903-9003"
+                    },
+                    {
+                        "label": "Ff",
+                        "catalog": "LP-35135"
                     }
                 ],
                 "desor": "DE4592e"
@@ -21075,7 +21176,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "24 November 1945",
-        "description": "ABC broadcast, Radio City",
+        "description": "ABC Treasury Broadcast \"Your Saturday Date With The Duke\", Radio City",
         "entries": [
             {
                 "type": "artists",
