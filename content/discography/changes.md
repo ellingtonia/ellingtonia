@@ -12,7 +12,7 @@ are up-to-date to the year 1940 inclusive. Dates after that year might have
 additional corrections pending.
 
 ## March 2025
-* Fixes for 1940, 1943-1945
+* Fixes for 1940, 1943-1946
 * Standardised on the spelling of "Harlem Air Shaft"
 
 ## February 2025
