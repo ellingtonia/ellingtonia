@@ -14,22 +14,9 @@ additional corrections pending.
 ## March 2025
 * Fixes for 1940, 1943-1946
 * Standardised on the spelling of "Harlem Air Shaft"
-* Changes for 1947-48
-* 1948 corrections
-* 1949 changes
-* 1950
-* 1962
-* 1951
-* 1953 - 1954
-* Same for 1954
-* 1930
-* 1955
-* 1956
-* 1957
-* 1958
-* 1959
-* 1960
-* 1961
+* Changes for 1947-49
+* Chile Bowl fixes for 1953/1954
+* Many corrections for instrument codes in 1930-1961
 
 ## February 2025
 * Replaced "Mooche" with "Mooch" everywhere
