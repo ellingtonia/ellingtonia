@@ -308,7 +308,7 @@ def load_from_json():
 
                 date = jsession["index_date"]
             else:
-                assert "index_date" not in jsession
+                assert "index_date" not in jsession, date_str
 
             if date != old_date:
                 idx = 1
