@@ -29,6 +29,7 @@ additional corrections pending.
 * 1958
 * 1959
 * 1960
+* 1961
 
 ## February 2025
 * Replaced "Mooche" with "Mooch" everywhere
