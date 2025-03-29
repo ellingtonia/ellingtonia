@@ -16,6 +16,7 @@ additional corrections pending.
 * Standardised on the spelling of "Harlem Air Shaft"
 * Changes for 1947-48
 * 1948 corrections
+* 1949 changes
 
 ## February 2025
 * Replaced "Mooche" with "Mooch" everywhere
