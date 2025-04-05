@@ -13,8 +13,7 @@ additional corrections pending.
 
 ## April 2025
 * Many fixes for 1963
-* 1949
-* 1962
+* Small fixes for 1949, 1962
 
 ## March 2025
 * Fixes for 1940, 1943-1946
