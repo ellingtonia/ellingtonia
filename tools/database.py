@@ -336,6 +336,7 @@ def load_from_json():
 
             entries = []
             for entry_idx, jentry in enumerate(jsession["entries"]):
+                assert "type" in jentry, date_str
                 if jentry["type"] == "artists":
                     entry = Entry(
                         type="artists",
