@@ -3,11 +3,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "05 January 1965",
-        "description": "NBC telecast",
+        "description": "NBC telecast \"Bell Telephone Hour\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Nat Woodard, Herbie Jones(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell \nProcope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Ethel Ennis(v)"
+                "value": "Cootie Williams, Cat Anderson, Nat Woodard, Herbie Jones(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -59,7 +59,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) only"
+                "value": "Duke Ellington(p) solo."
             },
             {
                 "type": "take",
@@ -71,7 +71,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before. Add  Ethel Ennis(v)."
             },
             {
                 "type": "take",
@@ -80,6 +80,10 @@
                 "title": "Love You Madly - vEE",
                 "releases": [],
                 "desor": "DE6501c"
+            },
+            {
+                "type": "artists",
+                "value": "Ethel Ennis out."
             },
             {
                 "type": "take",
@@ -95,11 +99,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "12 January 1965",
-        "description": "20th Century Fox soundtrack, Universal Studios",
+        "description": "WGN-TV videotaping session for two short TV specials, Universal Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Herbie Jones(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell \nProcope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Herbie Jones(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -277,7 +281,7 @@
                 "type": "take",
                 "index": "65-01-12-014",
                 "matrix": null,
-                "title": "Things Ain't What They Used to Be",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE6502i"
             },
@@ -298,7 +302,7 @@
                 "type": "take",
                 "index": "65-01-12-016",
                 "matrix": null,
-                "title": "Afro-Bosa",
+                "title": "Afro-Bossa",
                 "releases": [
                     {
                         "label": "Af",
@@ -405,6 +409,10 @@
                 "title": "Things Ain't What They Used to Be",
                 "releases": [],
                 "desor": "DE6502s"
+            },
+            {
+                "type": "note",
+                "content": "The two short TV shows are: \"The Big Bands - Duke Ellington And His Orchestra No.1\", from DE6502a to DE6502i, telecast on January 23 and   \"The Big Bands - Duke Ellington And His Orchestra No.2\", from DE6502j to DE6502s, telecast March 6."
             }
         ]
     },
@@ -412,16 +420,16 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "19 January 1965",
-        "description": "Reprise recording Session",
+        "description": "Reprise recording session, Fine Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
                 "index": "65-01-19-001",
-                "matrix": null,
+                "matrix": "5097",
                 "title": "Moon River",
                 "releases": [
                     {
@@ -442,7 +450,7 @@
             {
                 "type": "take",
                 "index": "65-01-19-002",
-                "matrix": null,
+                "matrix": "5098",
                 "title": "All My Loving",
                 "releases": [
                     {
@@ -463,7 +471,7 @@
             {
                 "type": "take",
                 "index": "65-01-19-003",
-                "matrix": null,
+                "matrix": "5099",
                 "title": "Days Of Wine And Roses",
                 "releases": [
                     {
@@ -484,7 +492,7 @@
             {
                 "type": "take",
                 "index": "65-01-19-004",
-                "matrix": null,
+                "matrix": "5100",
                 "title": "Satin Doll",
                 "releases": [
                     {
@@ -516,16 +524,16 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "21 January 1965",
-        "description": "Reprise recording Session",
+        "description": "Reprise recording session, Fine Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
                 "index": "65-01-21-001",
-                "matrix": null,
+                "matrix": "5101",
                 "title": "Red Roses For A Blue Lady",
                 "releases": [
                     {
@@ -546,7 +554,7 @@
             {
                 "type": "take",
                 "index": "65-01-21-002",
-                "matrix": null,
+                "matrix": "5102",
                 "title": "I Want To Hold Your Hand",
                 "releases": [],
                 "desor": "DE6504b"
@@ -554,7 +562,7 @@
             {
                 "type": "take",
                 "index": "65-01-21-003",
-                "matrix": null,
+                "matrix": "5102-8",
                 "title": "I Want To Hold Your Hand",
                 "releases": [
                     {
@@ -575,7 +583,7 @@
             {
                 "type": "take",
                 "index": "65-01-21-004",
-                "matrix": null,
+                "matrix": "5102-9",
                 "title": "I Want To Hold Your Hand",
                 "releases": [],
                 "desor": "DE6504d"
@@ -583,7 +591,7 @@
             {
                 "type": "take",
                 "index": "65-01-21-005",
-                "matrix": null,
+                "matrix": "5103",
                 "title": "A Beautiful Friendship",
                 "releases": [
                     {
@@ -604,7 +612,7 @@
             {
                 "type": "take",
                 "index": "65-01-21-006",
-                "matrix": null,
+                "matrix": "5103",
                 "title": "A Beautiful Friendship",
                 "releases": [],
                 "desor": "DE6504f"
@@ -612,7 +620,7 @@
             {
                 "type": "take",
                 "index": "65-01-21-007",
-                "matrix": null,
+                "matrix": "5104-9",
                 "title": "Ellington '66",
                 "releases": [
                     {
@@ -633,7 +641,7 @@
             {
                 "type": "take",
                 "index": "65-01-21-008",
-                "matrix": null,
+                "matrix": "5104",
                 "title": "Ellington '66",
                 "releases": [],
                 "desor": "DE6504h"
@@ -644,11 +652,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Paris, F",
         "date": "26 January 1965",
-        "description": "France Inter broadcast",
+        "description": "France Inter broadcast \"Jazz sur Scène\". Maison de la Radio",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -668,7 +676,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -798,7 +806,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1143,6 +1151,10 @@
                     }
                 ],
                 "desor": "DE6507ab"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -1154,7 +1166,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1586,6 +1598,10 @@
                     }
                 ],
                 "desor": "DE6508z"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -1597,50 +1613,45 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Per Moller Hansen(tk)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
                 "index": "65-01-31-001",
                 "matrix": null,
-                "title": "Interview by Hansen",
-                "releases": [],
-                "desor": "DE9039a"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Kobenhavn, DK",
-        "date": "31 January 1965",
-        "description": "Concert, Falkoner Teatret",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "title": "Take The \"A\" Train (theme)",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509a"
             },
             {
                 "type": "take",
                 "index": "65-01-31-002",
                 "matrix": null,
-                "title": "Take The \"A\" Train (theme)",
-                "releases": [],
-                "desor": "DE6509a"
+                "title": "Midriff",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509b"
             },
             {
                 "type": "take",
                 "index": "65-01-31-003",
                 "matrix": null,
-                "title": "Midriff",
-                "releases": [],
-                "desor": "DE6509b"
-            },
-            {
-                "type": "take",
-                "index": "65-01-31-004",
-                "matrix": null,
                 "title": "Afro-Bossa",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
                 "desor": "DE6509c"
             },
             {
@@ -1648,63 +1659,103 @@
                 "index": null,
                 "matrix": null,
                 "title": "AD LIB ON NIPPON",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
                 "desor": null
+            },
+            {
+                "type": "take",
+                "index": "65-01-31-004",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509d"
             },
             {
                 "type": "take",
                 "index": "65-01-31-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
-                "releases": [],
-                "desor": "DE6509d"
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509e"
             },
             {
                 "type": "take",
                 "index": "65-01-31-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
-                "releases": [],
-                "desor": "DE6509e"
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509f"
             },
             {
                 "type": "take",
                 "index": "65-01-31-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
-                "releases": [],
-                "desor": "DE6509f"
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509g"
             },
             {
                 "type": "take",
                 "index": "65-01-31-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
-                "releases": [],
-                "desor": "DE6509g"
+                "title": "The Opener",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509h"
             },
             {
                 "type": "take",
                 "index": "65-01-31-009",
                 "matrix": null,
-                "title": "The Opener",
-                "releases": [],
-                "desor": "DE6509h"
+                "title": "Chelsea Bridge",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509i"
             },
             {
                 "type": "take",
                 "index": "65-01-31-010",
                 "matrix": null,
-                "title": "Chelsea Bridge",
-                "releases": [],
-                "desor": "DE6509i"
-            },
-            {
-                "type": "take",
-                "index": "65-01-31-011",
-                "matrix": null,
                 "title": "Wailing Interval",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
                 "desor": "DE6509j"
             },
             {
@@ -1712,161 +1763,250 @@
                 "index": null,
                 "matrix": null,
                 "title": "BLACK",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
                 "desor": null
+            },
+            {
+                "type": "take",
+                "index": "65-01-31-011",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509k"
             },
             {
                 "type": "take",
                 "index": "65-01-31-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
-                "releases": [],
-                "desor": "DE6509k"
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509l"
             },
             {
                 "type": "take",
                 "index": "65-01-31-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
-                "releases": [],
-                "desor": "DE6509l"
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509m"
             },
             {
                 "type": "take",
                 "index": "65-01-31-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
-                "releases": [],
-                "desor": "DE6509m"
-            },
-            {
-                "type": "take",
-                "index": "65-01-31-015",
-                "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [
                     {
-                        "label": "MDD",
-                        "catalog": "006"
+                        "label": "QL",
+                        "catalog": "QLD-0246"
                     }
                 ],
                 "desor": "DE6509n"
             },
             {
                 "type": "take",
-                "index": "65-01-31-016",
+                "index": "65-01-31-015",
                 "matrix": null,
                 "title": "¬ Satin Doll",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
                 "desor": "DE6509o"
+            },
+            {
+                "type": "take",
+                "index": "65-01-31-016",
+                "matrix": null,
+                "title": "_|Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509p"
             },
             {
                 "type": "take",
                 "index": "65-01-31-017",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
-                "releases": [],
-                "desor": "DE6509p"
+                "title": "Jungle Kitty (Meow)",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509q"
             },
             {
                 "type": "take",
                 "index": "65-01-31-018",
                 "matrix": null,
                 "title": "Jungle Kitty (Meow)",
-                "releases": [],
-                "desor": "DE6509q"
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509r"
             },
             {
                 "type": "take",
                 "index": "65-01-31-019",
                 "matrix": null,
-                "title": "Jungle Kitty (Meow)",
-                "releases": [],
-                "desor": "DE6509r"
+                "title": "Passion Flower",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509s"
             },
             {
                 "type": "take",
                 "index": "65-01-31-020",
                 "matrix": null,
-                "title": "Passion Flower",
-                "releases": [],
-                "desor": "DE6509s"
+                "title": "Things Ain't What They Used To Be",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509t"
             },
             {
                 "type": "take",
                 "index": "65-01-31-021",
                 "matrix": null,
-                "title": "Things Ain't What They Used To Be",
-                "releases": [],
-                "desor": "DE6509t"
+                "title": "Jeep's Blues",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509u"
             },
             {
                 "type": "take",
                 "index": "65-01-31-022",
                 "matrix": null,
-                "title": "Jeep's Blues",
-                "releases": [],
-                "desor": "DE6509u"
+                "title": "Perdido",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509v"
             },
             {
                 "type": "take",
                 "index": "65-01-31-023",
                 "matrix": null,
-                "title": "Perdido",
-                "releases": [],
-                "desor": "DE6509v"
+                "title": "Tutti For Cootie",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509w"
             },
             {
                 "type": "take",
                 "index": "65-01-31-024",
                 "matrix": null,
-                "title": "Tutti For Cootie",
-                "releases": [],
-                "desor": "DE6509w"
+                "title": "¬ Kinda Dukish",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509x"
             },
             {
                 "type": "take",
                 "index": "65-01-31-025",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
-                "releases": [],
-                "desor": "DE6509x"
+                "title": "_|Rockin' In Rhythm",
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509y"
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)."
             },
             {
                 "type": "take",
                 "index": "65-01-31-026",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
-                "releases": [],
-                "desor": "DE6509y"
+                "title": "Take The \"A\" Train",
+                "releases": [
+                    {
+                        "label": "MDD",
+                        "catalog": "006"
+                    },
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
+                "desor": "DE6509z"
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)."
             },
             {
                 "type": "take",
                 "index": "65-01-31-027",
                 "matrix": null,
-                "title": "Take The \"A\" Train",
-                "releases": [],
-                "desor": "DE6509z"
-            },
-            {
-                "type": "artists",
-                "value": "As before"
-            },
-            {
-                "type": "take",
-                "index": "65-01-31-028",
-                "matrix": null,
                 "title": "He Huffed 'n' He Puffed - vRN",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "QL",
+                        "catalog": "QLD-0246"
+                    }
+                ],
                 "desor": "DE6509aa"
             },
             {
                 "type": "take",
-                "index": "65-01-31-029",
+                "index": "65-01-31-028",
                 "matrix": null,
                 "title": "Jam With Sam",
                 "releases": [],
@@ -1874,7 +2014,7 @@
             },
             {
                 "type": "take",
-                "index": "65-01-31-030",
+                "index": "65-01-31-029",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -1882,15 +2022,39 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); John Lamb(sb) only"
+                "value": "Duke Ellington(p); John Lamb(sb) only."
+            },
+            {
+                "type": "take",
+                "index": "65-01-31-030",
+                "matrix": null,
+                "title": "Dancers In Love",
+                "releases": [],
+                "desor": "DE6509ad"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only. Between DE6509aa and DE6509ab is performed Solitude, sung by Bea Benjamin acc. by Dollar Brand, Cootie Williams, Russell Procope, John Lamb and Sam Woodyard."
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "Kobenhavn, DK",
+        "date": "31 January 1965",
+        "description": "Broadcast \"Jazz Aktuelt\"",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Duke Ellington, Per Møller Hansen(tk)."
             },
             {
                 "type": "take",
                 "index": "65-01-31-031",
                 "matrix": null,
-                "title": "Dancers In Love",
+                "title": "Interview by Hansen",
                 "releases": [],
-                "desor": "DE6509ad"
+                "desor": "DE9039a"
             }
         ]
     },
@@ -1902,7 +2066,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2010,7 +2174,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2025,7 +2189,12 @@
                 "index": "65-02-03-002",
                 "matrix": null,
                 "title": "Midriff",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "PACD-5304-2"
+                    }
+                ],
                 "desor": "DE6511b"
             },
             {
@@ -2041,7 +2210,12 @@
                 "index": "65-02-03-003",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "PACD-5304-2"
+                    }
+                ],
                 "desor": "DE6511c"
             },
             {
@@ -2049,7 +2223,12 @@
                 "index": "65-02-03-004",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "PACD-5304-2"
+                    }
+                ],
                 "desor": "DE6511d"
             },
             {
@@ -2057,7 +2236,12 @@
                 "index": "65-02-03-005",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "PACD-5304-2"
+                    }
+                ],
                 "desor": "DE6511e"
             },
             {
@@ -2065,7 +2249,12 @@
                 "index": "65-02-03-006",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "PACD-5304-2"
+                    }
+                ],
                 "desor": "DE6511f"
             },
             {
@@ -2089,7 +2278,12 @@
                 "index": "65-02-03-009",
                 "matrix": null,
                 "title": "Chelsea Bridge",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "PACD-5304-2"
+                    }
+                ],
                 "desor": "DE6511i"
             },
             {
@@ -2097,7 +2291,12 @@
                 "index": "65-02-03-010",
                 "matrix": null,
                 "title": "Happy Go Lucky Local",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "PACD-5304-2"
+                    }
+                ],
                 "desor": "DE6511j"
             },
             {
@@ -2200,7 +2399,7 @@
                 "type": "take",
                 "index": "65-02-03-023",
                 "matrix": null,
-                "title": "Blues No.10",
+                "title": "Blues (No.10 in NDESOR)",
                 "releases": [],
                 "desor": "DE6511w"
             }
@@ -2214,7 +2413,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2479,6 +2678,10 @@
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE6512ac"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -2490,7 +2693,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": " Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": " Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2510,7 +2713,12 @@
                 "index": "65-02-10-002",
                 "matrix": null,
                 "title": "Prelude To A Kiss",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MPS",
+                        "catalog": "0666-605"
+                    }
+                ],
                 "desor": "DE6513b"
             }
         ]
@@ -2519,11 +2727,11 @@
         "group": "DUKE ELLINGTON AND HIS RHYTHM",
         "location": "Munchen, D",
         "date": "12 February 1965",
-        "description": "AFN broadcast",
+        "description": "AFN broadcast \"Munich By Day And By Night\"",
         "entries": [
             {
                 "type": "artists",
-                "value": " Duke Ellington, Pat Patrick(tk)"
+                "value": " Duke Ellington, Pat Patrick(tk)."
             },
             {
                 "type": "take",
@@ -2543,7 +2751,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2760,6 +2968,10 @@
                 "title": "Jam With Sam",
                 "releases": [],
                 "desor": "DE6515y"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -2771,7 +2983,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2937,7 +3149,7 @@
                 "type": "take",
                 "index": "65-02-13-019",
                 "matrix": null,
-                "title": "¬ Blues No. 11",
+                "title": "¬ Blues (No. 11 in NDESOR)",
                 "releases": [],
                 "desor": "DE6516s"
             },
@@ -2988,6 +3200,10 @@
                 "title": "God Save The Queen",
                 "releases": [],
                 "desor": "DE6516y"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -2999,7 +3215,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3197,7 +3413,7 @@
                 "type": "take",
                 "index": "65-02-13-048",
                 "matrix": null,
-                "title": "¬ Blues No. 11",
+                "title": "¬ Blues (No. 11 in NDESOR)",
                 "releases": [],
                 "desor": "DE6517w"
             },
@@ -3256,6 +3472,10 @@
                 "title": "God Save The Queen",
                 "releases": [],
                 "desor": "DE6517ad"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -3267,7 +3487,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3449,7 +3669,7 @@
                 "type": "take",
                 "index": "65-02-14-021",
                 "matrix": null,
-                "title": "¬ Blues No. 11",
+                "title": "¬ Blues (No. 11 in NDESOR)",
                 "releases": [],
                 "desor": "DE6518u"
             },
@@ -3484,6 +3704,10 @@
                 "title": "God Save The Queen",
                 "releases": [],
                 "desor": "DE6518y"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -3495,7 +3719,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3736,6 +3960,10 @@
                 "title": "Just A-Sittin' And A-Rockin' - vRN",
                 "releases": [],
                 "desor": "DE6519ab"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -3743,11 +3971,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "London, GB",
         "date": "16 February 1965",
-        "description": "Rehearsal session, BBC2 TV studio",
+        "description": "Rehearsal session, BBC2 TV studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3763,7 +3991,7 @@
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
                 "releases": [],
-                "desor": null
+                "desor": "DE9035a"
             },
             {
                 "type": "take",
@@ -3919,7 +4147,7 @@
             },
             {
                 "type": "artists",
-                "value": "Cootie Williams out"
+                "value": "Cootie Williams out."
             },
             {
                 "type": "take",
@@ -3947,7 +4175,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -3967,7 +4195,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -3983,15 +4211,15 @@
                 "matrix": null,
                 "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE9035xa"
+                "desor": "DE9035aa"
             },
             {
                 "type": "take",
                 "index": "65-02-16-028",
                 "matrix": null,
-                "title": "Take The \"A\" Train",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [],
-                "desor": "DE9035xb"
+                "desor": "DE9035ab"
             },
             {
                 "type": "take",
@@ -3999,7 +4227,7 @@
                 "matrix": null,
                 "title": "Midriff",
                 "releases": [],
-                "desor": "DE9035xc"
+                "desor": "DE9035ac"
             },
             {
                 "type": "take",
@@ -4007,7 +4235,7 @@
                 "matrix": null,
                 "title": "Afro-Bossa",
                 "releases": [],
-                "desor": "DE9035xd"
+                "desor": "DE9035ad"
             },
             {
                 "type": "take",
@@ -4023,7 +4251,7 @@
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
                 "releases": [],
-                "desor": "DE9035xe"
+                "desor": "DE9035ae"
             },
             {
                 "type": "take",
@@ -4031,7 +4259,7 @@
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
                 "releases": [],
-                "desor": "DE9035xf"
+                "desor": "DE9035af"
             },
             {
                 "type": "take",
@@ -4039,7 +4267,7 @@
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
                 "releases": [],
-                "desor": "DE9035xg"
+                "desor": "DE9035ag"
             },
             {
                 "type": "take",
@@ -4047,7 +4275,7 @@
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
                 "releases": [],
-                "desor": "DE9035xh"
+                "desor": "DE9035ah"
             },
             {
                 "type": "take",
@@ -4055,7 +4283,7 @@
                 "matrix": null,
                 "title": "The Opener",
                 "releases": [],
-                "desor": "DE9035xi"
+                "desor": "DE9035ai"
             },
             {
                 "type": "take",
@@ -4063,7 +4291,7 @@
                 "matrix": null,
                 "title": "Chelsea Bridge",
                 "releases": [],
-                "desor": "DE9035xj"
+                "desor": "DE9035aj"
             },
             {
                 "type": "take",
@@ -4071,7 +4299,7 @@
                 "matrix": null,
                 "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE9035xk"
+                "desor": "DE9035ak"
             },
             {
                 "type": "take",
@@ -4079,7 +4307,7 @@
                 "matrix": null,
                 "title": "The Prowling Cat",
                 "releases": [],
-                "desor": "DE9035xl"
+                "desor": "DE9035al"
             },
             {
                 "type": "take",
@@ -4087,7 +4315,7 @@
                 "matrix": null,
                 "title": "Passion Flower",
                 "releases": [],
-                "desor": "DE9035xm"
+                "desor": "DE9035am"
             },
             {
                 "type": "take",
@@ -4095,7 +4323,7 @@
                 "matrix": null,
                 "title": "Jump For Joy - vRN",
                 "releases": [],
-                "desor": "DE9035xn"
+                "desor": "DE9035an"
             },
             {
                 "type": "take",
@@ -4103,7 +4331,7 @@
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": "DE9035xo"
+                "desor": "DE9035ao"
             },
             {
                 "type": "take",
@@ -4111,7 +4339,7 @@
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": "DE9035xp"
+                "desor": "DE9035ap"
             }
         ]
     },
@@ -4119,11 +4347,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "London, GB",
         "date": "16 February 1965",
-        "description": "BBC telecast",
+        "description": "BBC telecast \"Ellington In Europe\", BBC2 TV studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4236,6 +4464,10 @@
                 "title": "Take The \"A\" Train",
                 "releases": [],
                 "desor": "DE6520m"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -4244,11 +4476,11 @@
         "location": "London, GB",
         "date": "February 1965",
         "index_date": 650217,
-        "description": "BBC telecast",
+        "description": "BBC telecast \"Late Night Line Up\", BBC2 TV studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Michael Dean(tk)"
+                "value": "Duke Ellington, Michael Dean(tk)."
             },
             {
                 "type": "take",
@@ -4260,7 +4492,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -4284,11 +4516,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "London, GB",
         "date": "18 February 1965",
-        "description": "BBC telecast",
+        "description": "BBC telecast \"Jazz 54\", BBC2 TV studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4308,7 +4540,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)."
             },
             {
                 "type": "take",
@@ -4320,7 +4552,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -4348,7 +4580,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) solo"
+                "value": "Duke Ellington(p) solo."
             },
             {
                 "type": "take",
@@ -4360,7 +4592,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -4374,7 +4606,7 @@
                 "type": "take",
                 "index": "65-02-18-009",
                 "matrix": null,
-                "title": "Take The \"A\" Train",
+                "title": "Take The \"A\" Train - vRN",
                 "releases": [],
                 "desor": "DE6522i"
             },
@@ -4393,248 +4625,19 @@
         "location": "London, GB",
         "date": "February 1965",
         "index_date": 650220,
-        "description": "BBC telecast",
+        "description": "BBC telecast \"Hear Me Talking\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk)"
+                "value": "Duke Ellington(tk)."
             },
             {
                 "type": "take",
                 "index": "65-02-20-001",
                 "matrix": null,
-                "title": "Duke talking about some commercial recordings",
+                "title": "Duke talking about some commercial records",
                 "releases": [],
                 "desor": "DE6523a"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Prob. England,  GB",
-        "date": "February 1965",
-        "index_date": 650225,
-        "description": "Concert",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-001",
-                "matrix": null,
-                "title": "Midriff",
-                "releases": [],
-                "desor": "DE6524a"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-002",
-                "matrix": null,
-                "title": "Afro-Bossa",
-                "releases": [],
-                "desor": "DE6524b"
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-003",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
-                "releases": [],
-                "desor": "DE6524c"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-004",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
-                "releases": [],
-                "desor": "DE6524d"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-005",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
-                "releases": [],
-                "desor": "DE6524e"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-006",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
-                "releases": [],
-                "desor": "DE6524f"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-007",
-                "matrix": null,
-                "title": "The Opener",
-                "releases": [],
-                "desor": "DE6524g"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-008",
-                "matrix": null,
-                "title": "Chelsea Bridge",
-                "releases": [],
-                "desor": "DE6524h"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-009",
-                "matrix": null,
-                "title": "Wailing Interval",
-                "releases": [],
-                "desor": "DE6524i"
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
-                "releases": [],
-                "desor": "DE6524j"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-011",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
-                "releases": [],
-                "desor": "DE6524k"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
-                "releases": [],
-                "desor": "DE6524l"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-013",
-                "matrix": null,
-                "title": "Take The \"A\" Train (theme)",
-                "releases": [],
-                "desor": "DE6524m"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-014",
-                "matrix": null,
-                "title": "¬ Satin Doll",
-                "releases": [],
-                "desor": "DE6524n"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-015",
-                "matrix": null,
-                "title": "_|Sophisticated Lady",
-                "releases": [],
-                "desor": "DE6524o"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-016",
-                "matrix": null,
-                "title": "Passion Flower",
-                "releases": [],
-                "desor": "DE6524p"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-017",
-                "matrix": null,
-                "title": "Harmony In Harlem",
-                "releases": [],
-                "desor": "DE6524q"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-018",
-                "matrix": null,
-                "title": "Pass Out Blues",
-                "releases": [],
-                "desor": "DE6524r"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-019",
-                "matrix": null,
-                "title": "Jungle Kitty (Meow)",
-                "releases": [],
-                "desor": "DE6524s"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-020",
-                "matrix": null,
-                "title": "Jungle Kitty (Meow)",
-                "releases": [],
-                "desor": "DE6524t"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-021",
-                "matrix": null,
-                "title": "¬ Kinda Dukish",
-                "releases": [],
-                "desor": "DE6524u"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-022",
-                "matrix": null,
-                "title": "_|Rockin' In Rhythm",
-                "releases": [],
-                "desor": "DE6524v"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-023",
-                "matrix": null,
-                "title": "Tell Me It's The Truth",
-                "releases": [],
-                "desor": "DE6524w"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-024",
-                "matrix": null,
-                "title": "Take The \"A\" Train - vRN",
-                "releases": [],
-                "desor": "DE6524x"
-            },
-            {
-                "type": "take",
-                "index": "65-02-25-025",
-                "matrix": null,
-                "title": "Jam With Sam",
-                "releases": [],
-                "desor": "DE6524y"
             }
         ]
     },
@@ -4646,7 +4649,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4855,6 +4858,258 @@
                 "title": "God Save The Queen",
                 "releases": [],
                 "desor": "DE9067x"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "Manchester, GB",
+        "date": "27 February 1965",
+        "description": "2nd Concert, Free Trade Hall",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-025",
+                "matrix": null,
+                "title": "Midriff",
+                "releases": [],
+                "desor": "DE6524a"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-026",
+                "matrix": null,
+                "title": "Afro-Bossa",
+                "releases": [],
+                "desor": "DE6524b"
+            },
+            {
+                "type": "take",
+                "index": null,
+                "matrix": null,
+                "title": "AD LIB ON NIPPON",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-027",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "releases": [],
+                "desor": "DE6524c"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-028",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "releases": [],
+                "desor": "DE6524d"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-029",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "releases": [],
+                "desor": "DE6524e"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-030",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "releases": [],
+                "desor": "DE6524f"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-031",
+                "matrix": null,
+                "title": "The Opener",
+                "releases": [],
+                "desor": "DE6524g"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-032",
+                "matrix": null,
+                "title": "Chelsea Bridge",
+                "releases": [],
+                "desor": "DE6524h"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-033",
+                "matrix": null,
+                "title": "Wailing Interval",
+                "releases": [],
+                "desor": "DE6524i"
+            },
+            {
+                "type": "take",
+                "index": null,
+                "matrix": null,
+                "title": "BLACK",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-034",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "releases": [],
+                "desor": "DE6524j"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-035",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "releases": [],
+                "desor": "DE6524k"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-036",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "releases": [],
+                "desor": "DE6524l"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-037",
+                "matrix": null,
+                "title": "Take The \"A\" Train (theme)",
+                "releases": [],
+                "desor": "DE6524m"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-038",
+                "matrix": null,
+                "title": "¬ Satin Doll",
+                "releases": [],
+                "desor": "DE6524n"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-039",
+                "matrix": null,
+                "title": "_|Sophisticated Lady",
+                "releases": [],
+                "desor": "DE6524o"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-040",
+                "matrix": null,
+                "title": "Tutti For Cootie",
+                "releases": [],
+                "desor": "DE6524p"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-041",
+                "matrix": null,
+                "title": "Passion Flower",
+                "releases": [],
+                "desor": "DE6524q"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-042",
+                "matrix": null,
+                "title": "Harmony In Harlem",
+                "releases": [],
+                "desor": "DE6524r"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-043",
+                "matrix": null,
+                "title": "Pass Out Blues",
+                "releases": [],
+                "desor": "DE6524s"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-044",
+                "matrix": null,
+                "title": "Jungle Kitty (Meow)",
+                "releases": [],
+                "desor": "DE6524t"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-045",
+                "matrix": null,
+                "title": "Jungle Kitty (Meow)",
+                "releases": [],
+                "desor": "DE6524u"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-046",
+                "matrix": null,
+                "title": "¬ Kinda Dukish",
+                "releases": [],
+                "desor": "DE6524v"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-047",
+                "matrix": null,
+                "title": "_|Rockin' In Rhythm",
+                "releases": [],
+                "desor": "DE6524w"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-048",
+                "matrix": null,
+                "title": "Tell Me It's The Truth",
+                "releases": [],
+                "desor": "DE6524x"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-049",
+                "matrix": null,
+                "title": "Take The \"A\" Train - vRN",
+                "releases": [],
+                "desor": "DE6524y"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-050",
+                "matrix": null,
+                "title": "Jam With Sam",
+                "releases": [],
+                "desor": "DE6524z"
+            },
+            {
+                "type": "take",
+                "index": "65-02-27-051",
+                "matrix": null,
+                "title": "God Save The Queen",
+                "releases": [],
+                "desor": "DE6524aa"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -4866,7 +5121,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5075,6 +5330,10 @@
                 "title": "God Save The Queen",
                 "releases": [],
                 "desor": "DE6525x"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -5086,7 +5345,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5311,6 +5570,10 @@
                 "title": "God Save The Queen",
                 "releases": [],
                 "desor": "DE6526z"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Sam Woodyard only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -5318,11 +5581,11 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "03 March 1965",
-        "description": "Pre-recording for CBC broadcast",
+        "description": "Pre-recording for CBC broadcast \"Jazz At Its Best\", on the air on April 20",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Henry Whiston(tk)"
+                "value": "Duke Ellington, Henry Whiston(tk)."
             },
             {
                 "type": "take",
@@ -5338,11 +5601,11 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "04 March 1965",
-        "description": "Duke Ellington recording session",
+        "description": "Duke Ellington recording session, Fine Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5463,9 +5726,13 @@
             {
                 "type": "take",
                 "index": "65-03-04-010",
-                "matrix": "-1",
+                "matrix": "3393-1",
                 "title": "Chelsea Bridge",
                 "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
                     {
                         "label": "Re",
                         "catalog": "R-6185"
@@ -5485,7 +5752,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "BLACK",
+                "title": "A. BLACK",
                 "releases": [],
                 "desor": null
             },
@@ -5567,17 +5834,21 @@
             {
                 "type": "take",
                 "index": "65-03-04-017",
-                "matrix": "-1",
-                "title": "Tutti For Cootie (fade up)",
+                "matrix": "3397-1",
+                "title": "Tutti For Cootie (Fade Up)",
                 "releases": [],
                 "desor": "DE6528q"
             },
             {
                 "type": "take",
                 "index": "65-03-04-018",
-                "matrix": "-2",
-                "title": "Tutti For Cootie (fade up)",
+                "matrix": "3397-2",
+                "title": "Tutti For Cootie (Fade Up)",
                 "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
                     {
                         "label": "Re",
                         "catalog": "R-6185"
@@ -5588,15 +5859,23 @@
             {
                 "type": "take",
                 "index": "65-03-04-019",
-                "matrix": "-1",
+                "matrix": "3394-1",
                 "title": "The Opener",
                 "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
                     {
                         "label": "Re",
                         "catalog": "R-6185"
                     }
                 ],
                 "desor": "DE6528s"
+            },
+            {
+                "type": "note",
+                "content": "At the end of the session, Billy Strayhorn acc. by John Lamb and Sam Woodyard plays two unidentified titles."
             }
         ]
     },
@@ -5604,11 +5883,11 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "07 March 1965",
-        "description": "CBS telecast, CBS-TV Studio 51, Maxine Elliott Theatre",
+        "description": "CBS telecast \"Ed Sullivan Show\", CBS-TV Studio 51, Maxine Elliott Theatre",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Ella Fitzgerald(v)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Ella Fitzgerald(v)."
             },
             {
                 "type": "take",
@@ -5622,7 +5901,7 @@
                 "type": "take",
                 "index": "65-03-07-002",
                 "matrix": null,
-                "title": "The Opener -vEF",
+                "title": "The Opener",
                 "releases": [],
                 "desor": "DE6529b"
             },
@@ -5714,11 +5993,11 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "17 March 1965",
-        "description": "Duke Ellington recording session",
+        "description": "Duke Ellington recording session, Fine Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Howard McGhee, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Howard McGhee, Cat Anderson, Herbie Jones, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5795,13 +6074,16 @@
             {
                 "type": "take",
                 "index": "65-03-17-009",
-                "matrix": "-1",
+                "matrix": "3382-1",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
                 "releases": [
                     {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
+                    {
                         "label": "Re",
-                        "catalog": "R-6185",
-                        "flags": "‡"
+                        "catalog": "R-6185"
                     }
                 ],
                 "desor": "DE6530i"
@@ -5809,7 +6091,7 @@
             {
                 "type": "take",
                 "index": "65-03-17-010",
-                "matrix": "-2",
+                "matrix": "3382-2",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
                 "releases": [],
                 "desor": "DE6530j"
@@ -5817,7 +6099,7 @@
             {
                 "type": "take",
                 "index": "65-03-17-011",
-                "matrix": "-3",
+                "matrix": "3382-3",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
                 "releases": [],
                 "desor": "DE6530k"
@@ -5825,7 +6107,7 @@
             {
                 "type": "take",
                 "index": "65-03-17-012",
-                "matrix": "-4",
+                "matrix": "3382-4",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
                 "releases": [],
                 "desor": "DE6530l"
@@ -5833,7 +6115,7 @@
             {
                 "type": "take",
                 "index": "65-03-17-013",
-                "matrix": "-5",
+                "matrix": "3382-5",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
                 "releases": [],
                 "desor": "DE6530m"
@@ -5841,7 +6123,7 @@
             {
                 "type": "take",
                 "index": "65-03-17-014",
-                "matrix": null,
+                "matrix": "3382",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
                 "releases": [],
                 "desor": "DE6530n"
@@ -5849,12 +6131,18 @@
             {
                 "type": "take",
                 "index": "65-03-17-015",
-                "matrix": "-8",
+                "matrix": "3382-8",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
                 "releases": [
                     {
+                        "label": "Ms",
+                        "catalog": "MD5-193",
+                        "flags": "*"
+                    },
+                    {
                         "label": "Re",
-                        "catalog": "R-6185"
+                        "catalog": "R-6185",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE6530o"
@@ -5944,9 +6232,13 @@
             {
                 "type": "take",
                 "index": "65-03-17-024",
-                "matrix": "-1",
+                "matrix": "3374-1",
                 "title": "Things Ain't What They Used To Be",
                 "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
                     {
                         "label": "Re",
                         "catalog": "R-6185"
@@ -5988,7 +6280,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk) acc. by Jimmy Hamilton(cl); Russell Procope (cl); Harry Carney(bcl)"
+                "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
             },
             {
                 "type": "take",
@@ -6009,20 +6301,44 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "Cleveland, OH",
-        "date": "26 March 1965",
-        "description": "Pre-recording for the Westinghouse Broadcasting Company's telecast \"Mike Douglas Show\". KYW-TV studio.",
+        "group": "DUKE ELLINGTON",
+        "location": "Minneapolis, MN",
+        "date": "23 March 1965",
+        "description": "Broadcast, backstage of Tyrone Guthrie Theatre.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Duke Ellington, Leigh Kamman(tk)."
+            },
+            {
+                "type": "take",
+                "index": "65-03-23-001",
+                "matrix": null,
+                "title": "Interview by Kamman",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "Two parts of the interview are at https://www.youtube.com/watch?v=4sEilYrvPRg and https://www.youtube.com/watch?v=sy5chINeXHw."
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "Cleveland, OH",
+        "date": "26 March 1965",
+        "description": "Pre-recording for the Westinghouse Broadcasting Company's telecast \"Mike Douglas Show\", on the air on April 16. KYW-TV studio.",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
                 "index": "65-03-26-001",
                 "matrix": null,
-                "title": "Take The \"A\" Train",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE6532a"
             },
@@ -6082,7 +6398,7 @@
                 "type": "take",
                 "index": "65-03-26-007",
                 "matrix": null,
-                "title": "Take The \"A\" Train",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE6532g"
             },
@@ -6096,11 +6412,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "31 March 1965",
-        "description": "Reprise recording Session",
+        "description": "Duke Ellington recording session. Universal Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6188,11 +6504,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "14 April 1965",
-        "description": "Duke Ellington recording Session",
+        "description": "Duke Ellington recording session, Fine Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Richard Williams(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Richard Williams(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6224,6 +6540,10 @@
                 "matrix": "-4",
                 "title": "Mysterious Chick",
                 "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
                     {
                         "label": "Re",
                         "catalog": "R-6185"
@@ -6301,6 +6621,10 @@
                 "matrix": "-8",
                 "title": "Barefoot Stomper",
                 "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
                     {
                         "label": "Re",
                         "catalog": "R-6185"
@@ -6384,6 +6708,10 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Island Virgin",
                 "releases": [
                     {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
+                    {
                         "label": "Re",
                         "catalog": "R-6185"
                     }
@@ -6405,6 +6733,10 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Virgin Jungle",
                 "releases": [
                     {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
+                    {
                         "label": "Re",
                         "catalog": "R-6185"
                     }
@@ -6416,7 +6748,18 @@
                 "index": "65-04-14-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Virgin Jungle",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193",
+                        "flags": "*"
+                    },
+                    {
+                        "label": "Re",
+                        "catalog": "R-6185",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6533w"
             },
             {
@@ -6424,13 +6767,7 @@
                 "index": "65-04-14-024",
                 "matrix": "-1",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Fiddler On The Diddle",
-                "releases": [
-                    {
-                        "label": "Re",
-                        "catalog": "R-6185",
-                        "flags": "‡"
-                    }
-                ],
+                "releases": [],
                 "desor": "DE6533x"
             },
             {
@@ -6438,7 +6775,16 @@
                 "index": "65-04-14-025",
                 "matrix": "-2",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Fiddler On The Diddle",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
+                    {
+                        "label": "Re",
+                        "catalog": "R-6185"
+                    }
+                ],
                 "desor": "DE6533y"
             },
             {
@@ -6467,6 +6813,10 @@
                 "desor": "DE6533aa"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+            },
+            {
                 "type": "take",
                 "index": "65-04-14-028",
                 "matrix": "-1",
@@ -6484,6 +6834,10 @@
                 "desor": "DE6533ab"
             },
             {
+                "type": "artists",
+                "value": "As before."
+            },
+            {
                 "type": "take",
                 "index": "65-04-14-029",
                 "matrix": "-2",
@@ -6498,6 +6852,10 @@
                 "title": "Big Fat Alice's Blues",
                 "releases": [
                     {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    },
+                    {
                         "label": "Re",
                         "catalog": "R-6185"
                     }
@@ -6510,11 +6868,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "18 May 1965",
-        "description": "Duke Ellington recording Session",
+        "description": "Duke Ellington recording session. Universal Studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Paul Serrano(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Paul Serrano, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6618,11 +6976,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "20 May 1965",
-        "description": "Duke Ellington recording Session",
+        "description": "Duke Ellington recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Paul Serrano(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Paul Serrano, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6691,7 +7049,7 @@
             },
             {
                 "type": "artists",
-                "value": "Ray Nance(t); Jimmy Hamilton(ts); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Ray Nance(t); Jimmy Hamilton(ts); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6716,13 +7074,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, n/k(tk)"
+                "value": "Duke Ellington, John Grams(tk)."
             },
             {
                 "type": "take",
                 "index": "65-05-28-001",
                 "matrix": null,
-                "title": "Interview",
+                "title": "Interview by Grams",
                 "releases": [],
                 "desor": "DE6536a"
             }
@@ -6732,11 +7090,11 @@
         "group": "DUKE ELLINGTON",
         "location": "Washington, DC",
         "date": "04 June 1965",
-        "description": "Broadcast,Voice of America",
+        "description": "Voice of America broadcast \"Jazz Hour\". Voice of America studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Willis Conover(tk)"
+                "value": "Duke Ellington, Willis Conover(tk)."
             },
             {
                 "type": "take",
@@ -6745,6 +7103,10 @@
                 "title": "Interview by Conover",
                 "releases": [],
                 "desor": "DE6537a"
+            },
+            {
+                "type": "note",
+                "content": "The subject of the interview is the 1940's Fargo concert."
             }
         ]
     },
@@ -6752,11 +7114,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Washington, DC",
         "date": "14 June 1965",
-        "description": "Concert, White House",
+        "description": "Concert, \"Festival Of The American Arts\", White House",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Richard Williams(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6818,7 +7180,7 @@
                 "type": "take",
                 "index": "65-06-14-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
                 "releases": [],
                 "desor": "DE6538g"
             },
@@ -6900,11 +7262,11 @@
         "group": "JAZZ PIANO WORKSHOP",
         "location": "Pittsburgh, PA",
         "date": "20 June 1965",
-        "description": "Concert, Civic Arena",
+        "description": "Concert, \"Pittsburgh Jazz Festival\", Civic Arena",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Larry Gales(sb); Ben Riley(d)"
+                "value": "Duke Ellington(p); Larry Gales(sb); Ben Riley(d)."
             },
             {
                 "type": "take",
@@ -6921,6 +7283,10 @@
                         "catalog": "2178-2-RB"
                     },
                     {
+                        "label": "Ms",
+                        "catalog": "MCD-1012"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "22",
@@ -6932,28 +7298,11 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington, Earl Hines, Billy Taylor(p)"
+                "value": "Duke Ellington, Earl Hines(p); Larry Gales(sb); Ben Riley(d)."
             },
             {
                 "type": "take",
                 "index": "65-06-20-002",
-                "matrix": null,
-                "title": "Sweet Lorraine",
-                "releases": [
-                    {
-                        "label": "RCA",
-                        "catalog": "LPM-3499"
-                    }
-                ],
-                "desor": "DE6539b"
-            },
-            {
-                "type": "artists",
-                "value": "Duke Ellington, Earl Hines(p); Larry Gales(sb); Ben Riley(d)"
-            },
-            {
-                "type": "take",
-                "index": "65-06-20-003",
                 "matrix": "TPA5-3356",
                 "title": "House Of Lords",
                 "releases": [
@@ -6964,6 +7313,10 @@
                     {
                         "label": "Bb",
                         "catalog": "2178-2-RB"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MCD-1012"
                     },
                     {
                         "label": "RCA",
@@ -6981,11 +7334,11 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
-                "index": "65-06-20-004",
+                "index": "65-06-20-003",
                 "matrix": "TPA5-3353",
                 "title": "The Second Portrait Of The Lion",
                 "releases": [
@@ -6996,6 +7349,10 @@
                     {
                         "label": "Bb",
                         "catalog": "2178-2-RB"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MCD-1012"
                     },
                     {
                         "label": "RCA",
@@ -7010,6 +7367,10 @@
                     }
                 ],
                 "desor": "DE6539d"
+            },
+            {
+                "type": "note",
+                "content": "NDESOR authors decided to remove Sweet Lorraine (DE6539b), because a non-Ellington item, Correction Sheet 5005. Ben Young in the liner notes of Bb 09026-63953-2 explains: «The Pittsburgh Piano Workshop was so spontaneous that Billy Taylor's announcement of a Hines-Ellington duet was followed instead by Sweet Lorraine, a Taylor and Hines duet. The location engineers were confused and left Ellington's name alongside Sweet Lorraine on the tape box, which explains why this item was long thought to include all three pianists.»"
             }
         ]
     },
@@ -7017,17 +7378,17 @@
         "group": "BILLY STRAYHORN COMBO",
         "location": "New York City, NY",
         "date": "30 June 1965",
-        "description": "Duke Ellington recording Session",
+        "description": "Duke Ellington recording session, RCA studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Clark Terry(t); Bob Wilbur(ss); Duke Ellington, Billy Strayhorn(p); Wendell Marshall(sb); Dave Bailey(d)"
+                "value": "Clark Terry(t); Bob Wilber(ss); Duke Ellington, Billy Strayhorn(p); Wendell Marshall(sb); Dave Bailey(d)."
             },
             {
                 "type": "take",
                 "index": "65-06-30-001",
                 "matrix": null,
-                "title": "Smada",
+                "title": "Boo-Dah",
                 "releases": [
                     {
                         "label": "RB",
@@ -7042,23 +7403,18 @@
         "group": "BILLY STRAYHORN COMBO",
         "location": "New York City, NY",
         "date": "02 July 1965",
-        "description": "Duke Ellington recording Session",
+        "description": "Duke Ellington recording session, RCA studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Clark Terry(t); Willie Ruff(fh); Bob Wilbur(ss); Duke Ellington, Billy Strayhorn(p); Wendell Marshall(sb); Dave Bailey(d)"
+                "value": "Clark Terry(t); Willie Ruff(fh); Bob Wilber(ss); Duke Ellington, Billy Strayhorn(p); Wendell Marshall(sb); Dave Bailey(d)."
             },
             {
                 "type": "take",
                 "index": "65-07-02-001",
                 "matrix": "-1",
                 "title": "Pig Sty",
-                "releases": [
-                    {
-                        "label": "RB",
-                        "catalog": "AK-52760"
-                    }
-                ],
+                "releases": [],
                 "desor": "DE6541a"
             },
             {
@@ -7093,11 +7449,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "09 July 1965",
-        "description": "NBC telecast",
+        "description": "NBC telecast \"Today Show\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Johnny Hodges Junior(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Johnny Hodges Jr.(d)."
             },
             {
                 "type": "take",
@@ -7146,6 +7502,18 @@
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
                 "desor": "DE6542f"
+            },
+            {
+                "type": "artists",
+                "value": "Cat Anderson(t); Paul Gonsalves(ts); Duke Ellington(p); John Lamb(sb); Johnny Hodges Jr.(d)."
+            },
+            {
+                "type": "take",
+                "index": "65-07-09-007",
+                "matrix": null,
+                "title": "Misty",
+                "releases": [],
+                "desor": "DE654ga"
             }
         ]
     },
@@ -7154,15 +7522,19 @@
         "location": null,
         "date": "09 July 1965",
         "same_session": true,
-        "description": "Duke Ellington, n/k(tk)",
+        "description": "Duke Ellington, n/k(tk).",
         "entries": [
             {
                 "type": "take",
-                "index": "65-07-09-007",
+                "index": "65-07-09-008",
                 "matrix": null,
                 "title": "Interview",
                 "releases": [],
-                "desor": "DE6542g"
+                "desor": "DE6542h"
+            },
+            {
+                "type": "note",
+                "content": "Interview through the whole session."
             }
         ]
     },
@@ -7170,11 +7542,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Stamford, CT",
         "date": "10 July 1965",
-        "description": "Concert, Exio Pinza Theatre",
+        "description": "Concert, Ezio Pinza Theatre",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7186,7 +7558,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Benny Goodman(cl)"
+                "value": "Add Benny Goodman(cl)."
             },
             {
                 "type": "take",
@@ -7206,7 +7578,7 @@
             },
             {
                 "type": "artists",
-                "value": "Benny Goodman out"
+                "value": "Benny Goodman out."
             },
             {
                 "type": "take",
@@ -7329,12 +7701,20 @@
                 "desor": null
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p); John Lamb(sb); Sam Woodyard(d) only."
+            },
+            {
                 "type": "take",
                 "index": "65-07-10-018",
                 "matrix": null,
-                "title": "Single Petal Of A Rose (Rhythm section only)",
+                "title": "Single Petal Of A Rose",
                 "releases": [],
                 "desor": "DE6543j"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -7371,14 +7751,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND WITH ARTHUR FIEDLER AND THE BOSTON POPS ORCH.",
+        "group": "DUKE ELLINGTON WITH ARTHUR FIEDLER AND THE BOSTON POPS ORCH.",
         "location": "Tanglewood, MA",
         "date": "28 July 1965",
-        "description": "Rehearsal Session, Music Barn",
+        "description": "Rehearsal session, Music Barn",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); John Lamb(sb); Louie Bellson(d); The Boston Pops Orchestra conducted by Arthur Fiedler"
+                "value": "Duke Ellington(p); John Lamb(sb); Louie Bellson(d); The Boston Pops Orchestra, Arthur Fiedler(con)."
             },
             {
                 "type": "take",
@@ -7389,10 +7769,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028a"
@@ -7406,10 +7782,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028b"
@@ -7423,10 +7795,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028c"
@@ -7440,10 +7808,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028d"
@@ -7457,10 +7821,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028e"
@@ -7474,10 +7834,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028f"
@@ -7491,10 +7847,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028g"
@@ -7508,10 +7860,6 @@
                     {
                         "label": "Bb",
                         "catalog": "09026-63953-2"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "0902663953-2"
                     }
                 ],
                 "desor": "DE9028h"
@@ -7519,14 +7867,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND WITH ARTHUR FIEDLER AND THE BOSTON POPS ORCH.",
+        "group": "DUKE ELLINGTON WITH ARTHUR FIEDLER AND THE BOSTON POPS ORCH.",
         "location": "Tanglewood, MA",
         "date": "28 July 1965",
         "description": "Concert, Music Barn",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); John Lamb(sb); Louie Bellson(d); The Boston Pops Orchestra conducted by Arthur Fiedler"
+                "value": "Duke Ellington(p); John Lamb(sb); Louie Bellson(d); The Boston Pops Orchestra, Arthur Fiedler(con)."
             },
             {
                 "type": "take",
@@ -7794,7 +8142,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -7815,18 +8163,22 @@
                     }
                 ],
                 "desor": "DE6544xa"
+            },
+            {
+                "type": "note",
+                "content": "All tltles arranged by Richard Hayman. Between 6544h and 6544i is performed Timon Of Athens March without Ellington."
             }
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND WITH ARTHUR FIEDLER AND THE BOSTON POPS ORCH.",
+        "group": "DUKE ELLINGTON WITH THE NEW YORK PHILHARMONIC ORCHESTRA",
         "location": "New York City, NY",
         "date": "31 July 1965",
-        "description": "Concert, Music Barn",
+        "description": "Concert, \"French-American Festival\", Philharmonic Hall",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); John Lamb(sb); Louie Bellson(d); The Boston Pops Orchestra conducted by Arthur Fiedler"
+                "value": "Duke Ellington(p,con);     Lamb(sb); Louie Bellson(d); The New York Philharmonic Orchestra, Leonard Rose(ce)."
             },
             {
                 "type": "take",
@@ -7870,15 +8222,19 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk); New York Philharmonic Orchestra cond. Lucas Foss"
+                "value": "Duke Ellington(tk); The New York Philharmonic Orchestra, Lukas Foss(con)."
             },
             {
                 "type": "take",
                 "index": "65-07-31-005",
                 "matrix": null,
-                "title": "Duke talking bout Aaron Copeland's \"Preamble For A Solemn Occasion",
+                "title": "Aaron Copland's \"Preamble For A Solemn Occasion\"",
                 "releases": [],
                 "desor": "DE6545e"
+            },
+            {
+                "type": "note",
+                "content": "The concert took place on July 30 and was repeated on July 31, and it is possible that these recordings were made on July 30. In \"Preamble For A Solemn Occasion\" Ellington recites  the text, an extract of the United Nations' Declaration of Human Rights, that is integral part of Aaron Copland's composition."
             }
         ]
     },
@@ -7887,11 +8243,11 @@
         "location": "New York City, NY",
         "date": "July/August 1965",
         "index_date": 650800,
-        "description": "CBS pre-recording",
+        "description": "CBS pre-recording for the broadcast \"Voices Of Vista No.3\". CBS studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk)"
+                "value": "Duke Ellington(tk)."
             },
             {
                 "type": "take",
@@ -7900,6 +8256,10 @@
                 "title": "Duke talking about some Reprise recordings",
                 "releases": [],
                 "desor": "DE6546a"
+            },
+            {
+                "type": "note",
+                "content": "Duke Ellington is introduced by Willis Conover."
             }
         ]
     },
@@ -7911,7 +8271,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, n/k(tk)"
+                "value": "Duke Ellington, n/k(tk)."
             },
             {
                 "type": "take",
@@ -7920,6 +8280,10 @@
                 "title": "Interview",
                 "releases": [],
                 "desor": "DE6547a"
+            },
+            {
+                "type": "note",
+                "content": "\"Musician Of The Year\" awards ceremony."
             }
         ]
     },
@@ -7927,11 +8291,11 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "02 August 1965",
-        "description": "NBC telecast",
+        "description": "NBC telecast \"Tonight Show\", NBC studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p,tk); Joey Bishop, Skitch Henderson(tk)"
+                "value": "Duke Ellington(p,tk); Joey Bishop, Skitch Henderson(tk)."
             },
             {
                 "type": "take",
@@ -7959,7 +8323,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -8072,6 +8436,10 @@
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
                 "desor": "DE6548n"
+            },
+            {
+                "type": "note",
+                "content": "Parts of several selections of this session have been released on DVD EV EREDV-490."
             }
         ]
     },
@@ -8083,7 +8451,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -8126,6 +8494,10 @@
                 "desor": "DE6549d"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
+            },
+            {
                 "type": "take",
                 "index": "65-08-26-005",
                 "matrix": null,
@@ -8135,13 +8507,13 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p) solo."
             },
             {
                 "type": "take",
                 "index": "65-08-26-006",
                 "matrix": null,
-                "title": "¬ Unidentified \"L\"",
+                "title": "¬ Unidentified (\"L\" in NDESOR)",
                 "releases": [],
                 "desor": "DE6549f"
             },
@@ -8155,7 +8527,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -8300,6 +8672,10 @@
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
                 "desor": "DE6549o"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Louis Bellson only; Nagoya by Duke Ellington only. Parts of several selections of this session have been released on DVD EV EREDV-490."
             }
         ]
     },
@@ -8307,11 +8683,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "San Francisco, CA",
         "date": "30 August 1965",
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session, Coast Recorders Studio",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Nat Adderley, Alan Smith(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cootie Williams, Cat Anderson, Nat Adderley, Allen Smith(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -8352,8 +8728,8 @@
                 "title": "Imagine My Frustration (When I'm Feelin' Kinda Blue)",
                 "releases": [
                     {
-                        "label": "MM",
-                        "catalog": "5041-2C"
+                        "label": "Sa",
+                        "catalog": "91232-2"
                     }
                 ],
                 "desor": "DE6550e"
@@ -8397,8 +8773,8 @@
                 "title": "El Viti",
                 "releases": [
                     {
-                        "label": "MM",
-                        "catalog": "5041-2C"
+                        "label": "Sa",
+                        "catalog": "91232-2"
                     }
                 ],
                 "desor": "DE6550j"
@@ -8408,7 +8784,13 @@
                 "index": "65-08-30-011",
                 "matrix": null,
                 "title": "El Viti",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sa",
+                        "catalog": "91232-2",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6550k"
             },
             {
@@ -8416,7 +8798,13 @@
                 "index": "65-08-30-012",
                 "matrix": null,
                 "title": "El Viti",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sa",
+                        "catalog": "91232-2",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6550l"
             },
             {
@@ -8450,8 +8838,8 @@
                 "title": "Soul Call (Countdown)",
                 "releases": [
                     {
-                        "label": "MM",
-                        "catalog": "5041-2C"
+                        "label": "Sa",
+                        "catalog": "91232-2"
                     }
                 ],
                 "desor": "DE6550p"
@@ -8501,7 +8889,13 @@
                 "index": "65-08-30-022",
                 "matrix": "-6",
                 "title": "Trombone Buster",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "5041-2C",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6550v"
             },
             {
@@ -8535,7 +8929,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Jon Hendricks, Herman McCoy Choir, Grace Cathedral Choir"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Jon Hendricks, Herman McCoy Choir, Grace Cathedral Choir(v)."
             },
             {
                 "type": "take",
@@ -8550,7 +8944,13 @@
                 "index": "65-09-16-001",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Come Sunday",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6551a"
             },
             {
@@ -8558,22 +8958,34 @@
                 "index": "65-09-16-002",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Light (Montage)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6551b"
             },
             {
                 "type": "take",
                 "index": "65-09-16-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Tell Me It's The Truth",
-                "releases": [],
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Tell Me It's The Truth - vEM",
+                "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6551c"
             },
             {
                 "type": "take",
                 "index": "65-09-16-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. We Shall Walk This Lonesome Valley",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. We Shall Walk This Lonesome Valley - vGCC",
                 "releases": [],
                 "desor": "DE6551d"
             },
@@ -8581,7 +8993,7 @@
                 "type": "take",
                 "index": "65-09-16-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Only Joyful",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Only Joyful - vGCC",
                 "releases": [],
                 "desor": "DE6551e"
             },
@@ -8589,8 +9001,12 @@
                 "type": "take",
                 "index": "65-09-16-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. In The Beginning God",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. In The Beginning God - vJHe,HMC",
                 "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
                     {
                         "label": "Ss",
                         "catalog": "DSTS-1015"
@@ -8599,10 +9015,14 @@
                 "desor": "DE6551f"
             },
             {
+                "type": "artists",
+                "value": "Jimmy McPhail(tk); Herman McCoy Choir(v) only."
+            },
+            {
                 "type": "take",
                 "index": "65-09-16-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Will You Be There?",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Will You Be There? - vHMC",
                 "releases": [
                     {
                         "label": "Ss",
@@ -8612,10 +9032,14 @@
                 "desor": "DE6551g"
             },
             {
+                "type": "artists",
+                "value": "As before."
+            },
+            {
                 "type": "take",
                 "index": "65-09-16-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. 99% Won't Do",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. 99% Won't Do - vJMP,HMC",
                 "releases": [
                     {
                         "label": "Ss",
@@ -8628,8 +9052,12 @@
                 "type": "take",
                 "index": "65-09-16-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Ain't But The One",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Ain't But The One- vJMP,HMC",
                 "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
                     {
                         "label": "Ss",
                         "catalog": "DSTS-1015"
@@ -8638,11 +9066,19 @@
                 "desor": "DE6551i"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) solo."
+            },
+            {
                 "type": "take",
                 "index": "65-09-16-010",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. NEW WORLD A-COMIN'",
                 "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
                     {
                         "label": "Ss",
                         "catalog": "DSTS-1015"
@@ -8651,10 +9087,14 @@
                 "desor": "DE6551j"
             },
             {
+                "type": "artists",
+                "value": "As before."
+            },
+            {
                 "type": "take",
                 "index": "65-09-16-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;18. In The Beginning God",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;18. In The Beginning God - vJHe",
                 "releases": [
                     {
                         "label": "Ss",
@@ -8667,7 +9107,7 @@
                 "type": "take",
                 "index": "65-09-16-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. My Mother, My Father And Love",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. My Mother, My Father And Love - vJMP",
                 "releases": [
                     {
                         "label": "Ss",
@@ -8680,8 +9120,12 @@
                 "type": "take",
                 "index": "65-09-16-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer - vEM",
                 "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
                     {
                         "label": "Ss",
                         "catalog": "DSTS-1015"
@@ -8693,8 +9137,12 @@
                 "type": "take",
                 "index": "65-09-16-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14.Come Sunday",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Come Sunday - vEM",
                 "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
                     {
                         "label": "Ss",
                         "catalog": "DSTS-1015"
@@ -8704,14 +9152,18 @@
             },
             {
                 "type": "artists",
-                "value": "Add bunny Briggs(td)"
+                "value": "Add Bunny Briggs(td)."
             },
             {
                 "type": "take",
                 "index": "65-09-16-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;16. David Danced=Come Sunday",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;16. David Danced=Come Sunday - vJHe,HMC",
                 "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
                     {
                         "label": "Ss",
                         "catalog": "DSTS-1015"
@@ -8721,7 +9173,7 @@
             },
             {
                 "type": "artists",
-                "value": "Toney Watkins(v) solo"
+                "value": "Toney Watkins(v) solo."
             },
             {
                 "type": "take",
@@ -8735,6 +9187,10 @@
                     }
                 ],
                 "desor": "DE6551p"
+            },
+            {
+                "type": "note",
+                "content": "Between DE6551b and DE6551c are performed: Come Sunday, Do You Call That Religion?, My Lord What A Morning, Everytime I Feel The Spirit, Swing Low Sweet Chariot sung by the Grace Cathedral Choir only."
             }
         ]
     },
@@ -8742,18 +9198,24 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Monterey, CA",
         "date": "18 September 1965",
-        "description": "Concert, Festival Grounds",
+        "description": "Concert, Monterey Jazz Festival, Festival Grounds",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
                 "index": "65-09-18-001",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6552a"
             },
             {
@@ -8771,8 +9233,16 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
                 "releases": [
                     {
+                        "label": "FS",
+                        "catalog": "40063"
+                    },
+                    {
                         "label": "IGDJ",
                         "catalog": "GJ-64"
+                    },
+                    {
+                        "label": "LRC",
+                        "catalog": "CDC-7680"
                     }
                 ],
                 "desor": "DE6552b"
@@ -8784,8 +9254,20 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
                 "releases": [
                     {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
+                    {
+                        "label": "FS",
+                        "catalog": "40063"
+                    },
+                    {
                         "label": "IGDJ",
                         "catalog": "GJ-64"
+                    },
+                    {
+                        "label": "LRC",
+                        "catalog": "CDC-7680"
                     }
                 ],
                 "desor": "DE6552c"
@@ -8797,8 +9279,20 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
                 "releases": [
                     {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
+                    {
+                        "label": "FS",
+                        "catalog": "40063"
+                    },
+                    {
                         "label": "IGDJ",
                         "catalog": "GJ-64"
+                    },
+                    {
+                        "label": "LRC",
+                        "catalog": "CDC-7680"
                     }
                 ],
                 "desor": "DE6552d"
@@ -8810,8 +9304,20 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
                 "releases": [
                     {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    },
+                    {
+                        "label": "FS",
+                        "catalog": "40063"
+                    },
+                    {
                         "label": "IGDJ",
                         "catalog": "GJ-64"
+                    },
+                    {
+                        "label": "LRC",
+                        "catalog": "CDC-7680"
                     }
                 ],
                 "desor": "DE6552e"
@@ -8823,8 +9329,16 @@
                 "title": "Chelsea Bridge",
                 "releases": [
                     {
+                        "label": "FS",
+                        "catalog": "40063"
+                    },
+                    {
                         "label": "IGDJ",
                         "catalog": "GJ-79"
+                    },
+                    {
+                        "label": "Mlp",
+                        "catalog": "9362-46703-2"
                     }
                 ],
                 "desor": "DE6552f"
@@ -8835,6 +9349,10 @@
                 "matrix": null,
                 "title": "In The Beginning God (Olds)",
                 "releases": [
+                    {
+                        "label": "FS",
+                        "catalog": "40063"
+                    },
                     {
                         "label": "IGDJ",
                         "catalog": "GJ-79"
@@ -8900,7 +9418,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Esther Marrow(v)"
+                "value": "Add Esther Marrow(v)."
             },
             {
                 "type": "take",
@@ -8928,7 +9446,7 @@
             },
             {
                 "type": "artists",
-                "value": "Esther Marrow out. Add Bunny Briggs (td,v)"
+                "value": "Esther Marrow out. Add Bunny Briggs(td,v)."
             },
             {
                 "type": "take",
@@ -8956,7 +9474,7 @@
             },
             {
                 "type": "artists",
-                "value": "As Before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -8997,6 +9515,10 @@
                 "title": "_|Rockin' In Rhythm",
                 "releases": [],
                 "desor": "DE6552y"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Louis Bellson only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -9008,7 +9530,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Ralph Gleason(tk)"
+                "value": "Duke Ellington, Ralph Gleason(tk)."
             },
             {
                 "type": "take",
@@ -9020,7 +9542,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(ep)"
+                "value": "Duke Ellington(ep)."
             },
             {
                 "type": "take",
@@ -9081,7 +9603,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Billy Strayhorn(p); Duke Ellington(tk)"
+                "value": "Billy Strayhorn(p); Duke Ellington(tk)."
             },
             {
                 "type": "take",
@@ -9092,8 +9614,8 @@
                 "desor": "DE6553h"
             },
             {
-                "type": "artists",
-                "value": "                                                          Note: The Strayhorn performance was pre-recorded on 14 August 1965"
+                "type": "note",
+                "content": "Note: The Strayhorn performance was pre-recorded on 14 August 1965. Parts of several selections of this session have been released on DVD EV EREDV-490."
             }
         ]
     },
@@ -9105,7 +9627,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Jon Hendricks(v)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Jon Hendricks(v)."
             },
             {
                 "type": "take",
@@ -9186,6 +9708,10 @@
                 "title": "In The Beginning God (Olds)",
                 "releases": [],
                 "desor": "DE6554j"
+            },
+            {
+                "type": "note",
+                "content": "Parts of several selections of this session have been released on DVD EV EREDV-490."
             }
         ]
     },
@@ -9194,23 +9720,28 @@
         "location": "San Francisco, CA",
         "date": "September 1965",
         "index_date": 650925,
-        "description": "Pre-recording for N.E.T. telecast",
+        "description": "Pre-recording for N.E.T. telecast \"Duke Ellington: Love You Madly\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Ralph Gleason(tk)"
+                "value": "Duke Ellington, Ralph Gleason(tk)."
             },
             {
                 "type": "take",
                 "index": "65-09-25-001",
                 "matrix": null,
                 "title": "Interview by Gleason",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "EV",
+                        "catalog": "EREDV-490"
+                    }
+                ],
                 "desor": "DE6555a"
             },
             {
-                "type": "artists",
-                "value": "Note: Musical excerpts come from previous performances; 25, 26 Aug; 16,18, 20 Sep; "
+                "type": "note",
+                "content": "Note: The telecast was on the air on June 14, 1967. Musical excerpts come from previous performances; 25, 26 Aug; 16,18, 20 Sep."
             }
         ]
     },
@@ -9219,11 +9750,11 @@
         "location": "Vancouver, CDN",
         "date": "September 1965",
         "index_date": 650930,
-        "description": "CBC broadcast",
+        "description": "CBC broadcast \"Strictly Jazz\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Bob Smith(tk)"
+                "value": "Duke Ellington, Bob Smith(tk)."
             },
             {
                 "type": "take",
@@ -9244,7 +9775,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk)"
+                "value": "Duke Ellington(tk)."
             },
             {
                 "type": "take",
@@ -9258,7 +9789,7 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "SP-330394"
+                        "catalog": "SP-33-394"
                     }
                 ],
                 "desor": "DE9029a"
@@ -9266,7 +9797,7 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "ELLA FITZGERALD WITH DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "18, 19, 20 October 1965",
         "index_date": 651018,
@@ -9274,7 +9805,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Jimmy Jones(p); John Lamb(sb); Louie Bellson(d); Ella Fitzgerald(v)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Jimmy Jones(p); John Lamb(sb); Louie Bellson(d); Ella Fitzgerald(v)."
             },
             {
                 "type": "take",
@@ -9304,7 +9835,7 @@
             },
             {
                 "type": "artists",
-                "value": "Jimmy Jones out. Add Duke Ellington(p)"
+                "value": "Jimmy Jones out. Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -9321,7 +9852,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington out. Add Jimmy Jones(p)"
+                "value": "Duke Ellington out. Add Jimmy Jones(p)."
             },
             {
                 "type": "take",
@@ -9359,7 +9890,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Duke Ellington(p)"
+                "value": "Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -9448,7 +9979,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington out. Add Jimmy Jones(p)"
+                "value": "Duke Ellington out. Add Jimmy Jones(p)."
             },
             {
                 "type": "take",
@@ -9477,11 +10008,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "24 October 1965",
-        "description": "Verve recording session",
+        "description": "CBS telecast \"Ed Sullivan Show\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -9550,11 +10081,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Stanford, CA",
         "date": "31 October 1965",
-        "description": "Concert, Frost Ampitheatre, Stanford University",
+        "description": "Concert, Frost Amphitheatre, Stanford University",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny \nHodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -9755,6 +10286,10 @@
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
                 "desor": "DE6559n"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb and Louie Bellson only; Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -9762,18 +10297,23 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "05 December 1965",
-        "description": "NBC broadcast",
+        "description": "NBC broadcast \"Bell Telephone Hour - The Music of Harold Arlen\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Dinah Shore(v)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
                 "index": "65-12-05-001",
                 "matrix": null,
                 "title": "Stormy Weather",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD-4371"
+                    }
+                ],
                 "desor": "DE6560a"
             },
             {
@@ -9781,15 +10321,29 @@
                 "index": "65-12-05-002",
                 "matrix": null,
                 "title": "Between The Devil And The Deep Blue Sea",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD-4371"
+                    }
+                ],
                 "desor": "DE6560b"
+            },
+            {
+                "type": "artists",
+                "value": "Add Dinah Shore(v)."
             },
             {
                 "type": "take",
                 "index": "65-12-05-003",
                 "matrix": null,
                 "title": "Blues In The Night - vDSh",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD-4371"
+                    }
+                ],
                 "desor": "DE6560c"
             }
         ]
@@ -9798,11 +10352,11 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "10 December 1965",
-        "description": "CBS broadcast",
+        "description": "CBS broadcast \"Lincoln Center Spotlight\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Jim Fawcett(tk)"
+                "value": "Duke Ellington, Jim Fawcett(tk)."
             },
             {
                 "type": "take",
@@ -9823,7 +10377,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -9843,7 +10397,7 @@
             },
             {
                 "type": "note",
-                "content": "The telecast title is \"The Strollin' 20's\", on the air on February 21, 1966. During the telecast the Ellington orchestra was overdubbed by a studio group. The telecast includes also \"It Don't Mean A Thing\", performed by a studio orchestra only."
+                "content": "The telecast title is \"The Strollin' Twenties\", on the air on February 21, 1966. During the telecast the Ellington orchestra was overdubbed by a studio group. The telecast includes also \"It Don't Mean A Thing\", performed by a studio orchestra only."
             }
         ]
     },
@@ -9852,11 +10406,11 @@
         "location": "New York City, NY",
         "date": "December 1965",
         "index_date": 651220,
-        "description": "Pre-recording for RAI telecast",
+        "description": "Pre-recording for RAI telecast, Ellington Home and Tempo Music",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington, Ruggero Orlando(tk)"
+                "value": "Duke Ellington, Ruggero Orlando(tk)."
             },
             {
                 "type": "take",
@@ -9868,7 +10422,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -9885,6 +10439,10 @@
                 "title": "In The Beginning God",
                 "releases": [],
                 "desor": "DE6563c"
+            },
+            {
+                "type": "note",
+                "content": "The telecast title is \"Incontri. Duke Ellington: Jazz e simpatia\", on the air on April 1, 1966. Interview through the whole session."
             }
         ]
     },
@@ -9892,11 +10450,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "26 December 1965",
-        "description": "1st Sacred Concert. Fifth Avenue Presbyterian Church",
+        "description": "1st concert. Fifth Avenue Presbyterian Church",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb, James McKeever(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Brock Peters, Herman McCoy Choir(v)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Brock Peters, Herman McCoy Choir(v)."
             },
             {
                 "type": "take",
@@ -9971,7 +10529,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn(p); Lena Horne(v)"
+                "value": "Billy Strayhorn(p); Lena Horne(v) only."
             },
             {
                 "type": "take",
@@ -9995,7 +10553,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "Duke Ellington(p) solo."
             },
             {
                 "type": "take",
@@ -10018,6 +10576,10 @@
                 "desor": "DE6564f"
             },
             {
+                "type": "artists",
+                "value": "Jimmy McPhail(tk); Herman McCoy Choir(v) only."
+            },
+            {
                 "type": "take",
                 "index": "65-12-26-007",
                 "matrix": null,
@@ -10029,6 +10591,10 @@
                     }
                 ],
                 "desor": "DE6564g"
+            },
+            {
+                "type": "artists",
+                "value": "Full orchestra and choir, as before."
             },
             {
                 "type": "take",
@@ -10067,7 +10633,7 @@
                 "type": "take",
                 "index": "65-12-26-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14.Come Sunday",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Come Sunday - vEM",
                 "releases": [
                     {
                         "label": "MSS",
@@ -10080,7 +10646,7 @@
                 "type": "take",
                 "index": "65-12-26-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer - vEM",
                 "releases": [
                     {
                         "label": "MSS",
@@ -10091,7 +10657,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Bunny Briggs(td)"
+                "value": "Add Bunny Briggs(td)."
             },
             {
                 "type": "take",
@@ -10108,7 +10674,7 @@
             },
             {
                 "type": "artists",
-                "value": "Toney Watkins(v) solo"
+                "value": "Toney Watkins(v) solo."
             },
             {
                 "type": "take",
@@ -10125,7 +10691,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Herman McCoy Choir(v)"
+                "value": "Duke Ellington(p); Herman McCoy Choir(v)."
             },
             {
                 "type": "take",
@@ -10139,6 +10705,10 @@
                     }
                 ],
                 "desor": "DE6564n"
+            },
+            {
+                "type": "note",
+                "content": "Between DE6564a and DE6564b are performed: a piece by Mrs. Gensel and Come Sunday, I Cried Then I Cried, Swing Low Sweet Chariot sung by the Herman McCoy Choir; between DE6564c and DE6564d is performed Praise Ye The Lord sung by Mother A.M.E. Zion Cathedral Choir; between DE6564k and DE6564l is performed O Magnify The Lord With Me sung by the Fifth Avenue Presbyterian Church Choir."
             }
         ]
     },
@@ -10146,11 +10716,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "26 December 1965",
-        "description": "1st Sacred Concert. Fifth Avenue Presbyterian Church",
+        "description": "2nd concert. Fifth Avenue Presbyterian Church",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper, Quentin Jackson(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Brock Peters, Herman McCoy Choir(v)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper, Quentin Jackson(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Brock Peters, Herman McCoy Choir(v)."
             },
             {
                 "type": "take",
@@ -10182,7 +10752,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn(p); Lena Horne(v)"
+                "value": "Billy Strayhorn(p); Lena Horne(v) only."
             },
             {
                 "type": "take",
@@ -10202,7 +10772,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -10233,6 +10803,10 @@
                 "desor": "DE6565d"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) only."
+            },
+            {
                 "type": "take",
                 "index": "65-12-26-019",
                 "matrix": null,
@@ -10253,6 +10827,10 @@
                 "desor": "DE6565e"
             },
             {
+                "type": "artists",
+                "value": "Jimmy McPhail(tk); Herman McCoy Choir(v) only."
+            },
+            {
                 "type": "take",
                 "index": "65-12-26-020",
                 "matrix": null,
@@ -10271,6 +10849,10 @@
                     }
                 ],
                 "desor": "DE6565f"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -10304,7 +10886,7 @@
                 "type": "take",
                 "index": "65-12-26-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. My Mother, My Father And Love",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. My Mother, My Father And Love - vJMP",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10320,7 +10902,7 @@
                 "type": "take",
                 "index": "65-12-26-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14.Come Sunday",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Come Sunday - vEM",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10340,7 +10922,7 @@
                 "type": "take",
                 "index": "65-12-26-025",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer - vEM",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10358,7 +10940,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Bunny Briggs(td)"
+                "value": "Add Bunny Briggs(td)."
             },
             {
                 "type": "take",
@@ -10382,7 +10964,7 @@
             },
             {
                 "type": "artists",
-                "value": "Toney Watkins(v) solo"
+                "value": "Toney Watkins(v) solo."
             },
             {
                 "type": "take",
@@ -10394,7 +10976,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Herman McCoy Choir(v)"
+                "value": "Duke Ellington(p); Herman McCoy Choir(v)."
             },
             {
                 "type": "take",
@@ -10403,6 +10985,10 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;18. In The Beginning God - vHMC",
                 "releases": [],
                 "desor": "DE6565n"
+            },
+            {
+                "type": "note",
+                "content": "Between DE6565a and DE6565b are performed: Come Sunday, I Cried Then I Cried, Swing Low Sweet Chariot sung by the Herman McCoy Choir; between DE6565d and DE6565e is performed a piece by Mrs. Gensel; between DE6565b and DE6565c is performed  Praise Ye The Lord sung by Mother A.M.E. Zion Cathedral Choir; between DE6565i and DE6565j is performed O Magnify The Lord With Me sung by the Fifth Avenue Presbyterian Church Choir."
             }
         ]
     },
@@ -10410,11 +10996,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Worcester, MA",
         "date": "31 December 1965",
-        "description": "NBC broadcast",
+        "description": "NBC broadcast \"All Star Parade of Bands\", Memorial Auditorium",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope\n(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)"
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); n/k(d)."
             },
             {
                 "type": "take",

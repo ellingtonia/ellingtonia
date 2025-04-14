@@ -15,6 +15,7 @@ additional corrections pending.
 * Many fixes for 1963
 * Small fixes for 1949, 1962
 * 1964 corrections
+* 1965
 
 ## March 2025
 * Fixes for 1940, 1943-1946
