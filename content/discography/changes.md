@@ -23,6 +23,7 @@ additional corrections pending.
 * 1963 spot corrections.
 * 1965 tweaks
 * 1966 fixes
+* 1928
 
 ## March 2025
 * Fixes for 1940, 1943-1946
