@@ -228,6 +228,10 @@
                 "title": "Merry Go Round",
                 "releases": [
                     {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
                         "label": "Cl(F)",
                         "catalog": "637"
                     },
@@ -430,7 +434,7 @@
             },
             {
                 "type": "take",
-                "index": "33-02-17-003",
+                "index": null,
                 "matrix": "B13079-A",
                 "title": "Blackbirds Medley - Part 1",
                 "releases": [],
@@ -438,15 +442,32 @@
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-003",
                 "matrix": null,
                 "title": "1. I Can't Give You Anything But Love",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-004",
                 "matrix": null,
                 "title": "2. Doin' The New Lowdown",
                 "releases": [
@@ -471,23 +492,57 @@
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-005",
                 "matrix": null,
                 "title": "3. I Must Have That Man",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-006",
+                "matrix": null,
+                "title": "4. Baby!",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
                 "index": null,
-                "matrix": null,
-                "title": "4. Baby!",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-004",
                 "matrix": "B13079-B",
                 "title": "Blackbirds Medley - Part 1",
                 "releases": [],
@@ -495,15 +550,32 @@
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-007",
                 "matrix": null,
                 "title": "1. I Can't Give You Anything But Love",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL-6770"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-008",
                 "matrix": null,
                 "title": "2. Doin' The New Lowdown",
                 "releases": [
@@ -528,82 +600,9 @@
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-009",
                 "matrix": null,
                 "title": "3. I Must Have That Man",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "4. Baby!",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-005",
-                "matrix": "B13080-A",
-                "title": "Blackbirds Medley - Part 2",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516"
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": "DE3304e"
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "5. Dixie",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "6. Diga Diga Doo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "7. Porgy",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "8. I Can't Give You Anything But Love",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-006",
-                "matrix": "B13080-B",
-                "title": "Blackbirds Medley - Part 2",
                 "releases": [
                     {
                         "label": "CBS",
@@ -622,43 +621,252 @@
                         "catalog": "RP2033"
                     }
                 ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-010",
+                "matrix": null,
+                "title": "4. Baby!",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL-6770"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": null,
+                "matrix": "B13080-A",
+                "title": "Blackbirds Medley - Part 2",
+                "releases": [],
+                "desor": "DE3304e"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-011",
+                "matrix": null,
+                "title": "5. Dixie",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-012",
+                "matrix": null,
+                "title": "6. Diga Diga Doo",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-013",
+                "matrix": null,
+                "title": "7. Porgy",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-014",
+                "matrix": null,
+                "title": "8. I Can't Give You Anything But Love",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": null,
+                "matrix": "B13080-B",
+                "title": "Blackbirds Medley - Part 2",
+                "releases": [],
                 "desor": "DE3304f"
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-015",
                 "matrix": null,
                 "title": "5. Dixie",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL-6770"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-016",
                 "matrix": null,
                 "title": "6. Diga Diga Doo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL-6770"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-017",
                 "matrix": null,
                 "title": "7. Porgy",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL-6770"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-018",
+                "matrix": null,
+                "title": "8. I Can't Give You Anything But Love",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL-6770"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
                 "index": null,
-                "matrix": null,
-                "title": "8. I Can't Give You Anything But Love",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-007",
                 "matrix": "B13080-C",
                 "title": "Blackbirds Medley - Part 2",
                 "releases": [],
@@ -666,15 +874,28 @@
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-019",
                 "matrix": null,
                 "title": "5. Dixie",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2009"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-020",
                 "matrix": null,
                 "title": "6. Diga Diga Doo",
                 "releases": [
@@ -695,23 +916,49 @@
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-021",
                 "matrix": null,
                 "title": "7. Porgy",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2009"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "33-02-17-022",
                 "matrix": null,
                 "title": "8. I Can't Give You Anything But Love",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2009"
+                    }
+                ],
                 "desor": null
             },
             {
                 "type": "take",
-                "index": "33-02-17-008",
+                "index": "33-02-17-023",
                 "matrix": "B13081-A",
                 "title": "Drop Me Off In Harlem",
                 "releases": [
@@ -744,7 +991,7 @@
             },
             {
                 "type": "take",
-                "index": "33-02-17-009",
+                "index": "33-02-17-024",
                 "matrix": "B13081-B",
                 "title": "Drop Me Off In Harlem",
                 "releases": [
