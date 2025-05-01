@@ -26,6 +26,7 @@ additional corrections pending.
 * 1928
 * 1933 spot corrections.
 * 1929
+* 1939
 
 ## March 2025
 * Fixes for 1940, 1943-1946
