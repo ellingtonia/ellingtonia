@@ -11,22 +11,11 @@ Note we are working through a backlog of site corrections and we believe that we
 are up-to-date to the year 1940 inclusive. Dates after that year might have
 additional corrections pending.
 
+## May 2025
+* 1939 fixes
+
 ## April 2025
-* Many fixes for 1963
-* Small fixes for 1949, 1962
-* 1964 corrections
-* 1965
-* 1958 corrections
-* 1960 corrections
-* 1961 corrections.
-* 1962 spot corrections.
-* 1963 spot corrections.
-* 1965 tweaks
-* 1966 fixes
-* 1928
-* 1933 spot corrections.
-* 1929
-* 1939
+* Many fixes mainly in 1960s.
 
 ## March 2025
 * Fixes for 1940, 1943-1946
