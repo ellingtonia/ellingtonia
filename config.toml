@@ -107,6 +107,11 @@ disableKinds = ["RSS"]
     key = "youtube"
     text = "(YT)"
 
+[[params.entry_links]]
+    description = "Other"
+    key = "other"
+    text = "(O)"
+
 # [author]
 #     name = "Some Author"
 #     email = "mail@example.org"

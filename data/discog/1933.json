@@ -32,6 +32,12 @@
                         "catalog": "OL-6770"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 9,
+                        "title": "I Must Have That Man! (Take C)"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -51,6 +57,12 @@
                     {
                         "label": "Co",
                         "catalog": "OL-6770"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 8,
+                        "title": "I Must Have That Man! (Take D)"
                     },
                     {
                         "label": "Ms",
@@ -82,6 +94,12 @@
                         "catalog": "626"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 11,
+                        "title": "Baby! (Take C)"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     },
@@ -101,6 +119,12 @@
                     {
                         "label": "BD",
                         "catalog": "T-1001"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 10,
+                        "title": "Baby! (Take D)"
                     },
                     {
                         "label": "Ms",
@@ -145,6 +169,12 @@
                         "catalog": "637"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 13,
+                        "title": "Eerie Moan (Take A)"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -164,6 +194,12 @@
                     {
                         "label": "Gp",
                         "catalog": "040"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 12,
+                        "title": "Eerie Moan (Take B)"
                     },
                     {
                         "label": "Lu",
@@ -207,6 +243,12 @@
                         "catalog": "J1681"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 14,
+                        "title": "Merry-Go-Round (Take 2)"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     },
@@ -240,6 +282,12 @@
                         "catalog": "CB-591"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 15,
+                        "title": "Merry-Go-Round (Take 3)"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -259,6 +307,12 @@
                     {
                         "label": "Co",
                         "catalog": "J1681"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 16,
+                        "title": "Sophisticated Lady (Take 1)"
                     },
                     {
                         "label": "Ms",
@@ -294,6 +348,12 @@
                         "catalog": "CB-591"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 17,
+                        "title": "Sophisticated Lady (Take 2)"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -317,6 +377,11 @@
                     {
                         "label": "Co",
                         "catalog": "CB-625"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 18
                     },
                     {
                         "label": "Ms",
@@ -354,6 +419,11 @@
                     {
                         "label": "Co",
                         "catalog": "CB-625"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 19
                     },
                     {
                         "label": "Ms",
@@ -397,6 +467,12 @@
                         "catalog": "637"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 21,
+                        "title": "Slippery Horn (Take A)"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-1303"
                     },
@@ -422,6 +498,12 @@
                         "catalog": "FM-4001/02†"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 20,
+                        "title": "Slippery Horn (Take B)"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     },
@@ -437,7 +519,14 @@
                 "index": null,
                 "matrix": "B13079-A",
                 "title": "Blackbirds Medley - Part 1",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 23,
+                        "title": "Medley Pt 1 (Take A)"
+                    }
+                ],
                 "desor": "DE3304c"
             },
             {
@@ -545,7 +634,14 @@
                 "index": null,
                 "matrix": "B13079-B",
                 "title": "Blackbirds Medley - Part 1",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 22,
+                        "title": "Medley Pt 1 (Take B)"
+                    }
+                ],
                 "desor": "DE3304d"
             },
             {
@@ -653,7 +749,14 @@
                 "index": null,
                 "matrix": "B13080-A",
                 "title": "Blackbirds Medley - Part 2",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 26,
+                        "title": "Medley Pt 2 (Take A)"
+                    }
+                ],
                 "desor": "DE3304e"
             },
             {
@@ -761,7 +864,14 @@
                 "index": null,
                 "matrix": "B13080-B",
                 "title": "Blackbirds Medley - Part 2",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 25,
+                        "title": "Medley Pt 2 (Take B)"
+                    }
+                ],
                 "desor": "DE3304f"
             },
             {
@@ -869,7 +979,14 @@
                 "index": null,
                 "matrix": "B13080-C",
                 "title": "Blackbirds Medley - Part 2",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 24,
+                        "title": "Medley Pt 2 (Take C)"
+                    }
+                ],
                 "desor": "DE3304g"
             },
             {
@@ -979,6 +1096,12 @@
                         "catalog": "637"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 28,
+                        "title": "Drop Me Off In Harlem (Take A)"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-1308"
                     },
@@ -1006,6 +1129,12 @@
                     {
                         "label": "Gp",
                         "catalog": "040"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 27,
+                        "title": "Drop Me Off In Harlem (Take B)"
                     },
                     {
                         "label": "Ms",
@@ -1085,6 +1214,11 @@
                         "catalog": "637"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 29
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -1108,6 +1242,11 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 30
                     },
                     {
                         "label": "Ms",
@@ -1137,6 +1276,11 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 31
                     },
                     {
                         "label": "Ms",
@@ -1180,6 +1324,12 @@
                         "catalog": "637"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 33,
+                        "title": "Bundle Of Blues (Take A)"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-1302"
                     },
@@ -1207,6 +1357,12 @@
                     {
                         "label": "Gp",
                         "catalog": "040"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 32,
+                        "title": "Bundle Of Blues (Take B)"
                     },
                     {
                         "label": "Ms",
@@ -1250,6 +1406,11 @@
                         "catalog": "040"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 34
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -1277,6 +1438,11 @@
                     {
                         "label": "Gp",
                         "catalog": "040"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 35
                     },
                     {
                         "label": "Ms",
@@ -1609,6 +1775,11 @@
                         "catalog": "637"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 36
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -1638,6 +1809,12 @@
                         "catalog": "637"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 38,
+                        "title": "Jive Stomp (Take A)"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-1312"
                     },
@@ -1654,6 +1831,12 @@
                 "matrix": "B13801-B",
                 "title": "Jive Stomp",
                 "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 37,
+                        "title": "Jive Stomp (Take B)"
+                    },
                     {
                         "label": "Ms",
                         "catalog": "MD11-248"
@@ -1684,6 +1867,11 @@
                         "catalog": "646"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 39
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD11-248"
                     }
@@ -1707,6 +1895,11 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "646"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 40
                     },
                     {
                         "label": "Ms",
@@ -1742,6 +1935,12 @@
                         "catalog": "646"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 41,
+                        "title": "Rude Interlude (Take 1)"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "6",
@@ -1766,6 +1965,12 @@
                         "catalog": "741114"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 42,
+                        "title": "Rude Interlude (Take 2)"
+                    },
+                    {
                         "label": "Nw",
                         "catalog": "RP2033"
                     },
@@ -1788,6 +1993,12 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "741114"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 43,
+                        "title": "Dallas Doings (Take 1)"
                     },
                     {
                         "label": "Nw",
@@ -1816,6 +2027,12 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "646"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 44,
+                        "title": "Dallas Doings (Take 2)"
                     },
                     {
                         "label": "RCA",
@@ -1862,6 +2079,12 @@
                         "catalog": "646"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 45,
+                        "title": "Dear Old Southland (Take 1)"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-1306"
                     },
@@ -1888,6 +2111,12 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "741114"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 46,
+                        "title": "Dear Old Southland (Take 2)"
                     },
                     {
                         "label": "Nw",
@@ -1934,6 +2163,12 @@
                         "catalog": "646"
                     },
                     {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 47,
+                        "title": "Daybreak Express (Take 1)"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-1303"
                     },
@@ -1960,6 +2195,12 @@
                     {
                         "label": "(F)RCA",
                         "catalog": "741114"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 48,
+                        "title": "Daybreak Express (Take 2)"
                     },
                     {
                         "label": "Nw",

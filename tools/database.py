@@ -91,6 +91,7 @@ RELEASE_LINKS = [
     "tidal",
     "youtube",
     "file",
+    "other",
     # TODO: These should be considered separately
     "title",
     "format",
@@ -978,6 +979,7 @@ def cmd_import_csv(args):
                 entry = database.entry_from_desor(row["ndesor"].strip())
             except KeyError as e:
                 print(row, e)
+                raise
 
             length = None
             if row.get("length"):
