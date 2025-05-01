@@ -12,13 +12,7 @@ are up-to-date to the year 1940 inclusive. Dates after that year might have
 additional corrections pending.
 
 ## May 2025
-* 1939 fixes
-* 1943
-* 1945
-* 1953
-* 1961
-* 1962
-* 1963
+* Fixes for inconsistent medley layout across several years
 
 ## April 2025
 * Many fixes mainly in 1960s.
