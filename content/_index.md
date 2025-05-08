@@ -29,11 +29,10 @@ You can join us in talking all things Duke using the DESUK Discord chatroom at h
 ## Other resources:
 
 * The Duke Ellington Society UK (DESUK): https://dukeellington.org.uk
-* The Duke Ellington Society of Sweden (DESS): https://ellington.se
-* The Duke Ellington Society: http://thedukeellingtonsociety.org (archived site)
+* The Duke Ellington Society of Sweden (DESS): https://ellingtongalaxy.org/
 * The Dooji Collection: Duke Ellington 78 rpm record labels and related materials: http://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection.htm
-* Archives of the DEMS bulletins http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html
-* Jazz Online (older records in the public domain): http://www.jazz-on-line.com/artists/Duke_Ellington.htm
+* The 1999 New Desor, which lacks some corrections contained in this site, but has a wealth of other material such as analyses of song form and soloists: https://archive.org/details/new-desor
+* Archives of the DEMS bulletins: http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html (these are largely correctiosn to the 1999 New Desor)
 
 
 # Ellingtonia.com Blog
