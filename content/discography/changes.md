@@ -14,6 +14,7 @@ additional corrections pending.
 ## May 2025
 * Fixes for inconsistent medley layout across several years
 * Ellington In Order releases
+* 1967 Corrections.
 
 ## April 2025
 * Many fixes mainly in 1960s.
