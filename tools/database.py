@@ -45,7 +45,7 @@ class Session:
         return 1900 + self.date // 10000
 
 
-ENTRY_LINKS = ["youtube", "spotify", "tidal", "file"]
+ENTRY_LINKS = ["youtube", "spotify", "tidal", "file", "other"]
 
 
 class Entry:
