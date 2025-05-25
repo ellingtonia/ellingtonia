@@ -16,6 +16,7 @@ additional corrections pending.
 * Ellington In Order releases
 * 1967 Corrections.
 * 
+* 1969
 
 ## April 2025
 * Many fixes mainly in 1960s.
