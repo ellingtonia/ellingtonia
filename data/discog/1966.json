@@ -184,13 +184,9 @@
                 "index": "66-01-23-005",
                 "matrix": null,
                 "title": "There Will Never Be Another You - vME",
-                "releases": [
-                    {
-                        "label": "X-YT",
-                        "catalog": "13"
-                    }
-                ],
-                "desor": "DE6603b"
+                "releases": [],
+                "desor": "DE6603b",
+                "youtube": "https://www.youtube.com/watch?v=DapRRPWiEuE"
             },
             {
                 "type": "artists",
@@ -423,6 +419,10 @@
                 "title": "C-Jam Blues (Duke's Place) - vEF",
                 "releases": [],
                 "desor": "DE6605s"
+            },
+            {
+                "type": "note",
+                "content": "Fugi is played by Duke Ellington, John Lamb, Elvin Jones and Skeets Marsh only: Nagoya by Duke Ellington only."
             }
         ]
     },
@@ -1124,12 +1124,20 @@
                 "desor": "DE6610c"
             },
             {
+                "type": "artists",
+                "value": "Paul Gonsalves(ts); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+            },
+            {
                 "type": "take",
                 "index": "66-02-02-004",
                 "matrix": null,
                 "title": "Happy Reunion",
                 "releases": [],
                 "desor": "DE6610d"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -1196,12 +1204,20 @@
                 "desor": "DE6610l"
             },
             {
+                "type": "artists",
+                "value": "Johnny Hodges(as); Duke Ellington(p): John Lamb(sb)."
+            },
+            {
                 "type": "take",
                 "index": "66-02-02-013",
                 "matrix": null,
                 "title": "Magenta Haze",
                 "releases": [],
                 "desor": "DE6610m"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -1392,12 +1408,20 @@
                 "desor": "DE6612b"
             },
             {
+                "type": "artists",
+                "value": "Paul Gonsalves(ts); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+            },
+            {
                 "type": "take",
                 "index": "66-02-06-017",
                 "matrix": null,
                 "title": "Happy Reunion",
                 "releases": [],
                 "desor": "DE6612c"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -1776,7 +1800,7 @@
         "group": "DUKE ELLINGTON",
         "location": "Stockholm, S",
         "date": "08 February 1966",
-        "description": "Rehearsal Session",
+        "description": "Rehearsal session, Circus",
         "entries": [
             {
                 "type": "artists",
@@ -1893,7 +1917,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Stockholm, S",
         "date": "08 February 1966",
-        "description": "Pre-recording for SR telecast",
+        "description": "Pre-recording for SR telecast, Circus",
         "entries": [
             {
                 "type": "artists",
@@ -1953,7 +1977,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add jimmy Jones(p)."
+                "value": "Add Jimmy Jones(p)."
             },
             {
                 "type": "take",
@@ -2018,6 +2042,10 @@
                 "title": "Cotton Tail - vEF",
                 "releases": [],
                 "desor": "DE6616m"
+            },
+            {
+                "type": "note",
+                "content": "From DE6616a to DE6616g: 1st set; from DE6616h to DE6616m: 2nd set."
             }
         ]
     },
@@ -3184,12 +3212,20 @@
                 "desor": "DE6625k"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) solo."
+            },
+            {
                 "type": "take",
                 "index": "66-02-17-012",
                 "matrix": null,
                 "title": "Carolina Shout",
                 "releases": [],
                 "desor": "DE6625l"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -4488,7 +4524,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "29 March 1966",
-        "description": "Duke Ellington recording session",
+        "description": "Duke Ellington recording session, RCA Studio",
         "entries": [
             {
                 "type": "artists",
@@ -4582,7 +4618,7 @@
                 "type": "take",
                 "index": "66-03-29-009",
                 "matrix": "-1",
-                "title": "Velt-Amor",
+                "title": "Veldt-Amor",
                 "releases": [],
                 "desor": "DE6636i"
             },
@@ -4590,7 +4626,7 @@
                 "type": "take",
                 "index": "66-03-29-010",
                 "matrix": "-3",
-                "title": "Velt-Amor",
+                "title": "Veldt-Amor",
                 "releases": [
                     {
                         "label": "DJ",
@@ -4679,7 +4715,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Dakar, SN",
         "date": "09 April 1966",
-        "description": "Concert, Theatre Daniel Sorano",
+        "description": "Concert, World Festival Of Negro Arts. Theatre Daniel Sorano",
         "entries": [
             {
                 "type": "artists",
@@ -4761,7 +4797,7 @@
                 "type": "take",
                 "index": "66-04-09-010",
                 "matrix": null,
-                "title": "Trombone Buster",
+                "title": "Trombone Buster (El Busto)",
                 "releases": [],
                 "desor": "DE6638j"
             },
@@ -4870,12 +4906,20 @@
                 "desor": "DE6638l"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) solo."
+            },
+            {
                 "type": "take",
                 "index": "66-04-09-023",
                 "matrix": null,
                 "title": "Dancers In Love",
                 "releases": [],
                 "desor": "DE6638m"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -4891,7 +4935,7 @@
         "group": "DUKE ELLINGTON",
         "location": "Cincinnati, OH",
         "date": "13 April 1966",
-        "description": "Wilson Music Hall, University of Cincinnati",
+        "description": "Lecture. Wilson Music Hall, University of Cincinnati",
         "entries": [
             {
                 "type": "artists",
@@ -4954,7 +4998,7 @@
                 "type": "take",
                 "index": "66-04-13-006",
                 "matrix": null,
-                "title": "There Was Nobody Loking",
+                "title": "There Was Nobody Looking",
                 "releases": [],
                 "desor": "DE6639f"
             },
@@ -5028,11 +5072,11 @@
         "group": "DUKE ELLINGTON WITH THE CINCINNATI SYMPHONY ORCHESTRA",
         "location": "Cincinnati, OH",
         "date": "16 April 1966",
-        "description": "Wilson Music Hall, University of Cincinnati",
+        "description": "Concert, Wilson Music Hall, University of Cincinnati",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) with the Cincinnati Symphony Orchestra. Cond. Erich Kunzel and featuring Marie Peziale(t); Richard Waller(cl); Dave Frerichs(d)."
+                "value": "Duke Ellington(p) acc. by the Cincinnati Symphony Orchestra feat. Marie Speziale(t), Richard Waller(cl), Dave Frerichs(d), Erich Kunzel(con)."
             },
             {
                 "type": "take",
@@ -5044,7 +5088,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)."
+                "value": "Duke Ellington(p) solo."
             },
             {
                 "type": "take",
@@ -5213,7 +5257,7 @@
             },
             {
                 "type": "artists",
-                "value": "Same session. Dave Frerichs out. Add Richard Waller(cl)."
+                "value": "Dave Frerichs out. Add Richard Waller(cl)."
             },
             {
                 "type": "take",
@@ -5225,19 +5269,19 @@
             },
             {
                 "type": "artists",
-                "value": "Same session. Richard Waller out. Add Marie Peziale(t)."
+                "value": "Richard Waller out. Add Marie Speziale(t)."
             },
             {
                 "type": "take",
                 "index": "66-04-16-020",
                 "matrix": null,
-                "title": "Blues No. 12",
+                "title": "Blues (No. 12 in New DESOR)",
                 "releases": [],
                 "desor": "DE6640k"
             },
             {
                 "type": "artists",
-                "value": "Same session. Add Richard Waller(cl)."
+                "value": "Add Richard Waller(cl)."
             },
             {
                 "type": "take",
@@ -5249,7 +5293,7 @@
             },
             {
                 "type": "artists",
-                "value": "Same session. Marie Peziale, Richard Waller out."
+                "value": "Marie Speziale, Richard Waller out."
             },
             {
                 "type": "take",
@@ -5265,7 +5309,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Washington, DC",
         "date": "24 April 1966",
-        "description": "Dance, Bolling Field Air Force Base",
+        "description": "Dance date, Bolling Field Air Force Base",
         "entries": [
             {
                 "type": "artists",
@@ -5291,7 +5335,7 @@
                 "type": "take",
                 "index": "66-04-24-003",
                 "matrix": null,
-                "title": "Mood Indigo - vJN",
+                "title": "Mood Indigo - vJNo",
                 "releases": [],
                 "desor": "DE6641c"
             },
@@ -5299,7 +5343,7 @@
                 "type": "take",
                 "index": "66-04-24-004",
                 "matrix": null,
-                "title": "Bill Bailey Won't You Please Come Home - vJN",
+                "title": "Bill Bailey - vJNo",
                 "releases": [],
                 "desor": "DE6641d"
             },
@@ -5327,7 +5371,7 @@
                 "type": "take",
                 "index": "66-04-24-007",
                 "matrix": null,
-                "title": "Sophisticated Lady - vJN",
+                "title": "Sophisticated Lady - vJNo",
                 "releases": [],
                 "desor": "DE6641g"
             },
@@ -5339,7 +5383,7 @@
                 "type": "take",
                 "index": "66-04-24-008",
                 "matrix": null,
-                "title": "Fly Me To The Moon - vJN",
+                "title": "Fly Me To The Moon - vJNo",
                 "releases": [],
                 "desor": "DE6641h"
             },
@@ -6254,7 +6298,7 @@
                 "type": "take",
                 "index": "66-05-20-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -6396,7 +6440,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Norwalk, CA",
         "date": "02 June 1966",
-        "description": "Dance, Golden West Ballroom",
+        "description": "Dance date, Golden West Ballroom",
         "entries": [
             {
                 "type": "artists",
@@ -6700,7 +6744,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); John Lamb(sb)."
+                "value": "Duke Ellington(p); John Lamb(sb) only."
             },
             {
                 "type": "take",
@@ -6726,7 +6770,7 @@
                 "type": "take",
                 "index": "66-06-02-039",
                 "matrix": null,
-                "title": "Blues No. 13",
+                "title": "Blues (No. 13 in New DESOR)",
                 "releases": [],
                 "desor": "DE6649am"
             },
@@ -6746,7 +6790,7 @@
                 "type": "take",
                 "index": "66-06-02-041",
                 "matrix": null,
-                "title": "Birth Of The blues",
+                "title": "Birth Of The Blues",
                 "releases": [],
                 "desor": "DE6649ao"
             },
@@ -6802,7 +6846,7 @@
                 "type": "take",
                 "index": "66-06-26-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothin' Till You Hear From Me",
                 "releases": [
                     {
                         "label": "GRE",
@@ -7382,7 +7426,7 @@
                 "type": "take",
                 "index": "66-07-04-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -7542,7 +7586,7 @@
                 "type": "take",
                 "index": "66-07-06-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -7734,7 +7778,7 @@
                 "type": "take",
                 "index": "66-07-08-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -7918,7 +7962,7 @@
                 "type": "take",
                 "index": "66-07-10-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -7964,7 +8008,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "15 July 1966",
-        "description": "Concert,  Lewisohn Stadium",
+        "description": "Concert, Lewisohn Stadium",
         "entries": [
             {
                 "type": "artists",
@@ -8158,7 +8202,7 @@
                 "type": "take",
                 "index": "66-07-15-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -8241,7 +8285,7 @@
                 "type": "take",
                 "index": "66-07-18-005",
                 "matrix": null,
-                "title": "Don Juan",
+                "title": "Don Juan - vDE",
                 "releases": [],
                 "desor": "DE6658e"
             },
@@ -8249,7 +8293,7 @@
                 "type": "take",
                 "index": "66-07-18-006",
                 "matrix": null,
-                "title": "Don Juan",
+                "title": "Don Juan - vDE",
                 "releases": [],
                 "desor": "DE6658f"
             },
@@ -8412,7 +8456,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington,n/k(tk)."
+                "value": "Duke Ellington, n/k(tk)."
             },
             {
                 "type": "take",
@@ -8428,7 +8472,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Juan-les-Pins, F",
         "date": "26 July 1966",
-        "description": "Concert, Square Frank Jay Gould",
+        "description": "Concert, Festival International du Jazz d'Antibes/Juan-les-Pins. Square Frank Jay Gould",
         "entries": [
             {
                 "type": "artists",
@@ -8976,7 +9020,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Juan-les-Pins, F",
         "date": "27 July 1966",
-        "description": "Concert, Square Frank Jay Gould",
+        "description": "Concert, Festival International du Jazz d'Antibes/Juan·les·Pins. Square Frank Jay Gould",
         "entries": [
             {
                 "type": "artists",
@@ -9075,7 +9119,7 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2"
                     },
                     {
                         "label": "Ve",
@@ -9296,7 +9340,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2",
+                        "flags": "◊"
                     },
                     {
                         "label": "Ve",
@@ -9446,10 +9491,6 @@
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [
-                    {
-                        "label": "Ve",
-                        "catalog": "314539030"
-                    },
                     {
                         "label": "Ve",
                         "catalog": "314539033-2"
@@ -9741,7 +9782,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Juan-les-Pins, F",
         "date": "28 July 1966",
-        "description": "Concert, Square Frank Jay Gould",
+        "description": "Concert, Festival International du Jazz d'Antibes/Juan·les·Pins. Square Frank Jay Gould",
         "entries": [
             {
                 "type": "artists",
@@ -9915,7 +9956,7 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2"
                     },
                     {
                         "label": "Ve",
@@ -10026,7 +10067,7 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2"
                     },
                     {
                         "label": "Ve",
@@ -10339,7 +10380,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2",
+                        "flags": "◊"
                     },
                     {
                         "label": "Ve",
@@ -10372,7 +10414,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2",
+                        "flags": "◊"
                     },
                     {
                         "label": "Ve",
@@ -10389,7 +10432,7 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2"
                     },
                     {
                         "label": "Ve",
@@ -10447,7 +10490,7 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2"
                     },
                     {
                         "label": "Ve",
@@ -10462,7 +10505,7 @@
             },
             {
                 "type": "artists",
-                "value": "Ray Nance(t,vn,v); Lawrence Brown(tb); Chuck Connors(btb); Ben Webster, Paul Gonsalves(ts); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Ella Fitzgerald(v) only."
+                "value": "Ray Nance(t,vn,v); Lawrence Brown(tb); Chuck Connors(btb); Ben Webster, Paul Gonsalves(ts); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Ella Fitzgerald(v)."
             },
             {
                 "type": "take",
@@ -10472,7 +10515,7 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539030"
+                        "catalog": "314539030-2"
                     },
                     {
                         "label": "Ve",
@@ -10605,7 +10648,7 @@
                 "type": "take",
                 "index": "66-08-15-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -10655,7 +10698,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "18 August 1966",
-        "description": "Duke Ellington Recording Session",
+        "description": "Duke Ellington recording session. RCA Studio A",
         "entries": [
             {
                 "type": "artists",
@@ -10795,14 +10838,19 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Los Angeles Symphony Orchestra, Willam Kraft(con)."
+                "value": "Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Los Angeles Philharmonic Orchestra, Willam Kraft(con)."
             },
             {
                 "type": "take",
                 "index": "66-08-25-001",
                 "matrix": null,
                 "title": "NEW WORLD A-COMIN'",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668a"
             }
         ]
@@ -10823,7 +10871,12 @@
                 "index": "66-08-25-002",
                 "matrix": null,
                 "title": "¬Prelude To A Kiss",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668b"
             },
             {
@@ -10831,7 +10884,12 @@
                 "index": "66-08-25-003",
                 "matrix": null,
                 "title": "&nbsp;&nbsp;| In A Sentimental Mood",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668c"
             },
             {
@@ -10839,7 +10897,12 @@
                 "index": "66-08-25-004",
                 "matrix": null,
                 "title": "_|Prelude To A Kiss",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668d"
             },
             {
@@ -10847,7 +10910,12 @@
                 "index": "66-08-25-005",
                 "matrix": null,
                 "title": "Single Petal Of A Rose",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668e"
             }
         ]
@@ -10876,7 +10944,12 @@
                 "index": "66-08-25-006",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668f"
             },
             {
@@ -10884,7 +10957,12 @@
                 "index": "66-08-25-007",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668g"
             },
             {
@@ -10892,7 +10970,12 @@
                 "index": "66-08-25-008",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6668h"
             }
         ]
@@ -11006,7 +11089,12 @@
                 "index": "66-08-25-019",
                 "matrix": null,
                 "title": "HARLEM",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6679a"
             },
             {
@@ -11021,8 +11109,13 @@
                 "type": "take",
                 "index": "66-08-25-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothing Till You Hear From Me",
-                "releases": [],
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothin' Till You Hear From Me",
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11030,7 +11123,12 @@
                 "index": "66-08-25-021",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Don't Get Around Much Anymore",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11038,7 +11136,12 @@
                 "index": "66-08-25-022",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11046,7 +11149,12 @@
                 "index": "66-08-25-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning to See The Light",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11054,7 +11162,12 @@
                 "index": "66-08-25-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11062,7 +11175,12 @@
                 "index": "66-08-25-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11070,7 +11188,12 @@
                 "index": "66-08-25-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. It Don't Mean A Thing",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11078,7 +11201,12 @@
                 "index": "66-08-25-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Solitude",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11086,7 +11214,12 @@
                 "index": "66-08-25-028",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song & Don't Get Around Much",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": null
             },
             {
@@ -11094,7 +11227,12 @@
                 "index": "66-08-25-029",
                 "matrix": null,
                 "title": "Satin Doll",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6679c"
             },
             {
@@ -11102,8 +11240,17 @@
                 "index": "66-08-25-030",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "X-YT",
+                        "catalog": "19"
+                    }
+                ],
                 "desor": "DE6679d"
+            },
+            {
+                "type": "note",
+                "content": "DE6679a through DE6679d were erroneously dated November 16, 1966, in San Diego. Subsequent investigation, supported by information courtesy of the Los Angeles Philharmonic Association archives, has allowed us to assign them to the August 25 concert."
             }
         ]
     },
@@ -11136,7 +11283,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Monterey, CA",
         "date": "18 September 1966",
-        "description": "Concert, Festival Grounds",
+        "description": "Concert, Monterey Jazz Festival. Festival Grounds",
         "entries": [
             {
                 "type": "artists",
@@ -11471,7 +11618,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Bunny Briggs(td)."
+                "value": "Add Bunny Briggs(td,v)."
             },
             {
                 "type": "take",
@@ -11518,12 +11665,20 @@
                 "desor": "DE6672l"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl), Harry Carney(bcl)."
+            },
+            {
                 "type": "take",
                 "index": "66-09-24-013",
                 "matrix": null,
                 "title": "Monologue",
                 "releases": [],
                 "desor": "DE6672m"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -11547,7 +11702,7 @@
             },
             {
                 "type": "artists",
-                "value": "Bunny Briggs out. Add  Ella Fitzgerald(v)."
+                "value": "Bunny Briggs out. Add Ella Fitzgerald(v)."
             },
             {
                 "type": "take",
@@ -11567,7 +11722,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Bunny Briggs(td); Studio choir(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Bunny Briggs(td); studio choir(v)."
             },
             {
                 "type": "take",
@@ -11703,7 +11858,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Bunny Briggs(td)."
+                "value": "Add Bunny Briggs(td,v)."
             },
             {
                 "type": "take",
@@ -11731,7 +11886,7 @@
             },
             {
                 "type": "artists",
-                "value": "Bunny Briggs out."
+                "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl), Harry Carney(bcl)."
             },
             {
                 "type": "take",
@@ -11740,6 +11895,10 @@
                 "title": "Monologue",
                 "releases": [],
                 "desor": "DE6674q"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -11823,7 +11982,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) with studio orchestra and choir; Barbara McNair(v)."
+                "value": "Duke Ellington(p) acc. by studio orchestra and choir; Barbara McNair(v)."
             },
             {
                 "type": "take",
@@ -11831,7 +11990,7 @@
                 "matrix": null,
                 "title": "Medley",
                 "releases": [],
-                "desor": null
+                "desor": "DE6675d"
             },
             {
                 "type": "take",
@@ -11844,7 +12003,7 @@
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675a"
+                "desor": null
             },
             {
                 "type": "take",
@@ -11857,7 +12016,7 @@
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675b"
+                "desor": null
             },
             {
                 "type": "take",
@@ -11870,20 +12029,20 @@
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675c"
+                "desor": null
             },
             {
                 "type": "take",
                 "index": "66-11-02-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Do Nothing Till You Hear From Me - vBMN,DE",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Do Nothin' Till You Hear From Me - vBMN,DE",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675d"
+                "desor": null
             },
             {
                 "type": "take",
@@ -11896,7 +12055,7 @@
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675e"
+                "desor": null
             },
             {
                 "type": "take",
@@ -11909,7 +12068,7 @@
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675f"
+                "desor": null
             },
             {
                 "type": "take",
@@ -11922,7 +12081,7 @@
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675g"
+                "desor": null
             },
             {
                 "type": "take",
@@ -11935,7 +12094,7 @@
                         "catalog": "14"
                     }
                 ],
-                "desor": "DE6675h"
+                "desor": null
             }
         ]
     },
@@ -12141,7 +12300,7 @@
                 "type": "take",
                 "index": "66-11-15-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;19. Come Sunday - vEM",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;19. Come Sunday - vTW",
                 "releases": [],
                 "desor": "DE9054m"
             },
@@ -12317,7 +12476,7 @@
                 "type": "take",
                 "index": "66-11-16-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -12423,7 +12582,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk); Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
+                "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
             },
             {
                 "type": "take",
@@ -12613,7 +12772,7 @@
                 "type": "take",
                 "index": "66-11-19-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -12924,6 +13083,10 @@
                 "title": "Come Sunday (David Danced).",
                 "releases": [],
                 "desor": "DE6682i"
+            },
+            {
+                "type": "note",
+                "content": "Broadcast for the U.S. Treasury Dept. and the Armed Forces Network."
             }
         ]
     },
@@ -13018,7 +13181,7 @@
                 "type": "take",
                 "index": "66-12-00-004",
                 "matrix": null,
-                "title": "_|Do Nothing Till You Hear From Me",
+                "title": "_|Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": "DE6684d"
             },
@@ -13077,6 +13240,10 @@
                 "title": "Caravan",
                 "releases": [],
                 "desor": "DE6684k"
+            },
+            {
+                "type": "note",
+                "content": "Broadcast for the U.S. Treasury Dept. and the Armed Forces Network."
             }
         ]
     },
@@ -13232,7 +13399,7 @@
             },
             {
                 "type": "note",
-                "content": "Before DE6685a is performed Come Sunday sung by Vox Humana Choir. New World A-Comin' is played by Duke Ellington only; Jimmy McPhail  talks in Will You Be There? sung by Choir acc. by Duke Ellington only."
+                "content": "Before DE6685a is performed Come Sunday sung by Vox Humana Choir. New World A-Comin' is played by Duke Ellington only; Jimmy McPhail  talks in Will You Be There? sung by choir acc. by Duke Ellington only."
             }
         ]
     },
@@ -13253,16 +13420,7 @@
                 "title": "NEW WORLD A-COMIN'",
                 "releases": [],
                 "desor": "DE6686a"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON",
-        "location": null,
-        "date": "17 December 1966",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p)."
@@ -13306,16 +13464,7 @@
                 "title": "Single Petal Of A Rose",
                 "releases": [],
                 "desor": "DE6686f"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON WITH THE BALTIMORE SYMPHONY ORCHESTRA",
-        "location": null,
-        "date": "17 December 1966",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
                 "value": "As before."
@@ -13372,7 +13521,7 @@
                 "type": "take",
                 "index": "66-12-17-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothing Till You Hear From Me",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
                 "releases": [],
                 "desor": null
             },
@@ -13439,16 +13588,7 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. I Let A Song & Don't Get Around Much",
                 "releases": [],
                 "desor": null
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS RHYTHM",
-        "location": null,
-        "date": "17 December 1966",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
@@ -13492,16 +13632,7 @@
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
                 "releases": [],
                 "desor": "DE6686n"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON WITH THE BALTIMORE SYMPHONY ORCHESTRA",
-        "location": null,
-        "date": "17 December 1966",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
                 "value": "As before."
@@ -13513,16 +13644,7 @@
                 "title": "Satin Doll",
                 "releases": [],
                 "desor": "DE6686o"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS RHYTHM",
-        "location": null,
-        "date": "17 December 1966",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); John Lamb(sb); Rufus Jones(d); Toney Watkins(v)."
@@ -13699,7 +13821,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 December 1966",
-        "description": "RCA recording session",
+        "description": "RCA recording session, RCA Studio A",
         "entries": [
             {
                 "type": "artists",
@@ -13808,7 +13930,7 @@
             {
                 "type": "take",
                 "index": "66-12-20-005",
-                "matrix": " |",
+                "matrix": "&nbsp|",
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Nagoya (Ad Lib On Nippon)",
                 "releases": [
                     {
@@ -14179,16 +14301,7 @@
                 "title": "Piano Interlude",
                 "releases": [],
                 "desor": "DE6690d"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON GROUP",
-        "location": null,
-        "date": "28 December 1966",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson(t); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
@@ -14471,7 +14584,7 @@
                 "type": "take",
                 "index": "66-12-28-036",
                 "matrix": null,
-                "title": "Blues No. 15",
+                "title": "Blues (No. 15 in New DESOR)",
                 "releases": [],
                 "desor": "DE6690aj"
             }
