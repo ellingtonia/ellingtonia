@@ -19,6 +19,7 @@ additional corrections pending.
 * 1969
 * 1970
 * 1966 further corrections
+* 1968 tweak
 
 ## April 2025
 * Many fixes mainly in 1960s.
