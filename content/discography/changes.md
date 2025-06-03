@@ -11,15 +11,13 @@ Note we are working through a backlog of site corrections and we believe that we
 are up-to-date to the year 1940 inclusive. Dates after that year might have
 additional corrections pending.
 
+## June 2025
+* 1968 tweak
+
 ## May 2025
 * Fixes for inconsistent medley layout across several years
 * Ellington In Order releases
-* 1967 Corrections.
-* 
-* 1969
-* 1970
-* 1966 further corrections
-* 1968 tweak
+* Corrections 1966-1970
 
 ## April 2025
 * Many fixes mainly in 1960s.
