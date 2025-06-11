@@ -13,6 +13,7 @@ additional corrections pending.
 
 ## June 2025
 * 1968 tweak
+* Fixup SDi and other bad labels.
 
 ## May 2025
 * Fixes for inconsistent medley layout across several years
