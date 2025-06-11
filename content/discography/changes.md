@@ -15,6 +15,7 @@ additional corrections pending.
 * 1968 tweak
 * Fixup SDi and other bad labels.
 * 1971 corrections
+* Moved March 1973 interviews to correct location.
 
 ## May 2025
 * Fixes for inconsistent medley layout across several years
