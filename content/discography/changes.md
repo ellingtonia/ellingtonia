@@ -7,19 +7,14 @@ menu:
     weight: 10
 ---
 
-Note we are working through a backlog of site corrections and we believe that we
-are up-to-date to the year 1940 inclusive. Dates after that year might have
-additional corrections pending.
-
 ## June 2025
 * 1968 tweak
 * Fixup SDi and other bad labels.
 * 1971 corrections
 * Moved March 1973 interviews to correct location.
 * 30 July 1965 concert fixes (prev 31 July)
-* 1972 corrections
-* 1973 corrections.
-* 1974 corrections.
+* 1972-4 corrections
+* Complete listing of Co C3K-65841.
 
 ## May 2025
 * Fixes for inconsistent medley layout across several years
