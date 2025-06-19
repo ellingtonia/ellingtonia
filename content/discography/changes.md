@@ -19,6 +19,7 @@ additional corrections pending.
 * 30 July 1965 concert fixes (prev 31 July)
 * 1972 corrections
 * 1973 corrections.
+* 1974 corrections.
 
 ## May 2025
 * Fixes for inconsistent medley layout across several years
