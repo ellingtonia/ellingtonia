@@ -17,6 +17,7 @@ additional corrections pending.
 * 1971 corrections
 * Moved March 1973 interviews to correct location.
 * 30 July 1965 concert fixes (prev 31 July)
+* 1972 corrections
 
 ## May 2025
 * Fixes for inconsistent medley layout across several years
