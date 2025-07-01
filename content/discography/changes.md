@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## July 2025
+* 1945 further corrections (release inconsistencies)
+
 ## June 2025
 * 1968 tweak
 * Fixup SDi and other bad labels.
