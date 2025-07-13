@@ -8,6 +8,7 @@ menu:
 ---
 
 ## July 2025
+* 1943 further corrections
 * 1945 further corrections (release inconsistencies)
 
 ## June 2025

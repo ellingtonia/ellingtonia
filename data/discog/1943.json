@@ -3,11 +3,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "23 January 1943",
-        "description": "Concert, at Carnegie Hall",
+        "description": "Concert, Carnegie Hall",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -68,6 +68,11 @@
                     {
                         "label": "Pr",
                         "catalog": "P-34004"
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "SD-124",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4301d"
@@ -89,6 +94,11 @@
                     {
                         "label": "Pr",
                         "catalog": "P-34004"
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "SD-124",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4301e"
@@ -110,6 +120,11 @@
                     {
                         "label": "Pr",
                         "catalog": "P-34004"
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "SD-124",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4301f"
@@ -131,6 +146,11 @@
                     {
                         "label": "Pr",
                         "catalog": "P-34004"
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "SD-124",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4301g"
@@ -181,6 +201,15 @@
                     {
                         "label": "FDC",
                         "catalog": "1004"
+                    },
+                    {
+                        "label": "HoF",
+                        "catalog": "JG-626",
+                        "flags": "*"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "2MJP-1082"
                     }
                 ],
                 "desor": "DE4301j"
@@ -355,7 +384,7 @@
                 "type": "take",
                 "index": "43-01-23-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude - Cy Runs Rock Waltz",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude = Cy Runs Rock Waltz",
                 "releases": [
                     {
                         "label": "Df",
@@ -487,7 +516,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301w"
+                "desor": "DE4301v"
             },
             {
                 "type": "take",
@@ -508,7 +537,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301x"
+                "desor": "DE4301w"
             },
             {
                 "type": "take",
@@ -527,9 +556,14 @@
                     {
                         "label": "Pr",
                         "catalog": "P-34004"
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "SD-124",
+                        "flags": "◊"
                     }
                 ],
-                "desor": "DE4301y"
+                "desor": "DE4301x"
             },
             {
                 "type": "take",
@@ -550,7 +584,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301z"
+                "desor": "DE4301y"
             },
             {
                 "type": "take",
@@ -571,7 +605,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301aa"
+                "desor": "DE4301z"
             },
             {
                 "type": "take",
@@ -592,7 +626,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301ab"
+                "desor": "DE4301aa"
             },
             {
                 "type": "take",
@@ -613,7 +647,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301ac"
+                "desor": "DE4301ab"
             },
             {
                 "type": "take",
@@ -632,9 +666,14 @@
                     {
                         "label": "Pr",
                         "catalog": "P-34004"
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "SD-124",
+                        "flags": "◊"
                     }
                 ],
-                "desor": "DE4301ad"
+                "desor": "DE4301ac"
             },
             {
                 "type": "take",
@@ -655,7 +694,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301ae"
+                "desor": "DE4301ad"
             },
             {
                 "type": "take",
@@ -676,7 +715,7 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301af"
+                "desor": "DE4301ae"
             },
             {
                 "type": "take",
@@ -693,11 +732,16 @@
                         "catalog": "JG-625"
                     },
                     {
+                        "label": "JSo",
+                        "catalog": "AA-559",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "Pr",
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301ag"
+                "desor": "DE4301af"
             },
             {
                 "type": "take",
@@ -716,9 +760,14 @@
                     {
                         "label": "Pr",
                         "catalog": "P-34004"
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "SD-124",
+                        "flags": "◊"
                     }
                 ],
-                "desor": "DE4301ah"
+                "desor": "DE4301ag"
             }
         ]
     },
@@ -726,11 +775,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Boston, MA",
         "date": "28 January 1943",
-        "description": "Concert, at Symphony Hall",
+        "description": "Concert, Symphony Hall",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -817,10 +866,6 @@
                         "catalog": "DRCD-11210"
                     },
                     {
-                        "label": "HoF",
-                        "catalog": "JG-626"
-                    },
-                    {
                         "label": "Pr",
                         "catalog": "P-34004"
                     }
@@ -905,7 +950,7 @@
                 "type": "take",
                 "index": "43-01-28-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude - Cy Runs Rock Waltz",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude = Cy Runs Rock Waltz",
                 "releases": [],
                 "desor": "DE4302m"
             },
@@ -997,6 +1042,10 @@
                 "title": "Boy Meets Horn",
                 "releases": [],
                 "desor": "DE4302w"
+            },
+            {
+                "type": "note",
+                "content": "On Pr P-34004, the trumpet intro to Light (DE4301k) and the coda of 2 bars of Blue Bells Of Harlem (DE4301z) come from this Boston concert, DE4302g and DE4302v."
             }
         ]
     },
@@ -1004,11 +1053,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "03 April 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1266,11 +1315,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "04 April 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1404,11 +1453,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 April 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1457,17 +1506,17 @@
         "location": "New York City, NY",
         "date": "April 1943",
         "index_date": 430410,
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
                 "index": "43-04-10-001",
                 "matrix": null,
-                "title": "What's The Good Word Mr. Bluebird? - vBR",
+                "title": "What's The Good Word, Mr. Bluebird? - vBR",
                 "releases": [],
                 "desor": "DE4306a"
             },
@@ -1502,7 +1551,7 @@
         "location": "New York City, NY",
         "date": "April 1943",
         "index_date": 430417,
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -1616,11 +1665,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 April 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -1649,14 +1698,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON GROUP WITH CBS HOUSE BAND",
+        "group": "DUKE ELLINGTON GROUP",
         "location": "New York City, NY",
         "date": "21 April 1943",
-        "description": "CBS broadcast \"Cresta Blanca Carnival\", from CBS studios",
+        "description": "CBS broadcast \"Cresta Blanca Carnival\", CBS studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Harold Baker, Ray Nance(t); Lawrence Brown, Joe Nanton(tb); Sax Mallard, Harry Carney(cl); Duke Ellington(p); Junior Raglin(sb). Morton Gould's CBS house band."
+                "value": "Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Sax Mallard, Harry Carney(cl); Duke Ellington(p); Junior Raglin(sb) acc. by CBS house band, Morton Gould(con)."
             },
             {
                 "type": "take",
@@ -1698,11 +1747,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "24 April 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -1718,11 +1767,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "25 April 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -1770,11 +1819,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "01 May 1943",
-        "description": "NBC broadcast, from Radio City",
+        "description": "NBC broadcast, Radio City",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -1863,11 +1912,11 @@
         "group": "DUKE ELLINGTON WITH PAUL LAVALLE ORCHESTRA",
         "location": "New York City, NY",
         "date": "02 May 1943",
-        "description": "NBC broadcast \"Chamber Music Society of Lower Basin Street\", from WJZ studios",
+        "description": "NBC broadcast \"Chamber Music Society of Lower Basin Street\", WJZ studios",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) with Paul Lavalle Orchestra."
+                "value": "Duke Ellington(p) acc. by Paul Lavalle Orchestra."
             },
             {
                 "type": "take",
@@ -1892,11 +1941,11 @@
         "location": "New York City, NY",
         "date": "May 1943",
         "index_date": 430510,
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1954,7 +2003,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "23 May 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -1980,7 +2029,7 @@
         "location": "New York City, NY",
         "date": "May 1943",
         "index_date": 430525,
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -2070,7 +2119,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "28 May 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -2081,7 +2130,13 @@
                 "index": "43-05-28-001",
                 "matrix": null,
                 "title": "Way Low",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9015",
+                        "flags": "◊"
+                    }
+                ],
                 "desor": "DE4312a"
             },
             {
@@ -2089,7 +2144,13 @@
                 "index": "43-05-28-002",
                 "matrix": null,
                 "title": "Around My Heart",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9015",
+                        "flags": "◊"
+                    }
+                ],
                 "desor": "DE4312b"
             },
             {
@@ -2097,7 +2158,13 @@
                 "index": "43-05-28-003",
                 "matrix": null,
                 "title": "Perdido",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9015",
+                        "flags": "◊"
+                    }
+                ],
                 "desor": "DE4312c"
             },
             {
@@ -2105,7 +2172,13 @@
                 "index": "43-05-28-004",
                 "matrix": null,
                 "title": "Ogeechee River Lullaby - vJBr",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "903-9015",
+                        "flags": "◊"
+                    }
+                ],
                 "desor": "DE4312d"
             }
         ]
@@ -2118,7 +2191,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); BettyRoche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); BettyRoché(v)."
             },
             {
                 "type": "take",
@@ -2128,7 +2201,7 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319a"
@@ -2149,7 +2222,7 @@
                     },
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319xa"
@@ -2166,7 +2239,7 @@
                     },
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319xb"
@@ -2187,7 +2260,7 @@
                     },
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319xc"
@@ -2204,7 +2277,7 @@
                     },
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319b"
@@ -2221,7 +2294,7 @@
                     },
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319c"
@@ -2238,7 +2311,7 @@
                     },
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319d"
@@ -2255,23 +2328,14 @@
                     },
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319e"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON",
-        "location": null,
-        "date": "30 May 1943",
-        "same_session": true,
-        "description": null,
-        "entries": [
+            },
             {
                 "type": "artists",
-                "value": "Duke Ellington, Tobe Reed (tk)."
+                "value": "Duke Ellington, Tobe Reed(tk)."
             },
             {
                 "type": "take",
@@ -2281,10 +2345,14 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "903-9015"
+                        "catalog": "903-9016"
                     }
                 ],
                 "desor": "DE4319xd"
+            },
+            {
+                "type": "note",
+                "content": "Interview through the whole session. DE4319xa: former DE4318a. DE4319xc: former DE4318b. DE4319xd: former DE4320a."
             }
         ]
     },
@@ -2292,11 +2360,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "06 June 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast \"Pastel Period\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -2489,7 +2557,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 June 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -2528,7 +2596,7 @@
         "location": "New York City, NY",
         "date": "June 1943",
         "index_date": 430608,
-        "description": "MBS broadcast from the Hurricane Restaurant",
+        "description": "MBS broadcast \"Pastel Period\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -2558,7 +2626,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl,as); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -2618,7 +2686,7 @@
             },
             {
                 "type": "note",
-                "content": "Film soundtrack from RKO Pictures' \"Duke Ellington And His Orchestra\". One of the four numbers (it is unknown which one) was recorded on the 17th with the remaining three on the 19th."
+                "content": "The sound short title is \"Duke Ellington And His Orchestra (Jamboree)\", produced by RKO Pictures Ltd. One of the four numbers (it is unknown which one) was recorded on the 17th with the remaining three on the 19th."
             }
         ]
     },
@@ -2626,7 +2694,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "18 June 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -2657,7 +2725,7 @@
                 "type": "take",
                 "index": "43-06-18-003",
                 "matrix": null,
-                "title": "People will Say We're In Love",
+                "title": "People Will Say We're In Love",
                 "releases": [
                     {
                         "label": "Rt",
@@ -2758,11 +2826,11 @@
         "group": "DUKE ELLINGTON AND BARRY WOOD WITH MILLION DOLLAR BAND",
         "location": "New York City, NY",
         "date": "19 June 1943",
-        "description": "Broadcast, probably NBC",
+        "description": "NBC broadcast",
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p,v): Barry Wood(v) with the Million Dollar Band."
+                "value": "Duke Ellington(p,v), Barry Wood(v) acc. by the Million Dollar Band."
             },
             {
                 "type": "take",
@@ -2776,7 +2844,7 @@
                 "type": "take",
                 "index": "43-06-19-002",
                 "matrix": null,
-                "title": "Unidentified - vBaW,DE",
+                "title": "Unidentified (\"B\" in New DESOR) - vBaW,DE",
                 "releases": [],
                 "desor": "DE4326b"
             },
@@ -2794,11 +2862,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 June 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast \"Pastel Period\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -2936,7 +3004,7 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "25 June 1943",
-        "description": "CBS broadcast",
+        "description": "CBS broadcast \"Broadway Bandbox\", CBS studios",
         "entries": [
             {
                 "type": "artists",
@@ -2966,7 +3034,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) with Raymond Scott and His Orchestra."
+                "value": "Duke Ellington(p) acc. by Raymond Scott and His Orchestra."
             },
             {
                 "type": "take",
@@ -2986,30 +3054,9 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
-        "date": "Early Summer 1943",
-        "index_date": 430624,
-        "description": "Broadcast, from the Hurricane Restaurant",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
-            },
-            {
-                "type": "take",
-                "index": "43-06-24-001",
-                "matrix": null,
-                "title": "I Didn't Know About You (Sentimental Lady)",
-                "releases": [],
-                "desor": "DE9022a"
-            }
-        ]
-    },
-    {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
-        "location": "New York City, NY",
         "date": "27 June1943",
         "index_date": 430627,
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast \"Pastel Period\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -3137,12 +3184,7 @@
                 "index": "43-06-27-010",
                 "matrix": null,
                 "title": "Moon Mist",
-                "releases": [
-                    {
-                        "label": "Hu",
-                        "catalog": "HC-6.001"
-                    }
-                ],
+                "releases": [],
                 "desor": "DE4328j"
             }
         ]
@@ -3156,7 +3198,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -3174,7 +3216,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329a"
@@ -3195,7 +3238,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329b"
@@ -3216,7 +3260,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329c"
@@ -3237,7 +3282,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329d"
@@ -3258,7 +3304,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329e"
@@ -3279,7 +3326,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329f"
@@ -3300,7 +3348,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329g"
@@ -3321,7 +3370,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329h"
@@ -3342,7 +3392,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329i"
@@ -3363,7 +3414,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "231/232"
+                        "catalog": "231/232",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329j"
@@ -3384,7 +3436,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "233"
+                        "catalog": "233",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329k"
@@ -3405,7 +3458,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "233"
+                        "catalog": "233",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329l"
@@ -3426,7 +3480,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "233"
+                        "catalog": "233",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329m"
@@ -3447,7 +3502,8 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "233"
+                        "catalog": "233",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329n"
@@ -3468,10 +3524,31 @@
                     },
                     {
                         "label": "TSP",
-                        "catalog": "233"
+                        "catalog": "233",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4329o"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "New York City, NY",
+        "date": "08 July 1943",
+        "description": "MBS broadcast, Hurricane Restaurant",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+            },
+            {
+                "type": "take",
+                "index": "43-07-08-001",
+                "matrix": null,
+                "title": "Way Low",
+                "releases": [],
+                "desor": "DE4330a"
             }
         ]
     },
@@ -3499,7 +3576,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "11 July 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast \"Pastel Period\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -3602,7 +3679,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "14 July 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -3621,16 +3698,17 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
-        "date": "06 July 1943",
-        "description": "WMCA broadcast",
+        "date": "July 1943",
+        "index_date": 430720,
+        "description": "WMCA broadcast \"Jumpin' Jive\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Hal West(d,ch)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d, ch); Betty Roché(v)."
             },
             {
                 "type": "take",
-                "index": "43-07-06-001",
+                "index": "43-07-20-001",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
@@ -3643,7 +3721,7 @@
             },
             {
                 "type": "take",
-                "index": "43-07-06-002",
+                "index": "43-07-20-002",
                 "matrix": null,
                 "title": "I Left My Sugar In Salt Lake City - vBR",
                 "releases": [],
@@ -3651,7 +3729,7 @@
             },
             {
                 "type": "take",
-                "index": "43-07-06-003",
+                "index": "43-07-20-003",
                 "matrix": null,
                 "title": "Sweet Georgia Brown",
                 "releases": [
@@ -3664,7 +3742,7 @@
             },
             {
                 "type": "take",
-                "index": "43-07-06-004",
+                "index": "43-07-20-004",
                 "matrix": null,
                 "title": "Going Up",
                 "releases": [
@@ -3677,7 +3755,7 @@
             },
             {
                 "type": "note",
-                "content": "Recording date uncertain. Drummer may have been Sonny Greer."
+                "content": "Some sources give the date as July 6, 1943. Drummer may have been Hal West."
             }
         ]
     },
@@ -3685,11 +3763,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "03 August 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -3705,11 +3783,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "09 August 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -3749,7 +3827,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "14 August 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast \"Dinner Music\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -3772,7 +3850,7 @@
                 "type": "take",
                 "index": "43-08-14-002",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
                     {
                         "label": "Hu",
@@ -3826,7 +3904,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -3885,8 +3963,29 @@
     {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
+        "date": "Summer 1943",
+        "index_date": 430820,
+        "description": "Broadcast, Hurricane Restaurant",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch)."
+            },
+            {
+                "type": "take",
+                "index": "43-08-20-001",
+                "matrix": null,
+                "title": "I Didn't Know About You (Sentimental Lady)",
+                "releases": [],
+                "desor": "DE9022a"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "New York City, NY",
         "date": "21 August 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -3937,11 +4036,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "26 August 1943",
-        "description": "WHN broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4005,11 +4104,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "28 August 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4098,6 +4197,11 @@
                     {
                         "label": "QD",
                         "catalog": "Q-071"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-554",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4341g"
@@ -4134,11 +4238,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "29 August 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast \"Pastel Period\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4209,7 +4313,7 @@
                 "type": "take",
                 "index": "43-08-29-006",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [],
                 "desor": "DE4342f"
             },
@@ -4271,7 +4375,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "31 August 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "Broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4299,11 +4403,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "01 September 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4402,7 +4506,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "03 September 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4483,7 +4587,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) with Paul Lavalle Orchestra."
+                "value": "Duke Ellington(p) acc. by Chamber of Lower Basin Street Orchestram Paul Lavalle(con)."
             },
             {
                 "type": "take",
@@ -4504,7 +4608,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "05 September 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast \"Pastel Period\", Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4615,11 +4719,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 September 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4633,7 +4737,7 @@
                 "type": "take",
                 "index": "43-09-07-002",
                 "matrix": null,
-                "title": "C-Jam Blues",
+                "title": "Blue Skies",
                 "releases": [],
                 "desor": "DE4348b"
             },
@@ -4659,11 +4763,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 September 1943",
-        "description": "WHN broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4737,7 +4841,7 @@
         "location": "New York City, NY",
         "date": "Possibly 08 September 1943",
         "index_date": 430908,
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "Broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4789,7 +4893,7 @@
         "location": "New York City, NY",
         "date": "Possibly 08 September 1943",
         "index_date": 430908,
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "Broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4827,7 +4931,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "09 September 1943",
-        "description": "WHN broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4853,7 +4957,7 @@
                 "type": "take",
                 "index": "43-09-09-003",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [],
                 "desor": "DE4350c"
             }
@@ -4863,7 +4967,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "10 September 1943",
-        "description": "WHN broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -4941,7 +5045,7 @@
         "location": "New York City, NY",
         "date": "Possibly 10 September 1943",
         "index_date": 430910,
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "Broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -5004,7 +5108,7 @@
         "location": "New York City, NY",
         "date": "Possibly 10 September 1943",
         "index_date": 430910,
-        "description": "WHN broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -5037,11 +5141,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "11 September 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5119,11 +5223,11 @@
         "location": "New York City, NY",
         "date": "Possibly 11 September 1943",
         "index_date": 430911,
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5163,7 +5267,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "12 September 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -5191,7 +5295,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "12 September 1943",
-        "description": "MBS broadcast, from the Hurricane Restaurant",
+        "description": "MBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -5236,7 +5340,7 @@
         "location": "New York City, NY",
         "date": "September 1943",
         "index_date": 430915,
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -5287,7 +5391,7 @@
         "location": "New York City, NY",
         "date": "September 1943",
         "index_date": 430918,
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "Broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
@@ -5340,11 +5444,11 @@
         "location": "New York City, NY",
         "date": "September 1943",
         "index_date": 430920,
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "CBS broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5406,7 +5510,7 @@
                 "type": "take",
                 "index": "43-09-20-008",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [],
                 "desor": "DE4357h"
             },
@@ -5424,17 +5528,17 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "23 September 1943",
-        "description": "Broadcast, from the Hurricane Restaurant",
+        "description": "WHN broadcast, Hurricane Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
                 "index": "43-09-23-001",
                 "matrix": null,
-                "title": "At's In There - vBR",
+                "title": "'At's In There - vBR",
                 "releases": [
                     {
                         "label": "DETS",
@@ -5490,7 +5594,7 @@
                 "type": "take",
                 "index": "43-09-23-005",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
                     {
                         "label": "DETS",
@@ -5760,7 +5864,7 @@
                     },
                     {
                         "label": "Wo",
-                        "catalog": "6049/6058"
+                        "catalog": "6499/6508"
                     }
                 ],
                 "desor": "DE4359n"
@@ -5798,7 +5902,7 @@
                     },
                     {
                         "label": "Wo",
-                        "catalog": "6049/6058"
+                        "catalog": "6029/6038"
                     }
                 ],
                 "desor": "DE4359p"
@@ -5807,7 +5911,7 @@
                 "type": "take",
                 "index": "43-11-08-017",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
                     {
                         "label": "Ci",
@@ -5824,7 +5928,7 @@
                 "type": "take",
                 "index": "43-11-08-018",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -5899,7 +6003,7 @@
                     },
                     {
                         "label": "Wo",
-                        "catalog": "6009/6018"
+                        "catalog": "6909/6918"
                     }
                 ],
                 "desor": "DE4359u"
@@ -5908,7 +6012,7 @@
                 "type": "take",
                 "index": "43-11-08-022",
                 "matrix": null,
-                "title": "Rockabye River (Hop-Skip-Jump)",
+                "title": "Rockabye River (Hop, Skip, Jump)",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6019,7 +6123,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -6307,7 +6411,7 @@
                     },
                     {
                         "label": "Wo",
-                        "catalog": "6019/6028"
+                        "catalog": "6819/6828"
                     }
                 ],
                 "desor": "DE4360o"
@@ -6419,11 +6523,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Buffalo, NY",
         "date": "27 November 1943",
-        "description": "NBC broadcast, from Trico Products Factory",
+        "description": "NBC broadcast \"Coca Cola Spotlight Bands No 372\", Trico Products Factory",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -6472,7 +6576,7 @@
                 "type": "take",
                 "index": "43-11-27-004",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6721,7 +6825,7 @@
                     },
                     {
                         "label": "Wo",
-                        "catalog": "6689/6698"
+                        "catalog": "6679/6688"
                     }
                 ],
                 "desor": "DE4362j"
@@ -6865,7 +6969,7 @@
                 "type": "take",
                 "index": "43-12-01-018",
                 "matrix": "N1064-1",
-                "title": "Java Jive",
+                "title": "Java Jive (Chopsticks)",
                 "releases": [
                     {
                         "label": "Ci",
@@ -6888,11 +6992,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Hampton, VA",
         "date": "08 December 1943",
-        "description": "Broadcast, from Langley Field AFB",
+        "description": "Broadcast, Langley Field Air Force Base",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roche(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Juan Tizol(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d,ch); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -7019,7 +7123,7 @@
                 "type": "take",
                 "index": "43-12-08-006",
                 "matrix": null,
-                "title": "Take The \"A\" Train",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -7038,7 +7142,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "11 December 1943",
-        "description": "Concert, at Carnegie Hall",
+        "description": "Concert, Carnegie Hall",
         "entries": [
             {
                 "type": "artists",
@@ -7073,23 +7177,6 @@
                 "type": "take",
                 "index": "43-12-11-002",
                 "matrix": null,
-                "title": "Introduction by Duke Ellington",
-                "releases": [
-                    {
-                        "label": "Sv",
-                        "catalog": "103-8341"
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "108-8600"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-12-11-003",
-                "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [
                     {
@@ -7113,7 +7200,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-004",
+                "index": "43-12-11-003",
                 "matrix": null,
                 "title": "Moon Mist",
                 "releases": [
@@ -7138,7 +7225,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-005",
+                "index": "43-12-11-004",
                 "matrix": null,
                 "title": "Tea For Two",
                 "releases": [
@@ -7163,7 +7250,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-006",
+                "index": "43-12-11-005",
                 "matrix": null,
                 "title": "Honeysuckle Rose",
                 "releases": [
@@ -7188,7 +7275,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-007",
+                "index": "43-12-11-006",
                 "matrix": null,
                 "title": "Stardust",
                 "releases": [
@@ -7209,7 +7296,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-008",
+                "index": "43-12-11-007",
                 "matrix": null,
                 "title": "C-Jam Blues",
                 "releases": [
@@ -7230,7 +7317,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-009",
+                "index": "43-12-11-008",
                 "matrix": null,
                 "title": "West Indian Dance",
                 "releases": [
@@ -7255,7 +7342,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-010",
+                "index": "43-12-11-009",
                 "matrix": null,
                 "title": "Emancipation Celebration",
                 "releases": [
@@ -7280,7 +7367,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-011",
+                "index": "43-12-11-010",
                 "matrix": null,
                 "title": "NEW WORLD A-COMIN'",
                 "releases": [
@@ -7301,7 +7388,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-012",
+                "index": "43-12-11-011",
                 "matrix": null,
                 "title": "Going Up",
                 "releases": [
@@ -7322,7 +7409,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-013",
+                "index": "43-12-11-012",
                 "matrix": null,
                 "title": "Don't Get Around Much Anymore",
                 "releases": [
@@ -7343,24 +7430,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-014",
-                "matrix": null,
-                "title": "Introduction by Duke Ellington",
-                "releases": [
-                    {
-                        "label": "Sv",
-                        "catalog": "103-8341"
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "108-8600"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-12-11-015",
+                "index": "43-12-11-013",
                 "matrix": null,
                 "title": "Ring Dem Bells - vRN",
                 "releases": [
@@ -7393,7 +7463,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-016",
+                "index": "43-12-11-014",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;1. In A Sentimental Mood",
                 "releases": [
@@ -7418,7 +7488,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-017",
+                "index": "43-12-11-015",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [
@@ -7443,7 +7513,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-018",
+                "index": "43-12-11-016",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;3. Sophisticated Lady",
                 "releases": [
@@ -7468,7 +7538,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-019",
+                "index": "43-12-11-017",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;4. Caravan",
                 "releases": [
@@ -7493,7 +7563,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-020",
+                "index": "43-12-11-018",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;5. Solitude",
                 "releases": [
@@ -7518,7 +7588,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-021",
+                "index": "43-12-11-019",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;6. I Let A Song Go Out Of My Heart",
                 "releases": [
@@ -7543,7 +7613,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-022",
+                "index": "43-12-11-020",
                 "matrix": null,
                 "title": "Jack The Bear",
                 "releases": [
@@ -7568,7 +7638,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-023",
+                "index": "43-12-11-021",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vAH",
                 "releases": [
@@ -7593,7 +7663,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-024",
+                "index": "43-12-11-022",
                 "matrix": null,
                 "title": "Summertime - vAH",
                 "releases": [
@@ -7614,7 +7684,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-025",
+                "index": "43-12-11-023",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
@@ -7635,7 +7705,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-026",
+                "index": "43-12-11-024",
                 "matrix": null,
                 "title": "Black And Tan Fantasy",
                 "releases": [
@@ -7660,7 +7730,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-027",
+                "index": "43-12-11-025",
                 "matrix": null,
                 "title": "¬ Suddenly It Jumped",
                 "releases": [
@@ -7681,7 +7751,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-028",
+                "index": "43-12-11-026",
                 "matrix": null,
                 "title": "_| Rockin' In Rhythm",
                 "releases": [
@@ -7702,9 +7772,9 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-029",
+                "index": "43-12-11-027",
                 "matrix": null,
-                "title": "I Didn't Know About You",
+                "title": "I Didn't Know About You (Sentimental Lady)",
                 "releases": [
                     {
                         "label": "Em",
@@ -7723,7 +7793,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-030",
+                "index": "43-12-11-028",
                 "matrix": null,
                 "title": "Trumpet In Spades",
                 "releases": [
@@ -7744,7 +7814,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-031",
+                "index": "43-12-11-029",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [
