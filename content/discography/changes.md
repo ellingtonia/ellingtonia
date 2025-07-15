@@ -10,6 +10,7 @@ menu:
 ## July 2025
 * 1943 further corrections
 * 1945 further corrections (release inconsistencies)
+* 1944 more corrections
 
 ## June 2025
 * 1968 tweak
