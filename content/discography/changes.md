@@ -7,6 +7,9 @@ menu:
     weight: 10
 ---
 
+## August 2025
+* 1946 More corrections (July 2025)
+
 ## July 2025
 * 1943 further corrections
 * 1945 further corrections (release inconsistencies)
