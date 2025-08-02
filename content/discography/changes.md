@@ -8,7 +8,7 @@ menu:
 ---
 
 ## August 2025
-* 1946 More corrections (July 2025)
+* 1946 More corrections
 
 ## July 2025
 * 1943 further corrections
