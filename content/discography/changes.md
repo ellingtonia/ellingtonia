@@ -8,18 +8,12 @@ menu:
 ---
 
 ## October 2025
+* 1929,30,32 further corrections
+* 1934 corrections (Hodges remove clarinet and Symphony in Black)
+* 1947,49,52,56,57 further corrections
 
 ## August 2025
 * 1946 More corrections
-* 1947 further corrections
-* 1949 further corrections
-* 1929 further corrections
-* 1930 further corrections
-* 1932 correction
-* 1934 corrections (Hodges remove clarinet and Symphony in Black)
-* 1956 further corrections
-* 1957 further corrections
-* 1952 further corrections
 
 ## July 2025
 * 1943 further corrections
