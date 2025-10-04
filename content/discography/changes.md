@@ -7,8 +7,11 @@ menu:
     weight: 10
 ---
 
+## October 2025
+
 ## August 2025
 * 1946 More corrections
+* 1947 further corrections
 
 ## July 2025
 * 1943 further corrections
