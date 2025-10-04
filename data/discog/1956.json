@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -149,7 +149,7 @@
             },
             {
                 "type": "artists",
-                "value": "Ray Nance(t); Johnny Hodges(as); Billy Strayhorn(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Ray Nance(t); Johnny Hodges(as); Billy Strayhorn(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -161,7 +161,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -340,7 +340,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -377,14 +377,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "ROSEMARY CLOONEY AND DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "23 January 1956",
         "description": "Columbia Recording Session. 30th Street Studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Rosemary Clooney(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d). Rosemary Clooney(v) was overdubbed at Radio Recorders, Hollywood, on 8 and 11 February 1956."
             },
             {
                 "type": "take",
@@ -402,7 +402,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5603a"
@@ -423,7 +424,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5603b"
@@ -432,7 +434,7 @@
                 "type": "take",
                 "index": "56-01-23-003",
                 "matrix": null,
-                "title": "I'm Checking Out Goombye - vRC",
+                "title": "I'm Checking Out Goom-Bye - vRC",
                 "releases": [
                     {
                         "label": "CBS",
@@ -444,7 +446,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5603c"
@@ -473,7 +476,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5603d"
@@ -498,7 +502,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5603e"
@@ -515,11 +520,16 @@
                     },
                     {
                         "label": "Co",
+                        "catalog": "B-8722"
+                    },
+                    {
+                        "label": "Co",
                         "catalog": "CK-65506"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5603f"
@@ -544,30 +554,27 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CK-65506"
+                        "catalog": "CG-33961",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CK-65506"
                     }
                 ],
                 "desor": "DE5603g"
-            },
-            {
-                "type": "artists",
-                "value": "RC vocals dubbed at Radio Recorders, 8 and 11 Feb 1956"
             }
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "ROSEMARY CLOONEY AND DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "27 January 1956",
         "description": "Columbia Recording Session. 30th Street Studio.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Rosemary Clooney(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d). Rosemary Clooney(v) was overdubbed at Radio Recorders, Hollywood, on 8 and 11 February 1956."
             },
             {
                 "type": "take",
@@ -585,7 +592,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5604a"
@@ -606,19 +614,20 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5604b"
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington out. Add Billy Strayhorn(p)"
+                "value": "Duke Ellington out. Add Billy Strayhorn(p)."
             },
             {
                 "type": "take",
                 "index": "56-01-27-003",
-                "matrix": null,
+                "matrix": "ZEP37985",
                 "title": "Just A-Sittin' And A-Rockin' - vRC",
                 "releases": [
                     {
@@ -631,6 +640,11 @@
                     },
                     {
                         "label": "Co",
+                        "catalog": "B-8722",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Co",
                         "catalog": "CK-65506"
                     }
                 ],
@@ -638,7 +652,7 @@
             },
             {
                 "type": "artists",
-                "value": "Billy Strayhorn out. Add Duke Ellington(p)"
+                "value": "Billy Strayhorn out. Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -656,7 +670,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5604d"
@@ -690,7 +705,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5604f"
@@ -724,14 +740,15 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL-872"
+                        "catalog": "CL-872",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE5604h"
             },
             {
-                "type": "artists",
-                "value": "RC vocals dubbed at Radio Recorders, 8 and 11 Feb 1956"
+                "type": "note",
+                "content": "RC vocals dubbed at Radio Recorders, 8 and 11 Feb 1956"
             }
         ]
     },
@@ -743,7 +760,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -788,7 +805,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -1383,7 +1400,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Billy Strayhorn(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Billy Strayhorn(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1553,7 +1570,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1621,7 +1638,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Clark Terry(t); John Sanders(tb); Jimmy Hamilton(cl); Johnny Hodges(as); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Clark Terry(t); John Sanders(tb); Jimmy Hamilton(cl); Johnny Hodges(as); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1717,7 +1734,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Nelson Williams, Phil Barboza, Cat Anderson, Clark Terry(t); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Nelson Williams, Phil Barboza, Cat Anderson, Clark Terry(t); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -1853,7 +1870,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Nelson Williams, Phil Barboza, Cat Anderson, Clark Terry(t); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Nelson Williams, Phil Barboza, Cat Anderson, Clark Terry(t); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -1898,7 +1915,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -1941,12 +1958,20 @@
                 "desor": "DE5611e"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(tk); acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
+            },
+            {
                 "type": "take",
                 "index": "56-05-00-006",
                 "matrix": null,
                 "title": "Monologue - tkDE",
                 "releases": [],
                 "desor": "DE5611f"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -2062,7 +2087,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -2213,7 +2238,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -2423,7 +2448,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Jimmy Woode(sb)"
+                "value": "Duke Ellington(p); Jimmy Woode(sb)."
             },
             {
                 "type": "take",
@@ -2435,7 +2460,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -2463,7 +2488,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson(t); Britt Woodman, Quentin Jackson, John Sanders(tb); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Al Lucas(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson(t); Britt Woodman, Quentin Jackson, John Sanders(tb); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Al Lucas(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -2514,7 +2539,7 @@
             },
             {
                 "type": "artists",
-                "value": "Willie Cook, Herbie Jones, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Herbie Jones, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -2780,8 +2805,8 @@
                 "desor": "DE5613q"
             },
             {
-                "type": "artists",
-                "value": "I Got It Bad was edited in the studio session 5614 as Hodges had mouthpiece problems in bars 1 and 9."
+                "type": "note",
+                "content": "I Got It Bad was edited in the studio session 5614 as Hodges had mouthpiece problems in bars 1 and 9."
             }
         ]
     },
@@ -2793,7 +2818,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -2969,7 +2994,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d) with the New Haven Symphony Orchestra, Frank Brieff(con)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d) with the New Haven Symphony Orchestra, Frank Brieff(con)"
             },
             {
                 "type": "take",
@@ -3021,7 +3046,7 @@
             },
             {
                 "type": "artists",
-                "value": "Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl); Duke Ellington(tk)"
+                "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
             },
             {
                 "type": "take",
@@ -3033,7 +3058,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before but New Haven Symphony Orchestra out"
+                "value": "As before but New Haven Symphony Orchestra out."
             },
             {
                 "type": "take",
@@ -3173,7 +3198,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add The New Haven Symphony Orchestra, Frank Brieff(con)"
+                "value": "Add The New Haven Symphony Orchestra, Frank Brieff(con)."
             },
             {
                 "type": "take",
@@ -3193,7 +3218,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3331,7 +3356,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -3578,7 +3603,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3767,7 +3792,7 @@
             },
             {
                 "type": "artists",
-                "value": "As before"
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -3985,7 +4010,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4045,7 +4070,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4129,7 +4154,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v) with The Cleveland Pops Orchestra"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v) with The Cleveland Pops Orchestra."
             },
             {
                 "type": "take",
@@ -4173,7 +4198,7 @@
             },
             {
                 "type": "artists",
-                "value": "Cleveland Pops Orchestra Out"
+                "value": "Cleveland Pops Orchestra out."
             },
             {
                 "type": "take",
@@ -4185,7 +4210,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Cleveland Pops Orchestra"
+                "value": "Add Cleveland Pops Orchestra."
             },
             {
                 "type": "take",
@@ -4309,7 +4334,7 @@
             },
             {
                 "type": "artists",
-                "value": "Cleveland Pops Orchestra Out"
+                "value": "Cleveland Pops Orchestra out."
             },
             {
                 "type": "take",
@@ -4347,7 +4372,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4633,7 +4658,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) with Studio Orchestra, Johnny Green(con)"
+                "value": "Duke Ellington(p) with Studio Orchestra, Johnny Green(con)."
             },
             {
                 "type": "take",
@@ -4709,7 +4734,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -4730,7 +4755,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Frankie Laine, The Meadowlarks(v) with the Russ Case Orchestra"
+                "value": "Duke Ellington(p); Frankie Laine, The Meadowlarks(v) with the Russ Case Orchestra."
             },
             {
                 "type": "take",
@@ -4750,7 +4775,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4943,7 +4968,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5015,7 +5040,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5059,7 +5084,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -5135,7 +5160,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Joya Sherrill, Margaret Tynes(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Joya Sherrill, Margaret Tynes(v)."
             },
             {
                 "type": "take",
@@ -5453,7 +5478,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -5517,7 +5542,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Ozzie Bailey, Choir(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Ozzie Bailey, Choir(v)."
             },
             {
                 "type": "take",
@@ -5531,7 +5556,7 @@
                 "type": "take",
                 "index": "56-09-24-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
                 "releases": [],
                 "desor": "DE5630a"
             },
@@ -5539,7 +5564,7 @@
                 "type": "take",
                 "index": "56-09-24-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
                 "releases": [],
                 "desor": "DE5630b"
             },
@@ -5547,7 +5572,7 @@
                 "type": "take",
                 "index": "56-09-24-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
                 "releases": [],
                 "desor": "DE5630c"
             },
@@ -5555,7 +5580,7 @@
                 "type": "take",
                 "index": "56-09-24-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
                 "releases": [],
                 "desor": "DE5630d"
             },
@@ -5563,7 +5588,7 @@
                 "type": "take",
                 "index": "56-09-24-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
                 "releases": [],
                 "desor": "DE5630e"
             },
@@ -5571,7 +5596,7 @@
                 "type": "take",
                 "index": "56-09-24-006",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
                 "releases": [],
                 "desor": "DE5630f"
             },
@@ -5579,7 +5604,7 @@
                 "type": "take",
                 "index": "56-09-24-007",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
                 "releases": [],
                 "desor": "DE5630g"
             },
@@ -5587,7 +5612,7 @@
                 "type": "take",
                 "index": "56-09-24-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
                 "releases": [],
                 "desor": "DE5630h"
             },
@@ -5595,7 +5620,7 @@
                 "type": "take",
                 "index": "56-09-24-009",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
                 "releases": [
                     {
                         "label": "Co",
@@ -5624,7 +5649,7 @@
                 "type": "take",
                 "index": "56-09-24-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
                 "releases": [
                     {
                         "label": "Co",
@@ -5725,7 +5750,7 @@
                 "type": "take",
                 "index": "56-09-24-017",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
                 "releases": [],
                 "desor": "DE5630q"
             },
@@ -5733,7 +5758,7 @@
                 "type": "take",
                 "index": "56-09-24-018",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
                 "releases": [],
                 "desor": "DE5630r"
             },
@@ -5741,7 +5766,7 @@
                 "type": "take",
                 "index": "56-09-24-019",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
                 "releases": [],
                 "desor": "DE5630s"
             },
@@ -5917,7 +5942,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington, Billy Strayhorn(p); Jimmy Woode(sb); Sam Woodyard(d); Joya Sherrill, Margaret Tynes, Choir(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington, Billy Strayhorn(p); Jimmy Woode(sb); Sam Woodyard(d); Joya Sherrill, Margaret Tynes, Choir(v)."
             },
             {
                 "type": "take",
@@ -5964,7 +5989,7 @@
                 "type": "take",
                 "index": "56-09-25-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Hey Buddy Bolden  - vJS, CHO",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Hey Buddy Bolden  - vJS, Cho",
                 "releases": [
                     {
                         "label": "Az",
@@ -6033,7 +6058,7 @@
             },
             {
                 "type": "artists",
-                "value": "Russell Procope(cl); Billy Strayhorn(p); Jimmy Woode(sb)"
+                "value": "Russell Procope(cl); Billy Strayhorn(p); Jimmy Woode(sb)."
             },
             {
                 "type": "take",
@@ -6066,7 +6091,7 @@
             },
             {
                 "type": "artists",
-                "value": "Clark Terry(t); Billy Strayhorn(p); Jimmy Woode(sb)"
+                "value": "Clark Terry(t); Billy Strayhorn(p); Jimmy Woode(sb)."
             },
             {
                 "type": "take",
@@ -6124,7 +6149,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Tom Whaley(d); Marion Bruce, Margaret Tynes(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Tom Whaley(d); Marion Bruce, Margaret Tynes(v)."
             },
             {
                 "type": "take",
@@ -6511,7 +6536,7 @@
                 "type": "take",
                 "index": "56-09-28-032",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Anderson Ending)",
                 "releases": [],
                 "desor": "DE5632af"
             },
@@ -6519,7 +6544,7 @@
                 "type": "take",
                 "index": "56-09-28-033",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Anderson Ending)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6643,7 +6668,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p,tk); Candido Camero(bo); Joya Sherrill(v)"
+                "value": "Duke Ellington(p,tk); Candido Camero(bo); Joya Sherrill(v)."
             },
             {
                 "type": "take",
@@ -6697,7 +6722,7 @@
             },
             {
                 "type": "artists",
-                "value": "Candido Camero(bo); Joya Sherrill(v)"
+                "value": "Candido Camero(bo); Joya Sherrill(v)."
             },
             {
                 "type": "take",
@@ -6725,7 +6750,7 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(tk)"
+                "value": "Duke Ellington(tk)."
             },
             {
                 "type": "take",
@@ -6758,7 +6783,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Betty Glamann(ha); Jimmy Woode(sb); Sam Woodyard, Louie Bellson(d); Terry Snyder(d,ch)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Betty Glamann(ha); Jimmy Woode(sb); Sam Woodyard, Louie Bellson(d); Terry Snyder(d,ch)."
             },
             {
                 "type": "take",
@@ -6912,7 +6937,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6988,7 +7013,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7056,7 +7081,7 @@
             },
             {
                 "type": "artists",
-                "value": "Add Steve Allen(p)"
+                "value": "Add Steve Allen(p)."
             },
             {
                 "type": "take",
@@ -7076,7 +7101,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p)"
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -7096,7 +7121,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Margaret Tynes, Ozzie Bailey(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Margaret Tynes, Ozzie Bailey(v)."
             },
             {
                 "type": "take",
@@ -7402,7 +7427,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -7478,7 +7503,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7546,7 +7571,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7582,7 +7607,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7618,7 +7643,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)"
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
