@@ -582,13 +582,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Cootie Williams(t,v); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(ts,cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v)"
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Cootie Williams(t,v); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(ts,cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v)."
             },
             {
                 "type": "take",
                 "index": "29-03-07-001",
                 "matrix": "BVE49767-1",
-                "title": "Dicty Glide",
+                "title": "The Dicty Glide",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -613,10 +613,6 @@
                         "disc": "3",
                         "track": 1,
                         "length": 192
-                    },
-                    {
-                        "label": "Vi",
-                        "catalog": "V-38053"
                     }
                 ],
                 "desor": "DE2905a"
@@ -625,7 +621,7 @@
                 "type": "take",
                 "index": "29-03-07-002",
                 "matrix": "BVE49767-2",
-                "title": "Dicty Glide",
+                "title": "The Dicty Glide",
                 "releases": [
                     {
                         "label": "(F)RCA",
@@ -696,15 +692,15 @@
                 "desor": "DE2905c"
             },
             {
-                "type": "note",
-                "content": "The tenor sax solo at the start is the only Carney recording on that instrument."
-            },
-            {
                 "type": "take",
                 "index": "29-03-07-004",
                 "matrix": "BVE49769-1",
                 "title": "Sloppy Joe - vSG",
                 "releases": [
+                    {
+                        "label": "(E)RCA",
+                        "catalog": "RD-7731"
+                    },
                     {
                         "label": "(F)RCA",
                         "catalog": "741029"
@@ -732,10 +728,6 @@
                         "disc": "3",
                         "track": 4,
                         "length": 196
-                    },
-                    {
-                        "label": "Vi",
-                        "catalog": "V-38065"
                     }
                 ],
                 "desor": "DE2905d"
@@ -813,6 +805,10 @@
                     }
                 ],
                 "desor": "DE2905f"
+            },
+            {
+                "type": "note",
+                "content": "The tenor sax solo at the start of \"Hot Feet\" is the only Carney recording on that instrument.\n\nFor New DESOR, also take -1 of \"The Dicty Glide\" was issued on Vi V-38053 and also take -1 of \"Sloppy Joe\" was issued on Vi V-38065; according to Steven Lasker, there isn't any known evidence of that."
             }
         ]
     },
@@ -1035,13 +1031,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, unidentified choir (v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, unidentified choir(v)."
             },
             {
                 "type": "take",
                 "index": null,
-                "matrix": "BVE51158-1",
-                "title": "A Nite At The Cotton Club - Part 1",
+                "matrix": "BCVE51158-1",
+                "title": "A Night At The Cotton Club - Part 1",
                 "releases": [],
                 "desor": "DE2908a"
             },
@@ -1130,8 +1126,8 @@
             {
                 "type": "take",
                 "index": null,
-                "matrix": "BVE51159-1",
-                "title": "A Nite At The Cotton Club - Part 2",
+                "matrix": "CVE51159-1",
+                "title": "A Night At The Cotton Club - Part 2",
                 "releases": [],
                 "desor": "DE2908b"
             },
@@ -2039,7 +2035,7 @@
             {
                 "type": "take",
                 "index": "29-09-13-002",
-                "matrix": "E30527-A",
+                "matrix": "E30527-A or -B",
                 "title": "Doin' The New Low Down - vBRo",
                 "releases": [
                     {
@@ -2519,7 +2515,7 @@
             {
                 "type": "take",
                 "index": "29-10-29-004",
-                "matrix": "E31372-",
+                "matrix": "E31372-office",
                 "title": "Oklahoma Stomp",
                 "releases": [],
                 "desor": "DE2918d"
