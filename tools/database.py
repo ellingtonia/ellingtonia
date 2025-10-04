@@ -300,6 +300,9 @@ def load_from_json():
         old_date = None
 
         for session_idx, jsession in enumerate(json_sessions):
+            if not "date" in jsession:
+                raise RuntimeError(f"Missing date, previous session was {old_date}")
+
             date_str, date = fix_date(jsession["date"])
 
             # "index_date" is used to indicate indexing if the date is ambiguous
