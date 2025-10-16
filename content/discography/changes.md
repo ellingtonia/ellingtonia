@@ -15,6 +15,7 @@ menu:
 * 1928.
 * 1947
 * 1948 corrections
+* 1940.
 
 ## August 2025
 * 1946 More corrections
