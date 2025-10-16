@@ -21,6 +21,7 @@ menu:
 * 1933 corrections
 * 1930
 * 1937
+* 1932
 
 ## August 2025
 * 1946 More corrections
