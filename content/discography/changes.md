@@ -13,6 +13,7 @@ menu:
 * 1947,49,52,56,57 further corrections
 * 1927.
 * 1928.
+* 1947
 
 ## August 2025
 * 1946 More corrections

@@ -1019,7 +1019,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Duke Ellington(p) acc. Percy Faith and His Orchestra."
+                "value": "Duke Ellington(p) acc. by Percy Faith and His Orchestra."
             },
             {
                 "type": "take",
@@ -3929,7 +3929,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "1-778"
+                        "catalog": "1-778",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4721b"
@@ -5096,7 +5097,7 @@
             },
             {
                 "type": "note",
-                "content": "He Makes Me Believe He's Mine: New DESOR assigned take -1 to 4729f and take -2 to 4729j, identified as the issued take. Steven Lasker owns a 78 rpm test pressing containing the issued take, marked -1B. Therefore 4729j should be identified as -1, and therefore, the unissued 4729f as -2."
+                "content": "He Makes Me Believe He's Mine: New DESOR assigned take -1 to 4729f and take -2 to 4729j, identified as the issued take. Steven Lasker owns a 78 rpm test pressing containing the issued take, marked -1B. Therefore 4729j should be identified as take -1 and, consequently, unissued 4729f as take -2."
             }
         ]
     },
@@ -5251,7 +5252,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "38950"
+                        "catalog": "38950",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -7325,7 +7327,8 @@
                 "releases": [
                     {
                         "label": "FDC",
-                        "catalog": "1023"
+                        "catalog": "1023",
+                        "flags": "◊"
                     },
                     {
                         "label": "Nw",
