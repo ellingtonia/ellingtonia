@@ -12,6 +12,7 @@ menu:
 * 1934 corrections (Hodges remove clarinet and Symphony in Black)
 * 1947,49,52,56,57 further corrections
 * Further corrections to 1927, 1928, 1930, 1932, 1933, 1937, 1940, 1941, 1942, 1947, 1948.
+* Replaced (F)RCA and (E)RCA with RCA(F) and RCA(E) respectively (this means they are next to each other in the list of labels etc.)
 
 ## August 2025
 * 1946 More corrections

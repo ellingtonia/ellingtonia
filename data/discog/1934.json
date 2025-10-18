@@ -16,10 +16,6 @@
                 "title": "Delta Serenade",
                 "releases": [
                     {
-                        "label": "(F)RCA",
-                        "catalog": "741114"
-                    },
-                    {
                         "label": "LR",
                         "catalog": "X-EIO-6",
                         "track": 1,
@@ -35,6 +31,10 @@
                         "disc": "7",
                         "track": 5,
                         "length": 197
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "741114"
                     }
                 ],
                 "desor": "DE3401a"
@@ -45,10 +45,6 @@
                 "matrix": "BS80144-2",
                 "title": "Delta Serenade",
                 "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "741114"
-                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "646"
@@ -67,6 +63,10 @@
                         "length": 199
                     },
                     {
+                        "label": "RCA(F)",
+                        "catalog": "741114"
+                    },
+                    {
                         "label": "Vi",
                         "catalog": "24755"
                     }
@@ -79,10 +79,6 @@
                 "matrix": "BS80145-1",
                 "title": "Stompy Jones",
                 "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "741114"
-                    },
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-1"
@@ -106,6 +102,10 @@
                         "disc": "7",
                         "track": 7,
                         "length": 183
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "741114"
                     },
                     {
                         "label": "Vi",
@@ -133,10 +133,6 @@
                 "title": "Solitude",
                 "releases": [
                     {
-                        "label": "(F)RCA",
-                        "catalog": "741114"
-                    },
-                    {
                         "label": "Bb",
                         "catalog": "82876-60091-2-1"
                     },
@@ -157,6 +153,10 @@
                         "length": 212
                     },
                     {
+                        "label": "RCA(F)",
+                        "catalog": "741114"
+                    },
+                    {
                         "label": "Vi",
                         "catalog": "24755"
                     }
@@ -169,10 +169,6 @@
                 "matrix": "BS80150-1",
                 "title": "Blue Feeling",
                 "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "741114"
-                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "646"
@@ -192,6 +188,10 @@
                         "disc": "7",
                         "track": 9,
                         "length": 192
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "741114"
                     },
                     {
                         "label": "Vi",
@@ -381,14 +381,6 @@
                 "title": "My Old Flame - vMW",
                 "releases": [
                     {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-Ie"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
-                    {
                         "label": "Ar",
                         "catalog": "ARLP-12031"
                     },
@@ -408,6 +400,14 @@
                     {
                         "label": "MoJ",
                         "catalog": "MJCD-1305"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-Ie"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
                     }
                 ],
                 "desor": "DE3407a"
@@ -464,14 +464,6 @@
                 "title": "Ebony Rhapsody - vIA",
                 "releases": [
                     {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-Ie"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
-                    {
                         "label": "Cl(F)",
                         "catalog": "646"
                     },
@@ -488,6 +480,14 @@
                         "length": 203
                     },
                     {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-Ie"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
+                    },
+                    {
                         "label": "Vi",
                         "catalog": "24622"
                     }
@@ -500,10 +500,6 @@
                 "matrix": "BS79156-1",
                 "title": "Cocktails For Two",
                 "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
                     {
                         "label": "LR",
                         "catalog": "X-EIO-6",
@@ -520,6 +516,10 @@
                         "disc": "7",
                         "track": 11,
                         "length": 209
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
                     }
                 ],
                 "desor": "DE3409b"
@@ -530,14 +530,6 @@
                 "matrix": "BS79156-2",
                 "title": "Cocktails For Two",
                 "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-Ie"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "646"
@@ -556,6 +548,14 @@
                         "length": 206
                     },
                     {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-Ie"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
+                    },
+                    {
                         "label": "Vi",
                         "catalog": "24617"
                     }
@@ -568,14 +568,6 @@
                 "matrix": "BS79156-17-2",
                 "title": "Live And Love Tonight",
                 "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-Ie"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "646"
@@ -591,6 +583,14 @@
                         "disc": "7",
                         "track": 13,
                         "length": 198
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-Ie"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
                     },
                     {
                         "label": "Vi",
@@ -618,14 +618,6 @@
                 "title": "I Met My Waterloo",
                 "releases": [
                     {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-Ie"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
-                    {
                         "label": "Cl(F)",
                         "catalog": "646"
                     },
@@ -640,6 +632,14 @@
                         "disc": "7",
                         "track": 14,
                         "length": 210
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-Ie"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
                     },
                     {
                         "label": "Vi",
@@ -756,14 +756,6 @@
                 "title": "Troubled Waters - vIA",
                 "releases": [
                     {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-Ie"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
-                    {
                         "label": "Cl(F)",
                         "catalog": "646"
                     },
@@ -785,6 +777,14 @@
                         "length": 210
                     },
                     {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-Ie"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
+                    },
+                    {
                         "label": "Vi",
                         "catalog": "24651"
                     }
@@ -797,14 +797,6 @@
                 "matrix": "BS79212-2",
                 "title": "My Old Flame - vIA",
                 "releases": [
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-Ie"
-                    },
-                    {
-                        "label": "(F)RCA",
-                        "catalog": "FPM-1-7002-IIe"
-                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "646"
@@ -820,6 +812,14 @@
                         "disc": "7",
                         "track": 17,
                         "length": 201
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-Ie"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FPM-1-7002-IIe"
                     },
                     {
                         "label": "Vi",
