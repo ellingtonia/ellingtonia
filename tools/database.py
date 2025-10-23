@@ -65,9 +65,6 @@ class Entry:
     # TODO: Add "Recorded as" for the original recording title, e.g. "DE2802c"
     # was first released as "Harlem Twist".
 
-    # This is a fudge to ensure consistent ordering when adding a release to an entry
-    sequence_no: int = None
-
 
 Entry.__annotations__.update({key: str for key in ENTRY_LINKS})
 for key in ENTRY_LINKS:
@@ -126,7 +123,6 @@ class EntryRelease:
 
 class Database:
     def __init__(self):
-        self._next_sequence_no = 1
         self._sessions = []
         self._releases = {}
         self._entries = {}
@@ -138,9 +134,6 @@ class Database:
 
     def add_session(self, session, entries):
         for entry in entries:
-            entry.sequence_no = self._next_sequence_no
-            self._next_sequence_no += 1
-
             entry.session = session
 
             if entry.desor in self._entries_by_desor:
@@ -502,7 +495,10 @@ def save_releases_to_json(database, generated):
         track = er.track
         if track is None:
             track = 0
-        return (disc, track, er.entry.sequence_no)
+
+        # Can be None for e.g. "Medley" (which shouldn't itself appear in the release)
+        index = "" if er.entry.index is None else er.entry.index
+        return (disc, track, index)
 
     releases = database.all_releases()
     json_releases = {}
