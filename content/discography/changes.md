@@ -19,6 +19,7 @@ menu:
 * 1967
 * 1969
 * 1970
+* 1971
 
 ## October 2025
 * 1929,30,32 further corrections
