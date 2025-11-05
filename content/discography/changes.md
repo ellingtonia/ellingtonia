@@ -12,6 +12,7 @@ menu:
 * 1925,26,28,29
 * 1926
 * 1928
+* 1929
 
 ## October 2025
 * 1929,30,32 further corrections
