@@ -13,6 +13,7 @@ menu:
 * Changes for 1931, 1937, 1938, 1939, 1947, 1961
 * 1924
 * 1940: removed non-existent 1 Oct broadcast
+* 1930
 
 ## October 2025
 * 1929,30,32 further corrections
