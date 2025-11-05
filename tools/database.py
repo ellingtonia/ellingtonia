@@ -236,6 +236,14 @@ class Database:
 
         return entry
 
+    def validate_releases(self):
+        seen = set()
+        for label, catalog in self._releases.keys():
+            key = (label, catalog.replace(" ", "-"))
+            if key in seen:
+                raise RuntimeError ("Ambiguous releases detected", label.label, catalog)
+            seen.add(key)
+
 
 def fix_date(date_str):
     date_str = date_str.strip()
@@ -406,7 +414,7 @@ def load_from_json():
                     ):
                         label = release_dict["label"]
                         catalog = release_dict["catalog"]
-                        catalog = catalog.strip().replace(" ", "-")
+                        catalog = catalog.strip()
                         if (label, catalog) in seen_releases:
                             logging.warning(
                                 f"Skipping duplicate release {label} {catalog}"
@@ -461,6 +469,7 @@ def load_from_json():
                     val = release_data.get(key)
                     setattr(release, key, val)
 
+    database.validate_releases()
     return database
 
 
