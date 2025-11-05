@@ -8,20 +8,8 @@ menu:
 ---
 
 ## November 2025
-* 1934.
 * Update Pathé label for 1925,26,28,29
-* Changes for 1931, 1937, 1938, 1939, 1947, 1961
-* 1924
-* 1940: removed non-existent 1 Oct broadcast
-* 1930
-* 1949
-* 1968
-* 1967
-* 1969
-* 1970
-* 1971
-* 1972
-* 1969
+* Various smaller changes across many years (see GitHub)
 
 ## October 2025
 * 1929,30,32 further corrections
