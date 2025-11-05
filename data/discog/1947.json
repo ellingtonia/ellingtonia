@@ -3812,7 +3812,7 @@
                         "catalog": "1051"
                     },
                     {
-                        "label": "Co",
+                        "label": "Co(Ar)",
                         "catalog": "291732"
                     },
                     {
@@ -4757,7 +4757,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "10 November 1947",
-        "description": "Columbia Recording Session, Liederkranz Hall",
+        "description": "Columbia Recording Session, probably Liederkranz Hall.",
         "entries": [
             {
                 "type": "artists",
@@ -4949,7 +4949,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "11 November 1947",
-        "description": "Columbia Recording Session, Liederkranz Hall",
+        "description": "Columbia Recording Session, probably Liederkranz Hall.",
         "entries": [
             {
                 "type": "artists",
@@ -5105,7 +5105,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "14 November 1947",
-        "description": "Columbia Recording Session, Liederkranz Hall",
+        "description": "Columbia Recording Session, probably Liederkranz Hall.",
         "entries": [
             {
                 "type": "artists",
@@ -5126,11 +5126,6 @@
                 "title": "Take Love Easy - vDP",
                 "releases": [
                     {
-                        "label": "Co",
-                        "catalog": "1-266",
-                        "flags": "◊"
-                    },
-                    {
                         "label": "Ja",
                         "catalog": "JASMCD2850",
                         "track": 8
@@ -5141,7 +5136,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2003"
+                        "catalog": "2003",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE4730b"
@@ -5151,7 +5147,13 @@
                 "index": "47-11-14-003",
                 "matrix": "CO38386-",
                 "title": "Take Love Easy - vDP",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Co",
+                        "catalog": "1-266",
+                        "flags": "◊"
+                    }
+                ],
                 "desor": "DE4730c"
             },
             {
@@ -5314,7 +5316,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "18 November 1947",
-        "description": "Columbia Recording Session, Liederkranz Hall",
+        "description": "Columbia Recording Session, probably Liederkranz Hall.",
         "entries": [
             {
                 "type": "artists",
@@ -5367,7 +5369,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "20 November 1947",
-        "description": "Columbia Recording Session, Liederkranz Hall",
+        "description": "Columbia Recording Session, probably Liederkranz Hall.",
         "entries": [
             {
                 "type": "artists",
@@ -5606,7 +5608,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "22 December 1947",
-        "description": "Columbia Recording Session",
+        "description": "Columbia Recording Session, probably Liederkranz Hall.",
         "entries": [
             {
                 "type": "artists",
@@ -5717,7 +5719,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "24 December 1947",
-        "description": "Columbia Recording Session, Liederkranz Hall",
+        "description": "Columbia Recording Session, Liederkranz Hall.",
         "entries": [
             {
                 "type": "artists",
