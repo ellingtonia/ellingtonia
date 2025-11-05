@@ -12,6 +12,7 @@ menu:
 * Update Pathé label for 1925,26,28,29
 * 1931
 * 1937
+* 1938
 
 ## October 2025
 * 1929,30,32 further corrections
