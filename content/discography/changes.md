@@ -15,6 +15,7 @@ menu:
 * 1938
 * 1939
 * 1947
+* 1961
 
 ## October 2025
 * 1929,30,32 further corrections
