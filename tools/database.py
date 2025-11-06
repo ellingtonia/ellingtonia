@@ -94,7 +94,10 @@ RELEASE_LINKS = [
     "format",
 ]
 
+catalog_fixups = {l.strip().replace(" ", "-") : l.strip() for l in open("crud/restore_spaces.txt")}
 
+
+@dataclass(frozen=False, eq=False)
 class Release:
     label: Label
     catalog: str
@@ -103,6 +106,10 @@ class Release:
     format: str = None
     note: str = None
     release_date: str = None
+
+    def __post_init__(self):
+        self.catalog = catalog_fixups.get(self.catalog, self.catalog)
+
 
 
 Release.__annotations__.update({key: str for key in RELEASE_LINKS})
