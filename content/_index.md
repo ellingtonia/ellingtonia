@@ -34,7 +34,8 @@ You can join us in talking all things Duke using the DESUK Discord chatroom at h
 * The 1999 New Desor, which lacks some corrections contained in this site, but has a wealth of other material such as analyses of song form and soloists: https://archive.org/details/new-desor
 * Archives of the DEMS bulletins: http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html (these are largely correctiosn to the 1999 New Desor)
 
-# A note on matrix numbers
+# Technical notes
+## Matrix numbers
 All _released_ takes of a given master are listed herein. In the case of
 unreleased masters, we list the highest take recorded of a given master number,
 but not any lower takes.
@@ -50,5 +51,7 @@ case, we show both numbers but not so with the next song recorded, _East St.
 Louis Toodle-O_, where we list the issued take (`E4110W`) but not the unissued one
 (`E4111W`).
 
+## Misc
+`Unk` refers to unknown artist(s) or other persons.
 
 # Ellingtonia.com Blog

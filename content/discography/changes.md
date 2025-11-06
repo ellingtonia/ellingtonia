@@ -10,7 +10,7 @@ menu:
 ## November 2025
 * Update Pathé label for 1925,26,28,29
 * Various smaller changes across many years (see GitHub)
-* 1972
+* Change n/k to Unk all over the site
 
 ## October 2025
 * 1929,30,32 further corrections
