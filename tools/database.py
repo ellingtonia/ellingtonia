@@ -414,7 +414,6 @@ def load_from_json():
                     ):
                         label = release_dict["label"]
                         catalog = release_dict["catalog"]
-                        catalog = catalog.strip()
                         if (label, catalog) in seen_releases:
                             logging.warning(
                                 f"Skipping duplicate release {label} {catalog}"
@@ -457,8 +456,6 @@ def load_from_json():
         releases_data = json.load(f)
         for label, label_releases in releases_data.items():
             for catalog, release_data in label_releases.items():
-                catalog = catalog.strip().replace(" ", "-")
-
                 release = database.get_release(
                     database.get_label(label), catalog
                 )
