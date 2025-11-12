@@ -54,6 +54,10 @@ case tracks are listed in the order in they were recorded.</p>
       {{- end -}}
     </h3>
 
+    {{ if $release_data.release_date }}
+      <p>Released {{ $release_data.release_date }}</p>
+    {{ end }}
+
     <p>No. entries: {{ len $release_data.takes }}</p>
 
     {{ if $release_data.note }}

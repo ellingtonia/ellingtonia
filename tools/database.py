@@ -102,6 +102,7 @@ class Release:
     title: str = None
     format: str = None
     note: str = None
+    release_date: str = None
 
 
 Release.__annotations__.update({key: str for key in RELEASE_LINKS})
@@ -460,6 +461,7 @@ def load_from_json():
                     database.get_label(label), catalog
                 )
 
+                release.release_date = release_data.get("release_date")
                 release.note = release_data.get("note")
 
                 for key in RELEASE_LINKS:
@@ -527,6 +529,9 @@ def save_releases_to_json(database, generated):
 
         if release.note:
             json_release["note"] = release.note
+
+        if release.release_date:
+            json_release["release_date"] = release.release_date
 
         if generated:
             json_release["takes"] = []
