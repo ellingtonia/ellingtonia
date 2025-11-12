@@ -17,6 +17,7 @@ menu:
 * 1927
 * Remove "ch" from Sonny Greer instruments
 * Juan Tizol: show vtb instead of tb
+* Write "Victor recording session" instead of RCA-Victor.
 
 ## October 2025
 * 1929,30,32 further corrections
