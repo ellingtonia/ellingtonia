@@ -12,7 +12,7 @@
             {
                 "type": "take",
                 "index": "27-01-10-001",
-                "matrix": "BVE37527-",
+                "matrix": "BVE37527-3",
                 "title": "Make Me love You - vEPr",
                 "releases": [],
                 "desor": "DE2701a"
@@ -53,7 +53,8 @@
                     },
                     {
                         "label": "Tx",
-                        "catalog": "LP-9"
+                        "catalog": "LP-9",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2701b"
@@ -73,7 +74,7 @@
             {
                 "type": "take",
                 "index": "27-01-21-001",
-                "matrix": null,
+                "matrix": "W80322A",
                 "title": "They Say I Do It - vGA",
                 "releases": [],
                 "desor": null
@@ -81,14 +82,14 @@
             {
                 "type": "take",
                 "index": "27-01-21-002",
-                "matrix": null,
+                "matrix": "W80323A",
                 "title": "Drifting From You Blues - vGA",
                 "releases": [],
                 "desor": null
             },
             {
                 "type": "note",
-                "content": "All takes rejected"
+                "content": "All takes rejected and destroyed."
             }
         ]
     },
@@ -106,7 +107,7 @@
                 "type": "take",
                 "index": "27-02-03-001",
                 "matrix": "E4510W",
-                "title": "New Orleans Lowdown",
+                "title": "New Orleans Low Down",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -134,7 +135,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1086"
+                        "catalog": "1086",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2702a"
@@ -143,7 +145,7 @@
                 "type": "take",
                 "index": "27-02-03-002",
                 "matrix": "E4511W",
-                "title": "Song Of The Cotton Field",
+                "title": "Song From A Cotton Field",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -171,10 +173,15 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1086"
+                        "catalog": "1086",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2702b"
+            },
+            {
+                "type": "note",
+                "content": "\"Song From A Cotton Field\" (words and music by Porter Grainger) was issued as \"Song Of The Cotton Field\" on Vo 1086 and subsequent releases."
             }
         ]
     },
@@ -191,7 +198,7 @@
             {
                 "type": "take",
                 "index": "27-02-28-001",
-                "matrix": "E21636/8",
+                "matrix": "E21636/7/8",
                 "title": "East St. Louis Toodle-O",
                 "releases": [],
                 "desor": "DE2703a"
@@ -204,7 +211,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3480"
+                        "catalog": "3480",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -253,7 +261,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3480"
+                        "catalog": "3480",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -310,7 +319,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "953D"
+                        "catalog": "953D",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -358,7 +368,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "953D"
+                        "catalog": "953D",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -398,7 +409,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "1076D"
+                        "catalog": "1076D",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -442,7 +454,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3526"
+                        "catalog": "3526",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -491,7 +504,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3526"
+                        "catalog": "3526",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -539,7 +553,7 @@
             {
                 "type": "take",
                 "index": "27-10-06-001",
-                "matrix": "BVE40155-1",
+                "matrix": "BVE40155-2",
                 "title": "Black And Tan Fantasy",
                 "releases": [],
                 "desor": "DE2708a"
@@ -547,18 +561,6 @@
             {
                 "type": "take",
                 "index": "27-10-06-002",
-                "matrix": "BVE40155-2",
-                "title": "Black And Tan Fantasy",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "note",
-                "content": "Both takes above rejected"
-            },
-            {
-                "type": "take",
-                "index": "27-10-06-003",
                 "matrix": "BVE40156-1",
                 "title": "Washington Wabble",
                 "releases": [
@@ -580,6 +582,11 @@
                         "catalog": "MJCD-9"
                     },
                     {
+                        "label": "Pi",
+                        "catalog": "MPC 510",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "1",
@@ -595,10 +602,15 @@
             },
             {
                 "type": "take",
-                "index": "27-10-06-004",
+                "index": "27-10-06-003",
                 "matrix": "BVE40156-2",
                 "title": "Washington Wabble",
                 "releases": [
+                    {
+                        "label": "\"X\"",
+                        "catalog": "LVA-3037",
+                        "flags": "◊"
+                    },
                     {
                         "label": "HnS",
                         "catalog": "FDC-5111"
@@ -629,6 +641,10 @@
                     }
                 ],
                 "desor": "DE2708c"
+            },
+            {
+                "type": "note",
+                "content": "Two takes of Black and Tan Fantasy were recorded, both rejected."
             }
         ]
     },
@@ -682,7 +698,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21137"
+                        "catalog": "21137",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2709a"
@@ -723,7 +740,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21284"
+                        "catalog": "21284",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2709b"
@@ -768,7 +786,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21137"
+                        "catalog": "21137",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2709c"
@@ -813,7 +832,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21490"
+                        "catalog": "21490",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2709d"
@@ -824,6 +844,11 @@
                 "matrix": "BVE39371-2",
                 "title": "Blues I Love To Sing - vAHa",
                 "releases": [
+                    {
+                        "label": "\"X\"",
+                        "catalog": "LVA-3037",
+                        "flags": "◊"
+                    },
                     {
                         "label": "HnS",
                         "catalog": "FDC-5111"
@@ -865,7 +890,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Jabbo Smith, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson(cl,ts);  Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,as);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Adelaide Hall(v)."
+                "value": "Jabbo Smith, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson(cl,ts);  Otto Hardwick(cl,as); Harry Carney(cl,as);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -902,7 +927,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8521"
+                        "catalog": "8521",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2710a"
@@ -950,7 +976,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "40955"
+                        "catalog": "40955",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2710b"
@@ -979,10 +1006,24 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8521"
+                        "catalog": "8521",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2710c"
+            }
+        ]
+    },
+    {
+        "group": "THE CHICAGO FOOTWARMERS",
+        "location": null,
+        "date": "03 November 1927",
+        "same_session": true,
+        "description": null,
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Add Adelaide Hall(v)."
             },
             {
                 "type": "take",
@@ -1019,7 +1060,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8675"
+                        "catalog": "8675",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2710d"
@@ -1134,7 +1176,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21284"
+                        "catalog": "21284",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2712a"
@@ -1167,7 +1210,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "731043"
+                        "catalog": "731043",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2712b"
@@ -1178,6 +1222,11 @@
                 "matrix": "BVE41244-3",
                 "title": "Harlem River Quiver",
                 "releases": [
+                    {
+                        "label": "\"X\"",
+                        "catalog": "LVA-3037",
+                        "flags": "◊"
+                    },
                     {
                         "label": "HnS",
                         "catalog": "FDC-5111"
@@ -1253,7 +1302,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21703"
+                        "catalog": "21703",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2712d"
@@ -1294,7 +1344,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21490"
+                        "catalog": "21490",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2712e"
@@ -1324,7 +1375,8 @@
                     },
                     {
                         "label": "Pi",
-                        "catalog": "MPC-510"
+                        "catalog": "MPC 510",
+                        "flags": "◊"
                     },
                     {
                         "label": "RCA",
@@ -1388,7 +1440,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1153"
+                        "catalog": "1153",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2713a"
@@ -1425,7 +1478,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1153"
+                        "catalog": "1153",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2713b"
