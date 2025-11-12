@@ -12,6 +12,7 @@ menu:
 * Various smaller changes across many years (see GitHub)
 * Change n/k to Unk all over the site
 * 1960
+* 1925
 
 ## October 2025
 * 1929,30,32 further corrections

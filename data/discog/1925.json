@@ -8,7 +8,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Otto Hardwick(as); Duke Ellington(p);Florence Bristol(v)."
+                "value": "Otto Hardwick(as); Duke Ellington(p); Florence Bristol(v)."
             },
             {
                 "type": "take",
@@ -26,7 +26,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2019"
+                        "catalog": "2019",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2403a"
@@ -79,7 +80,8 @@
     {
         "group": "DUKE ELLINGTON'S WASHINGTONIANS",
         "location": "New York City, NY",
-        "date": "11 September 1925",
+        "date": "circa 11 September 1925",
+        "index_date": 250911,
         "description": "Pathé recording session",
         "entries": [
             {
@@ -114,7 +116,8 @@
                     },
                     {
                         "label": "Pa",
-                        "catalog": "36333"
+                        "catalog": "36333",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2501a"
@@ -147,14 +150,15 @@
                     },
                     {
                         "label": "Pa",
-                        "catalog": "36333"
+                        "catalog": "36333",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2501b"
             },
             {
                 "type": "note",
-                "content": "Previously reported as just \"September 1925\". TDWAW suggests 11 September most likely."
+                "content": "Previously reported as just \"September 1925\". TDWAW suggests 11 September most likely. The first selection copyrighted as \"I’m Gonna Hang Around My Sugar, Till I Gather All The Sugar That She's Got\""
             }
         ]
     }
