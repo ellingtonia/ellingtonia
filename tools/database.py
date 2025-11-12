@@ -297,7 +297,11 @@ def load_from_json():
     session_paths = glob.glob("data/discog/19*.json")
     for session_path in session_paths:
         with open(session_path) as f:
-            json_sessions = json.load(f)
+            try:
+                json_sessions = json.load(f)
+            except json.decoder.JSONDecodeError as e:
+                e.args +=(session_path,)
+                raise
 
         old_date = None
 
