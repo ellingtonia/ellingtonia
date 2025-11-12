@@ -16,6 +16,7 @@ menu:
 * 1926
 * 1927
 * Remove "ch" from Sonny Greer instruments
+* Juan Tizol: show vtb instead of tb
 
 ## October 2025
 * 1929,30,32 further corrections
