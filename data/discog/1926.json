@@ -8,7 +8,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harry Cooper, Leroy Rutledge(t); Charlie Irvis(tb); Don Redman(cl,as); Prince Robinson(cl,ts); Otto Hardwick(as,bar); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb)."
+                "value": "Harry Cooper, Leroy Rutledge(t); Charlie Irvis(tb); Don Redman(as); Prince Robinson(cl,ts); Otto Hardwick(as,bar); Duke Ellington(p); Fred Guy(bj); Bass Edwards(bb)."
             },
             {
                 "type": "take",
@@ -38,7 +38,8 @@
                     },
                     {
                         "label": "Pa",
-                        "catalog": "7504"
+                        "catalog": "7504",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2601a"
@@ -71,7 +72,8 @@
                     },
                     {
                         "label": "Pa",
-                        "catalog": "7504"
+                        "catalog": "7504",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2601b"
@@ -92,7 +94,7 @@
                 "type": "take",
                 "index": "26-03-30-001",
                 "matrix": "X57-A",
-                "title": "\"Wanna Go Back Again\" Blues - vSG",
+                "title": "You've Got Those Wanna Go Back Again Blues - vSG",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -100,7 +102,8 @@
                     },
                     {
                         "label": "Ge",
-                        "catalog": "3291"
+                        "catalog": "3291",
+                        "flags": "◊"
                     },
                     {
                         "label": "Hi",
@@ -129,7 +132,8 @@
                     },
                     {
                         "label": "Ge",
-                        "catalog": "3291"
+                        "catalog": "3291",
+                        "flags": "◊"
                     },
                     {
                         "label": "Hi",
@@ -145,6 +149,10 @@
                     }
                 ],
                 "desor": "DE2602b"
+            },
+            {
+                "type": "note",
+                "content": "The second selection was copyrighted with the title \"If You Can't Hold The Man You Love, Don't Cry When He's Gone\"."
             }
         ]
     },
@@ -156,13 +164,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Charlie Johnson(t);Joe Nanton(tb); Prince Robinson(cl,ts); Otto Hardwick(as,bar), Unk(as); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d,v)."
+                "value": "Bubber Miley, Charlie Johnson(t);Joe Nanton(tb); Prince Robinson(cl,ts); Otto Hardwick(as,bar), Unk(as); Duke Ellington(p); Fred Guy(bj); Max Shaw(bb); Sonny Greer(d,v)."
             },
             {
                 "type": "take",
                 "index": "26-06-21-001",
-                "matrix": "X190-",
-                "title": "Animal Crackers",
+                "matrix": "X190",
+                "title": "I'm Just Wild About Animal Crackers",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -170,7 +178,8 @@
                     },
                     {
                         "label": "Ge",
-                        "catalog": "3342"
+                        "catalog": "3342",
+                        "flags": "◊"
                     },
                     {
                         "label": "Hi",
@@ -194,7 +203,7 @@
             {
                 "type": "take",
                 "index": "26-06-21-002",
-                "matrix": "X191-",
+                "matrix": "X191",
                 "title": "Li'l Farina",
                 "releases": [
                     {
@@ -203,7 +212,8 @@
                     },
                     {
                         "label": "Ge",
-                        "catalog": "3342"
+                        "catalog": "3342",
+                        "flags": "◊"
                     },
                     {
                         "label": "Hi",
@@ -244,7 +254,8 @@
                 "releases": [
                     {
                         "label": "Ge",
-                        "catalog": "3403"
+                        "catalog": "3403",
+                        "flags": "◊"
                     },
                     {
                         "label": "Hi",
@@ -269,7 +280,8 @@
                 "releases": [
                     {
                         "label": "Ge",
-                        "catalog": "3403"
+                        "catalog": "3403",
+                        "flags": "◊"
                     },
                     {
                         "label": "Hi",
@@ -285,6 +297,10 @@
                     }
                 ],
                 "desor": "DE2604b"
+            },
+            {
+                "type": "note",
+                "content": "Ellington's first electrical recordings; he would record acoustically only once more, on 9 January 1928."
             }
         ]
     },
@@ -296,7 +312,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t);Joe Nanton(tb); Prince Robinson(cl,ts); Otto Hardwick(ss,as,bsax); Unk(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d)."
+                "value": "Bubber Miley, Louis Metcalf(t);Joe Nanton(tb); Prince Robinson(cl,ts); Otto Hardwick(ss,as,bsax); Unk(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Max Shaw(bb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -346,7 +362,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1064"
+                        "catalog": "1064",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2605b"
@@ -395,7 +412,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1064"
+                        "catalog": "1064",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2605d"
@@ -414,12 +432,12 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Otto Hardwick(as,bar); Duke Ellington(p); Gussie Alexander(v)."
+                "value": "Otto Hardwick(sax); Duke Ellington(p); Gussie Alexander(v)."
             },
             {
                 "type": "take",
                 "index": "26-12-01-001",
-                "matrix": null,
+                "matrix": "74430A",
                 "title": "They Say I Do It - vGA",
                 "releases": [],
                 "desor": null
@@ -427,7 +445,7 @@
             {
                 "type": "take",
                 "index": "26-12-01-002",
-                "matrix": null,
+                "matrix": "74431A",
                 "title": "Drifting From You Blues - vGA",
                 "releases": [],
                 "desor": null
@@ -435,26 +453,26 @@
             {
                 "type": "take",
                 "index": "26-12-01-003",
-                "matrix": null,
+                "matrix": "74431B",
                 "title": "Drifting From You Blues - vGA",
                 "releases": [],
                 "desor": null
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Gussie Alexander(v)."
+                "value": "prob. Duke Ellington(p); Gussie Alexander(v)."
             },
             {
                 "type": "take",
                 "index": "26-12-01-004",
-                "matrix": null,
+                "matrix": "80235A",
                 "title": "Drifting From You Blues - vGA",
                 "releases": [],
                 "desor": null
             },
             {
                 "type": "note",
-                "content": "All takes rejected"
+                "content": "All takes rejected and destroyed. The OKeh file cards for these masters don't tell us which saxophones are played by Otto, nor do they identify the pianist on the last title."
             }
         ]
     },
@@ -466,7 +484,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Prince Robinson(cl,ts); Otto Hardwick(as); Unk(as); Duke Ellington(p); Fred Guy(bj); Mack Shaw(bb); Sonny Greer(d)."
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Prince Robinson(cl,ts); Otto Hardwick(as); Unk(as); Duke Ellington(p); Fred Guy(bj); Max Shaw(bb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -500,7 +518,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1077"
+                        "catalog": "1077",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2606a"
@@ -537,7 +556,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1077"
+                        "catalog": "1077",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2606b"
@@ -574,14 +594,15 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1077"
+                        "catalog": "1077",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2606c"
             },
             {
                 "type": "note",
-                "content": "Unknown alto sax: as per note on 29 November 1926."
+                "content": "Unknown alto sax: as per note on 29 November 1926. There are two variants of Vocalion 1077: copies pressed in Muskegon, MI contain The Creeper mx. E4323W; copies pressed in Los Angeles for distribution in the western U.S. contain The Creeper mx. E4324W."
             }
         ]
     }
