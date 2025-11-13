@@ -40,16 +40,21 @@ All _released_ takes of a given master are listed herein. In the case of
 unreleased masters, we list the highest take recorded of a given master number,
 but not any lower takes.
 
-Thus when we write `E28361-B` (and omit any mention of `E28361-A`), it means
-we don't know whether `-A` or `-B` is actually the released take.
+Thus, when we write `E28361-B` _Memphis Wail_ (and omit any mention of
+E28361-A), it implies that `A` and `B` takes were recorded of this rejected
+master.
 
-There is an exception however: masters recorded for Brunswick or Vocalion in
-1926-28 prior to the company's adoption of take numbers, when a discrete master
-number was assigned to each take. For example: on November 29, 1926, two takes
-(`E4108W` and `E4109W`) were recorded and rejected of _A Night in Harlem_. In this
-case, we show both numbers but not so with the next song recorded, _East St.
-Louis Toodle-O_, where we list the issued take (`E4110W`) but not the unissued one
-(`E4111W`).
+When we don't know which take of a given master was actually released, we show
+the issued take as `-A` or `-B`, e.g. `E28441-A` or `-B` _Awful Sad_. Not shown,
+but implied, is a rejected take, in this case `E28441-B` or `-A`  `Awful Sad`.
+
+There is an exception to this rule in the case of Brunswick and Vocalion in the
+years 1926-28, prior to the company’s adoption of take letters, when a discrete
+master number was assigned to each take of a given title. For example: on
+November 29, 1926, two takes (`E4108W` and `E4109W`) were recorded and rejected
+of _A Night in Harlem_. In this case, we show both numbers but not so with the
+next song recorded, _East St. Louis Toodle-O_, in which case we list the issued
+take (`E4110W`) but not the unissued one (`E4111W`).
 
 ## Misc
 `Unk` refers to unknown artist(s) or other persons.
