@@ -94,7 +94,7 @@ RELEASE_LINKS = [
     "format",
 ]
 
-catalog_fixups = {l.strip().replace(" ", "-") : l.strip() for l in open("crud/restore_spaces.txt")}
+catalog_fixups = {l.strip() : l.strip().replace("-", " ") for l in open("crud/restore_spaces.txt")}
 
 
 @dataclass(frozen=False, eq=False)
