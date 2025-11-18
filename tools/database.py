@@ -72,11 +72,10 @@ for key in ENTRY_LINKS:
 Entry = dataclass(frozen=False, eq=False)(Entry)
 
 
-@dataclass(frozen=False, eq=False)
+@dataclass(frozen=True, eq=True, order=True)
 class Label:
     label: str
     name: str
-
 
 RELEASE_LINKS = [
     "discogs",
@@ -945,15 +944,11 @@ def cmd_dump_release(args):
     print()
 
 
-def cmd_list_label_releases(args):
+def cmd_list_releases(args):
     database = load_from_json()
-    label = database.get_label(args.label)
-    releases = [
-        release for release in database.all_releases() if release.label is label
-    ]
-    releases.sort(key=lambda release: release.catalog)
+    releases = sorted(database.all_releases(), key=lambda release: (release.label, release.catalog))
     for release in releases:
-        print(release.catalog)
+        print(f"{release.label.label}\t{release.catalog}")
 
 
 def cmd_add_streaming(args):
@@ -1119,11 +1114,10 @@ def main():
     sp_import_csv.set_defaults(func=cmd_import_csv)
     sp_import_csv.add_argument("path")
 
-    sp_list_label_releases_release = subparsers.add_parser(
-        "list_label_releases"
+    sp_list_releases_release = subparsers.add_parser(
+        "list_releases"
     )
-    sp_list_label_releases_release.set_defaults(func=cmd_list_label_releases)
-    sp_list_label_releases_release.add_argument("label")
+    sp_list_releases_release.set_defaults(func=cmd_list_releases)
 
     args = parser.parse_args()
 
