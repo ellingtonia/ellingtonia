@@ -11,21 +11,11 @@ menu:
 * Update Pathé label for 1925,26,28,29
 * Various smaller changes across many years (see GitHub)
 * Change n/k to Unk all over the site
-* 1960
-* 1925
-* 1926
-* 1927
+* 1960 changes
 * Remove "ch" from Sonny Greer instruments
 * Juan Tizol: show vtb instead of tb
 * Write "Victor recording session" instead of RCA-Victor.
-* 1925 small changes
-* 1926
-* 1927
-* 1928 substantial changes
-* 1929 substantial changes
-* 1930 substantial changes
-* 1931 substantial changes
-* 1932 substantial changes
+* 1925 - 1932 substantial updates
 
 ## October 2025
 * 1929,30,32 further corrections
