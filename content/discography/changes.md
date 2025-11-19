@@ -19,6 +19,7 @@ menu:
 * Juan Tizol: show vtb instead of tb
 * Write "Victor recording session" instead of RCA-Victor.
 * 1925 small changes
+* 1926
 
 ## October 2025
 * 1929,30,32 further corrections
