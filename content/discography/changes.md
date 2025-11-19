@@ -22,6 +22,7 @@ menu:
 * 1926
 * 1927
 * 1928 substantial changes
+* 1929 substantial changes
 
 ## October 2025
 * 1929,30,32 further corrections

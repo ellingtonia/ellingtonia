@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -17,7 +17,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4345"
+                        "catalog": "4345",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -46,11 +47,12 @@
                 "type": "take",
                 "index": "29-01-08-002",
                 "matrix": "E28940-A",
-                "title": "Tiger Rag - Part 1",
+                "title": "Tiger Rag - Part I",
                 "releases": [
                     {
                         "label": "Br/ARC",
-                        "catalog": "4238"
+                        "catalog": "4238",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -79,11 +81,12 @@
                 "type": "take",
                 "index": "29-01-08-003",
                 "matrix": "E28940-B",
-                "title": "Tiger Rag - Part 1",
+                "title": "Tiger Rag - Part I",
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4238"
+                        "catalog": "4238",
+                        "flags": "◊"
                     },
                     {
                         "label": "COPS",
@@ -112,11 +115,12 @@
                 "type": "take",
                 "index": "29-01-08-004",
                 "matrix": "E28941-A",
-                "title": "Tiger Rag - Part 2",
+                "title": "Tiger Rag - Part II",
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4238"
+                        "catalog": "4238",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -155,7 +159,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -185,7 +189,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2006"
+                        "catalog": "2006",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2902a"
@@ -222,7 +227,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38035"
+                        "catalog": "V-38035",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2902b"
@@ -263,7 +269,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38036"
+                        "catalog": "V-38036",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2902c"
@@ -300,7 +307,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38036"
+                        "catalog": "V-38036",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2902d"
@@ -319,6 +327,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
+                        "flags": "◊",
                         "disc": "2",
                         "track": 15,
                         "length": 188
@@ -362,10 +371,15 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38035"
+                        "catalog": "V-38035",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2902f"
+            },
+            {
+                "type": "note",
+                "content": "On \"High Life\" Sonny Greer plays tubular chimes (ch) for the first time."
             }
         ]
     },
@@ -377,13 +391,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl); Johnny Hodges(as); Harry Carney(cl,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "29-02-18-001",
                 "matrix": "BVE48373-2",
-                "title": "Japanese Dream",
+                "title": "A Japanese Dream",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -411,7 +425,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38045"
+                        "catalog": "V-38045",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2903a"
@@ -452,7 +467,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38045"
+                        "catalog": "V-38045",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2903b"
@@ -467,7 +483,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -477,7 +493,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4345"
+                        "catalog": "4345",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -510,7 +527,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4309"
+                        "catalog": "4309",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -543,7 +561,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4309"
+                        "catalog": "4309",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -575,6 +594,115 @@
         ]
     },
     {
+        "group": "THE WASHINGTONIANS",
+        "location": "New York City, NY",
+        "date": "Circa 4 March 1929",
+        "index_date": 290304,
+        "description": "Cameo recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Cootie Williams(t,v); Barney Bigard(cl); Johnny Hodges(as); Fred Guy(bj); Wellman Braud(sous)."
+            },
+            {
+                "type": "take",
+                "index": "29-03-04-001",
+                "matrix": "3713-C",
+                "title": "Saratoga Swing",
+                "releases": [
+                    {
+                        "label": "Ca",
+                        "catalog": "9175",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "68275"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "569"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-69"
+                    }
+                ],
+                "desor": "DE2906a"
+            },
+            {
+                "type": "artists",
+                "value": "Add Duke Ellington(p)."
+            },
+            {
+                "type": "take",
+                "index": "29-03-04-002",
+                "matrix": "3714-A",
+                "title": "Who Said It's \"Tight Like That\" - vCW",
+                "releases": [
+                    {
+                        "label": "Ca",
+                        "catalog": "9195",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "68275"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "569"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-69"
+                    }
+                ],
+                "desor": "DE2906b"
+            }
+        ]
+    },
+    {
+        "group": "OZIE WARE",
+        "location": null,
+        "date": "Circa 4 March 1929",
+        "index_date": 290304,
+        "same_session": true,
+        "description": null,
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Cootie Williams(t); Barney Bigard(cl); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sous); Ozie Ware(v)."
+            },
+            {
+                "type": "take",
+                "index": "29-03-04-003",
+                "matrix": "3715-B",
+                "title": "He Just Don't Appeal To Me",
+                "releases": [
+                    {
+                        "label": "Ca",
+                        "catalog": "9240",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "68275"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "569"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD-69"
+                    }
+                ],
+                "desor": "DE2906c"
+            }
+        ]
+    },
+    {
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 March 1929",
@@ -582,13 +710,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Cootie Williams(t,v); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(ts,cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Cootie Williams(t,v); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as,ts,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v)."
             },
             {
                 "type": "take",
                 "index": "29-03-07-001",
                 "matrix": "BVE49767-1",
-                "title": "The Dicty Glide",
+                "title": "Dicty Glide",
                 "releases": [
                     {
                         "label": "LR",
@@ -612,7 +740,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741029"
+                        "catalog": "741029",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2905a"
@@ -621,7 +750,7 @@
                 "type": "take",
                 "index": "29-03-07-002",
                 "matrix": "BVE49767-2",
-                "title": "The Dicty Glide",
+                "title": "Dicty Glide",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -649,7 +778,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38053"
+                        "catalog": "V-38053",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2905b"
@@ -723,7 +853,8 @@
                     },
                     {
                         "label": "RCA(E)",
-                        "catalog": "RD-7731"
+                        "catalog": "RD-7731",
+                        "flags": "◊"
                     },
                     {
                         "label": "RCA(F)",
@@ -764,7 +895,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38065"
+                        "catalog": "V-38065",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2905e"
@@ -801,116 +933,15 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38053"
+                        "catalog": "V-38053",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2905f"
             },
             {
                 "type": "note",
-                "content": "The tenor sax solo at the start of \"Hot Feet\" is the only Carney recording on that instrument. For New DESOR, also take -1 of \"The Dicty Glide\" was issued on Vi V-38053 and also take -1 of \"Sloppy Joe\" was issued on Vi V-38065; according to Steven Lasker, there isn't any known evidence of that."
-            }
-        ]
-    },
-    {
-        "group": "THE WASHINGTONIANS",
-        "location": "New York City, NY",
-        "date": "Circa 4 March 1929",
-        "index_date": 290304,
-        "description": "Cameo recording session",
-        "entries": [
-            {
-                "type": "artists",
-                "value": " Cootie Williams(t,v); Barney Bigard(cl); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(bb)."
-            },
-            {
-                "type": "take",
-                "index": "29-03-04-001",
-                "matrix": "3713-C",
-                "title": "Saratoga Swing",
-                "releases": [
-                    {
-                        "label": "Ca",
-                        "catalog": "9175"
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "68275"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "569"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-69"
-                    }
-                ],
-                "desor": "DE2906a"
-            },
-            {
-                "type": "take",
-                "index": "29-03-04-002",
-                "matrix": "3714-A",
-                "title": "Who Said It's \"Tight Like That\" - vCW",
-                "releases": [
-                    {
-                        "label": "Ca",
-                        "catalog": "9195"
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "68275"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "569"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-69"
-                    }
-                ],
-                "desor": "DE2906b"
-            }
-        ]
-    },
-    {
-        "group": "OZIE WARE",
-        "location": null,
-        "date": "Circa 4 March 1929",
-        "index_date": 290304,
-        "same_session": true,
-        "description": null,
-        "entries": [
-            {
-                "type": "artists",
-                "value": " Cootie Williams(t); Barney Bigard(cl); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(bb); Ozie Ware(v)."
-            },
-            {
-                "type": "take",
-                "index": "29-03-04-003",
-                "matrix": "3715-B",
-                "title": "He Just Don't Appeal To Me",
-                "releases": [
-                    {
-                        "label": "Ca",
-                        "catalog": "9240"
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "68275"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "569"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD-69"
-                    }
-                ],
-                "desor": "DE2906c"
+                "content": "The tenor sax solo at the start of \"Hot Feet\" is the only Carney recording on that instrument. New DESOR, shows \"Dicty Glide\" take 1 on some copies of Vi V-38053 and \"Sloppy Joe\" take 1 on some copies of Vi V-38065, but Steven Lasker believes the New DESOR is mistaken on these points, since in over 45 years of collecting Ellington’s records, he’s never encountered either take on an issued Victor 78."
             }
         ]
     },
@@ -922,7 +953,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -940,13 +971,14 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "5486"
-                    },
-                    {
-                        "label": "Co",
                         "catalog": "C2K-46177",
                         "disc": 1,
                         "track": 23
+                    },
+                    {
+                        "label": "Co(E)",
+                        "catalog": "5486",
+                        "flags": "◊"
                     },
                     {
                         "label": "MoJ",
@@ -971,7 +1003,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "1813-D"
+                        "catalog": "1813-D",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -1002,7 +1035,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "1813-D"
+                        "catalog": "1813-D",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -1031,7 +1065,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, unidentified choir(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v); Irving Mills, Unk(v)."
             },
             {
                 "type": "take",
@@ -1066,7 +1100,8 @@
                     },
                     {
                         "label": "Pi",
-                        "catalog": "MPC-524"
+                        "catalog": "MPC-524",
+                        "flags": "◊"
                     },
                     {
                         "label": "RCA",
@@ -1107,7 +1142,8 @@
                     },
                     {
                         "label": "Pi",
-                        "catalog": "MPC-524"
+                        "catalog": "MPC-524",
+                        "flags": "◊"
                     },
                     {
                         "label": "RCA",
@@ -1156,7 +1192,8 @@
                     },
                     {
                         "label": "Pi",
-                        "catalog": "MPC-524"
+                        "catalog": "MPC-524",
+                        "flags": "◊"
                     },
                     {
                         "label": "RCA",
@@ -1176,7 +1213,7 @@
                 "type": "take",
                 "index": "29-04-12-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;2. Freeze And Melt - vIM,Cho",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;2. Freeze And Melt - vSG,IM,Unk",
                 "releases": [
                     {
                         "label": "BFR",
@@ -1197,7 +1234,8 @@
                     },
                     {
                         "label": "Pi",
-                        "catalog": "MPC-524"
+                        "catalog": "MPC-524",
+                        "flags": "◊"
                     },
                     {
                         "label": "RCA",
@@ -1215,7 +1253,7 @@
             },
             {
                 "type": "note",
-                "content": "Irving Mills introduced each selection; Harmonica Charlie played a short passage on his harmonica after Goin' To Town."
+                "content": "Irving Mills introduced each selection, with people (band members?) applauding and cackling. Harmonica Charlie played a short passage on his harmonica after Goin' To Town."
             }
         ]
     },
@@ -1227,7 +1265,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1261,7 +1299,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38079"
+                        "catalog": "V-38079",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2909a"
@@ -1298,7 +1337,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38058"
+                        "catalog": "V-38058",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2909b"
@@ -1335,14 +1375,15 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38079"
+                        "catalog": "V-38079",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2909c"
             },
             {
                 "type": "artists",
-                "value": " Cootie Williams(t); Barney Bigard(cl); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(bb); Sonny Greer(d)."
+                "value": "Cootie Williams(t); Barney Bigard(cl); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1380,7 +1421,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38058"
+                        "catalog": "V-38058",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2909d"
@@ -1395,13 +1437,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts,v); Johnny Hodges(as); Harry Carney(as,bar); Duke Ellington(p); Wellman Braud(sb); Sonny Greer(d,v)."
             },
             {
                 "type": "take",
                 "index": "29-05-28-001",
                 "matrix": "W148640-1",
-                "title": "That Rhythm Man",
+                "title": "That Rhythm Man -vBB,SG",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1413,7 +1455,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "36157"
+                        "catalog": "36157",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -1439,7 +1482,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard,Harry Carney(cl); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard, Harry Carney(cl); Duke Ellington(p); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1457,7 +1500,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "1868-D"
+                        "catalog": "1868-D",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -1478,7 +1522,7 @@
             },
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl); Johnny Hodges(as); Duke Ellington(p); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1496,7 +1540,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "1868-D"
+                        "catalog": "1868-D",
+                        "flags": "◊"
                     },
                     {
                         "label": "Co",
@@ -1521,7 +1566,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1531,7 +1576,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4492"
+                        "catalog": "4492",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -1560,11 +1606,12 @@
                 "type": "take",
                 "index": "29-07-29-002",
                 "matrix": "E30586-A or -B",
-                "title": "Jungle Jamboree",
+                "title": "That Jungle Jamboree",
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4492"
+                        "catalog": "4492",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -1588,6 +1635,34 @@
                     }
                 ],
                 "desor": "DE2911b"
+            },
+            {
+                "type": "note",
+                "content": "\"That Jungle Jamboree\", as copyrighted, is better known as \"Jungle Jamboree,\" title shown on record labels."
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "New York City, NY",
+        "date": "31 July 1929",
+        "description": "Victor recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Ellington, director; musicians not named, instrumentation: 3t, tb; 3saxes; p; bj; sb; d,"
+            },
+            {
+                "type": "take",
+                "index": "29-07-31-001",
+                "matrix": "(53971)",
+                "title": "Ain't Misbehavin'",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "Session sheets don't specify the musicians. Two waxes were cut but not processed, the matrix number reassigned. (details on the [tdwaw.ca website] (https://tdwaw.ellingtonweb.ca/TDWAW1.html)."
             }
         ]
     },
@@ -1599,13 +1674,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl,ts); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl,ts); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,claps); Unk(claps); Unk(v)."
             },
             {
                 "type": "take",
                 "index": "29-08-02-001",
                 "matrix": "W402551-C",
-                "title": "Jungle Jamboree",
+                "title": "That Jungle Jamboree",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1631,7 +1706,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8720"
+                        "catalog": "8720",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2912a"
@@ -1639,22 +1715,14 @@
             {
                 "type": "take",
                 "index": "29-08-02-002",
-                "matrix": "W402552-A",
-                "title": "Six Or Seven Times",
+                "matrix": "W402552-B",
+                "title": "Six Or Seven Times -vUnk",
                 "releases": [],
                 "desor": "DE2912b"
             },
             {
                 "type": "take",
                 "index": "29-08-02-003",
-                "matrix": "W402552-B",
-                "title": "Six Or Seven Times",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "29-08-02-004",
                 "matrix": "W402553-B",
                 "title": "Snake Hip Dance",
                 "releases": [
@@ -1682,7 +1750,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8720"
+                        "catalog": "8720",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2912c"
@@ -1698,7 +1767,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Choir(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Choir(v)."
             },
             {
                 "type": "take",
@@ -1918,7 +1987,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1926,10 +1995,6 @@
                 "matrix": "4062-A",
                 "title": "Doin' The Voom Voom",
                 "releases": [
-                    {
-                        "label": "Ca",
-                        "catalog": "9306"
-                    },
                     {
                         "label": "CBS",
                         "catalog": "68275"
@@ -1941,6 +2006,16 @@
                     {
                         "label": "MoJ",
                         "catalog": "MJCD-101"
+                    },
+                    {
+                        "label": "PA",
+                        "catalog": "37059",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15240",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2914a"
@@ -1964,8 +2039,14 @@
                         "catalog": "MJCD-101"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "37059"
+                        "label": "PA",
+                        "catalog": "37059",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15240",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2914b"
@@ -1978,7 +2059,8 @@
                 "releases": [
                     {
                         "label": "Ca",
-                        "catalog": "9306"
+                        "catalog": "9306",
+                        "flags": "◊"
                     },
                     {
                         "label": "CBS",
@@ -1989,8 +2071,18 @@
                         "catalog": "577"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "3330",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-101"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1101",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2914c"
@@ -2005,7 +2097,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Bill \"Bojangles\" Robinson(v,td)."
+                "value": "Arthur Whetsel, Cootie Williams(t); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Duke Ellington(p); Wellman Braud(sb); Sonny Greer(d); Bill \"Bojangles\" Robinson(v,td, \"hand trumpet\")."
             },
             {
                 "type": "take",
@@ -2015,7 +2107,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4535"
+                        "catalog": "4535",
+                        "flags": "◊"
                     },
                     {
                         "label": "De",
@@ -2033,6 +2126,10 @@
                 "desor": null
             },
             {
+                "type": "artists",
+                "value": "Arthur Whetsel, Cootie Williams(t); Joe Nanton(tb); Johnny Hodges(as); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Bill \"Bojangles\" Robinson(tk,td)."
+            },
+            {
                 "type": "take",
                 "index": "29-09-13-002",
                 "matrix": "E30527-A or -B",
@@ -2040,7 +2137,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4535"
+                        "catalog": "4535",
+                        "flags": "◊"
                     },
                     {
                         "label": "De",
@@ -2061,13 +2159,14 @@
     },
     {
         "group": "THE JUNGLE BAND",
-        "location": "New York City, NY",
+        "location": null,
         "date": "13 September 1929",
-        "description": "Brunswick recording session",
+        "same_session": true,
+        "description": null,
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,tamb)."
             },
             {
                 "type": "take",
@@ -2077,7 +2176,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4705"
+                        "catalog": "4705",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -2110,7 +2210,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4705"
+                        "catalog": "4705",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -2138,22 +2239,14 @@
             {
                 "type": "take",
                 "index": "29-09-13-005",
-                "matrix": "E30939-A",
+                "matrix": "E30939-B",
                 "title": "Slow Motion",
                 "releases": [],
                 "desor": "DE2915c"
             },
             {
-                "type": "take",
-                "index": "29-09-13-006",
-                "matrix": "E30939-B",
-                "title": "Slow Motion",
-                "releases": [],
-                "desor": null
-            },
-            {
                 "type": "note",
-                "content": "The two takes of Slow Motion (subsequently titled \"Jungle Rhythm\") were never issued and are presumed lost."
+                "content": "Two takes of Slow Motion (subsequently titled \"Jungle Rhythm\") were recorded but never issued and are presumed lost."
             }
         ]
     },
@@ -2165,13 +2258,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Teddy Bunn(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Teddy Bunn(bjg); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "29-09-16-001",
                 "matrix": "BVE55845-2",
-                "title": "Mississippi Dry",
+                "title": "Mississippi Dry [Mississippi]",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -2199,10 +2292,15 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38089"
+                        "catalog": "V-38089",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2916a"
+            },
+            {
+                "type": "artists",
+                "value": "Teddy Bunn out."
             },
             {
                 "type": "take",
@@ -2236,10 +2334,15 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38092"
+                        "catalog": "V-38092",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2916b"
+            },
+            {
+                "type": "artists",
+                "value": "Add Teddy Bunn(bjg)."
             },
             {
                 "type": "take",
@@ -2277,7 +2380,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38092"
+                        "catalog": "V-38092",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2916c"
@@ -2286,7 +2390,7 @@
                 "type": "take",
                 "index": "29-09-16-004",
                 "matrix": "BVE55848-2",
-                "title": "Swanee Shuffles",
+                "title": "Swanee Shuffle",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -2314,7 +2418,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38089"
+                        "catalog": "V-38089",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2916d"
@@ -2325,11 +2430,11 @@
         "group": "THE SIX JOLLY JESTERS",
         "location": "New York City, NY",
         "date": "25 October 1929",
-        "description": "Vocalion recording session. Brunswick studio.",
+        "description": "Vocalion recording session, Brunswick Recording Laboratories",
         "entries": [
             {
                 "type": "artists",
-                "value": " Cootie Williams(t,v); Joe Nanton(tb); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v)."
+                "value": "Cootie Williams(t,v); Joe Nanton(tb); Johnny Hodges(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v)."
             },
             {
                 "type": "take",
@@ -2363,7 +2468,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "15843"
+                        "catalog": "15843",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2917a"
@@ -2396,10 +2502,15 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "15843"
+                        "catalog": "15843",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2917b"
+            },
+            {
+                "type": "note",
+                "content": "During \"Six or Seven Times\" sung chorus, there are falsetto interjections and humming by two unidentified men, probably band members.."
             }
         ]
     },
@@ -2407,11 +2518,11 @@
         "group": "THE SIX JOLLY JESTERS",
         "location": "New York City, NY",
         "date": "29 October 1929",
-        "description": "Vocalion recording session. Brunswick Studio.",
+        "description": "Vocalion recording session, Brunswick Recording Laboratories",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Howard \"Blinky\" Randolph(kaz); Duke Ellington(p); Fred Guy(bj); Teddy Bunn(bjg); Sonny Greer(d); Bruce Johnson (wh); Putney Dandridge(v)."
+                "value": "Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Howard \"Blinky\" Randolph(kaz); Duke Ellington(p); Teddy Bunn(bjg); Sonny Greer(d); Bruce Johnson (wh); Putney Dandridge(v)."
             },
             {
                 "type": "take",
@@ -2441,14 +2552,15 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "15843"
+                        "catalog": "15843",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2918a"
             },
             {
                 "type": "artists",
-                "value": "Harold Randolph, Putney Dandridge out. Add Johnny Hodges(as), Wellman Braud(sb)."
+                "value": "Putney Dandridge out. Add Johnny Hodges(as), Fred Guy(bj), Wellman Braud(sb)."
             },
             {
                 "type": "take",
@@ -2478,7 +2590,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "1449"
+                        "catalog": "1449",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2918b"
@@ -2499,7 +2612,8 @@
                     },
                     {
                         "label": "MCA",
-                        "catalog": "1374"
+                        "catalog": "1374",
+                        "flags": "◊"
                     },
                     {
                         "label": "MoJ",
@@ -2530,7 +2644,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2568,14 +2682,11 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38115"
+                        "catalog": "V-38115",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2919a"
-            },
-            {
-                "type": "artists",
-                "value": "Joe Nanton(tb) out. Barney Bigard(cl)."
             },
             {
                 "type": "take",
@@ -2609,7 +2720,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38129"
+                        "catalog": "V-38129",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2919b"
@@ -2646,7 +2758,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38115"
+                        "catalog": "V-38115",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2919c"
@@ -2661,7 +2774,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": " Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard,Harry Carney(cl); Duke Ellington(p); Fred Guy(bj); Sonny Greer(d)."
+                "value": " Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard, Johnny Hodges, Harry Carney(cl); Duke Ellington(p); Fred Guy(bj); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2689,14 +2802,15 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8760"
+                        "catalog": "8760",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2920a"
             },
             {
                 "type": "artists",
-                "value": "Freddie Jenkins(t); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(bj); Sonny Greer(d)."
+                "value": "Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2724,7 +2838,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8746"
+                        "catalog": "8746",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2920b"
@@ -2755,7 +2870,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8746"
+                        "catalog": "8746",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2920c"
@@ -2770,7 +2886,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb)."
             },
             {
                 "type": "take",
@@ -2780,7 +2896,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4760"
+                        "catalog": "4760",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -2806,6 +2923,10 @@
                 "desor": "DE2921a"
             },
             {
+                "type": "artists",
+                "value": "Harry Carney out."
+            },
+            {
                 "type": "take",
                 "index": "29-12-10-002",
                 "matrix": "E31509-A",
@@ -2813,7 +2934,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4887"
+                        "catalog": "4887",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -2854,7 +2976,8 @@
                 "releases": [
                     {
                         "label": "De",
-                        "catalog": "GRD-3-640"
+                        "catalog": "GRD-3-640",
+                        "flags": "◊"
                     },
                     {
                         "label": "Df",
@@ -2870,6 +2993,10 @@
                     }
                 ],
                 "desor": "DE2921c"
+            },
+            {
+                "type": "artists",
+                "value": "Add Harry Carney(as)."
             },
             {
                 "type": "take",
@@ -2912,6 +3039,38 @@
                     }
                 ],
                 "desor": "DE2921d"
+            }
+        ]
+    },
+    {
+        "group": "BILL ROBINSON ACCOMPANIED BY IRVING MILLS AND HIS HOTSY TOTSY GANG",
+        "location": "New York City, NY",
+        "date": "18 December 1929",
+        "description": "Brunswick recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Bill Robinson(td) acc. by Duke Ellington(p) and unidentified members of his Orchestra."
+            },
+            {
+                "type": "take",
+                "index": "29-12-18-001",
+                "matrix": "E31728-",
+                "title": "Sweet Mama",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "29-12-18-002",
+                "matrix": "E31729-",
+                "title": "Black Beauty",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "Both rejected and masters destroyed. Personnel not noted in surviving files."
             }
         ]
     }
