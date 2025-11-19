@@ -7,13 +7,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson (cl,ts); Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Rudy Jackson (cl,ts); Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(cy)."
             },
             {
                 "type": "take",
                 "index": "28-01-09-001",
                 "matrix": "145488-3",
-                "title": "Sweet Mama, Papa's Getting Mad",
+                "title": "Sweet Mamma, Papa's Getting Mad",
                 "releases": [
                     {
                         "label": "CBS",
@@ -35,7 +35,8 @@
                     },
                     {
                         "label": "Har",
-                        "catalog": "577-H"
+                        "catalog": "577-H",
+                        "flags": "◊"
                     },
                     {
                         "label": "HnS",
@@ -75,7 +76,8 @@
                     },
                     {
                         "label": "Har",
-                        "catalog": "601-H"
+                        "catalog": "601-H",
+                        "flags": "◊"
                     },
                     {
                         "label": "HnS",
@@ -115,7 +117,8 @@
                     },
                     {
                         "label": "Har",
-                        "catalog": "577-H"
+                        "catalog": "577-H",
+                        "flags": "◊"
                     },
                     {
                         "label": "HnS",
@@ -132,6 +135,10 @@
                     }
                 ],
                 "desor": "DE2801c"
+            },
+            {
+                "type": "note",
+                "content": "This was Ellington's final acoustical recording session."
             }
         ]
     },
@@ -143,7 +150,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick, Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -180,7 +187,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "41013"
+                        "catalog": "41013",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2802a"
@@ -220,7 +228,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "41013"
+                        "catalog": "41013",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2802b"
@@ -229,7 +238,7 @@
                 "type": "take",
                 "index": "28-01-19-003",
                 "matrix": "W400032-A",
-                "title": "East St. Louis Toodle-O (Harlem Twist)",
+                "title": "East St. Louis Toodle-O [Harlem Twist]",
                 "releases": [
                     {
                         "label": "CBS",
@@ -260,33 +269,39 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8638"
+                        "catalog": "8638",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2802c"
+            },
+            {
+                "type": "note",
+                "content": "East St. Louis Toodle-O (Harlem Twist) was released as by Lonnie Johnson’s Harlem Footwarmers, even though Lonnie Johnson didn't take any part in the session."
             }
         ]
     },
     {
         "group": "THE WHOOPEE MAKERS / THE WASHINGTONIANS",
         "location": "New York City, NY",
-        "date": "c.07 March 1928",
-        "index_date": 280307,
+        "date": "circa 08 March 1928",
+        "index_date": 280308,
         "description": "Pathé and Cameo recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(cl,ss,as,bar,bsax); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
-                "index": "28-03-07-001",
+                "index": "28-03-08-001",
                 "matrix": "2944-A",
                 "title": "East St. Louis Toodle-O",
                 "releases": [
                     {
                         "label": "Ca",
-                        "catalog": "8182"
+                        "catalog": "8182",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -297,19 +312,29 @@
                         "catalog": "FDC-5112"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "2837",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-25"
                     },
                     {
                         "label": "Nw",
                         "catalog": "RP2009"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "612",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2803a"
             },
             {
                 "type": "take",
-                "index": "28-03-07-002",
+                "index": "28-03-08-002",
                 "matrix": "108079-1",
                 "title": "East St. Louis Toodle-O",
                 "releases": [
@@ -326,15 +351,21 @@
                         "catalog": "MJCD-25"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36781"
+                        "label": "PA",
+                        "catalog": "36781",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "14962",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2803b"
             },
             {
                 "type": "take",
-                "index": "28-03-07-003",
+                "index": "28-03-08-003",
                 "matrix": "108080-1",
                 "title": "Jubilee Stomp",
                 "releases": [
@@ -355,21 +386,28 @@
                         "catalog": "MJCD-25"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36781"
+                        "label": "PA",
+                        "catalog": "36781",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "14962",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2803c"
             },
             {
                 "type": "take",
-                "index": "28-03-07-004",
+                "index": "28-03-08-004",
                 "matrix": "2945-B",
                 "title": "Jubilee Stomp",
                 "releases": [
                     {
                         "label": "Ca",
-                        "catalog": "8182"
+                        "catalog": "8182",
+                        "flags": "◊"
                     },
                     {
                         "label": "CBS",
@@ -380,19 +418,29 @@
                         "catalog": "FDC-5112"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "2837",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-25"
                     },
                     {
                         "label": "Nw",
                         "catalog": "RP2009"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "612",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2803d"
             },
             {
                 "type": "take",
-                "index": "28-03-07-005",
+                "index": "28-03-08-005",
                 "matrix": "108081-",
                 "title": "Take It Easy",
                 "releases": [
@@ -413,21 +461,28 @@
                         "catalog": "RP2009"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36787"
+                        "label": "PA",
+                        "catalog": "36787",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "14968",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2803e"
             },
             {
                 "type": "take",
-                "index": "28-03-07-006",
+                "index": "28-03-08-006",
                 "matrix": "2946-B",
                 "title": "Take It Easy",
                 "releases": [
                     {
                         "label": "Ca",
-                        "catalog": "8188"
+                        "catalog": "8188",
+                        "flags": "◊"
                     },
                     {
                         "label": "CBS",
@@ -442,8 +497,18 @@
                         "catalog": "FDC-5112"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "2843",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD-25"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "618",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2803f"
@@ -458,7 +523,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -468,7 +533,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4009"
+                        "catalog": "4009",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -529,7 +595,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "15710"
+                        "catalog": "15710",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2804b"
@@ -542,7 +609,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4044"
+                        "catalog": "4044",
+                        "flags": "◊"
                     },
                     {
                         "label": "De",
@@ -575,7 +643,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4009"
+                        "catalog": "4009",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -603,6 +672,10 @@
                     }
                 ],
                 "desor": "DE2804d"
+            },
+            {
+                "type": "note",
+                "content": "Vo 15710 was released as by Duke Ellington and His Cotton Club Orchestra. Black Beauty E27093 was mistakenly  released on the Los Angeles pressings of Br 4044 instead of Don’t Mess Around With Me by The Hotsy Totsy Gang (mx E27903), obviously without changing the title on the label."
             }
         ]
     },
@@ -614,7 +687,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -656,7 +729,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21580"
+                        "catalog": "21580",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2805a"
@@ -697,7 +771,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21580"
+                        "catalog": "21580",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2805b"
@@ -738,7 +813,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21703"
+                        "catalog": "21703",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2805c"
@@ -753,12 +829,12 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "28-06-25-001",
-                "matrix": "E27770-",
+                "matrix": "E27770-B",
                 "title": "What A Life",
                 "releases": [],
                 "desor": "DE2806a"
@@ -817,7 +893,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3987(U.S.)"
+                        "catalog": "3987(U.S.)",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -854,7 +931,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3987(Canada)"
+                        "catalog": "3987(Canada)",
+                        "flags": "◊"
                     },
                     {
                         "label": "JO",
@@ -873,7 +951,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills(v)."
+                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills(v)."
             },
             {
                 "type": "take",
@@ -906,7 +984,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8602"
+                        "catalog": "8602",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2807a"
@@ -942,7 +1021,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8602"
+                        "catalog": "8602",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2807b"
@@ -1002,7 +1082,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8636"
+                        "catalog": "8636",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2808a"
@@ -1042,7 +1123,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8636"
+                        "catalog": "8636",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2808b"
@@ -1058,7 +1140,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Lonnie Johnson(12s-g); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Baby Cox(v)."
+                "value": "Arthur Whetsel, Bubber Miley, Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Lonnie Johnson(12s-g); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Gertrude \"Baby\" Cox(v)."
             },
             {
                 "type": "take",
@@ -1107,7 +1189,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8623"
+                        "catalog": "8623",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2808c"
@@ -1143,7 +1226,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8638"
+                        "catalog": "8638",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2808d"
@@ -1178,7 +1262,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8623"
+                        "catalog": "8623",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2808e"
@@ -1197,7 +1282,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, prob. Bubber Miley, prob. Louis Metcalf(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1207,7 +1292,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4110"
+                        "catalog": "4110",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -1238,7 +1324,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley, Unk(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Bubber Miley, either Louis Metcalf or Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1248,7 +1334,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4122"
+                        "catalog": "4122",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -1281,7 +1368,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "4110"
+                        "catalog": "4110",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -1309,31 +1397,23 @@
             {
                 "type": "take",
                 "index": "28-10-17-003",
-                "matrix": "E28361-A",
-                "title": "Memphis Wail",
-                "releases": [],
-                "desor": "DE2810c"
-            },
-            {
-                "type": "take",
-                "index": "28-10-17-004",
                 "matrix": "E28361-B",
                 "title": "Memphis Wail",
                 "releases": [],
-                "desor": null
+                "desor": "DE2810c"
             }
         ]
     },
     {
         "group": "THE WHOOPEE MAKERS",
         "location": "New York City, NY",
-        "date": "October 1928",
+        "date": "circa 19 October 1928",
         "index_date": 281020,
         "description": "Pathé recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(ssph); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Bubber Miley(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sous); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1354,8 +1434,9 @@
                         "catalog": "MJCD-30"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36899"
+                        "label": "PA",
+                        "catalog": "36899",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2811a"
@@ -1379,8 +1460,9 @@
                         "catalog": "RP2009"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36899"
+                        "label": "PA",
+                        "catalog": "36899",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2811b"
@@ -1408,8 +1490,9 @@
                         "catalog": "MJCD-30"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36915"
+                        "label": "PA",
+                        "catalog": "36915",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2811c"
@@ -1433,8 +1516,9 @@
                         "catalog": "MJCD-30"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36899"
+                        "label": "PA",
+                        "catalog": "36899",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2811d"
@@ -1449,7 +1533,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": " Freddie Jenkins(t); Barney Bigard(cl);  Duke Ellington(p); Wellman Braud(tu); Sonny Greer(d); Ozie Ware(v)."
+                "value": "Freddie Jenkins(t); Barney Bigard(cl); Duke Ellington(p); Wellman Braud(sous); Sonny Greer(d); Ozie Ware(v)."
             },
             {
                 "type": "take",
@@ -1483,7 +1567,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21777"
+                        "catalog": "21777",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2812a"
@@ -1520,10 +1605,15 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "21777"
+                        "catalog": "21777",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2812b"
+            },
+            {
+                "type": "note",
+                "content": " Ozie Ware's real name is Ozie McPherson."
             }
         ]
     },
@@ -1536,7 +1626,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(tu); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Baby Cox,Ozie Ware(v)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sous); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Gertrude \"Baby\" Cox, Ozie Ware(v)."
             },
             {
                 "type": "take",
@@ -1574,7 +1664,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38034"
+                        "catalog": "V-38034",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2812c"
@@ -1597,6 +1688,11 @@
                     {
                         "label": "MoJ",
                         "catalog": "MJCD-52"
+                    },
+                    {
+                        "label": "Mt",
+                        "catalog": "24",
+                        "flags": "◊"
                     },
                     {
                         "label": "RCA",
@@ -1640,7 +1736,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26310"
+                        "catalog": "26310",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2812e"
@@ -1672,6 +1769,11 @@
                         "length": 201
                     },
                     {
+                        "label": "RCA",
+                        "catalog": "LPV-568",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "RCA(F)",
                         "catalog": "741028"
                     }
@@ -1688,7 +1790,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Baby Cox(v)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Gertrude \"Baby\" Cox(v)."
             },
             {
                 "type": "take",
@@ -1722,10 +1824,24 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38008"
+                        "catalog": "V-38008",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2813a"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON PLAYERS",
+        "location": null,
+        "date": "10 November 1928",
+        "same_session": true,
+        "description": null,
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Personnel unknown."
             },
             {
                 "type": "take",
@@ -1734,6 +1850,10 @@
                 "title": "Since You Went Away",
                 "releases": [],
                 "desor": "DE2813b"
+            },
+            {
+                "type": "note",
+                "content": "This was a \"trial\" recording. Personnel, instrumentation and possible vocalist(s) not documented in recording files."
             }
         ]
     },
@@ -1745,13 +1865,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Ozie Ware(v)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, Ozie Ware(v)."
             },
             {
                 "type": "take",
                 "index": "28-11-15-001",
                 "matrix": "BVE48166-2",
-                "title": "Bandana Babies - vOW",
+                "title": "Bandana Babies - vOW,band",
                 "releases": [
                     {
                         "label": "Bb",
@@ -1783,7 +1903,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38007"
+                        "catalog": "V-38007",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2814a"
@@ -1820,7 +1941,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38008"
+                        "catalog": "V-38008",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2814b"
@@ -1861,7 +1983,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38007"
+                        "catalog": "V-38007",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2814c"
@@ -1876,12 +1999,12 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "28-11-20-001",
-                "matrix": "W401350-",
+                "matrix": "W401350-B",
                 "title": "The Blues With A Feeling",
                 "releases": [],
                 "desor": "DE2815a"
@@ -1889,7 +2012,7 @@
             {
                 "type": "take",
                 "index": "28-11-20-002",
-                "matrix": "W401351-",
+                "matrix": "W401351-C",
                 "title": "Goin' To Town",
                 "releases": [],
                 "desor": "DE2815b"
@@ -1897,7 +2020,7 @@
             {
                 "type": "take",
                 "index": "28-11-20-003",
-                "matrix": "W401352-",
+                "matrix": "W401352-B",
                 "title": "Misty Mornin'",
                 "releases": [],
                 "desor": "DE2815c"
@@ -1912,7 +2035,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1949,7 +2072,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8662"
+                        "catalog": "8662",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2816a"
@@ -1985,7 +2109,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8675"
+                        "catalog": "8675",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2816b"
@@ -2025,10 +2150,15 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8662"
+                        "catalog": "8662",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2816c"
+            },
+            {
+                "type": "note",
+                "content": "Goin' To Town was released on OKeh 8675 as by The Chicago Footwarmers."
             }
         ]
     },
@@ -2041,13 +2171,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar);  Duke Ellington(p); Fred Guy(bj); Wellman Braud(tu); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sous); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "28-12-05-001",
                 "matrix": "108532-3",
-                "title": "Hottentot",
+                "title": "Hottentot Tot",
                 "releases": [
                     {
                         "label": "CBS",
@@ -2062,8 +2192,9 @@
                         "catalog": "MJCD-52"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36923"
+                        "label": "PA",
+                        "catalog": "36923",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2817a",
@@ -2089,8 +2220,9 @@
                         "catalog": "MJCD-52"
                     },
                     {
-                        "label": "Pa",
-                        "catalog": "36923"
+                        "label": "PA",
+                        "catalog": "36923",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2817b"
@@ -2106,7 +2238,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl);  Duke Ellington(p); Fred Guy(bj); Sonny Greer(d); Ozie Ware(v)."
+                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl); Duke Ellington(p); Fred Guy(bj); Sonny Greer(d); Ozie Ware(v)."
             },
             {
                 "type": "take",
@@ -2116,7 +2248,8 @@
                 "releases": [
                     {
                         "label": "Ca",
-                        "catalog": "9039"
+                        "catalog": "9039",
+                        "flags": "◊"
                     },
                     {
                         "label": "CBS",
@@ -2146,7 +2279,8 @@
                 "releases": [
                     {
                         "label": "Ca",
-                        "catalog": "9039"
+                        "catalog": "9039",
+                        "flags": "◊"
                     },
                     {
                         "label": "CBS",
@@ -2174,17 +2308,18 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Matt Malneck, dir; white instrumentalists(5v,t,tb,2as,ts,p,g,bb,d); Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v); Unk, Hall Johnson Choir(v)."
+                "value": "Matt Malneck, dir; white instrumentalists(5v,t,tb,2as,ts,p,g,bb,d); Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard, Johnny Hodges, Harry Carney(cl); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v); Unk Choir(v)."
             },
             {
                 "type": "take",
                 "index": "28-12-20-001",
                 "matrix": "CVE49007-1",
-                "title": "St. Louis Blues - v Unk,HJC",
+                "title": "St. Louis Blues - vCho",
                 "releases": [
                     {
                         "label": "JA",
-                        "catalog": "21"
+                        "catalog": "21",
+                        "flags": "◊"
                     },
                     {
                         "label": "LR",
@@ -2209,7 +2344,7 @@
                 "type": "take",
                 "index": "28-12-20-002",
                 "matrix": "CVE49007-2",
-                "title": "St. Louis Blues - v Unk,HJC",
+                "title": "St. Louis Blues - vCho",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -2237,7 +2372,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "35962"
+                        "catalog": "35962",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE2819b"
@@ -2246,7 +2382,7 @@
                 "type": "take",
                 "index": "28-12-20-003",
                 "matrix": "CVE49007-3",
-                "title": "St. Louis Blues - v Unk,HJC",
+                "title": "St. Louis Blues - vCho",
                 "releases": [
                     {
                         "label": "LR",
@@ -2256,6 +2392,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
+                        "flags": "◊",
                         "disc": "2",
                         "track": 10,
                         "length": 261
@@ -2361,39 +2498,7 @@
             },
             {
                 "type": "note",
-                "content": "Take 3 instrumental only"
-            }
-        ]
-    },
-    {
-        "group": "BILL ROBINSON ACCOMPANIED BY IRVING MILLS AND HIS HOTSY TOTSY GANG",
-        "location": "New York City, NY",
-        "date": "18 December 1928",
-        "description": "Brunswick recording session",
-        "entries": [
-            {
-                "type": "artists",
-                "value": "Bill Robinson(td) acc. by Duke Ellington(p) and unidentified members of his Orchestra."
-            },
-            {
-                "type": "take",
-                "index": "",
-                "matrix": "E31728",
-                "title": "Sweet Mama",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "",
-                "matrix": "E31729",
-                "title": "Black Beauty",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "note",
-                "content": "Both rejected and masters destroyed"
+                "content": "Warren Mills was Irving’s five year old son. According to Victor’s files, the vocal on St. Louis Blues was sung by \"Chorus of 10 Mixed Voices (Colored)\"; they are not identified. Take 3 of Gems From \"Blackbirds of 1928\" is instrumental only."
             }
         ]
     }
