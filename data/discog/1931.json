@@ -3,17 +3,17 @@
         "group": "THE NEW YORK SYNCOPATORS",
         "location": "New York City, NY",
         "date": "08 January 1931",
-        "description": "OKeh recording session. OKeh studio, probably 1819 Broadway.",
+        "description": "OKeh recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Sid Garry(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Sid Garry(v)."
             },
             {
                 "type": "take",
                 "index": "31-01-08-001",
                 "matrix": "W404802-A",
-                "title": "I Can't Realise You Love Me - vSGa",
+                "title": "I Can't Realize You Love Me - vSGa",
                 "releases": [
                     {
                         "label": "CBS",
@@ -25,7 +25,7 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "C2K-46177",
+                        "catalog": "C2K\n46177",
                         "disc": 2,
                         "track": 23
                     },
@@ -40,15 +40,17 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Od",
-                        "catalog": "ONY\n36190"
+                        "catalog": "ONY\n36190",
+                        "flags": "◊"
                     },
                     {
                         "label": "Par",
-                        "catalog": "PNY\n34183"
+                        "catalog": "PNY\n34183",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3018a"
@@ -69,7 +71,7 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "C2K-46177",
+                        "catalog": "C2K\n46177",
                         "disc": 2,
                         "track": 24
                     },
@@ -80,22 +82,24 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Od",
-                        "catalog": "ONY\n36189"
+                        "catalog": "ONY\n36189",
+                        "flags": "◊"
                     },
                     {
                         "label": "Pa",
-                        "catalog": "PNY\n34183"
+                        "catalog": "PNY\n34183",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3018b"
             },
             {
                 "type": "note",
-                "content": "Od ONY-36189, Od ONY-36190 (as The New York Syncopators) and Pa PNY 34183 (as The Harlem Foot Warmers) were issued contemporaneously."
+                "content": "Od ONY 36189, Od ONY 36190 (as The New York Syncopators) and Pa PNY 34183 (as The Harlem Foot Warmers) were issued contemporaneously."
             }
         ]
     },
@@ -108,7 +112,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Same personnel, minus Sid Garry."
+                "value": "Same personnel, minus Sid Garry. (Percussive vocal effects on Rockin’ in Rhythm by Sonny Greer)"
             },
             {
                 "type": "take",
@@ -145,38 +149,31 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Ok",
-                        "catalog": "8869"
+                        "catalog": "8869",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3018c"
             },
             {
                 "type": "artists",
-                "value": "Arthur Whetsel(t); Joe Nanton(tb); Barney Bigard(cl); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Personnel and instrumentation not noted on the surviving files."
             },
             {
                 "type": "take",
                 "index": "31-01-08-004",
-                "matrix": "W404481-D",
+                "matrix": "W404481-B",
                 "title": "Mood Indigo",
                 "releases": [],
                 "desor": "DE3018d"
             },
             {
-                "type": "take",
-                "index": "31-01-08-005",
-                "matrix": "W404481-E",
-                "title": "Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
                 "type": "note",
-                "content": "Mood Indigo takes are rejected/lost"
+                "content": "Two takes of Mood Indigo were recorded and rejected/lost."
             }
         ]
     },
@@ -184,11 +181,11 @@
         "group": "THE WHOOPEE MAKERS",
         "location": "New York City, NY",
         "date": "10 January 1931",
-        "description": "ARC recording session. ARC studio, prob. 114 East 32nd Street.",
+        "description": "ARC recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Chick Bullock(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj,g); Wellman Braud(sb); Sonny Greer(d); Chick Bullock(v)."
             },
             {
                 "type": "take",
@@ -202,7 +199,7 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Nw",
@@ -210,7 +207,18 @@
                     },
                     {
                         "label": "Or",
-                        "catalog": "2191"
+                        "catalog": "2191",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15418",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Re",
+                        "catalog": "10244",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101a"
@@ -223,7 +231,8 @@
                 "releases": [
                     {
                         "label": "Ba",
-                        "catalog": "32070"
+                        "catalog": "32070",
+                        "flags": "◊"
                     },
                     {
                         "label": "CBS",
@@ -234,8 +243,33 @@
                         "catalog": "605"
                     },
                     {
+                        "label": "Je",
+                        "catalog": "6191",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
+                    },
+                    {
+                        "label": "Or",
+                        "catalog": "2191",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15418",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Re",
+                        "catalog": "10244",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1556",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101b"
@@ -252,15 +286,26 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Nw",
                         "catalog": "RP2018"
                     },
                     {
-                        "label": "Pe",
-                        "catalog": "15418"
+                        "label": "Or",
+                        "catalog": "2191",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15418",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1556",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101c"
@@ -272,16 +317,37 @@
                 "title": "Rockin' Chair - vCBu",
                 "releases": [
                     {
+                        "label": "Ba",
+                        "catalog": "32070",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "Cl(F)",
                         "catalog": "605"
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Or",
-                        "catalog": "2191"
+                        "catalog": "2191",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15418",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Re",
+                        "catalog": "10244",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1556",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101d"
@@ -293,20 +359,41 @@
                 "title": "Rockin' Chair - vCBu",
                 "releases": [
                     {
+                        "label": "Ba",
+                        "catalog": "32070",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "CBS",
                         "catalog": "88000"
                     },
                     {
+                        "label": "Je",
+                        "catalog": "6191",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Nw",
                         "catalog": "RP2018"
                     },
                     {
-                        "label": "Pe",
-                        "catalog": "15418"
+                        "label": "Or",
+                        "catalog": "2191",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15418",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1556",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101e"
@@ -318,8 +405,24 @@
                 "title": "Rockin' Chair - vCBu",
                 "releases": [
                     {
+                        "label": "Ba",
+                        "catalog": "32070",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Or",
+                        "catalog": "2191",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15418",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "Re",
-                        "catalog": "10244"
+                        "catalog": "10244",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101f"
@@ -332,7 +435,8 @@
                 "releases": [
                     {
                         "label": "Ba",
-                        "catalog": "32070"
+                        "catalog": "32070",
+                        "flags": "◊"
                     },
                     {
                         "label": "CBS",
@@ -340,14 +444,28 @@
                     },
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD-174"
+                        "catalog": "MJCD\n174"
                     },
                     {
                         "label": "Nw",
                         "catalog": "RP2018"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15418",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1556",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101g"
+            },
+            {
+                "type": "note",
+                "content": "Fred Guy plays guitar on all three takes of Them There Eyes. It is his first recording on that instrument."
             }
         ]
     },
@@ -365,6 +483,11 @@
                 "title": "I'm So In Love With You - vCBu",
                 "releases": [
                     {
+                        "label": "Ba",
+                        "catalog": "32518",
+                        "flags": "◊"
+                    },
+                    {
                         "label": "CBS",
                         "catalog": "88000"
                     },
@@ -373,11 +496,63 @@
                         "catalog": "605"
                     },
                     {
-                        "label": "Ml",
-                        "catalog": "M-12444"
+                        "label": "Mt",
+                        "catalog": "M-12444",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Or",
+                        "catalog": "2528",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15649",
+                        "flags": "◊"
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1902",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3101h"
+            },
+            {
+                "type": "note",
+                "content": "In the U.S the recordings of this session were released simultaneously on various labels controlled by ARC."
+            }
+        ]
+    },
+    {
+        "group": "THE JUNGLE BAND",
+        "location": "New York City, NY",
+        "date": "12 January 1931",
+        "description": "Brunswick recording session",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, Johnny Hodges, Harry Carney(reeds); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Bennie Payne(v)."
+            },
+            {
+                "type": "take",
+                "index": "31-01-12-001",
+                "matrix": null,
+                "title": "Rockin' Chair - vBP",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "31-01-12-002",
+                "matrix": null,
+                "title": "Rockin' In Rhythm",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "Ten waxes were cut of Rockin' Chair and two of Rockin' in Rhythm, but all were scrapped and no master was made."
             }
         ]
     },
@@ -389,7 +564,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Bennie Payne(v,p)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Bennie Payne(p,v)."
             },
             {
                 "type": "take",
@@ -418,8 +593,9 @@
                         "catalog": "1374"
                     },
                     {
-                        "label": "Ml",
-                        "catalog": "M-12093"
+                        "label": "Mt",
+                        "catalog": "M-12093",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3102a"
@@ -432,7 +608,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6038"
+                        "catalog": "6038",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -461,7 +638,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6038"
+                        "catalog": "6038",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -484,7 +662,7 @@
             },
             {
                 "type": "note",
-                "content": "(From NDESOR) Rockin' Chair as EARL JACKSON AND HIS MUSICAL CHAMPIONS"
+                "content": "Rockin' Chair as Earl Jackson and his Musical Champions. Bennie Payne plays second piano on the piano duet of Twelfth Street Rag."
             }
         ]
     },
@@ -496,7 +674,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Chick Bullock(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Chick Bullock(v)."
             },
             {
                 "type": "take",
@@ -526,7 +704,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "22614"
+                        "catalog": "22614",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3103a"
@@ -559,7 +738,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "22614"
+                        "catalog": "22614",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3103b"
@@ -592,7 +772,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "23036"
+                        "catalog": "23036",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3103c"
@@ -626,7 +807,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26310"
+                        "catalog": "26310",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3103d"
@@ -660,10 +842,15 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741068"
+                        "catalog": "741068",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3103e"
+            },
+            {
+                "type": "note",
+                "content": "Victor 23610 was released on 6 July 1939 as by Duke Ellington and his Orchestra."
             }
         ]
     },
@@ -671,11 +858,11 @@
         "group": "THE JUNGLE BAND",
         "location": "New York City, NY",
         "date": "20 January 1931",
-        "description": "ARC recording session. ARC studios.",
+        "description": "ARC recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Dick Robertson(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Dick Robertson(v)."
             },
             {
                 "type": "take",
@@ -700,8 +887,9 @@
                         "catalog": "1374"
                     },
                     {
-                        "label": "Ml",
-                        "catalog": "M-12080"
+                        "label": "Mt",
+                        "catalog": "M-12080",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3104a"
@@ -714,7 +902,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6093"
+                        "catalog": "6093",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -747,7 +936,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6093"
+                        "catalog": "6093",
+                        "flags": "◊"
                     },
                     {
                         "label": "Cl(F)",
@@ -780,7 +970,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "80047"
+                        "catalog": "80047",
+                        "flags": "◊"
                     },
                     {
                         "label": "De",
@@ -801,7 +992,7 @@
                 "type": "take",
                 "index": "31-01-20-005",
                 "matrix": "E35941-A",
-                "title": "Is That Religion - vDR",
+                "title": "Is That Religion? - vDR",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -820,15 +1011,16 @@
                         "catalog": "DRCD-11196"
                     },
                     {
-                        "label": "Ml",
-                        "catalog": "M-12080"
+                        "label": "Mt",
+                        "catalog": "M-12080",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3104e"
             },
             {
                 "type": "note",
-                "content": "The Peanut Vendor / Is That Religion as Earl Jackson & His Musical Champions."
+                "content": "The Peanut Vendor / Is That Religion? as Earl Jackson & His Musical Champions."
             }
         ]
     },
@@ -840,7 +1032,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,vib)."
             },
             {
                 "type": "take",
@@ -879,7 +1071,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "36049"
+                        "catalog": "36049",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3105a"
@@ -887,7 +1080,7 @@
             {
                 "type": "take",
                 "index": "31-06-11-002",
-                "matrix": "BRC68232-1",
+                "matrix": "BRC68232-2",
                 "title": "Creole Rhapsody - Part 1",
                 "releases": [],
                 "desor": "DE3105b"
@@ -895,14 +1088,6 @@
             {
                 "type": "take",
                 "index": "31-06-11-003",
-                "matrix": "BRC68232-2",
-                "title": "Creole Rhapsody - Part 1",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "31-06-11-004",
                 "matrix": "CRC68233-2",
                 "title": "Creole Rhapsody - Part 2",
                 "releases": [
@@ -915,6 +1100,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
+                        "flags": "◊",
                         "disc": "5",
                         "track": 20,
                         "length": 261
@@ -924,7 +1110,7 @@
             },
             {
                 "type": "take",
-                "index": "31-06-11-005",
+                "index": "31-06-11-004",
                 "matrix": "CRC68234-3",
                 "title": "Creole Rhapsody - Part 2",
                 "releases": [
@@ -959,7 +1145,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "36049"
+                        "catalog": "36049",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3105d"
@@ -974,7 +1161,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1004,7 +1191,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "22743"
+                        "catalog": "22743",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3106a"
@@ -1041,7 +1229,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "22743"
+                        "catalog": "22743",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3106b"
@@ -1056,7 +1245,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1086,7 +1275,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "22791"
+                        "catalog": "22791",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3107a"
@@ -1124,7 +1314,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "22800"
+                        "catalog": "22800",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3107b"
@@ -1158,7 +1349,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741085"
+                        "catalog": "741085",
+                        "flags": "◊"
                     }
                 ],
                 "desor": "DE3107c"
@@ -1173,12 +1365,12 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Wellman Braud(sb); Sonny Greer(d); Unk(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, Johnny Hodges, Harry Carney(reeds); Duke Ellington(p); Wellman Braud(sb); Sonny Greer(d); Unk(v)."
             },
             {
                 "type": "take",
                 "index": "31-08-11-001",
-                "matrix": "C7938-",
+                "matrix": "C7938-B",
                 "title": "Tootsie Hill (From Louisville) - vUnk",
                 "releases": [],
                 "desor": "DE9047a"
@@ -1186,7 +1378,7 @@
             {
                 "type": "take",
                 "index": "31-08-11-002",
-                "matrix": "C7939-",
+                "matrix": "C7939-B",
                 "title": "It Don't Mean A Thing - vUnk",
                 "releases": [],
                 "desor": "DE9047b"
