@@ -110,7 +110,7 @@ for key in RELEASE_LINKS:
 Release = dataclass(frozen=False, eq=False)(Release)
 
 
-@dataclass(frozen=True)
+@dataclass(frozen=False)
 class EntryRelease:
     entry: Entry
     release: Release
@@ -119,6 +119,13 @@ class EntryRelease:
     track: int
     length: int  # in seconds
     title: str
+    first_issue : bool = False
+
+    def __post_init__(self):
+        diamond = "◊"
+        if self.flags and diamond in self.flags:
+            self.flags = self.flags.replace(diamond, "")
+            self.first_issue = True
 
 
 class Database:
@@ -449,6 +456,7 @@ def load_from_json():
                             disc=release_dict.get("disc"),
                             track=release_dict.get("track"),
                             length=release_dict.get("length"),
+                            first_issue=release_dict.get("first_issue"),
                             title=er_title
                         )
                         database.add_entry_release(er)
@@ -645,6 +653,8 @@ def save_to_json(database):
                             release_details["flags"] = entry_release.flags
                         if entry_release.disc is not None:
                             release_details["disc"] = entry_release.disc
+                        if entry_release.first_issue:
+                            release_details["first_issue"] = True
                         if entry_release.track is not None:
                             release_details["track"] = entry_release.track
                         if entry_release.length is not None:
@@ -1016,6 +1026,7 @@ def cmd_import_csv(args):
                 disc=disc,
                 track=track,
                 title=row.get("title"),
+                first_issue=row.get("first_issue"),
                 length=length,
             )
             database.add_entry_release(er)
