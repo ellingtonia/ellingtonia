@@ -17,6 +17,7 @@ menu:
 * Write "Victor recording session" instead of RCA-Victor.
 * 1925 - 1932 substantial updates
 * Use "Rep" for "Reprise"
+* Fixed a large number of release catalogs (in particular restoring many spaces instead of minuses)
 
 ## October 2025
 * 1929,30,32 further corrections

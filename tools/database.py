@@ -93,7 +93,13 @@ RELEASE_LINKS = [
     "format",
 ]
 
+catalog_fixups = [line.strip().split("\t") for line in open("crud/release_renames.txt")]
+catalog_fixups = {(l[0], l[1]) : l[2] for l in catalog_fixups}
 
+print (catalog_fixups)
+
+
+@dataclass(frozen=False, eq=False)
 class Release:
     label: Label
     catalog: str
@@ -102,6 +108,17 @@ class Release:
     format: str = None
     note: str = None
     release_date: str = None
+
+    def __post_init__(self):
+        action = catalog_fixups.get((self.label.label, self.catalog))
+        if not action:
+            pass
+        elif action.upper() == "X":
+            self.catalog = self.catalog.replace("-", " ")
+        else:
+            self.catalog = action
+
+
 
 
 Release.__annotations__.update({key: str for key in RELEASE_LINKS})
