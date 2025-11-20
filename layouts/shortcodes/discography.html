@@ -65,7 +65,13 @@
                 {{ $title_str = printf "%s (%s)" ($.Page.RenderString $release_info.title) $release_info.format }}
               {{- end -}}
 
+              {{- if .first_issue -}}
+              <b>
+              {{- end -}}
               <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
+              {{- if .first_issue -}}
+              </b>
+              {{- end -}}
 
               {{- range $link_data := $.Site.Params.entry_links -}}
                 {{- if index $release_info $link_data.key -}}
