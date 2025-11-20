@@ -110,7 +110,7 @@ for key in RELEASE_LINKS:
 Release = dataclass(frozen=False, eq=False)(Release)
 
 
-@dataclass(frozen=False)
+@dataclass(frozen=True)
 class EntryRelease:
     entry: Entry
     release: Release
@@ -120,12 +120,6 @@ class EntryRelease:
     length: int  # in seconds
     title: str
     first_issue : bool = False
-
-    def __post_init__(self):
-        diamond = "◊"
-        if self.flags and diamond in self.flags:
-            self.flags = self.flags.replace(diamond, "")
-            self.first_issue = True
 
 
 class Database:
