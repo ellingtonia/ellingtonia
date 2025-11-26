@@ -15,14 +15,10 @@ menu:
 * Remove "ch" from Sonny Greer instruments
 * Juan Tizol: show vtb instead of tb
 * Write "Victor recording session" instead of RCA-Victor.
-* 1925 - 1932 substantial updates
+* 1925 - 1936 substantial updates
 * Use "Rep" for "Reprise"
 * Fixed a large number of release catalogs (in particular restoring many spaces instead of minuses)
 * First releases are now indicated in bold type, rather than with a diamond
-* 1935
-* 1933
-* 1936
-* 1934
 
 ## October 2025
 * 1929,30,32 further corrections
