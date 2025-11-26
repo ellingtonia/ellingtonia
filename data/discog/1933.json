@@ -3,11 +3,11 @@
         "group": "ADELAIDE HALL WITH DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "07 January 1933",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Adelaide Hall(v)."
+                "value": "Arthur Whetsel, Cootie Williams(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Adelaide Hall(v)."
             },
             {
                 "type": "take",
@@ -17,7 +17,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6518"
+                        "catalog": "6518",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -56,7 +57,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -79,11 +81,12 @@
                 "type": "take",
                 "index": "33-01-07-003",
                 "matrix": "B12774-C",
-                "title": "Baby! - vAHa",
+                "title": "Baby - vAHa",
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6518"
+                        "catalog": "6518",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -114,11 +117,12 @@
                 "type": "take",
                 "index": "33-01-07-004",
                 "matrix": "B12774-D",
-                "title": "Baby! - vAHa",
+                "title": "Baby - vAHa",
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "T-1001"
+                        "catalog": "T-1001",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -136,6 +140,10 @@
                     }
                 ],
                 "desor": "DE3301d"
+            },
+            {
+                "type": "note",
+                "content": "Br 6518 shows the title \"Baby!\", as do most subsequent reissues; the copyright entry shows \"Baby\"."
             }
         ]
     },
@@ -148,7 +156,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -158,7 +166,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6467"
+                        "catalog": "6467",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -203,7 +212,8 @@
                     },
                     {
                         "label": "Lu",
-                        "catalog": "5036"
+                        "catalog": "5036",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -226,21 +236,22 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,vib); Ivie Anderson(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,vib); Ivie Anderson(v)."
             },
             {
                 "type": "take",
                 "index": "33-02-15-001",
                 "matrix": "W265049-2",
-                "title": "Merry Go Round",
+                "title": "Merry-Go-Round",
                 "releases": [
                     {
                         "label": "CBS",
                         "catalog": "88082"
                     },
                     {
-                        "label": "Co",
-                        "catalog": "J 1681"
+                        "label": "Co(J)",
+                        "catalog": "J 1681",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -267,7 +278,7 @@
                 "type": "take",
                 "index": "33-02-15-002",
                 "matrix": "W265049-3",
-                "title": "Merry Go Round",
+                "title": "Merry-Go-Round",
                 "releases": [
                     {
                         "label": "CBS",
@@ -278,8 +289,9 @@
                         "catalog": "637"
                     },
                     {
-                        "label": "Co",
-                        "catalog": "CB 591"
+                        "label": "Co(E)",
+                        "catalog": "CB 591",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -305,8 +317,9 @@
                         "catalog": "88082"
                     },
                     {
-                        "label": "Co",
-                        "catalog": "J 1681"
+                        "label": "Co(J)",
+                        "catalog": "J 1681",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -344,8 +357,9 @@
                         "catalog": "637"
                     },
                     {
-                        "label": "Co",
-                        "catalog": "CB 591"
+                        "label": "Co(E)",
+                        "catalog": "CB 591",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -375,8 +389,9 @@
                         "catalog": "637"
                     },
                     {
-                        "label": "Co",
-                        "catalog": "CB 625"
+                        "label": "Co(E)",
+                        "catalog": "CB 625",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -400,7 +415,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,vib)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(bsx); Harry Carney(as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,vib)."
             },
             {
                 "type": "take",
@@ -418,7 +433,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CB 625"
+                        "catalog": "CB 625",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -438,11 +454,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "17 February 1933",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj,g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj,g); Wellman Braud(sb); Sonny Greer(d,ch)."
             },
             {
                 "type": "take",
@@ -456,7 +472,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6527"
+                        "catalog": "6527",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -499,7 +516,8 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "T-1003"
+                        "catalog": "T-1003",
+                        "first_issue": true
                     },
                     {
                         "label": "FMRS",
@@ -521,6 +539,10 @@
                     }
                 ],
                 "desor": "DE3304b"
+            },
+            {
+                "type": "artists",
+                "value": "Add Otto Hardwick(as,bsx)."
             },
             {
                 "type": "take",
@@ -545,7 +567,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -570,7 +593,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -595,7 +619,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -620,7 +645,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -664,7 +690,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -689,7 +716,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -714,7 +742,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -739,7 +768,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -775,7 +805,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -800,7 +831,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -825,7 +857,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -850,7 +883,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6516"
+                        "catalog": "6516",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -894,7 +928,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -919,7 +954,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -944,7 +980,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -969,7 +1006,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "OL 6770"
+                        "catalog": "OL 6770",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -1013,7 +1051,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2009"
+                        "catalog": "2009",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -1034,7 +1073,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2009"
+                        "catalog": "2009",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -1055,7 +1095,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2009"
+                        "catalog": "2009",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -1076,7 +1117,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2009"
+                        "catalog": "2009",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -1093,7 +1135,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6527"
+                        "catalog": "6527",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1132,7 +1175,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "35837"
+                        "catalog": "35837",
+                        "first_issue": true
                     },
                     {
                         "label": "Gp",
@@ -1154,25 +1198,29 @@
                     }
                 ],
                 "desor": "DE3304i"
+            },
+            {
+                "type": "note",
+                "content": "78rpm records show the last song as \"Drop Me Off At Harlem\"."
             }
         ]
     },
     {
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "Astoria, NY",
-        "date": "Circa 04 March 1933",
+        "date": "circa 04 March 1933",
         "index_date": 330304,
         "description": "Paramount film recording session. Paramount's Eastern Service Studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(ts); Johnny Hodges, Otto Hardwick(, Harry Carney(as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "33-03-04-001",
                 "matrix": null,
-                "title": "Sophisticated Lady",
+                "title": "¬ Sophisticated Lady",
                 "releases": [],
                 "desor": "DE3305a"
             },
@@ -1180,13 +1228,13 @@
                 "type": "take",
                 "index": "33-03-04-002",
                 "matrix": null,
-                "title": "Creole Rhapsody",
+                "title": "_| Creole Rhapsody",
                 "releases": [],
                 "desor": "DE3305b"
             },
             {
                 "type": "note",
-                "content": "Film sound track from \"Paramount Pictorial P3-1.\""
+                "content": "Film sound track from \"Paramount Pictorial P3-1.\" Sophisticated Lady is played by Ellington only."
             }
         ]
     },
@@ -1194,11 +1242,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "09 May 1933",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Joe Garland(ts); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Johnny Hodges(ss,as); Otto Hardwick(as); Joe Garland(ts); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1212,7 +1260,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6571"
+                        "catalog": "6571",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1235,6 +1284,10 @@
                 "desor": "DE3306a"
             },
             {
+                "type": "artists",
+                "value": "Add Harry Carney(as,bar)."
+            },
+            {
                 "type": "take",
                 "index": "33-05-09-002",
                 "matrix": "B13307-A",
@@ -1242,7 +1295,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6571"
+                        "catalog": "6571",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1305,11 +1359,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "16 May 1933",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,vib)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,vib)."
             },
             {
                 "type": "take",
@@ -1323,7 +1377,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6607"
+                        "catalog": "6607",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1362,7 +1417,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "35836"
+                        "catalog": "35836",
+                        "first_issue": true
                     },
                     {
                         "label": "Gp",
@@ -1401,7 +1457,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6600"
+                        "catalog": "6600",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1435,7 +1492,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6600"
+                        "catalog": "6600",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1471,7 +1529,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Benny James(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as,bsx); Harry Carney(as,bar); Duke Ellington(p); Benny James(g); Wellman Braud(sb); Sonny Greer(d,ch,vib); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1564,7 +1622,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(as,bsx); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1578,7 +1636,8 @@
                     },
                     {
                         "label": "De",
-                        "catalog": "M-439"
+                        "catalog": "M-439",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -1595,7 +1654,8 @@
                 "releases": [
                     {
                         "label": "De",
-                        "catalog": "800"
+                        "catalog": "800",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -1624,7 +1684,8 @@
                     },
                     {
                         "label": "De",
-                        "catalog": "M-438"
+                        "catalog": "M-438",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -1649,7 +1710,8 @@
                     },
                     {
                         "label": "De",
-                        "catalog": "M-439"
+                        "catalog": "M-439",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -1666,7 +1728,8 @@
                 "releases": [
                     {
                         "label": "De",
-                        "catalog": "800"
+                        "catalog": "800",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -1695,7 +1758,8 @@
                     },
                     {
                         "label": "De",
-                        "catalog": "M-438"
+                        "catalog": "M-438",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -1707,7 +1771,7 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
+        "group": "DUKE ELLINGTON",
         "location": "London, GB",
         "date": "14 July 1933",
         "description": "English Oriole recording session. Levy's Sound Studios.",
@@ -1720,11 +1784,12 @@
                 "type": "take",
                 "index": "33-07-14-001",
                 "matrix": "538",
-                "title": "Souvenir of Duke Ellington's First Visit To England 1933",
+                "title": "Souvenir of Duke Ellington's First Visit to England 1933",
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "T-1003"
+                        "catalog": "T-1003",
+                        "first_issue": true
                     },
                     {
                         "label": "Nw",
@@ -1749,7 +1814,8 @@
                     },
                     {
                         "label": "Or",
-                        "catalog": "un-numbered†"
+                        "catalog": "un-numbered†",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3310b"
@@ -1760,11 +1826,11 @@
         "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "15 August 1933",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(as,bsx); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1774,7 +1840,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6638"
+                        "catalog": "6638",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1808,7 +1875,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6638"
+                        "catalog": "6638",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1849,7 +1917,8 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3311xa"
@@ -1866,7 +1935,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6646"
+                        "catalog": "6646",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1896,7 +1966,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6646"
+                        "catalog": "6646",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1928,7 +1999,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Louis Bacon(t,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Louis Bacon(t,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsx); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1959,7 +2030,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24431"
+                        "catalog": "24431",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3312a"
@@ -1989,7 +2061,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741114"
+                        "catalog": "741114",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3312b"
@@ -2019,7 +2092,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741114"
+                        "catalog": "741114",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3312c"
@@ -2053,7 +2127,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24431"
+                        "catalog": "24431",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3312d"
@@ -2072,7 +2147,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Louis Bacon(t,v); Lawrence Brown, Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(bj,g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Louis Bacon(t,v); Lawrence Brown, Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2107,7 +2182,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24501"
+                        "catalog": "24501",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3313a"
@@ -2136,10 +2212,6 @@
                         "length": 208
                     },
                     {
-                        "label": "RCA",
-                        "catalog": "741114"
-                    },
-                    {
                         "label": "RCA(F)",
                         "catalog": "741114"
                     }
@@ -2149,10 +2221,14 @@
             {
                 "type": "take",
                 "index": "33-12-05-003",
-                "matrix": "BS77200-",
+                "matrix": "BS77200-3",
                 "title": "Awful Sad",
                 "releases": [],
                 "desor": "DE3313c"
+            },
+            {
+                "type": "artists",
+                "value": "Same, but: Duke Ellington out; Fred Guy(bj); Sonny Greer(d,ch,wwh)."
             },
             {
                 "type": "take",
@@ -2218,10 +2294,6 @@
                         "disc": "7",
                         "track": 4,
                         "length": 178
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "741114"
                     },
                     {
                         "label": "RCA(F)",

@@ -20,6 +20,7 @@ menu:
 * Fixed a large number of release catalogs (in particular restoring many spaces instead of minuses)
 * First releases are now indicated in bold type, rather than with a diamond
 * 1935
+* 1933
 
 ## October 2025
 * 1929,30,32 further corrections
