@@ -1,7 +1,6 @@
 ---
 title: Titles
 
-menu: main
 menu:
   main:
     weight: 12

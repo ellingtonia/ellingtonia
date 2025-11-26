@@ -1,7 +1,6 @@
 ---
 title: Record labels
 
-menu: main
 menu:
   main:
     weight: 13

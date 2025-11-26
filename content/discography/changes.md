@@ -1,7 +1,6 @@
 ---
 title: Changes
 
-menu: main
 menu:
   main:
     weight: 10

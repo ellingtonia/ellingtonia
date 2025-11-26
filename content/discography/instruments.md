@@ -1,7 +1,6 @@
 ---
 title: Instruments
 
-menu: main
 menu:
   main:
     weight: 15

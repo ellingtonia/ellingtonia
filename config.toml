@@ -8,11 +8,9 @@ copyright = "Ellingtonia.com"
 canonifyURLs = true
 preserveTaxonomyNames = true
 
-# Configure pagination
-paginate = 10
-paginatePath = "page"
-
 disableKinds = ["RSS"]
+
+ignoreLogs = ["warning-goldmark-raw-html"]
 
 [permalinks]
   blog = "blog/:year/:filename/"

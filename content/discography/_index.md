@@ -1,6 +1,5 @@
 ---
 title: "Discography"
-menu: main
 menu:
   main:
     identifier: "Discography"

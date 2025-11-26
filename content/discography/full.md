@@ -1,7 +1,6 @@
 ---
 title: "Full Discography" # em-dash
 wide: true
-menu: main
 menu:
   main:
     weight: 11
