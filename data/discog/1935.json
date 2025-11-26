@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as);\nOtto Hardwick(as,bsax); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Billy Taylor(bb); Sonny Greer(d); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(as,bsx); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -25,7 +25,8 @@
                     },
                     {
                         "label": "FDC",
-                        "catalog": "1003"
+                        "catalog": "1003",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -56,7 +57,8 @@
                     },
                     {
                         "label": "FDC",
-                        "catalog": "1003"
+                        "catalog": "1003",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -69,6 +71,10 @@
                     }
                 ],
                 "desor": "DE3501b"
+            },
+            {
+                "type": "artists",
+                "value": "Add Billy Taylor(bb)."
             },
             {
                 "type": "take",
@@ -86,7 +92,8 @@
                     },
                     {
                         "label": "FDC",
-                        "catalog": "1003"
+                        "catalog": "1003",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -102,7 +109,7 @@
             },
             {
                 "type": "artists",
-                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(vtb); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Unk(mc)."
+                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(vtb); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Unk(marac)."
             },
             {
                 "type": "take",
@@ -118,7 +125,8 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3501d"
@@ -133,7 +141,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "05 March 1935",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
@@ -147,7 +155,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "7526"
+                        "catalog": "7526",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -171,7 +180,7 @@
             },
             {
                 "type": "artists",
-                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(vtb); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Wellman Braud, Billy Taylor(sb); Sonny Greer(d); Unk(mc); Unk(clv)."
+                "value": "Cootie Williams, Rex Stewart(t); Juan Tizol(vtb); Johnny Hodges(ss); Harry Carney(bar); Duke Ellington(p); Wellman Braud, Billy Taylor(sb); Sonny Greer(d); Unk(marac); Unk(clv)."
             },
             {
                 "type": "take",
@@ -207,7 +216,8 @@
                     },
                     {
                         "label": "SE",
-                        "catalog": "5007-S"
+                        "catalog": "5007-S",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3502b"
@@ -225,6 +235,11 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "659"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1022",
+                        "first_issue": true
                     },
                     {
                         "label": "FMRS",
@@ -282,7 +297,8 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23001"
+                        "catalog": "RTE 23001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3502d"
@@ -303,7 +319,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "37297"
+                        "catalog": "37297",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -330,11 +347,12 @@
                 "type": "take",
                 "index": "35-03-05-006",
                 "matrix": "B16976-1",
-                "title": "Indigo Echoes",
+                "title": "Indigo Echo",
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "T-1003"
+                        "catalog": "T-1003",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -357,7 +375,7 @@
                 "type": "take",
                 "index": "35-03-05-007",
                 "matrix": "B16976-2",
-                "title": "Indigo Echoes",
+                "title": "Indigo Echo",
                 "releases": [
                     {
                         "label": "CBS",
@@ -369,7 +387,9 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "37297"
+                        "catalog": "37297",
+                        "first_issue": true,
+                        "title": "Indigo Echoes"
                     },
                     {
                         "label": "Co",
@@ -394,7 +414,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "30 April 1935",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
@@ -416,7 +436,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7461"
+                        "catalog": "7461",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -458,7 +479,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7461"
+                        "catalog": "7461",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -492,7 +514,7 @@
                 "type": "take",
                 "index": "35-04-30-003",
                 "matrix": "B17408-1",
-                "title": "Merry Go Round",
+                "title": "Merry-Go-Round",
                 "releases": [
                     {
                         "label": "BMG",
@@ -500,7 +522,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7440"
+                        "catalog": "7440",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -530,7 +553,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "7440"
+                        "catalog": "7440",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -558,11 +582,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "19 August 1935",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto\nHardwick(as); Ben Webster(ts); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)"
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Ben Webster(ts); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)"
             },
             {
                 "type": "take",
@@ -572,7 +596,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "7526"
+                        "catalog": "7526",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -602,7 +627,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "7514"
+                        "catalog": "7514",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -636,7 +662,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "7514"
+                        "catalog": "7514",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -664,11 +691,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "12 September 1935",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto\nHardwick(cl,ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -682,7 +709,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7546"
+                        "catalog": "7546",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -720,7 +748,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7546"
+                        "catalog": "7546",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -758,7 +787,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7547"
+                        "catalog": "7547",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -796,7 +826,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7547"
+                        "catalog": "7547",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
