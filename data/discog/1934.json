@@ -3,11 +3,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Chicago, IL",
         "date": "09 January 1934",
-        "description": "Victor recording session.  Merchandise Mart.",
+        "description": "Victor recording session. Merchandise Mart.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins, Louis Bacon(t); Lawrence Brown, Joe Nanton(tb); Barney Bigard(cl,ts); Harry Carney(bar,as,cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,mc)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins, Louis Bacon(t); Lawrence Brown, Joe Nanton(tb); Barney Bigard(cl); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,marac)."
             },
             {
                 "type": "take",
@@ -34,7 +34,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741114"
+                        "catalog": "741114",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3401a"
@@ -68,7 +69,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24755"
+                        "catalog": "24755",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3401b"
@@ -109,7 +111,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24521"
+                        "catalog": "24521",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3401c"
@@ -124,7 +127,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins, Louis Bacon(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as,bsax); Harry Carney(bar,as,cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins, Louis Bacon(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,vib)."
             },
             {
                 "type": "take",
@@ -158,7 +161,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24755"
+                        "catalog": "24755",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3402a"
@@ -195,7 +199,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24521"
+                        "catalog": "24521",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3402b"
@@ -210,7 +215,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,as,cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Barbara Van Brunt(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,ch); Barbara Van Brunt(v)."
             },
             {
                 "type": "take",
@@ -220,7 +225,8 @@
                 "releases": [
                     {
                         "label": "BMG",
-                        "catalog": "88697302362"
+                        "catalog": "88697302362",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3403a"
@@ -233,7 +239,8 @@
                 "releases": [
                     {
                         "label": "BMG",
-                        "catalog": "88697302362"
+                        "catalog": "88697302362",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3403b"
@@ -254,7 +261,8 @@
                 "releases": [
                     {
                         "label": "Uni",
-                        "catalog": "61106092"
+                        "catalog": "61106092",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3403d"
@@ -266,6 +274,30 @@
         ]
     },
     {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "Los Angeles, CA",
+        "date": "05 March 1934",
+        "description": "Soundtrack of Paramount short \"Hollywood on Parade Z3-10.\"",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "prob. Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, Johnny Hodges, Otto Hardwick, Harry Carney(reeds); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+            },
+            {
+                "type": "take",
+                "index": "34-03-05-001",
+                "matrix": null,
+                "title": "Here Comes The Bride",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "Ellington and his orchestra played the wedding march for Buck Clayton and his bride Gladys \"Derb\" Henderson who were marrying on the set. (Here Comes the Bride is actually Richard Wagner's Bridal Chorus from Lohengrin Act III). The wedding was held outdoors on the Paramount lot, during a break in filming the episodic film \"Hollywood on Parade Z3-10.\" The marriage was a formality, so Derb could go with Buck Clayton’s band to China, where single women were denied admittance as an anti-prostitution measure."
+            }
+        ]
+    },
+    {
         "group": "MAE WEST WITH DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "15 March 1934",
@@ -273,7 +305,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(as); Harry Carney(bar,as,cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Mae West(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb,sous); Sonny Greer(d); Mae West(v)."
             },
             {
                 "type": "take",
@@ -303,7 +335,7 @@
             },
             {
                 "type": "note",
-                "content": "Film soundtrack from Paramount's \"Belle Of The Nineties\". The alternate take DE3404b was issued on two Electrical Transcription 78 rpm discs, Victor \"Belle of the Nineties Transcription #1/#2\" and World Broadcasting System \"Hollywood Movie Parade Program No. 10.\": the Victor ET fades to applause after the fourth bar of the 3rd chorus; the World ET fades to applause after the first bar of the 4th chorus. The soundtrack version DE3405a is 5 choruses long. The Victor ET content has been reissued on MSd DFCDI-113 in 1991."
+                "content": "Film soundtrack from Paramount's \"Belle Of The Nineties\". The alternate take DE3404b was issued on two Electrical Transcription 33 1/3 rpm discs, Victor \"Belle of the Nineties Transcription #1/#2\" and World Broadcasting System \"Hollywood Movie Parade Program No. 10.\": the Victor ET fades to applause after the fourth bar of the 3rd chorus; the World ET fades to applause after the first bar of the 4th chorus. The soundtrack version DE3405a is 5 choruses long. The Victor ET content has been reissued on MSd DFCDI-113 in 1991."
             }
         ]
     },
@@ -315,7 +347,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, probably Harry Carney(cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Mae West(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, one other - prob. Harry Carney(cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Mae West(v)."
             },
             {
                 "type": "take",
@@ -329,7 +361,8 @@
                     },
                     {
                         "label": "ER",
-                        "catalog": "1004"
+                        "catalog": "1004",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3405a"
@@ -354,6 +387,30 @@
         ]
     },
     {
+        "group": "GERTRUDE MICHAEL WITH DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": "Los Angeles, CA",
+        "date": "18 March 1934",
+        "description": "Paramount film recording session. Paramount Sound Stage 1.",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "prob. Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, Johnny Hodges, Otto Hardwick, Harry Carney(reeds); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Gertrude Michael(v)."
+            },
+            {
+                "type": "take",
+                "index": "34-03-18-001",
+                "matrix": null,
+                "title": "Ebony Rhapsody - vGMi",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "Film soundtrack from Paramount’s \"Belle Of The Nineties.\" Paramount rejected."
+            }
+        ]
+    },
+    {
         "group": "LARRY ADLER WITH DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "21 March 1934",
@@ -371,7 +428,8 @@
                 "releases": [
                     {
                         "label": "UtD",
-                        "catalog": "2009"
+                        "catalog": "2009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3406a"
@@ -408,7 +466,8 @@
                     },
                     {
                         "label": "Cs",
-                        "catalog": "7501"
+                        "catalog": "7501",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -481,7 +540,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown(tb); Juan Tizol(vtb); Barney Bigard(cl); Johnny Hodges(as); Harry Carney(bar,as,cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -515,7 +574,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24622"
+                        "catalog": "24622",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3409a"
@@ -545,7 +605,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FPM1 7002 IIe"
+                        "catalog": "FPM1 7002 IIe",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3409b"
@@ -583,7 +644,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24617"
+                        "catalog": "24617",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3409c"
@@ -620,7 +682,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24617"
+                        "catalog": "24617",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3409d"
@@ -635,7 +698,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as,bsax); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -669,7 +732,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24622"
+                        "catalog": "24622",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3410a"
@@ -681,11 +745,11 @@
         "location": "Los Angeles, CA",
         "date": "07 or 08 May 1934",
         "index_date": 340507,
-        "description": "Paramount film recording session. Paramount Sound Stage 8.",
+        "description": "Paramount film recording session. Paramount Sound Stage 8 (07 May) or Stage 1 (08 May).",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl); Johnny Hodges(as,cl); Harry Carney(bar,cl,bcl); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Mae West(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, Johnny Hodges, Harry Carney(cl); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Mae West(v)."
             },
             {
                 "type": "take",
@@ -714,7 +778,7 @@
             },
             {
                 "type": "note",
-                "content": "Film soundtrack from Paramount's \"Belle Of The Nineties\". DE3411a was used in the soundtrack. The alternate take DE3411b was issued on the Electircal Transcription 16-inch 78 rpm disc World Broadcasting System \"Hollywood Movie Parade Program No. 10.\" and never reissued."
+                "content": "Film soundtrack from Paramount's \"Belle Of The Nineties\". Troubled Waters was recorded both on the 7th and on the 8th of May; the files don’t tell us on which date the take of Troubled Waters heard in \"Belle of the Nineties\" (DE3411a) was recorded. The alternate take DE3411b was issued on a 16-inch, 33 1/3 rpm World Broadcasting System electrical transcription, ‘Hollywood Movie Parade Program No. 10’ and never reissued."
             }
         ]
     },
@@ -726,11 +790,23 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard, Johnny Hodges, Harry Carney(cl); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Mae West(v)."
             },
             {
                 "type": "take",
                 "index": "34-05-08-001",
+                "matrix": null,
+                "title": "When A St. Louis Woman",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "artists",
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Wellman Braud(sb); Sonny Greer(d)."
+            },
+            {
+                "type": "take",
+                "index": "34-05-08-002",
                 "matrix": null,
                 "title": "My Old Flame",
                 "releases": [
@@ -741,6 +817,18 @@
                     }
                 ],
                 "desor": "DE3412a"
+            },
+            {
+                "type": "artists",
+                "value": "As before"
+            },
+            {
+                "type": "take",
+                "index": "34-05-08-003",
+                "matrix": null,
+                "title": "I Met My Waterloo",
+                "releases": [],
+                "desor": null
             },
             {
                 "type": "note",
@@ -756,7 +844,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Harry Carney(bar,as,cl); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Arthur Whetsel, Cootie Williams(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -774,6 +862,7 @@
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "7",
+                        "first_issue": true,
                         "track": 15,
                         "length": 213
                     }
@@ -817,7 +906,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24651"
+                        "catalog": "24651",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3413b"
@@ -854,7 +944,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24651"
+                        "catalog": "24651",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3413c"
@@ -865,11 +956,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "13 September 1934",
-        "description": "ARC recording session. ARC studios.",
+        "description": "Brunswick recording session. ARC studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as,bsax); Harry Carney(acl,bar,as); Duke Ellington(p,v); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(acl,as,bar); Duke Ellington(p,tk); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -883,7 +974,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "6987"
+                        "catalog": "6987",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -909,7 +1001,7 @@
                 "type": "take",
                 "index": "34-09-13-002",
                 "matrix": "B15911-A",
-                "title": "Saddest Tale -vDE",
+                "title": "Saddest Tale -tkDE",
                 "releases": [
                     {
                         "label": "BMG",
@@ -917,7 +1009,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "7310"
+                        "catalog": "7310",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -959,7 +1052,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "6987"
+                        "catalog": "6987",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -985,11 +1079,12 @@
                 "type": "take",
                 "index": "34-09-13-004",
                 "matrix": "B15913-A",
-                "title": "Sump'n' Bout Rhythm",
+                "title": "Sump'n 'Bout Rhythm",
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "7310"
+                        "catalog": "7310",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1018,11 +1113,11 @@
         "location": "New York City, NY",
         "date": "24 & 25 October 1934",
         "index_date": 341024,
-        "description": "Paramount recording session for film \"Symphony In Black: A Rhapsody of Negro Life\". Biograph Studios.",
+        "description": "Paramount recording session for film \"Symphony In Black: A Rhapsody of Negro Life\" (Paramount Headliner A5-3). Biograph Studios.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as,bsax); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Billie Holiday(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d); Billie Holiday(v)."
             },
             {
                 "type": "take",
@@ -1044,7 +1139,8 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 102"
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "UA",
@@ -1069,7 +1165,8 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 102"
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "UA",
@@ -1090,7 +1187,8 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 102"
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "UA",
@@ -1111,7 +1209,8 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 102"
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "UA",
@@ -1122,7 +1221,7 @@
             },
             {
                 "type": "note",
-                "content": "Prerecording made probably on October 24, with filming on 24 and 25. A Triangle consists of three pieces: Dance, Jealousy and Big City Blues."
+                "content": "Prerecording made probably on October 24, with filming on 24 and 25. A Triangle consists of three pieces: Dance (= Ducky Wucky), Jealousy and Big City Blues (= Saddest Tale). Also, Harlem Rhythm = Merry-Go-Round."
             }
         ]
     }
