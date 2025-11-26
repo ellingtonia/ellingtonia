@@ -22,6 +22,7 @@ json_labels_path = json_prefix + "/labels.json"
 json_releases_path = json_prefix + "/releases.json"
 json_generated_path = json_prefix + "/generated.json"
 
+
 # Need eq=False as we have duplicates
 @dataclass(frozen=False, eq=False)
 class Session:
@@ -77,6 +78,7 @@ class Label:
     label: str
     name: str
 
+
 RELEASE_LINKS = [
     "discogs",
     "musicbrainz",
@@ -119,7 +121,7 @@ class EntryRelease:
     track: int
     length: int  # in seconds
     title: str
-    first_issue : bool = False
+    first_issue: bool = False
 
 
 class Database:
@@ -168,9 +170,7 @@ class Database:
         label.name = name
 
     def all_labels(self):
-        return sorted(
-            self._labels.values(), key=lambda label: label.label.lower()
-        )
+        return sorted(self._labels.values(), key=lambda label: label.label.lower())
 
     def get_release(self, label, catalog):
         assert isinstance(label, Label)
@@ -200,15 +200,11 @@ class Database:
         assert isinstance(entry_release.entry, Entry)
         assert isinstance(entry_release.release, Release)
         self._entry_releases_by_entry[entry_release.entry].append(entry_release)
-        self._entry_releases_by_release[entry_release.release].append(
-            entry_release
-        )
+        self._entry_releases_by_release[entry_release.release].append(entry_release)
 
     def remove_entry_release(self, entry_release):
         self._entry_releases_by_entry[entry_release.entry].remove(entry_release)
-        self._entry_releases_by_release[entry_release.release].remove(
-            entry_release
-        )
+        self._entry_releases_by_release[entry_release.release].remove(entry_release)
 
     def entry_releases_from_release(self, release):
         return self._entry_releases_by_release[release][:]
@@ -242,7 +238,7 @@ class Database:
         for label, catalog in self._releases.keys():
             key = (label, catalog.replace(" ", "-"))
             if key in seen:
-                raise RuntimeError ("Ambiguous releases detected", label.label, catalog)
+                raise RuntimeError("Ambiguous releases detected", label.label, catalog)
             seen.add(key)
 
 
@@ -300,7 +296,7 @@ def load_from_json():
             try:
                 json_sessions = json.load(f)
             except json.decoder.JSONDecodeError as e:
-                e.args +=(session_path,)
+                e.args += (session_path,)
                 raise
 
         old_date = None
@@ -314,7 +310,7 @@ def load_from_json():
             # "index_date" is used to indicate indexing if the date is ambiguous
             if date is None:
                 if not "index_date" in jsession:
-                    raise RuntimeError (f"Could not parse {date_str}")
+                    raise RuntimeError(f"Could not parse {date_str}")
 
                 date = jsession["index_date"]
             else:
@@ -322,7 +318,6 @@ def load_from_json():
 
             if date != old_date:
                 idx = 1
-
 
             same_session = jsession.get("same_session", False)
             if same_session:
@@ -340,8 +335,10 @@ def load_from_json():
                 json_filename=os.path.basename(session_path),
                 date=date,
             )
-            if sess.location ==  "30th Street Columbia Studio, New York City, NY":
-                sess.description =  "Columbia Recording Session, 30th Street Columbia Studio"
+            if sess.location == "30th Street Columbia Studio, New York City, NY":
+                sess.description = (
+                    "Columbia Recording Session, 30th Street Columbia Studio"
+                )
                 sess.location = "New York City, NY"
 
             entries = []
@@ -361,10 +358,7 @@ def load_from_json():
                         content = jentry["value"]
                     else:
                         content = jentry["content"]
-                    entry = Entry(
-                        type="note",
-                        content=content
-                    )
+                    entry = Entry(type="note", content=content)
                     entries.append(entry)
 
                 elif jentry["type"] == "take":
@@ -383,14 +377,13 @@ def load_from_json():
                     # auto-number, so errors get corrected.
                     if index:
                         str_date = str(date)
-                        index = f"{str_date[0:2]}-{str_date[2:4]}-{str_date[4:6]}-{idx:03}"
+                        index = (
+                            f"{str_date[0:2]}-{str_date[2:4]}-{str_date[4:6]}-{idx:03}"
+                        )
                         idx += 1
 
                         # Check for duplicates
-                        assert index not in all_indices, (
-                            index,
-                            title
-                        )
+                        assert index not in all_indices, (index, title)
                         all_indices.add(index)
 
                     entry = Entry(
@@ -414,9 +407,7 @@ def load_from_json():
                             release_dict["catalog"].lower(),
                         )
 
-                    for release_dict in sorted(
-                        jentry["releases"], key=sort_key
-                    ):
+                    for release_dict in sorted(jentry["releases"], key=sort_key):
                         label = release_dict["label"]
                         catalog = release_dict["catalog"]
                         if (label, catalog) in seen_releases:
@@ -451,7 +442,7 @@ def load_from_json():
                             track=release_dict.get("track"),
                             length=release_dict.get("length"),
                             first_issue=release_dict.get("first_issue"),
-                            title=er_title
+                            title=er_title,
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
@@ -462,9 +453,7 @@ def load_from_json():
         releases_data = json.load(f)
         for label, label_releases in releases_data.items():
             for catalog, release_data in label_releases.items():
-                release = database.get_release(
-                    database.get_label(label), catalog
-                )
+                release = database.get_release(database.get_label(label), catalog)
 
                 release.release_date = release_data.get("release_date")
                 release.note = release_data.get("note")
@@ -518,7 +507,8 @@ def save_releases_to_json(database, generated):
     for release in releases:
         entries = database.entry_releases_from_release(release)
         if not entries:
-            if generated: continue
+            if generated:
+                continue
             if not generated:
                 # Only warn once (in the non-generated stage)
                 logging.warning(f"Empty release {release}; discarding")
@@ -554,7 +544,7 @@ def save_releases_to_json(database, generated):
                 if er.length:
                     length = f"{er.length//60}:{er.length%60:-02}"
 
-                year = er.entry.session.year ()
+                year = er.entry.session.year()
                 if year < 1930:
                     page = "1924-1929"
                 elif year < 1940:
@@ -724,9 +714,7 @@ def scrape_discogs(database):
 
     for release in database.all_releases():
         if release.discogs:
-            release_number = re.match(DISCOGS_REGEX, release.discogs).groups()[
-                0
-            ]
+            release_number = re.match(DISCOGS_REGEX, release.discogs).groups()[0]
 
             jdata = discogs.get(release_number)
 
@@ -865,17 +853,11 @@ def cmd_release_metadata(args):
 def cmd_duplicate_release(args):
     database = load_from_json()
 
-    src = database.get_release(
-        database.get_label(args.label_src), args.catalog_src
-    )
-    dest = database.get_release(
-        database.get_label(args.label_dest), args.catalog_dest
-    )
+    src = database.get_release(database.get_label(args.label_src), args.catalog_src)
+    dest = database.get_release(database.get_label(args.label_dest), args.catalog_dest)
 
     src_entries = database.entry_releases_from_release(src)
-    dest_releases = [
-        er.release for er in database.entry_releases_from_release(dest)
-    ]
+    dest_releases = [er.release for er in database.entry_releases_from_release(dest)]
 
     for src_er in src_entries:
         if src_er.release in dest_releases:
@@ -900,9 +882,7 @@ def cmd_duplicate_release(args):
 def cmd_rename_release(args):
     database = load_from_json()
 
-    release = database.get_release(
-        database.get_label(args.label_src), args.catalog_src
-    )
+    release = database.get_release(database.get_label(args.label_src), args.catalog_src)
 
     database.rename_release(
         release, database.get_label(args.label_dest), args.catalog_dest
@@ -926,9 +906,7 @@ def cmd_dump_release(args):
 
     database = load_from_json()
 
-    release = database.get_release(
-        database.get_label(args.label_src), args.catalog_src
-    )
+    release = database.get_release(database.get_label(args.label_src), args.catalog_src)
     entries = database.entry_releases_from_release(release)
     entries.sort(key=lambda er: na(er.entry.index))
 
@@ -950,7 +928,9 @@ def cmd_dump_release(args):
 
 def cmd_list_releases(args):
     database = load_from_json()
-    releases = sorted(database.all_releases(), key=lambda release: (release.label, release.catalog))
+    releases = sorted(
+        database.all_releases(), key=lambda release: (release.label, release.catalog)
+    )
     for release in releases:
         print(f"{release.label.label}\t{release.catalog}")
 
@@ -968,7 +948,15 @@ def cmd_add_streaming(args):
     entries = find_entries(args, database)
 
     for entry in entries:
-        er = EntryRelease(entry=entry, release=release, disc=None, track=None, title=None, length=None, flags="")
+        er = EntryRelease(
+            entry=entry,
+            release=release,
+            disc=None,
+            track=None,
+            title=None,
+            length=None,
+            flags="",
+        )
         database.add_entry_release(er)
 
     save_to_json(database)
@@ -1016,7 +1004,7 @@ def cmd_import_csv(args):
             er = EntryRelease(
                 entry=entry,
                 release=release,
-                flags=row.get("flags",""),
+                flags=row.get("flags", ""),
                 disc=disc,
                 track=track,
                 title=row.get("title"),
@@ -1119,9 +1107,7 @@ def main():
     sp_import_csv.set_defaults(func=cmd_import_csv)
     sp_import_csv.add_argument("path")
 
-    sp_list_releases_release = subparsers.add_parser(
-        "list_releases"
-    )
+    sp_list_releases_release = subparsers.add_parser("list_releases")
     sp_list_releases_release.set_defaults(func=cmd_list_releases)
 
     args = parser.parse_args()
