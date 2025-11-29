@@ -641,7 +641,7 @@ def save_to_json(database):
             json_entries = []
             suite_title = None
             for entry in database.get_entries(session):
-                if entry.suite_title != suite_title:
+                if entry.type == "take" and entry.suite_title != suite_title:
                     suite_title = entry.suite_title
                     json_entries.append({"type": "suite", "suite_title": suite_title})
                 json_entry = {"type": entry.type}
