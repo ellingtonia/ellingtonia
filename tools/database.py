@@ -17,6 +17,8 @@ from dataclasses import dataclass
 # Last bit: prevent accidentally including query string
 DISCOGS_REGEX = "https://www.discogs.com/release/([0-9]+)-[^?]*"
 
+SUITES = [line.strip() for line in (open("crud/suites.txt"))]
+
 json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
 json_releases_path = json_prefix + "/releases.json"
@@ -306,6 +308,7 @@ def load_from_json():
 
         for jsession in json_sessions:
             suite_title = None
+            detected_suite = False
             if not "date" in jsession:
                 raise RuntimeError(f"Missing date, previous session was {old_date}")
 
@@ -343,6 +346,7 @@ def load_from_json():
             entries = []
             for jentry in jsession["entries"]:
                 assert "type" in jentry, date_str
+
                 if jentry["type"] == "artists":
                     entry = Entry(
                         type="artists",
@@ -376,10 +380,37 @@ def load_from_json():
                     index = jentry["index"]
 
                     title = jentry["title"]
+                    if jentry["title"] in SUITES:
+                        suite_title = jentry["title"]
+                        detected_suite = True
+                        assert len(jentry["releases"]) == 0, (suite_title, sess.date)
+                        assert (jentry["desor"]) is None, (suite_title, sess.date)
+                        continue
 
                     # Tidy up whitespace issues. Annoyingly hugo doesn't cope
                     # well with leading nbsps, so we add a minus.
                     title.replace("\u00a0", "&nbsp;")
+
+                    match = re.match("^-(&nbsp;)+([^ ]+) (.*)", title)
+                    if detected_suite and match:
+                        detected_suite = True
+                        print(sess.date, suite_title, match.groups())
+                        suite_index = (match.groups()[1])
+                        try:
+                            suite_index = int(float(suite_index))
+                        except ValueError:
+                            pass
+                        title = match.groups()[2]
+                    else:
+                        if detected_suite:
+                            detected_suite = False
+                            suite_title = None
+                        suite_index = (
+                            jentry["suite_index"]
+                            if "suite_index" in jentry
+                            else None
+                        )
+
                     n_leading_whitespace = len(title) - len(title.lstrip())
                     if n_leading_whitespace > 0:
                         title = "-" + "&nbsp;" * n_leading_whitespace + title.lstrip()
@@ -396,10 +427,6 @@ def load_from_json():
                         # Check for duplicates
                         assert index not in all_indices, (index, title)
                         all_indices.add(index)
-
-                    suite_index = (
-                        int(jentry["suite_index"]) if "suite_index" in jentry else None
-                    )
 
                     entry = Entry(
                         type="take",
@@ -641,7 +668,7 @@ def save_to_json(database):
             json_entries = []
             suite_title = None
             for entry in database.get_entries(session):
-                if entry.suite_title != suite_title:
+                if entry.type == "take" and entry.suite_title != suite_title:
                     suite_title = entry.suite_title
                     json_entries.append({"type": "suite", "suite_title": suite_title})
                 json_entry = {"type": entry.type}
