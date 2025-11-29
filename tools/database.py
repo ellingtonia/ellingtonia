@@ -56,6 +56,9 @@ class Entry:
     content: str = None
 
     title: str = None
+    suite: str = None
+    suite_title: str = None
+    suite_index: int = None
     index: str = None
     matrix: str = None
     desor: str = None
@@ -301,7 +304,8 @@ def load_from_json():
 
         old_date = None
 
-        for session_idx, jsession in enumerate(json_sessions):
+        for jsession in json_sessions:
+            suite_title = None
             if not "date" in jsession:
                 raise RuntimeError(f"Missing date, previous session was {old_date}")
 
@@ -335,14 +339,9 @@ def load_from_json():
                 json_filename=os.path.basename(session_path),
                 date=date,
             )
-            if sess.location == "30th Street Columbia Studio, New York City, NY":
-                sess.description = (
-                    "Columbia Recording Session, 30th Street Columbia Studio"
-                )
-                sess.location = "New York City, NY"
 
             entries = []
-            for entry_idx, jentry in enumerate(jsession["entries"]):
+            for jentry in jsession["entries"]:
                 assert "type" in jentry, date_str
                 if jentry["type"] == "artists":
                     entry = Entry(
@@ -360,6 +359,18 @@ def load_from_json():
                         content = jentry["content"]
                     entry = Entry(type="note", content=content)
                     entries.append(entry)
+
+                elif jentry["type"] == "suite":
+                    suite_title = jentry["suite_title"]
+                    # We deliberately don't append this to the list of entries.
+                    # Instead we re-insert "suite" entries when generating
+                    # yearly json files and release data.
+                    # It's overall simpler to keep the python database clean and
+                    # not have entries for "begin suite" (which don't mean
+                    # anything on their own). But for actual formatting (and to
+                    # avoid repetition) it's useful to have them in the json.
+                    # Note that go templates are very limited and it's hard to
+                    # do "is this entry in the same suite".
 
                 elif jentry["type"] == "take":
                     index = jentry["index"]
@@ -386,11 +397,17 @@ def load_from_json():
                         assert index not in all_indices, (index, title)
                         all_indices.add(index)
 
+                    suite_index = (
+                        int(jentry["suite_index"]) if "suite_index" in jentry else None
+                    )
+
                     entry = Entry(
                         type="take",
                         index=index,
                         matrix=jentry["matrix"],
                         title=title,
+                        suite_title=suite_title,
+                        suite_index=suite_index,
                         desor=jentry["desor"],
                     )
 
@@ -428,7 +445,7 @@ def load_from_json():
                                 flags = None
                             else:
                                 for flag in flags:
-                                    assert flag in "*◊‡", flag
+                                    assert flag in "*‡", flag
 
                         er_title = release_dict.get("title")
                         if er_title == "":
@@ -446,6 +463,8 @@ def load_from_json():
                         )
                         database.add_entry_release(er)
                     entries.append(entry)
+                else:
+                    raise RuntimeError(f"Unrecognised entry type: {jentry["type"]}")
 
             database.add_session(sess, entries)
 
@@ -529,9 +548,16 @@ def save_releases_to_json(database, generated):
             json_release["release_date"] = release.release_date
 
         if generated:
-            json_release["takes"] = []
+            json_release["entries"] = []
+            json_release["n_takes"] = len(entries)
+            suite_title = None
 
             for er in entries:
+                if er.entry.suite_title != suite_title:
+                    suite_title = er.entry.suite_title
+                    json_release["entries"].append(
+                        {"type": "suite", "suite_title": suite_title}
+                    )
                 disc_track = None
                 if er.disc and er.track:
                     disc_track = f"{er.disc}-{er.track}"
@@ -559,6 +585,7 @@ def save_releases_to_json(database, generated):
                     page = "1970-1974"
 
                 json_entry = {
+                    "type": "take",
                     "title": er.entry.title,
                     "flags": er.flags,
                     "index": er.entry.index,
@@ -568,11 +595,13 @@ def save_releases_to_json(database, generated):
                     "as_title": er.title,
                     "disc_track": disc_track,
                     "length": length,
+                    "suite_title": er.entry.suite_title,
+                    "suite_index": er.entry.suite_index,
                 }
                 for key in ENTRY_LINKS:
                     json_entry[key] = getattr(er.entry, key)
 
-                json_release["takes"].append(json_entry)
+                json_release["entries"].append(json_entry)
 
         # Skip empty entries
         if json_release:
@@ -610,18 +639,27 @@ def save_to_json(database):
         json_sessions = []
         for session in sessions:
             json_entries = []
+            suite_title = None
             for entry in database.get_entries(session):
+                if entry.suite_title != suite_title:
+                    suite_title = entry.suite_title
+                    json_entries.append({"type": "suite", "suite_title": suite_title})
                 json_entry = {"type": entry.type}
                 if entry.type == "artists":
                     json_entry["value"] = entry.value
                 elif entry.type == "note":
                     json_entry["content"] = entry.content
+                elif entry.type == "suite":
+                    json_entry["suite_title"] = entry.suite_title
                 elif entry.type == "take":
                     json_entry["index"] = entry.index
                     json_entry["matrix"] = entry.matrix
                     json_entry["title"] = entry.title
                     json_entry["releases"] = []
                     json_entry["desor"] = entry.desor
+
+                    if entry.suite_index:
+                        json_entry["suite_index"] = entry.suite_index
 
                     for key in ENTRY_LINKS:
                         if value := getattr(entry, key):

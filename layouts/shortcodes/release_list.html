@@ -58,7 +58,7 @@ case tracks are listed in the order in they were recorded.</p>
       <p>Released {{ $release_data.release_date }}</p>
     {{ end }}
 
-    <p>No. entries: {{ len $release_data.takes }}</p>
+    <p>No. entries: {{ $release_data.n_takes }}</p>
 
     {{ if $release_data.note }}
       <div>
@@ -75,36 +75,47 @@ case tracks are listed in the order in they were recorded.</p>
         <th>Title</th>
         <th>New DESOR</th>
       </tr>
-      {{ range $take := $release_data.takes }}
-        <tr class="take">
-          {{ $page := ref $.Page (printf "discography/%s" $take.page) }}
-          <td class="index"><a href="{{ $page }}#take-{{ $take.index }}">{{ $take.index }}</a></td>
-          <td>{{ $take.matrix }}</td>
-          <td>
-            {{ if $take.disc_track }}
-              <span class="detail">({{ $take.disc_track }})</span>
-            {{ end }}
+      {{ range $entry := $release_data.entries }}
+        {{ if eq .type "suite" }}
+          <tr class="suite">
+              <td colspan="2"></td>
+              <td>
+                <span class="suite">{{ $entry.suite_title }} </span>
+              </td>
+          </tr>
+        {{ else if eq .type "take" }}
+          <tr class="take">
+            {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
+            <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
+            <td>{{ $entry.matrix }}</td>
+            <td>
+              {{ if $entry.disc_track }}
+                <span class="detail">({{ $entry.disc_track }})</span>
+              {{ end }}
 
-            {{ $.Page.RenderString $take.title -}}
+              <span class="suite_details">{{ $entry.suite_index }} </span>
 
-            {{ if $take.as_title }}
-              <span class="detail">(as {{ $take.as_title }})</span>
-            {{ end }}
+              {{ $.Page.RenderString $entry.title -}}
 
-            {{- $take.flags }}
+              {{ if $entry.as_title }}
+                <span class="detail">(as {{ $entry.as_title }})</span>
+              {{ end }}
 
-            {{ if $take.length }}
-              <span class="detail">({{ $take.length }})</span>
-            {{ end }}
+              {{- $entry.flags }}
 
-            {{ range $link_data := $.Site.Params.entry_links }}
-              {{- if index $take $link_data.key -}}
-                <a href="{{ index $take $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+              {{ if $entry.length }}
+                <span class="detail">({{ $entry.length }})</span>
+              {{ end }}
+
+              {{ range $link_data := $.Site.Params.entry_links }}
+                {{- if index $entry $link_data.key -}}
+                  <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+                {{- end -}}
               {{- end -}}
-            {{- end -}}
-          </td>
-          <td>{{ $take.desor }}</td>
-        </tr>
+            </td>
+            <td>{{ $entry.desor }}</td>
+          </tr>
+        {{ end }}
       {{ end }}
     </table>
   {{ end }}

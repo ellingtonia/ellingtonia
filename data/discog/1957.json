@@ -6799,46 +6799,47 @@
                 "desor": "DE5745a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "The Perfume Suite"
             },
             {
                 "type": "take",
                 "index": "57-12-02-002",
                 "matrix": "CO59458-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura",
+                "title": "Coloratura",
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "COL 469139 2"
+                        "catalog": "COL 469139 2",
+                        "track": 14
                     },
                     {
                         "label": "Co",
                         "catalog": "FC 38028"
                     }
                 ],
-                "desor": "DE5745b"
+                "desor": "DE5745b",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "57-12-02-003",
                 "matrix": "CO59459-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade",
+                "title": "Balcony Serenade",
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "COL 469139 2"
+                        "catalog": "COL 469139 2",
+                        "track": 11,
+                        "title": "Under The Balcony"
                     },
                     {
                         "label": "Co",
                         "catalog": "FC 38028"
                     }
                 ],
-                "desor": "DE5745c"
+                "desor": "DE5745c",
+                "suite_index": 1
             }
         ]
     },
@@ -6883,35 +6884,33 @@
                 "desor": "DE5746b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "The Perfume Suite"
             },
             {
                 "type": "take",
                 "index": "57-12-09-003",
                 "matrix": "CO59487-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange Feeling - vJG",
+                "title": "Strange Feeling - vJG",
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "COL 469139 2"
+                        "catalog": "COL 469139 2",
+                        "track": 12
                     },
                     {
                         "label": "Co",
                         "catalog": "FC 38028"
                     }
                 ],
-                "desor": "DE5746c"
+                "desor": "DE5746c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-12-09-004",
                 "matrix": "CO59488-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love",
+                "title": "Dancers In Love",
                 "releases": [
                     {
                         "label": "Co",
@@ -6923,14 +6922,16 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "COL 469139 2"
+                        "catalog": "COL 469139 2",
+                        "track": 13
                     },
                     {
                         "label": "Co",
                         "catalog": "FC 38028"
                     }
                 ],
-                "desor": "DE5746d"
+                "desor": "DE5746d",
+                "suite_index": 3
             }
         ]
     },

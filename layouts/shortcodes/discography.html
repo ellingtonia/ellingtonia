@@ -37,11 +37,18 @@
     </tr>
 
     {{ range $entry := .entries }}
-      {{ if eq .type "take" }}
+      {{ if eq .type "suite" }}
+        <tr class="suite">
+          <td colspan="2"></td>
+          <td colspan="4"> {{ $.Page.RenderString .suite_title }} </td>
+        </td>
+      {{ else if eq .type "take" }}
         <tr class="take" id="take-{{ .index }}">
           <td class="index"> {{ $entry.index }} </td>
           <td> {{ $entry.matrix }} </td>
-          <td> {{ htmlUnescape $entry.title | safeHTML }}
+          <td>
+            <span class="suite_details">{{ $entry.suite }} {{ $entry.suite_index }}</span>
+            {{ htmlUnescape $entry.title | safeHTML }}
             {{ range $link_data := $.Site.Params.entry_links }}
               {{- if index $entry $link_data.key -}}
               <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
