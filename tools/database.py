@@ -464,7 +464,7 @@ def load_from_json():
                         database.add_entry_release(er)
                     entries.append(entry)
                 else:
-                    raise RuntimeError(f"Unrecognised entry type: {jentry["type"]}")
+                    raise RuntimeError(f"Unrecognised entry type: {jentry['type']}")
 
             database.add_session(sess, entries)
 
