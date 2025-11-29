@@ -43,6 +43,12 @@ tr.artists td {
     padding-bottom: 10px;
 }
 
+tr.suite td {
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 tr.take td {
     vertical-align: top;
 }
@@ -70,5 +76,9 @@ ul.pure-menu-children {
 }
 
 a.discog_link {
+    font-size: 66%;
+}
+
+span.suite_details {
     font-size: 66%;
 }
