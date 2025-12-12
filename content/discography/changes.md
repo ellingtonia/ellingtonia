@@ -23,6 +23,7 @@ menu:
 * 1937
 * 1936
 * 1938
+* 1930/1931: fixes for Mood Indigo
 
 ## October 2025
 * 1929,30,32 further corrections
