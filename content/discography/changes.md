@@ -20,6 +20,7 @@ menu:
 * First releases are now indicated in bold type, rather than with a diamond
 * 1933
 * 1935: Fix 9 Jan 1935 session description.
+* 1937
 
 ## October 2025
 * 1929,30,32 further corrections
