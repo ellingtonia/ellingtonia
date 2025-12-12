@@ -6,6 +6,10 @@ menu:
     weight: 10
 ---
 
+## December 2025
+* Fixes to 1933-1938
+* 1971: Stanley Dance interview improvements.
+
 ## November 2025
 * Update Pathé label for 1925,26,28,29
 * Various smaller changes across many years (see GitHub)
@@ -18,13 +22,6 @@ menu:
 * Use "Rep" for "Reprise"
 * Fixed a large number of release catalogs (in particular restoring many spaces instead of minuses)
 * First releases are now indicated in bold type, rather than with a diamond
-* 1933
-* 1935: Fix 9 Jan 1935 session description.
-* 1937
-* 1936
-* 1938
-* 1930/1931: fixes for Mood Indigo
-* 1971: Stanley Dance interview improvements.
 
 ## October 2025
 * 1929,30,32 further corrections
