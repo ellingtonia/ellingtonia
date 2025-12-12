@@ -21,6 +21,7 @@ menu:
 * 1933
 * 1935: Fix 9 Jan 1935 session description.
 * 1937
+* 1936
 
 ## October 2025
 * 1929,30,32 further corrections
