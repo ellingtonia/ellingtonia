@@ -24,6 +24,7 @@ menu:
 * 1936
 * 1938
 * 1930/1931: fixes for Mood Indigo
+* 1971: Stanley Dance interview improvements.
 
 ## October 2025
 * 1929,30,32 further corrections
