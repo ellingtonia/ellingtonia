@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -21,7 +21,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8063"
+                        "catalog": "m8063",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -42,7 +43,7 @@
                 "type": "take",
                 "index": "38-01-13-002",
                 "matrix": "M714-1",
-                "title": "Black And Tan Fantasy - Part 1",
+                "title": "Prologue To Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "BMG",
@@ -50,7 +51,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8256"
+                        "catalog": "m8256",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -75,7 +77,7 @@
                 "type": "take",
                 "index": "38-01-13-003",
                 "matrix": "M715-1",
-                "title": "Black And Tan Fantasy - Part 2",
+                "title": "The New Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "BMG",
@@ -83,7 +85,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8063"
+                        "catalog": "m8063",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -106,7 +109,7 @@
             },
             {
                 "type": "note",
-                "content": "Black And Tan Fantasy was originally issued as Prologue To Black And Tan Fantasy (Part 1) and The New Black And Tan Fantasy (Part 2)"
+                "content": "Prologue To Black And Tan Fantasy and Black And Tan Fantasy are shown as Black And Tan Fantasy Part 1 and Part 2 on New DESOR."
             }
         ]
     },
@@ -144,7 +147,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "3985"
+                        "catalog": "v3985",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802a"
@@ -173,7 +177,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "3985"
+                        "catalog": "v3985",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802b"
@@ -186,7 +191,8 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "T-1003"
+                        "catalog": "T-1003",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -220,7 +226,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88220"
+                        "catalog": "88220",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -252,12 +259,17 @@
                         "catalog": "C2K 46995"
                     },
                     {
+                        "label": "Ep",
+                        "catalog": "LN 3237"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
                     {
                         "label": "Vo",
-                        "catalog": "3960"
+                        "catalog": "v3960",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802e"
@@ -299,7 +311,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "3948"
+                        "catalog": "v3948",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802f"
@@ -328,7 +341,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "3948"
+                        "catalog": "v3948",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802g"
@@ -344,7 +358,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Joe Nanton(tb); Barney Bigard(ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Unk(xy)."
+                "value": "Cootie Williams(t); Joe Nanton(tb); Barney Bigard(ts); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(ty); Unk(vib)."
             },
             {
                 "type": "take",
@@ -354,7 +368,8 @@
                 "releases": [
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802xa"
@@ -367,7 +382,8 @@
                 "releases": [
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802xb"
@@ -380,7 +396,8 @@
                 "releases": [
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802xc"
@@ -393,7 +410,8 @@
                 "releases": [
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802xd"
@@ -406,14 +424,15 @@
                 "releases": [
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802xe"
             },
             {
                 "type": "artists",
-                "value": "Joe Nanton(tb) and Unk(xy) out."
+                "value": "Joe Nanton(tb) and Unk(vib) out. Add  Fred Guy(g)."
             },
             {
                 "type": "take",
@@ -423,7 +442,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88220"
+                        "catalog": "88220",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -460,7 +480,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "3960"
+                        "catalog": "v3960",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3802i"
@@ -479,13 +500,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(ts); Johnny Hodges(as); Otto Hardwick(ss,as); Harry Carney(bar,as); Duke Ellington(p); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
+                "value": "Arthur Whetsel, Cootie Williams, Rex Stewart, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(ts); Johnny Hodges(as); Otto Hardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "38-02-02-001",
                 "matrix": "M751-1",
-                "title": "Ridin' On A Blue Note",
+                "title": "Riding On A Blue Note",
                 "releases": [
                     {
                         "label": "BMG",
@@ -493,7 +514,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8083"
+                        "catalog": "m8083",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -514,7 +536,7 @@
                 "type": "take",
                 "index": "38-02-02-002",
                 "matrix": "M751-2",
-                "title": "Ridin' On A Blue Note",
+                "title": "Riding On A Blue Note",
                 "releases": [
                     {
                         "label": "CBS",
@@ -534,7 +556,8 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23003"
+                        "catalog": "RTE 23003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3803b"
@@ -551,7 +574,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8083"
+                        "catalog": "m8083",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -584,7 +608,7 @@
                 "type": "take",
                 "index": "38-02-02-004",
                 "matrix": "M753-1",
-                "title": "Gal From Joe's",
+                "title": "The Gal From Joe's",
                 "releases": [
                     {
                         "label": "BMG",
@@ -592,7 +616,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8108"
+                        "catalog": "m8108",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -625,11 +650,16 @@
                 "type": "take",
                 "index": "38-02-02-005",
                 "matrix": "M753-2",
-                "title": "Gal From Joe's",
+                "title": "The Gal From Joe's",
                 "releases": [
                     {
                         "label": "CBS",
                         "catalog": "88220"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "CL 2048",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -652,7 +682,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar,as); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Hayes Alvis(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -674,7 +704,8 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23003"
+                        "catalog": "RTE 23003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3804a"
@@ -687,7 +718,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8093"
+                        "catalog": "m8093",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -724,7 +756,8 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23003"
+                        "catalog": "RTE 23003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3804c"
@@ -741,7 +774,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8093"
+                        "catalog": "m8093",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -757,6 +791,10 @@
                     }
                 ],
                 "desor": "DE3804d"
+            },
+            {
+                "type": "note",
+                "content": "The first title was copyrighted and published as \"If You Were In My Place (What Would You Do?).\""
             }
         ]
     },
@@ -779,7 +817,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "MoJ",
@@ -799,6 +838,10 @@
                 "title": "Blues In B Flat",
                 "releases": [],
                 "desor": "DE3804f"
+            },
+            {
+                "type": "note",
+                "content": "The date of this recording is uncertain; for details, see [TDWAW](https://tdwaw.ellingtonweb.ca/TDWAW1.html). Leonard Feather’s acetate might have been cut during another of his trips to the U.S."
             }
         ]
     },
@@ -835,8 +878,9 @@
                         "title": "I Let A Song Go Out Of My Heart"
                     },
                     {
-                        "label": "Co",
-                        "catalog": "DO-2137"
+                        "label": "Co(Au)",
+                        "catalog": "DO-2137",
+                        "first_issue": true
                     },
                     {
                         "label": "MoJ",
@@ -865,7 +909,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8108"
+                        "catalog": "m8108",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -883,6 +928,10 @@
                 "desor": "DE3805b"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) out."
+            },
+            {
                 "type": "take",
                 "index": "38-03-03-003",
                 "matrix": "M773-1",
@@ -894,7 +943,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8099"
+                        "catalog": "m8099",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -947,7 +997,8 @@
                     },
                     {
                         "label": "Par(E)",
-                        "catalog": "D.P. 266"
+                        "catalog": "D.P. 266",
+                        "first_issue": true
                     },
                     {
                         "label": "Ra",
@@ -957,10 +1008,14 @@
                 "desor": "DE3805d"
             },
             {
+                "type": "artists",
+                "value": "Add Duke Ellington(p)."
+            },
+            {
                 "type": "take",
                 "index": "38-03-03-005",
                 "matrix": "M774-1",
-                "title": "Carnival In Caroline",
+                "title": "Carnival In Caroline - vIA",
                 "releases": [
                     {
                         "label": "BMG",
@@ -968,7 +1023,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8099"
+                        "catalog": "m8099",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -995,7 +1051,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Freddie Jenkins(t); Cootie Williams(t,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as,v); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Hayes Alvis(sb,v); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Rex Stewart, Freddie Jenkins(t); Cootie Williams(t,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar,v); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Hayes Alvis(sb,v); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1009,7 +1065,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1030,7 +1087,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1047,7 +1105,8 @@
                 "releases": [
                     {
                         "label": "BFR",
-                        "catalog": "BCD-16340"
+                        "catalog": "BCD-16340",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1064,7 +1123,8 @@
                 "releases": [
                     {
                         "label": "BFR",
-                        "catalog": "BCD-16340"
+                        "catalog": "BCD-16340",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1081,7 +1141,8 @@
                 "releases": [
                     {
                         "label": "BFR",
-                        "catalog": "BCD-16340"
+                        "catalog": "BCD-16340",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1102,7 +1163,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1119,7 +1181,8 @@
                 "releases": [
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1136,7 +1199,8 @@
                 "releases": [
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1153,7 +1217,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "103 8415"
+                        "catalog": "103 8415",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3806i"
@@ -1168,7 +1233,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as,ss); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Mary McHugh(v)."
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Mary McHugh(v)."
             },
             {
                 "type": "take",
@@ -1194,7 +1259,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4115"
+                        "catalog": "v4115B",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3807a"
@@ -1223,7 +1289,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4046"
+                        "catalog": "v4046",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3807b"
@@ -1252,7 +1319,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4046"
+                        "catalog": "v4046",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3807c"
@@ -1281,10 +1349,15 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4115"
+                        "catalog": "v4115A",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3807d"
+            },
+            {
+                "type": "note",
+                "content": "The 78 rpm Vocalion 4115 is peculiar for its bearing side designations."
             }
         ]
     },
@@ -1296,7 +1369,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Jerry Kruger(v)."
+                "value": "Cootie Williams(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Jerry Kruger(v)."
             },
             {
                 "type": "take",
@@ -1326,7 +1399,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4086"
+                        "catalog": "v4086",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3808a"
@@ -1335,7 +1409,7 @@
                 "type": "take",
                 "index": "38-04-04-002",
                 "matrix": "M802-1",
-                "title": "Swingtime In Honolulu- vJK",
+                "title": "Swingtime In Honolulu - vJK",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1355,7 +1429,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4061"
+                        "catalog": "v4061",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3808b"
@@ -1384,7 +1459,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4061"
+                        "catalog": "v4061",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3808c"
@@ -1417,7 +1493,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4086"
+                        "catalog": "v4086",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3808d"
@@ -1432,7 +1509,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart, Freddie Jenkins (t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart, Freddie Jenkins (t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1442,7 +1519,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8131"
+                        "catalog": "m8131",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1475,7 +1553,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8131"
+                        "catalog": "m8131",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1508,7 +1587,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8169"
+                        "catalog": "m8169",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -1524,18 +1604,22 @@
                     }
                 ],
                 "desor": "DE3809c"
+            },
+            {
+                "type": "note",
+                "content": "The second title was copyrighted and published as \"I'm Slappin' Seventh Avenue (With The Sole Of My Shoe).\""
             }
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "17 April 1938",
         "description": "CBS broadcast, Cotton Club",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(ts); Johnny Hodges, Otto Hardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1545,7 +1629,8 @@
                 "releases": [
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1566,7 +1651,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1583,11 +1669,21 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "103 8415"
+                        "catalog": "103 8415",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3810c"
-            },
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON GROUP",
+        "location": null,
+        "date": "17 April 1938",
+        "same_session": true,
+        "description": null,
+        "entries": [
             {
                 "type": "artists",
                 "value": "Cootie Williams(t); Joe Nanton(tb); Johnny Hodges(ss); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
@@ -1600,7 +1696,8 @@
                 "releases": [
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1608,6 +1705,10 @@
                     }
                 ],
                 "desor": "DE3810d"
+            },
+            {
+                "type": "note",
+                "content": "The small group is announced on-air as \"Cootie Williams and his Little Jam Band within the Duke’s organization.\""
             }
         ]
     },
@@ -1619,7 +1720,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1658,7 +1759,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1684,11 +1786,12 @@
                 "type": "take",
                 "index": "38-04-24-003",
                 "matrix": null,
-                "title": "Demi-Tasse",
+                "title": "Demi-Tasse [Ev'ah Day]",
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1696,6 +1799,10 @@
                     }
                 ],
                 "desor": "DE3811a"
+            },
+            {
+                "type": "note",
+                "content": "The small group is announced on-air as \"A Group of Duke’s Men.\""
             }
         ]
     },
@@ -1718,7 +1825,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1735,7 +1843,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1754,14 +1863,19 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "38-04-29-001",
                 "matrix": null,
-                "title": "Chatterbox",
+                "title": "Chatter-Box",
                 "releases": [
+                    {
+                        "label": "El",
+                        "catalog": "'97",
+                        "first_issue": true
+                    },
                     {
                         "label": "JU",
                         "catalog": "JUCD 2069"
@@ -1803,7 +1917,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1817,7 +1931,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1838,7 +1953,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1851,11 +1967,12 @@
                 "type": "take",
                 "index": "38-05-01-003",
                 "matrix": null,
-                "title": "Solitude",
+                "title": "Solitude - vIA",
                 "releases": [
                     {
                         "label": "BFR",
-                        "catalog": "BCD-16340"
+                        "catalog": "BCD-16340",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1868,7 +1985,7 @@
                 "type": "take",
                 "index": "38-05-01-004",
                 "matrix": null,
-                "title": "¬ Gal From Joe's",
+                "title": "¬ The Gal From Joe's",
                 "releases": [
                     {
                         "label": "BFR",
@@ -1876,7 +1993,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1889,7 +2007,7 @@
                 "type": "take",
                 "index": "38-05-01-005",
                 "matrix": null,
-                "title": "_| Ridin' On A Blue Note",
+                "title": "_| Riding On A Blue Note",
                 "releases": [
                     {
                         "label": "BFR",
@@ -1897,7 +2015,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1918,7 +2037,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1937,7 +2057,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1947,7 +2067,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -1968,7 +2089,8 @@
                 "releases": [
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1002"
+                        "catalog": "MLP-1002",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1987,7 +2109,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2001,7 +2123,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2009,6 +2132,10 @@
                     }
                 ],
                 "desor": "DE3816b"
+            },
+            {
+                "type": "artists",
+                "value": "Johnny Hodges, Otto Hardwick out."
             },
             {
                 "type": "take",
@@ -2022,7 +2149,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2030,6 +2158,10 @@
                     }
                 ],
                 "desor": "DE3816c"
+            },
+            {
+                "type": "artists",
+                "value": "Add Johnny Hodges(cl,ss,as), Otto Hardwick(cl,as)."
             },
             {
                 "type": "take",
@@ -2043,7 +2175,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "12"
+                        "catalog": "12",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2064,7 +2197,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2085,7 +2219,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2097,7 +2232,7 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON GROUP",
+        "group": "DUKE ELLINGTON JAM BAND",
         "location": null,
         "date": "15 May 1938",
         "same_session": true,
@@ -2111,7 +2246,7 @@
                 "type": "take",
                 "index": "38-05-15-006",
                 "matrix": null,
-                "title": "Demi-Tasse",
+                "title": "Demi-Tasse [Ev'ah Day]",
                 "releases": [
                     {
                         "label": "BFR",
@@ -2119,7 +2254,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2139,7 +2275,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "As before."
+                "value": "As before, but Barney Bigard(ts); Otto Hardwick, Johnny Hodges(as); Harry Carney(bar)."
             },
             {
                 "type": "take",
@@ -2153,7 +2289,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2172,17 +2309,18 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
                 "type": "take",
                 "index": "38-05-22-001",
                 "matrix": null,
-                "title": "East St. Louis Toodle-O (theme0",
+                "title": "East St. Louis Toodle-O (theme)",
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -2203,7 +2341,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -2224,7 +2363,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -2245,7 +2385,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -2266,7 +2407,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -2287,7 +2429,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -2308,7 +2451,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     },
                     {
                         "label": "Mx",
@@ -2331,7 +2475,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2345,7 +2489,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2366,7 +2511,8 @@
                     },
                     {
                         "label": "JA",
-                        "catalog": "13"
+                        "catalog": "13",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2374,6 +2520,10 @@
                     }
                 ],
                 "desor": "DE3818b"
+            },
+            {
+                "type": "note",
+                "content": "Prelude in C Sharp Minor - Sergej Rachmaninov, Op. 3, No. 2."
             }
         ]
     },
@@ -2385,7 +2535,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2395,7 +2545,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8168"
+                        "catalog": "m8168",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2415,12 +2566,21 @@
             {
                 "type": "take",
                 "index": "38-06-07-002",
+                "matrix": "M835-2",
+                "title": "When My Sugar Walks Down The Street - vIA",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "38-06-07-003",
                 "matrix": "M832-1",
                 "title": "You Gave Me The Gate - vIA",
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8169"
+                        "catalog": "m8169",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2439,7 +2599,7 @@
             },
             {
                 "type": "take",
-                "index": "38-06-07-003",
+                "index": "38-06-07-004",
                 "matrix": "M833-1",
                 "title": "Rose Of The Rio Grande - vIA",
                 "releases": [
@@ -2449,7 +2609,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8186"
+                        "catalog": "m8186",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2468,7 +2629,7 @@
             },
             {
                 "type": "take",
-                "index": "38-06-07-004",
+                "index": "38-06-07-005",
                 "matrix": "M833-2",
                 "title": "Rose Of The Rio Grande - vIA",
                 "releases": [
@@ -2486,18 +2647,19 @@
                     },
                     {
                         "label": "Sw",
-                        "catalog": "327"
+                        "catalog": "327",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3819c"
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(tt instead of p)."
+                "value": "Barney Bigard, Otto Hardwick, Johnny Hodges out. Duke Ellington(hand drum instead of p)."
             },
             {
                 "type": "take",
-                "index": "38-06-07-005",
+                "index": "38-06-07-006",
                 "matrix": "M834-1",
                 "title": "Pyramid",
                 "releases": [
@@ -2507,7 +2669,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8168"
+                        "catalog": "m8168",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2534,7 +2697,7 @@
             },
             {
                 "type": "take",
-                "index": "38-06-07-006",
+                "index": "38-06-07-007",
                 "matrix": "M834-2",
                 "title": "Pyramid",
                 "releases": [
@@ -2544,7 +2707,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "36105"
+                        "catalog": "36105",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -2556,6 +2720,10 @@
                     }
                 ],
                 "desor": "DE3819e"
+            },
+            {
+                "type": "note",
+                "content": "The first and second titles were copyrighted and published as \"When My Sugar Walks Down The Street (All The Little Birdies Go Tweet-Tweet-Tweet).\" and \"You Gave Me The Gate (And I'm Swingin')\" respectively.\n\nOn most of Pyramid, Greer plays a tom-tom and Ellington an improvised hand drum, made out of a tambourine, without the tinkles, and a cardboard cylinder."
             }
         ]
     },
@@ -2567,13 +2735,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(as); Harry Carney(bar,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
                 "index": "38-06-20-001",
                 "matrix": "M846-1",
-                "title": "Stevedore's Serenade",
+                "title": "The Stevedore's Serenade",
                 "releases": [
                     {
                         "label": "BMG",
@@ -2581,7 +2749,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8174"
+                        "catalog": "m8174",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2606,11 +2775,12 @@
                 "type": "take",
                 "index": "38-06-20-002",
                 "matrix": "M847-2",
-                "title": "La De Doody Do - vIA",
+                "title": "La De Doody Doo - vIA",
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8174"
+                        "catalog": "m8174",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2643,7 +2813,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8200"
+                        "catalog": "m8200",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2672,7 +2843,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8186"
+                        "catalog": "m8186",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -2699,7 +2871,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as,ss); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Mary McHugh(v)."
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Mary McHugh(v)."
             },
             {
                 "type": "take",
@@ -2709,7 +2881,8 @@
                 "releases": [
                     {
                         "label": "BD",
-                        "catalog": "T-1003"
+                        "catalog": "T-1003",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -2750,7 +2923,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4213"
+                        "catalog": "v4213",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3821b"
@@ -2779,7 +2953,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4242"
+                        "catalog": "v4242",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3821c"
@@ -2808,7 +2983,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4213"
+                        "catalog": "v4213",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3821d"
@@ -2837,7 +3013,8 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3821e"
@@ -2866,7 +3043,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4242"
+                        "catalog": "v4242",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3821f"
@@ -2877,7 +3055,7 @@
         "group": "DUKE ELLINGTON ENSEMBLE",
         "location": "New York City, NY",
         "date": "25 June 1938",
-        "description": "CBS Broadcast \"Saturday Night Swing Club\" from Club Playhouse.",
+        "description": "CBS Broadcast \"Saturday Night Swing Club\" from CBS Playhouse #1.",
         "entries": [
             {
                 "type": "artists",
@@ -2891,7 +3069,8 @@
                 "releases": [
                     {
                         "label": "JP",
-                        "catalog": "LP 14"
+                        "catalog": "LP 14",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3822a"
@@ -2910,7 +3089,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as,ss); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Leon La Fell(v)."
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Leon La Fell(v)."
             },
             {
                 "type": "take",
@@ -2940,7 +3119,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4309"
+                        "catalog": "v4309",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3823a"
@@ -2973,7 +3153,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4335"
+                        "catalog": "v4335",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3823b"
@@ -3002,7 +3183,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4335"
+                        "catalog": "v4335",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3823c"
@@ -3031,7 +3213,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4309"
+                        "catalog": "v4309",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3823d"
@@ -3046,7 +3229,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Scat Powell(v)."
+                "value": "Cootie Williams(t); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d); Scat Powell(v)."
             },
             {
                 "type": "take",
@@ -3076,7 +3259,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4425"
+                        "catalog": "v4425",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3824a"
@@ -3109,7 +3293,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4324"
+                        "catalog": "v4324",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3824b"
@@ -3138,7 +3323,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4324"
+                        "catalog": "v4324",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3824c"
@@ -3167,7 +3353,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4425"
+                        "catalog": "v4425",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3824d"
@@ -3182,7 +3369,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(as); Harry Carney(bar,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Scat Powell(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Scat Powell(v)."
             },
             {
                 "type": "take",
@@ -3192,7 +3379,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8221"
+                        "catalog": "m8221",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3217,7 +3405,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8200"
+                        "catalog": "m8200",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3242,7 +3431,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8256"
+                        "catalog": "m8256",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3273,7 +3463,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3283,7 +3473,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8204"
+                        "catalog": "m8204",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3316,7 +3507,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8204"
+                        "catalog": "m8204",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3349,7 +3541,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "36279"
+                        "catalog": "36279",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -3382,7 +3575,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8221"
+                        "catalog": "m8221",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3411,7 +3605,7 @@
                 "type": "take",
                 "index": "38-08-09-005",
                 "matrix": "M886-1",
-                "title": "The Buffet Flat",
+                "title": "Buffet Flat",
                 "releases": [
                     {
                         "label": "BMG",
@@ -3419,7 +3613,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8231"
+                        "catalog": "m8231",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3471,12 +3666,17 @@
                         "catalog": "C2K 48835"
                     },
                     {
+                        "label": "Ep",
+                        "catalog": "LN 3237"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4386"
+                        "catalog": "v4386",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3827a"
@@ -3505,7 +3705,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4351"
+                        "catalog": "v4351",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3827b"
@@ -3514,7 +3715,7 @@
                 "type": "take",
                 "index": "38-08-24-003",
                 "matrix": "M889-1",
-                "title": "Jeep Is Jumpin'",
+                "title": "The Jeep Is Jumpin'",
                 "releases": [
                     {
                         "label": "CBS",
@@ -3529,12 +3730,17 @@
                         "catalog": "C2K 48835"
                     },
                     {
+                        "label": "Ep",
+                        "catalog": "LN 3237"
+                    },
+                    {
                         "label": "Ms",
                         "catalog": "MD7-235"
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4386"
+                        "catalog": "v4386",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3827c"
@@ -3563,7 +3769,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4351"
+                        "catalog": "v4351",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3827d"
@@ -3578,13 +3785,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(ss,as); Harry Carney(bar,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(ss,as); Harry Carney(as,bar); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "38-09-02-001",
                 "matrix": "M898-1",
-                "title": "Boy Meets Horn (Stew Burp)",
+                "title": "Twits And Twerps [Stew Burp]",
                 "releases": [
                     {
                         "label": "Ms",
@@ -3592,7 +3799,8 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3828a"
@@ -3601,7 +3809,7 @@
                 "type": "take",
                 "index": "38-09-02-002",
                 "matrix": "M898-2",
-                "title": "Boy Meets Horn (Stew Burp)",
+                "title": "Twits And Twerps [Stew Burp]",
                 "releases": [
                     {
                         "label": "CBS",
@@ -3613,7 +3821,8 @@
                     },
                     {
                         "label": "FDC",
-                        "catalog": "1003"
+                        "catalog": "1003",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -3621,6 +3830,10 @@
                     }
                 ],
                 "desor": "DE3828b"
+            },
+            {
+                "type": "artists",
+                "value": "Add Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -3642,7 +3855,8 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23003"
+                        "catalog": "RTE 23003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3828c"
@@ -3655,7 +3869,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "8231"
+                        "catalog": "m8231",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3679,6 +3894,10 @@
                     }
                 ],
                 "desor": "DE3828d"
+            },
+            {
+                "type": "note",
+                "content": "The first song was originally titled \"Stew Burp\", but the title was soon changed to \"Twits And Twerps.\" The remake, from 22 December 1938, was issued as \"Boy Meets Horn\"."
             }
         ]
     },
@@ -3696,18 +3915,32 @@
                 "type": "take",
                 "index": "38-10-06-001",
                 "matrix": null,
-                "title": "Demi-Tasse",
+                "title": "Demi-Tasse [Ev'ah Day]",
                 "releases": [
+                    {
+                        "label": "El",
+                        "catalog": "'97",
+                        "first_issue": true
+                    },
                     {
                         "label": "JU",
                         "catalog": "JUCD 2069"
                     }
                 ],
                 "desor": "DE3829a"
-            },
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": null,
+        "date": "06 October 1938",
+        "same_session": true,
+        "description": null,
+        "entries": [
             {
                 "type": "artists",
-                "value": "DUKE ELLINGTON AND HIS ORCHESTRA: Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as,ss); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -3715,6 +3948,11 @@
                 "matrix": null,
                 "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
+                    {
+                        "label": "El",
+                        "catalog": "'97",
+                        "first_issue": true
+                    },
                     {
                         "label": "JU",
                         "catalog": "JUCD 2069"
@@ -3772,7 +4010,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(ss,as); Harry Carney(bar,as); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3786,7 +4024,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8293"
+                        "catalog": "m8293",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3807,7 +4046,7 @@
                 "type": "take",
                 "index": "38-12-19-002",
                 "matrix": "M948-1",
-                "title": "T.T. On Toast",
+                "title": "T.T. On Toast [Lady In Doubt]",
                 "releases": [
                     {
                         "label": "BMG",
@@ -3823,7 +4062,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "37296"
+                        "catalog": "37296",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -3836,7 +4076,7 @@
                 "type": "take",
                 "index": "38-12-19-003",
                 "matrix": "M048-2",
-                "title": "T.T. On Toast",
+                "title": "T.T. On Toast [Lady In Doubt]",
                 "releases": [
                     {
                         "label": "CBS",
@@ -3844,7 +4084,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "37296"
+                        "catalog": "37296",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -3881,7 +4122,8 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23003"
+                        "catalog": "RTE 23003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3830d"
@@ -3898,7 +4140,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8293"
+                        "catalog": "m8293",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -3933,7 +4176,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as,ss); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3959,7 +4202,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4622"
+                        "catalog": "v4622",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3831a"
@@ -3988,7 +4232,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4573"
+                        "catalog": "v4573",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3831b"
@@ -4017,7 +4262,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4622"
+                        "catalog": "v4622",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3831c"
@@ -4046,10 +4292,15 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4573"
+                        "catalog": "v4573",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3831d"
+            },
+            {
+                "type": "note",
+                "content": "The third selection was copyrighted and published as \"I’m Riding On The Moon And Dancing On The Stars.\""
             }
         ]
     },
@@ -4061,7 +4312,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(cl,as,bsax); Harry Carney(bar,cl); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Cootie Williams(t); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(cl,as,bsx); Harry Carney(cl,bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4082,6 +4333,10 @@
                         "catalog": "C2K 48835"
                     },
                     {
+                        "label": "Ep",
+                        "catalog": "LN 3237"
+                    },
+                    {
                         "label": "FDC",
                         "catalog": "1003"
                     },
@@ -4095,7 +4350,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4574"
+                        "catalog": "v4574",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3832a"
@@ -4128,7 +4384,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4574"
+                        "catalog": "v4574",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3832b"
@@ -4142,6 +4399,11 @@
                     {
                         "label": "CBS",
                         "catalog": "88451"
+                    },
+                    {
+                        "label": "Ep",
+                        "catalog": "LN 3237",
+                        "first_issue": true
                     },
                     {
                         "label": "MJ",
@@ -4182,7 +4444,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4636"
+                        "catalog": "v4636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3832d"
@@ -4211,7 +4474,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "4636"
+                        "catalog": "v4636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3832e"
@@ -4222,11 +4486,11 @@
         "group": "DUKE ELLINGTON GROUP",
         "location": "New York City, NY",
         "date": "21 December 1938",
-        "description": "WNEW broadcast \"Martin Block's Make Believe Ballroom.\"",
+        "description": "WNEW broadcast \"Make Believe Ballroom Wednesday Night Jam Session.\"",
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(as); Otto Hardwick(cl,as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Cootie Williams(t); Lawrence Brown(tb); Johnny Hodges(ss,as); Harry Carney(bar); Duke Ellington(p); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4280,7 +4544,7 @@
                 "type": "take",
                 "index": "38-12-21-012",
                 "matrix": null,
-                "title": "Jeep Is Jumpin'",
+                "title": "The Jeep Is Jumpin'",
                 "releases": [],
                 "desor": "DE3833c"
             },
@@ -4291,14 +4555,14 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
         "location": "New York City, NY",
         "date": "22 December 1938",
         "description": "ARC-Brunswick recording session",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones(t); Lawrence Brown(tb); Barney Bigard(cl); Harry Carney(bcl); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Wallace Jones(t); Lawrence Brown(tb); Barney Bigard(cl); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4312,7 +4576,8 @@
                     },
                     {
                         "label": "Co(Au)",
-                        "catalog": "DO-2165"
+                        "catalog": "DO-2165",
+                        "first_issue": true
                     },
                     {
                         "label": "FDC",
@@ -4341,7 +4606,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8297"
+                        "catalog": "m8297",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -4368,7 +4634,7 @@
             },
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(cl,as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(ss,as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4382,7 +4648,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8306"
+                        "catalog": "m8306",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -4416,10 +4683,14 @@
                 "desor": "DE3834c"
             },
             {
+                "type": "artists",
+                "value": "Duke Ellington(p) out."
+            },
+            {
                 "type": "take",
                 "index": "38-12-22-004",
                 "matrix": "M960-1",
-                "title": "Boy Meets Horn",
+                "title": "Boy Meets Horn [Twits And Therps]",
                 "releases": [
                     {
                         "label": "BMG",
@@ -4427,7 +4698,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8306"
+                        "catalog": "m8306",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -4445,6 +4717,10 @@
                 "desor": "DE3834d"
             },
             {
+                "type": "artists",
+                "value": "Add Duke Ellington(p), Unk(claps)."
+            },
+            {
                 "type": "take",
                 "index": "38-12-22-005",
                 "matrix": "M961-1",
@@ -4456,7 +4732,8 @@
                     },
                     {
                         "label": "Br",
-                        "catalog": "8297"
+                        "catalog": "m8297",
+                        "first_issue": true
                     },
                     {
                         "label": "CBS",
@@ -4480,6 +4757,10 @@
                     }
                 ],
                 "desor": "DE3834e"
+            },
+            {
+                "type": "artists",
+                "value": "Unk(claps) out."
             },
             {
                 "type": "take",
@@ -4509,7 +4790,8 @@
                     },
                     {
                         "label": "Par(Sw)",
-                        "catalog": "PZ 11304"
+                        "catalog": "PZ 11304",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3834f"
