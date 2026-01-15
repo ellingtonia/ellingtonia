@@ -3,11 +3,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Boston, MA",
         "date": "09 January 1940",
-        "description": "NBC broadcast from Southlands Theatre Restaurant",
+        "description": "NBC broadcast from Southland Theatre Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d,ch); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -17,7 +17,8 @@
                 "releases": [
                     {
                         "label": "CC",
-                        "catalog": "16"
+                        "catalog": "16",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -54,7 +55,8 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 101"
+                        "catalog": "PRV 101",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -71,7 +73,8 @@
                 "releases": [
                     {
                         "label": "CC",
-                        "catalog": "16"
+                        "catalog": "16",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -100,7 +103,8 @@
                 "releases": [
                     {
                         "label": "CC",
-                        "catalog": "16"
+                        "catalog": "16",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -125,7 +129,7 @@
                 "type": "take",
                 "index": "40-01-09-005",
                 "matrix": null,
-                "title": "My Last Goodbye",
+                "title": "My Last Goodbye -vHJ",
                 "releases": [
                     {
                         "label": "JU",
@@ -137,7 +141,8 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 101"
+                        "catalog": "PRV 101",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -154,7 +159,8 @@
                 "releases": [
                     {
                         "label": "CC",
-                        "catalog": "16"
+                        "catalog": "16",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -183,7 +189,8 @@
                 "releases": [
                     {
                         "label": "CC",
-                        "catalog": "16"
+                        "catalog": "16",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -212,7 +219,8 @@
                 "releases": [
                     {
                         "label": "CC",
-                        "catalog": "16"
+                        "catalog": "16",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -241,7 +249,8 @@
                 "releases": [
                     {
                         "label": "CC",
-                        "catalog": "16"
+                        "catalog": "16",
+                        "first_issue": true
                     },
                     {
                         "label": "JU",
@@ -268,11 +277,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Boston, MA",
         "date": "12 January 1940",
-        "description": "NBC broadcast from Southlands Theatre Restaurant",
+        "description": "NBC broadcast from Southland Theatre Restaurant",
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl); Johnny Hodges, Otto Hardwick(as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -282,7 +291,8 @@
                 "releases": [
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1003"
+                        "catalog": "MLP-1003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4001a"
@@ -298,7 +308,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -320,13 +330,29 @@
                 "type": "take",
                 "index": "40-02-00-003",
                 "matrix": null,
+                "title": "Boy Meets Horn",
+                "releases": [],
+                "desor": "DE4007c"
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington(hand drum instead of p)."
+            },
+            {
+                "type": "take",
+                "index": "40-02-00-004",
+                "matrix": null,
                 "title": "Pyramid",
                 "releases": [],
                 "desor": "DE4007d"
             },
             {
+                "type": "artists",
+                "value": "As before."
+            },
+            {
                 "type": "take",
-                "index": "40-02-00-004",
+                "index": "40-02-00-005",
                 "matrix": null,
                 "title": "Mood Indigo",
                 "releases": [],
@@ -334,7 +360,7 @@
             },
             {
                 "type": "take",
-                "index": "40-02-00-005",
+                "index": "40-02-00-006",
                 "matrix": null,
                 "title": "St. Louis Blues - vCW",
                 "releases": [],
@@ -342,13 +368,13 @@
             },
             {
                 "type": "artists",
-                "value": "Duke Ellington(p); Sonny Greer(d); Ivie Anderson(v) only."
+                "value": "Duke Ellington(p); Sonny Greer(d,v); Ivie Anderson(v) only."
             },
             {
                 "type": "take",
-                "index": "40-02-00-006",
+                "index": "40-02-00-007",
                 "matrix": null,
-                "title": "I Want A Man Like That - vIA",
+                "title": "I Want A Man Like That - vIA,SG",
                 "releases": [],
                 "desor": "DE4007g"
             }
@@ -362,7 +388,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(ss,as); Ben Webster(ts); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -380,7 +406,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "35427"
+                        "catalog": "35427",
+                        "first_issue": true
                     },
                     {
                         "label": "MoJ",
@@ -409,7 +436,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "35556"
+                        "catalog": "35556",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -434,7 +462,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "35427"
+                        "catalog": "35427",
+                        "first_issue": true
                     },
                     {
                         "label": "MoJ",
@@ -463,7 +492,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "35556"
+                        "catalog": "35556",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -513,7 +543,8 @@
                     },
                     {
                         "label": "Ep",
-                        "catalog": "LN 3237"
+                        "catalog": "LN 3237",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -538,7 +569,8 @@
                     },
                     {
                         "label": "Ep",
-                        "catalog": "LN 3237"
+                        "catalog": "LN 3237",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -579,7 +611,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "5595"
+                        "catalog": "5595",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4003g"
@@ -604,7 +637,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "5595"
+                        "catalog": "5595",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4003h"
@@ -650,7 +684,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "5618"
+                        "catalog": "5618",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4004a"
@@ -659,7 +694,7 @@
                 "type": "take",
                 "index": "40-02-15-004",
                 "matrix": "WM1144-A",
-                "title": "Dry Long So",
+                "title": "Dry Long So -vCW",
                 "releases": [
                     {
                         "label": "CBS",
@@ -675,7 +710,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "5690"
+                        "catalog": "5690",
+                        "first_issue": true
                     },
                     {
                         "label": "Tx",
@@ -704,7 +740,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "6336"
+                        "catalog": "6336",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4004c"
@@ -733,7 +770,8 @@
                     },
                     {
                         "label": "Ok",
-                        "catalog": "5690"
+                        "catalog": "5690",
+                        "first_issue": true
                     },
                     {
                         "label": "Tx",
@@ -752,7 +790,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries, Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries, Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -789,7 +827,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26537"
+                        "catalog": "26537",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4005a"
@@ -841,7 +880,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26536"
+                        "catalog": "26536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4005b"
@@ -865,7 +905,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FPM1 7002 Ie"
+                        "catalog": "FPM1 7002 Ie",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA(F)",
@@ -921,7 +962,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26577"
+                        "catalog": "26577",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4005d"
@@ -973,7 +1015,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26536"
+                        "catalog": "26536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4005e"
@@ -1017,7 +1060,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26537"
+                        "catalog": "26537",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4005f"
@@ -1032,7 +1076,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1078,7 +1122,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26577"
+                        "catalog": "26577",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4006a"
@@ -1126,7 +1171,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26598"
+                        "catalog": "26598",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4006b"
@@ -1166,7 +1212,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26598"
+                        "catalog": "26598",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4006c"
@@ -1181,7 +1228,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1194,8 +1241,9 @@
                         "catalog": "805"
                     },
                     {
-                        "label": "Mt",
-                        "catalog": "1"
+                        "label": "Meritt",
+                        "catalog": "1",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA",
@@ -1251,7 +1299,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26610"
+                        "catalog": "26610",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4008b"
@@ -1292,7 +1341,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26610"
+                        "catalog": "26610",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4008c"
@@ -1308,8 +1358,9 @@
                         "catalog": "805"
                     },
                     {
-                        "label": "Mt",
-                        "catalog": "1"
+                        "label": "Meritt",
+                        "catalog": "1",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA",
@@ -1331,7 +1382,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Otto Hardwick(as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1376,7 +1427,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26677"
+                        "catalog": "26677",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4009a"
@@ -1397,6 +1449,11 @@
                         "disc": "8",
                         "track": 15,
                         "length": 197
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LPV-517",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1449,7 +1506,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26644"
+                        "catalog": "26644",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4009c"
@@ -1493,7 +1551,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26644"
+                        "catalog": "26644",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4009d"
@@ -1537,7 +1596,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26677"
+                        "catalog": "26677",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4009e"
@@ -1552,7 +1612,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1566,7 +1626,8 @@
                     },
                     {
                         "label": "MR",
-                        "catalog": "MCD084-2"
+                        "catalog": "MCD084-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1591,7 +1652,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1616,7 +1678,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1641,7 +1704,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1671,7 +1735,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1696,7 +1761,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1726,7 +1792,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1751,7 +1818,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1781,7 +1849,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1802,7 +1871,8 @@
                     },
                     {
                         "label": "MR",
-                        "catalog": "MCD084-2"
+                        "catalog": "MCD084-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1857,7 +1927,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1898,7 +1968,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26731"
+                        "catalog": "26731",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4012a"
@@ -1938,7 +2009,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26719"
+                        "catalog": "26719",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4012b"
@@ -1987,7 +2059,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27247"
+                        "catalog": "27247",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4012c"
@@ -2027,7 +2100,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26788"
+                        "catalog": "26788",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4012d"
@@ -2042,7 +2116,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Otto Hardwick(as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2084,7 +2158,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26719"
+                        "catalog": "26719",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4013a"
@@ -2124,7 +2199,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26731"
+                        "catalog": "26731",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4013b"
@@ -2148,7 +2224,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7072"
+                        "catalog": "FXM1 7072",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4013c"
@@ -2163,7 +2240,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2173,7 +2250,8 @@
                 "releases": [
                     {
                         "label": "DESS",
-                        "catalog": "CD 4"
+                        "catalog": "CD 4",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4014xa"
@@ -2190,7 +2268,8 @@
                     },
                     {
                         "label": "JM",
-                        "catalog": "DE-003†"
+                        "catalog": "DE-003†",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -2216,7 +2295,8 @@
                     },
                     {
                         "label": "JM",
-                        "catalog": "DE-003†"
+                        "catalog": "DE-003†",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -2238,7 +2318,8 @@
                 "releases": [
                     {
                         "label": "JM",
-                        "catalog": "DE-003†"
+                        "catalog": "DE-003†",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4014c"
@@ -2251,7 +2332,8 @@
                 "releases": [
                     {
                         "label": "JM",
-                        "catalog": "DE-003†"
+                        "catalog": "DE-003†",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4014d"
@@ -2264,7 +2346,8 @@
                 "releases": [
                     {
                         "label": "JM",
-                        "catalog": "DE-003†"
+                        "catalog": "DE-003†",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4014e"
@@ -2277,7 +2360,8 @@
                 "releases": [
                     {
                         "label": "JM",
-                        "catalog": "DE-003†"
+                        "catalog": "DE-003†",
+                        "first_issue": true
                     },
                     {
                         "label": "JS",
@@ -2294,7 +2378,8 @@
                 "releases": [
                     {
                         "label": "JM",
-                        "catalog": "DE-003†"
+                        "catalog": "DE-003†",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4014g"
@@ -2309,7 +2394,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2319,7 +2404,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -2341,7 +2427,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "NI",
@@ -2360,7 +2447,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2370,7 +2457,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -2396,7 +2484,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "NI",
@@ -2413,7 +2502,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "NI",
@@ -2430,7 +2520,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -2454,7 +2545,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -2487,7 +2578,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26748"
+                        "catalog": "26748",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4018a"
@@ -2535,7 +2627,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26788"
+                        "catalog": "26788",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4018b"
@@ -2575,7 +2668,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26748"
+                        "catalog": "26748",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4018c"
@@ -2607,7 +2701,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7072"
+                        "catalog": "FXM1 7072",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4018d"
@@ -2622,7 +2717,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto  Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2636,7 +2731,8 @@
                     },
                     {
                         "label": "JG",
-                        "catalog": "1006"
+                        "catalog": "1006",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4020a"
@@ -2653,7 +2749,8 @@
                     },
                     {
                         "label": "JG",
-                        "catalog": "1006"
+                        "catalog": "1006",
+                        "first_issue": true
                     },
                     {
                         "label": "Rt",
@@ -2674,7 +2771,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4020c"
@@ -2691,7 +2789,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4020d"
@@ -2712,7 +2811,8 @@
                     },
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1003"
+                        "catalog": "MLP-1003",
+                        "first_issue": true
                     },
                     {
                         "label": "Rt",
@@ -2725,7 +2825,7 @@
                 "type": "take",
                 "index": "40-09-06-006",
                 "matrix": null,
-                "title": "Chatterbox",
+                "title": "Chatter-Box",
                 "releases": [
                     {
                         "label": "DESS",
@@ -2737,7 +2837,8 @@
                     },
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1003"
+                        "catalog": "MLP-1003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4020f"
@@ -2754,7 +2855,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4020g"
@@ -2771,7 +2873,8 @@
                     },
                     {
                         "label": "JG",
-                        "catalog": "1006"
+                        "catalog": "1006",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4020h"
@@ -2786,13 +2889,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
                 "index": "40-09-07-001",
                 "matrix": null,
-                "title": "East St Louis Toodle-Oo (Theme)",
+                "title": "East St Louis Toodle-O (Theme)",
                 "releases": [],
                 "desor": null
             },
@@ -2878,7 +2981,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -2892,7 +2995,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4021a"
@@ -2909,7 +3013,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4021b"
@@ -2926,7 +3031,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4021c"
@@ -2943,7 +3049,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4021d"
@@ -2960,7 +3067,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -2982,7 +3090,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4021f"
@@ -2999,7 +3108,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4021g"
@@ -3016,7 +3126,8 @@
                     },
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1001"
+                        "catalog": "MLP-1001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4019b"
@@ -3031,13 +3142,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
                 "type": "take",
                 "index": "40-09-10-001",
                 "matrix": null,
-                "title": "East St Louis Toodle-Oo (Theme)",
+                "title": "East St Louis Toodle-O (Theme)",
                 "releases": [],
                 "desor": null
             },
@@ -3061,7 +3172,8 @@
                     },
                     {
                         "label": "Rt",
-                        "catalog": "56"
+                        "catalog": "56",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4022b"
@@ -3106,7 +3218,8 @@
                     },
                     {
                         "label": "Rt",
-                        "catalog": "56"
+                        "catalog": "56",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4022d"
@@ -3123,7 +3236,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4022e"
@@ -3140,7 +3254,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4022f"
@@ -3155,7 +3270,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3177,7 +3292,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4023b"
@@ -3194,7 +3310,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4023c"
@@ -3223,7 +3340,8 @@
                     },
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1003"
+                        "catalog": "MLP-1003",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4023e"
@@ -3236,7 +3354,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4023f"
@@ -3249,7 +3368,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4022c"
@@ -3274,7 +3394,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4023h"
@@ -3289,7 +3410,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3373,7 +3494,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -3391,7 +3512,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -3409,7 +3531,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4024b"
@@ -3422,7 +3545,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4024c"
@@ -3443,7 +3567,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4024e"
@@ -3456,7 +3581,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4024f"
@@ -3479,7 +3605,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3555,7 +3681,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3639,7 +3765,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3723,7 +3849,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3799,7 +3925,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -3891,7 +4017,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -3909,7 +4035,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -3987,7 +4114,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "704"
+                        "catalog": "704",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4022a"
@@ -4010,7 +4138,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -4118,7 +4246,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -4200,7 +4328,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -4222,7 +4351,8 @@
                 "releases": [
                     {
                         "label": "Ev",
-                        "catalog": "EV-3005"
+                        "catalog": "EV-3005",
+                        "first_issue": true
                     },
                     {
                         "label": "NI",
@@ -4241,7 +4371,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4277,7 +4407,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -4361,7 +4491,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -4454,7 +4584,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -4468,7 +4598,8 @@
                     },
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1001"
+                        "catalog": "MLP-1001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4019a"
@@ -4481,7 +4612,8 @@
                 "releases": [
                     {
                         "label": "DESS",
-                        "catalog": "CD 4"
+                        "catalog": "CD 4",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028xa"
@@ -4534,7 +4666,8 @@
                 "releases": [
                     {
                         "label": "DESS",
-                        "catalog": "CD 4"
+                        "catalog": "CD 4",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028f"
@@ -4551,7 +4684,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028g"
@@ -4568,7 +4702,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028h"
@@ -4585,7 +4720,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028j"
@@ -4602,7 +4738,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028i"
@@ -4615,7 +4752,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028k"
@@ -4628,7 +4766,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028l"
@@ -4649,7 +4788,8 @@
                     },
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4028n"
@@ -4693,7 +4833,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7072"
+                        "catalog": "FXM1 7072",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029a"
@@ -4729,7 +4870,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27221"
+                        "catalog": "27221",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029b"
@@ -4743,6 +4885,11 @@
                     {
                         "label": "Bb",
                         "catalog": "2178-2-RB"
+                    },
+                    {
+                        "label": "FMRS",
+                        "catalog": "024",
+                        "first_issue": true
                     },
                     {
                         "label": "Nw",
@@ -4785,7 +4932,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7072"
+                        "catalog": "FXM1 7072",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029d"
@@ -4821,7 +4969,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27406"
+                        "catalog": "27406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029e"
@@ -4849,7 +4998,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7072"
+                        "catalog": "FXM1 7072",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029f"
@@ -4885,7 +5035,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27221"
+                        "catalog": "27221",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029g"
@@ -4921,7 +5072,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27406"
+                        "catalog": "27406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029h"
@@ -4949,7 +5101,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7072"
+                        "catalog": "FXM1 7072",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4029i"
@@ -4964,7 +5117,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart(t); Cootie Williams(t,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Rex Stewart(t); Cootie Williams(t,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4974,7 +5127,8 @@
                 "releases": [
                     {
                         "label": "JS",
-                        "catalog": "705"
+                        "catalog": "705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4030a"
@@ -4991,7 +5145,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-007"
+                        "catalog": "Q-007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4030b"
@@ -5010,7 +5165,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5110,7 +5265,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5210,7 +5365,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5310,7 +5465,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5370,7 +5525,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Ivie Anderson, Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5478,75 +5633,11 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
                 "index": "40-10-17-001",
-                "matrix": "BS053430-2",
-                "title": "Warm Valley",
-                "releases": [
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2051"
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": "9",
-                        "track": 19,
-                        "length": 201
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "FXM1 7094"
-                    }
-                ],
-                "desor": "DE4031a"
-            },
-            {
-                "type": "take",
-                "index": "40-10-17-002",
-                "matrix": "BS053430-3",
-                "title": "Warm Valley",
-                "releases": [
-                    {
-                        "label": "AMSC",
-                        "catalog": "1143"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "5659-2-RB"
-                    },
-                    {
-                        "label": "Bb",
-                        "catalog": "5659-2-RB-(1ed)"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "820"
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": "9",
-                        "track": 20,
-                        "length": 203
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "FXM1 7094"
-                    },
-                    {
-                        "label": "Vi",
-                        "catalog": "26796"
-                    }
-                ],
-                "desor": "DE4031b"
-            },
-            {
-                "type": "take",
-                "index": "40-10-17-003",
                 "matrix": "BS053552-1",
                 "title": "Flaming Sword",
                 "releases": [
@@ -5563,14 +5654,15 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7094"
+                        "catalog": "FXM1 7094",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4031c"
             },
             {
                 "type": "take",
-                "index": "40-10-17-004",
+                "index": "40-10-17-002",
                 "matrix": "BS053552-2",
                 "title": "Flaming Sword",
                 "releases": [
@@ -5603,14 +5695,15 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "26796"
+                        "catalog": "26796",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4031d"
             },
             {
                 "type": "take",
-                "index": "40-10-17-005",
+                "index": "40-10-17-003",
                 "matrix": "BS053552-3",
                 "title": "Flaming Sword",
                 "releases": [
@@ -5627,10 +5720,77 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7094"
+                        "catalog": "FXM1 7094",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4031e"
+            },
+            {
+                "type": "take",
+                "index": "40-10-17-004",
+                "matrix": "BS053430-2",
+                "title": "Warm Valley",
+                "releases": [
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2051"
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": "9",
+                        "track": 19,
+                        "length": 201
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FXM1 7094",
+                        "first_issue": true
+                    }
+                ],
+                "desor": "DE4031a"
+            },
+            {
+                "type": "take",
+                "index": "40-10-17-005",
+                "matrix": "BS053430-3",
+                "title": "Warm Valley",
+                "releases": [
+                    {
+                        "label": "AMSC",
+                        "catalog": "1143"
+                    },
+                    {
+                        "label": "Bb",
+                        "catalog": "5659-2-RB"
+                    },
+                    {
+                        "label": "Bb",
+                        "catalog": "5659-2-RB-(1ed)"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "820"
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": "9",
+                        "track": 20,
+                        "length": 203
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "FXM1 7094"
+                    },
+                    {
+                        "label": "Vi",
+                        "catalog": "26796",
+                        "first_issue": true
+                    }
+                ],
+                "desor": "DE4031b"
             }
         ]
     },
@@ -5642,7 +5802,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -5679,7 +5839,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27235"
+                        "catalog": "27235",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4032a"
@@ -5703,7 +5864,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7094"
+                        "catalog": "FXM1 7094",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4032b"
@@ -5748,7 +5910,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27235"
+                        "catalog": "27235",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4032c"
@@ -5784,7 +5947,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27247"
+                        "catalog": "27247",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4032d"
@@ -5808,7 +5972,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7094"
+                        "catalog": "FXM1 7094",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4032e"
@@ -5833,7 +5998,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11021"
+                        "catalog": "B-11021",
+                        "first_issue": true
                     },
                     {
                         "label": "BL",
@@ -5865,7 +6031,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11117"
+                        "catalog": "B-11117",
+                        "first_issue": true
                     },
                     {
                         "label": "BL",
@@ -5911,6 +6078,11 @@
                         "length": 183
                     },
                     {
+                        "label": "RCA",
+                        "catalog": "LPV-533",
+                        "first_issue": true
+                    },
+                    {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7094"
                     }
@@ -5925,7 +6097,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11117"
+                        "catalog": "B-11117",
+                        "first_issue": true
                     },
                     {
                         "label": "BL",
@@ -5967,6 +6140,11 @@
                         "length": 185
                     },
                     {
+                        "label": "TLi",
+                        "catalog": "STBB-21",
+                        "first_issue": true
+                    },
+                    {
                         "label": "UtD",
                         "catalog": "2009"
                     }
@@ -5981,7 +6159,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11021"
+                        "catalog": "B-11021",
+                        "first_issue": true
                     },
                     {
                         "label": "BL",
@@ -6026,7 +6205,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-10946"
+                        "catalog": "B-10946",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -6053,6 +6233,16 @@
                 "title": "Without A Song",
                 "releases": [
                     {
+                        "label": "\"X\"",
+                        "catalog": "EVAA 3001",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "\"X\"",
+                        "catalog": "LX-3001",
+                        "first_issue": true
+                    },
+                    {
                         "label": "Nw",
                         "catalog": "RP2051"
                     },
@@ -6078,7 +6268,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-10946"
+                        "catalog": "B-10946",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -6106,7 +6297,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11057"
+                        "catalog": "B-11057",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -6138,6 +6330,16 @@
                 "title": "Mobile Bay",
                 "releases": [
                     {
+                        "label": "\"X\"",
+                        "catalog": "EVAA 3001",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "\"X\"",
+                        "catalog": "LX-3001",
+                        "first_issue": true
+                    },
+                    {
                         "label": "Nw",
                         "catalog": "RP2051"
                     },
@@ -6161,6 +6363,16 @@
                 "matrix": "BS053610-1",
                 "title": "Linger Awhile",
                 "releases": [
+                    {
+                        "label": "\"X\"",
+                        "catalog": "EVAA 3001",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "\"X\"",
+                        "catalog": "LX-3001",
+                        "first_issue": true
+                    },
                     {
                         "label": "Nw",
                         "catalog": "RP2051"
@@ -6187,7 +6399,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11057"
+                        "catalog": "B-11057",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -6226,7 +6439,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g, wooden whistle); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries, Ivie Anderson(v)."
+                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g,wwh); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries, Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -6234,6 +6447,11 @@
                 "matrix": null,
                 "title": "It's Glory",
                 "releases": [
+                    {
+                        "label": "JG",
+                        "catalog": "1006",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "108 8600"
@@ -6260,12 +6478,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6280,6 +6507,11 @@
                 "matrix": null,
                 "title": "The Sheik Of Araby",
                 "releases": [
+                    {
+                        "label": "JG",
+                        "catalog": "1006",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "108 8600"
@@ -6302,12 +6534,21 @@
                 "title": "Sepia Panorama",
                 "releases": [
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6327,12 +6568,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6347,6 +6597,11 @@
                 "matrix": null,
                 "title": "There Shall Be No Night - vHJ",
                 "releases": [
+                    {
+                        "label": "P30",
+                        "catalog": "03",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "108 8600"
@@ -6373,12 +6628,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6391,11 +6655,15 @@
                 "type": "take",
                 "index": "40-11-07-008",
                 "matrix": null,
-                "title": "Chatterbox",
+                "title": "Chatter-Box",
                 "releases": [
                     {
                         "label": "JSo",
                         "catalog": "AA 520/521"
+                    },
+                    {
+                        "label": "P30",
+                        "catalog": "03"
                     },
                     {
                         "label": "Sv",
@@ -6404,6 +6672,11 @@
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6423,12 +6696,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6448,12 +6730,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6468,6 +6759,11 @@
                 "matrix": null,
                 "title": "Ferryboat Serenade - vIA",
                 "releases": [
+                    {
+                        "label": "P30",
+                        "catalog": "03",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "108 8600"
@@ -6494,12 +6790,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6516,7 +6821,8 @@
                 "releases": [
                     {
                         "label": "VJC",
-                        "catalog": "1019-2"
+                        "catalog": "1019-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4034m"
@@ -6532,12 +6838,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6553,12 +6868,21 @@
                 "title": "Chloe",
                 "releases": [
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6578,12 +6902,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "03"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6603,12 +6936,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6628,12 +6970,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6658,7 +7009,8 @@
                     },
                     {
                         "label": "VJC",
-                        "catalog": "1019-2"
+                        "catalog": "1019-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4034s"
@@ -6670,12 +7022,21 @@
                 "title": "The Sidewallks Of New York",
                 "releases": [
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6695,12 +7056,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-551",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6720,12 +7090,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6741,12 +7120,21 @@
                 "title": "Caravan",
                 "releases": [
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6766,12 +7154,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6791,12 +7188,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6820,12 +7226,21 @@
                         "catalog": "MJCD 1303"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6845,12 +7260,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "11"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -6868,6 +7292,11 @@
                     {
                         "label": "JSo",
                         "catalog": "AA 520/521"
+                    },
+                    {
+                        "label": "P30",
+                        "catalog": "11",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -6895,6 +7324,11 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "11",
+                        "first_issue": true
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
@@ -6918,6 +7352,11 @@
                     {
                         "label": "JSo",
                         "catalog": "AA 520/521"
+                    },
+                    {
+                        "label": "P30",
+                        "catalog": "11",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -6950,7 +7389,8 @@
                     },
                     {
                         "label": "VJC",
-                        "catalog": "1020-2"
+                        "catalog": "1020-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -6971,7 +7411,8 @@
                     },
                     {
                         "label": "VJC",
-                        "catalog": "1020-2"
+                        "catalog": "1020-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4034ae"
@@ -6992,7 +7433,8 @@
                     },
                     {
                         "label": "VJC",
-                        "catalog": "1020-2"
+                        "catalog": "1020-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -7013,7 +7455,8 @@
                     },
                     {
                         "label": "VJC",
-                        "catalog": "1020-2"
+                        "catalog": "1020-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4034af"
@@ -7034,7 +7477,8 @@
                     },
                     {
                         "label": "VJC",
-                        "catalog": "1020-2"
+                        "catalog": "1020-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4034ag"
@@ -7050,12 +7494,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -7075,12 +7528,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "09"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -7096,12 +7558,21 @@
                 "title": "Cotton Tail",
                 "releases": [
                     {
+                        "label": "P30",
+                        "catalog": "11"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -7119,6 +7590,11 @@
                     {
                         "label": "JSo",
                         "catalog": "AA 520/521"
+                    },
+                    {
+                        "label": "P30",
+                        "catalog": "11",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -7146,12 +7622,21 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "11"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -7166,6 +7651,11 @@
                 "matrix": null,
                 "title": "I Never Felt This Way Before - vHJ",
                 "releases": [
+                    {
+                        "label": "P30",
+                        "catalog": "11",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "108 8600"
@@ -7197,7 +7687,8 @@
                     },
                     {
                         "label": "VJC",
-                        "catalog": "1020-2"
+                        "catalog": "1020-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4034an"
@@ -7209,12 +7700,21 @@
                 "title": "Across The Track Blues",
                 "releases": [
                     {
+                        "label": "P30",
+                        "catalog": "11"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -7229,6 +7729,11 @@
                 "matrix": null,
                 "title": "Honeysuckle Rose",
                 "releases": [
+                    {
+                        "label": "JG",
+                        "catalog": "1006",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "108 8600"
@@ -7250,6 +7755,11 @@
                 "matrix": null,
                 "title": "Wham! - vRN",
                 "releases": [
+                    {
+                        "label": "JG",
+                        "catalog": "1006",
+                        "first_issue": true
+                    },
                     {
                         "label": "Rt",
                         "catalog": "70"
@@ -7284,12 +7794,21 @@
                         "catalog": "MJCD 1311"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "11"
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8316/17"
+                    },
+                    {
+                        "label": "Te",
+                        "catalog": "M-552",
+                        "first_issue": true
                     },
                     {
                         "label": "VJC",
@@ -7307,6 +7826,11 @@
                     {
                         "label": "JSo",
                         "catalog": "AA 520/521"
+                    },
+                    {
+                        "label": "P30",
+                        "catalog": "11",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -7334,6 +7858,11 @@
                         "catalog": "AA 520/521"
                     },
                     {
+                        "label": "P30",
+                        "catalog": "11",
+                        "first_issue": true
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
@@ -7355,6 +7884,11 @@
                 "title": "Warm Valley",
                 "releases": [
                     {
+                        "label": "JG",
+                        "catalog": "1006",
+                        "first_issue": true
+                    },
+                    {
                         "label": "Sv",
                         "catalog": "108 8600"
                     },
@@ -7375,6 +7909,11 @@
                 "matrix": null,
                 "title": "God Bless America",
                 "releases": [
+                    {
+                        "label": "JG",
+                        "catalog": "1006",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "108 8600"
@@ -7421,7 +7960,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     },
                     {
                         "label": "UtD",
@@ -7449,7 +7989,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4035b"
@@ -7462,7 +8003,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-10981"
+                        "catalog": "B-10981",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -7501,7 +8043,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4035d"
@@ -7514,7 +8057,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11098"
+                        "catalog": "B-11098",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -7546,7 +8090,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4035f"
@@ -7570,7 +8115,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4035g"
@@ -7583,7 +8129,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-10981"
+                        "catalog": "B-10981",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -7619,7 +8166,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4035i"
@@ -7643,7 +8191,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4035j"
@@ -7667,7 +8216,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7133"
+                        "catalog": "FXM1 7133",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4035k"
@@ -7680,7 +8230,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "B-11098"
+                        "catalog": "B-11098",
+                        "first_issue": true
                     },
                     {
                         "label": "Cl(F)",
@@ -7710,7 +8261,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,as); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
+                "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
                 "type": "take",
@@ -7751,7 +8302,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27380"
+                        "catalog": "27380",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4036a"
@@ -7799,7 +8351,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27326"
+                        "catalog": "27326",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4036b"
@@ -7843,7 +8396,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "27326"
+                        "catalog": "27326",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE4036c"
@@ -7867,7 +8421,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "FXM1 7134 Ie"
+                        "catalog": "FXM1 7134 Ie",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA(F)",
