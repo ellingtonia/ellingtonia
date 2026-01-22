@@ -7,6 +7,7 @@ menu:
 ---
 
 ## Jan 2026
+* Improved representation of various suites
 * Various small fixes 1930-1960
 * Replaced "Crimpler" with "Crumpler"
 
