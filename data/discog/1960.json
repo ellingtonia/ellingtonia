@@ -56,7 +56,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Matthew Gee(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb);Jimmy Johnson(d); Lil Greenwood, Ozzie Bailey(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Matthew Gee(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Jimmy Woode(sb);Jimmy Johnson(d); Lil Greenwood, Ozzie Bailey(v)."
             },
             {
                 "type": "take",
@@ -404,7 +404,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Matthew Gee(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb);Jimmy Johnson(d); Lil Greenwood(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Matthew Gee(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Jimmy Woode(sb);Jimmy Johnson(d); Lil Greenwood(v)."
             },
             {
                 "type": "take",
@@ -760,7 +760,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Frank Dunlop(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Frank Dunlop(d)."
             },
             {
                 "type": "take",
@@ -820,7 +820,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -838,7 +838,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -863,7 +864,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -898,7 +900,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -908,7 +910,8 @@
                 "releases": [
                     {
                         "label": "MP",
-                        "catalog": "Ell-86"
+                        "catalog": "Ell-86",
+                        "first_issue": true
                     },
                     {
                         "label": "QD",
@@ -929,7 +932,8 @@
                     },
                     {
                         "label": "MP",
-                        "catalog": "Ell-86"
+                        "catalog": "Ell-86",
+                        "first_issue": true
                     },
                     {
                         "label": "QD",
@@ -950,7 +954,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007c"
@@ -967,7 +972,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007d"
@@ -980,7 +986,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007e"
@@ -989,7 +996,7 @@
                 "type": "take",
                 "index": "60-05-27-006",
                 "matrix": null,
-                "title": "Congo Square (Matumbe)",
+                "title": "Congo Square [Matumbe]",
                 "releases": [
                     {
                         "label": "Hs",
@@ -997,7 +1004,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007f"
@@ -1010,7 +1018,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007g"
@@ -1023,7 +1032,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007h"
@@ -1036,7 +1046,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007i"
@@ -1049,7 +1060,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007j"
@@ -1062,7 +1074,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-069"
+                        "catalog": "Q-069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007k"
@@ -1075,7 +1088,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007l"
@@ -1088,7 +1102,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007m"
@@ -1101,7 +1116,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007n"
@@ -1114,7 +1130,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007o"
@@ -1127,7 +1144,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007p"
@@ -1144,7 +1162,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007q"
@@ -1161,7 +1180,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007r"
@@ -1174,7 +1194,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007s"
@@ -1191,7 +1212,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007t"
@@ -1208,7 +1230,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007u"
@@ -1225,7 +1248,8 @@
                     },
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007v"
@@ -1238,7 +1262,8 @@
                 "releases": [
                     {
                         "label": "QD",
-                        "catalog": "Q-070"
+                        "catalog": "Q-070",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6007w"
@@ -1253,7 +1278,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1271,7 +1296,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1304,7 +1330,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6008b"
@@ -1325,7 +1352,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6008c"
@@ -1340,7 +1368,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -1362,7 +1390,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "4-41754"
+                        "catalog": "4-41754",
+                        "first_issue": true
                     },
                     {
                         "label": "Ja",
@@ -1398,7 +1427,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -1416,7 +1445,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6010a"
@@ -1429,7 +1459,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "26306"
+                        "catalog": "26306",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6010b"
@@ -1446,7 +1477,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "4-41754"
+                        "catalog": "4-41754",
+                        "first_issue": true
                     },
                     {
                         "label": "Ja",
@@ -1466,7 +1498,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1488,11 +1520,12 @@
                         "disc": 3,
                         "track": 16,
                         "length": 245,
-                        "title": "Dance Of The Floreadores (Waltz Of The Flowers)"
+                        "title": "Dance Of The Floreadores [Waltz Of The Flowers]"
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1517,7 +1550,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1565,7 +1599,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1575,7 +1609,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88654"
+                        "catalog": "88654",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1596,7 +1631,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88654"
+                        "catalog": "88654",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1617,7 +1653,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88654"
+                        "catalog": "88654",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1650,7 +1687,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6013d"
@@ -1671,7 +1709,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6013e"
@@ -1690,7 +1729,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1708,7 +1747,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1733,7 +1773,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1768,7 +1809,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1786,7 +1827,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1811,7 +1853,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1541"
+                        "catalog": "CL 1541",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -1844,7 +1887,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6015c"
@@ -1855,11 +1899,11 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "26 June 1960",
-        "description": "CBS film soundtrack recording session, Radio Recorders",
+        "description": "Filming and recording for the Columbia Records advertising short \"Playback - Guest Duke Ellington\". CBS-TV, 7800 Beverly Blvd.",
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1951,10 +1995,6 @@
                     }
                 ],
                 "desor": "DE6016e"
-            },
-            {
-                "type": "note",
-                "content": "Film short \"Playback - Duke Ellington\""
             }
         ]
     },
@@ -1966,7 +2006,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1984,7 +2024,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -2001,7 +2042,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -2026,7 +2068,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6017c"
@@ -2047,7 +2090,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6017d"
@@ -2062,7 +2106,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2080,7 +2124,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -2097,7 +2142,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -2122,7 +2168,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6018c"
@@ -2137,7 +2184,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Eddie Mullins, Gerald Wilsoni(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Eddie Mullins, Gerald Wilsoni(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2147,7 +2194,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88654"
+                        "catalog": "88654",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -2176,7 +2224,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -2209,7 +2258,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1546"
+                        "catalog": "CL 1546",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6019c"
@@ -2224,7 +2274,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2242,7 +2292,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88654"
+                        "catalog": "88654",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6020a"
@@ -2255,7 +2306,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88654"
+                        "catalog": "88654",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6020b"
@@ -2268,7 +2320,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88654"
+                        "catalog": "88654",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6020c"
@@ -2375,7 +2428,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t); Lawrence Brown(tb); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Ray Nance(t); Lawrence Brown(tb); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2389,7 +2442,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022a"
@@ -2410,7 +2464,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022b"
@@ -2427,7 +2482,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022c"
@@ -2452,7 +2508,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022d"
@@ -2469,7 +2526,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022e"
@@ -2494,7 +2552,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022f"
@@ -2511,7 +2570,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022g"
@@ -2528,7 +2588,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022h"
@@ -2545,7 +2606,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022i"
@@ -2562,7 +2624,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022j"
@@ -2579,7 +2642,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022k"
@@ -2596,7 +2660,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "JC 35342"
+                        "catalog": "JC 35342",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6022l"
@@ -2611,7 +2676,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -2820,7 +2885,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Unk(g); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Unk(g); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2888,7 +2953,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown, Murray McEachern(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Billy Strayhorn(p); Unk(g); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown, Murray McEachern(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Billy Strayhorn(p); Unk(g); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2954,7 +3019,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens(t); Andres Marenguito(t,v); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson, Lil Greenwood(v)."
+                "value": "Willie Cook, Edward Mullens(t); Andres Marenguito(t,v); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson, Lil Greenwood(v)."
             },
             {
                 "type": "take",
@@ -3563,7 +3628,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3799,7 +3864,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3939,7 +4004,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Lawrence Brown, Britt Woodman, Booty Wood(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Lawrence Brown, Britt Woodman, Booty Wood(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3949,7 +4014,8 @@
                 "releases": [
                     {
                         "label": "Rt",
-                        "catalog": "22"
+                        "catalog": "22",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6028a"
@@ -3962,7 +4028,8 @@
                 "releases": [
                     {
                         "label": "Rt",
-                        "catalog": "22"
+                        "catalog": "22",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6028b"
@@ -3971,11 +4038,12 @@
                 "type": "take",
                 "index": "60-08-26-003",
                 "matrix": null,
-                "title": "Congo Square (Matumbe)",
+                "title": "Congo Square [Matumbe]",
                 "releases": [
                     {
                         "label": "Rt",
-                        "catalog": "22"
+                        "catalog": "22",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6028c"
@@ -3988,7 +4056,8 @@
                 "releases": [
                     {
                         "label": "Rt",
-                        "catalog": "22"
+                        "catalog": "22",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6028d"
@@ -4001,7 +4070,8 @@
                 "releases": [
                     {
                         "label": "Rt",
-                        "catalog": "22"
+                        "catalog": "22",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6028e"
@@ -4022,7 +4092,8 @@
                 "releases": [
                     {
                         "label": "Rt",
-                        "catalog": "22"
+                        "catalog": "22",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -4035,7 +4106,8 @@
                 "releases": [
                     {
                         "label": "Rt",
-                        "catalog": "22"
+                        "catalog": "22",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -4050,7 +4122,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Lawrence Brown, Matthew Gee, Booty Wood(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Jimmy Rushing(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Lawrence Brown, Matthew Gee, Booty Wood(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Jimmy Rushing(v)."
             },
             {
                 "type": "take",
@@ -4060,7 +4132,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029a"
@@ -4073,7 +4146,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029b"
@@ -4086,7 +4160,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029c"
@@ -4099,7 +4174,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029d"
@@ -4112,7 +4188,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029e"
@@ -4125,7 +4202,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029f"
@@ -4138,7 +4216,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029g"
@@ -4159,7 +4238,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029h"
@@ -4172,7 +4252,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029i"
@@ -4185,7 +4266,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029j"
@@ -4198,7 +4280,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029k"
@@ -4211,7 +4294,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029l"
@@ -4224,7 +4308,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029m"
@@ -4237,7 +4322,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1008"
+                        "catalog": "DSTS1008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029n"
@@ -4250,7 +4336,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1009"
+                        "catalog": "DSTS1009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029o"
@@ -4263,7 +4350,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1009"
+                        "catalog": "DSTS1009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029p"
@@ -4276,7 +4364,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1009"
+                        "catalog": "DSTS1009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029q"
@@ -4289,7 +4378,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1009"
+                        "catalog": "DSTS1009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029r"
@@ -4302,7 +4392,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1009"
+                        "catalog": "DSTS1009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029s"
@@ -4315,7 +4406,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1009"
+                        "catalog": "DSTS1009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6029t"
@@ -4330,7 +4422,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Lawrence Brown, Matthew Gee, Booty Wood(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Lawrence Brown, Matthew Gee, Booty Wood(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -4422,7 +4514,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Horn(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Horn(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -4498,7 +4590,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Horn(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Horn(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4516,7 +4608,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -4533,7 +4626,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -4550,7 +4644,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -4567,7 +4662,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1597"
+                        "catalog": "CL 1597",
+                        "first_issue": true
                     },
                     {
                         "label": "Co",
@@ -4587,7 +4683,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Horn(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Horn(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Lil Greenwood, Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -4680,7 +4776,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Louis Armstrong(t); Billy Byers(tb); Guy Lafitte(ts); Jimmy Gourley(g); Duke Ellington(p). Orchestra (recorded first and overdubbed by soloists): Maurice Thomas, Roger Guérin, Jean Baissat, Vincent Casino(t); Billy Byers, Nat Peck, André Pasquinet, Marcel Guillègue(tb); René Nicolas, Jo Hrasko(as); Pierre Gossez(as, ts); William Boucaya(bar); Jimmy Gourley(g); Michel Gaudry(sb); Gus Wallez, Moustache, Christian Garros(d)."
+                "value": "Louis Armstrong(t); Billy Byers(tb); Guy Lafitte(ts); Jimmy Gourley(g); Duke Ellington(p). Orchestra (recorded first and overdubbed by soloists): Maurice Thomas, Roger Guérin, Jean Baissat, Vincent Casino(t); Billy Byers, Nat Peck, André Pasquinet, Marcel Guillègue(tb); René Nicolas, Jo Hrasko(as); Pierre Gossez(as,ts); William Boucaya(bar); Jimmy Gourley(g); Michel Gaudry(sb); Gus Wallez, Moustache, Christian Garros(d)."
             },
             {
                 "type": "take",
@@ -4694,7 +4790,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAL-4092"
+                        "catalog": "UAL-4092",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE9076e"
@@ -5026,7 +5123,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Maurice Thomas, Fred Gérard, Vincent Casino, Roger Guérin(t); André Paquinet, Marcel Galiègue, Billy Byers, Nat Peck(tb); Jo Hrasko, René Nicolas(as); Georges Grenu, Marcel Hrasko(ts); Lucky Tompson (ts); William Boucaya (bar); Raymond Guiot(f); Duke Ellington, Billy Strayhorn(p); Guy Pedersen (b); Christian Garros (d)."
+                "value": "Maurice Thomas, Fred Gérard, Vincent Casino, Roger Guérin(t); André Paquinet, Marcel Galiègue, Billy Byers, Nat Peck(tb); Jo Hrasko, René Nicolas(as); Georges Grenu, Marcel Hrasko(ts); Lucky Thompson (ts); William Boucaya (bar); Raymond Guiot(f); Duke Ellington, Billy Strayhorn(p); Guy Pedersen (b); Christian Garros (d)."
             },
             {
                 "type": "take",

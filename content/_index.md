@@ -58,4 +58,7 @@ take (`E4110W`) but not the unissued one (`E4111W`).
 ## Misc
 `Unk` refers to unknown artist(s) or other persons.
 
+See the [Instruments]({{< ref "instruments" >}}) page for notes in ambiguous
+instruments.
+
 # Ellingtonia.com Blog

@@ -6,6 +6,14 @@ menu:
     weight: 10
 ---
 
+## Jan 2026
+* Various small fixes 1930-1960
+* Replaced "Crimpler" with "Crumpler"
+
+## December 2025
+* Fixes to 1933-1938
+* 1971: Stanley Dance interview improvements.
+
 ## November 2025
 * Update Pathé label for 1925,26,28,29
 * Various smaller changes across many years (see GitHub)

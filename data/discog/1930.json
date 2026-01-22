@@ -1766,7 +1766,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); The Rhythm Boys(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2050,7 +2050,8 @@
                 "releases": [
                     {
                         "label": "FMRS",
-                        "catalog": "021"
+                        "catalog": "021",
+                        "first_issue": true
                     },
                     {
                         "label": "LR",
@@ -2071,8 +2072,7 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2008",
-                        "first_issue": true
+                        "catalog": "2008"
                     }
                 ],
                 "desor": "DE3011e"
@@ -2122,7 +2122,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch); The Rhythm Boys(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,ch); The Rhythm Boys: Harry Barris, Bing Crosby, Al Rinker(v)."
             },
             {
                 "type": "take",
@@ -2544,6 +2544,14 @@
             {
                 "type": "take",
                 "index": "30-10-14-002",
+                "matrix": "W404481-C",
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "30-10-14-003",
                 "matrix": "W404482-C",
                 "title": "Big House Blues",
                 "releases": [
@@ -2580,7 +2588,7 @@
             },
             {
                 "type": "take",
-                "index": "30-10-14-003",
+                "index": "30-10-14-004",
                 "matrix": "W404483-B",
                 "title": "Rocky Mountain Blues",
                 "releases": [
@@ -2614,6 +2622,10 @@
                     }
                 ],
                 "desor": "DE3014c"
+            },
+            {
+                "type": "note",
+                "content": "Three takes of Mood Indigo were recorded on this date; two of them, take B and C, remained unissued. Two more takes, with the same matrix number, were recorded on 8 January 1931, and also remained unreleased."
             }
         ]
     },
