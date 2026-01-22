@@ -220,18 +220,14 @@
                 "desor": "DE4802f"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SYMPHOMANIAC",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SYMPHOMANIAC"
             },
             {
                 "type": "take",
                 "index": "48-11-13-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Symphonic Or Bust",
+                "title": "Symphonic Or Bust",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -250,13 +246,14 @@
                         "catalog": "1024-2"
                     }
                 ],
-                "desor": "DE4802g"
+                "desor": "DE4802g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "48-11-13-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. How You Sound",
+                "title": "How You Sound",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -275,7 +272,12 @@
                         "catalog": "1024-2"
                     }
                 ],
-                "desor": "DE4802h"
+                "desor": "DE4802h",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1608,18 +1610,14 @@
                 "desor": "DE4808f"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SYMPHOMANIAC",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SYMPHOMANIAC"
             },
             {
                 "type": "take",
                 "index": "48-12-10-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Symphonic Or Bust",
+                "title": "Symphonic Or Bust",
                 "releases": [
                     {
                         "label": "Ds",
@@ -1630,13 +1628,14 @@
                         "catalog": "65114-2"
                     }
                 ],
-                "desor": "DE4808g"
+                "desor": "DE4808g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "48-12-10-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. How You Sound",
+                "title": "How You Sound",
                 "releases": [
                     {
                         "label": "Ds",
@@ -1647,7 +1646,12 @@
                         "catalog": "65114-2"
                     }
                 ],
-                "desor": "DE4808h"
+                "desor": "DE4808h",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

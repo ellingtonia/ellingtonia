@@ -2559,18 +2559,14 @@
                 "desor": "DE5613d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-07-07-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Festival Junction",
+                "title": "Festival Junction",
                 "releases": [
                     {
                         "label": "Co",
@@ -2581,13 +2577,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5613e"
+                "desor": "DE5613e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-07-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [
                     {
                         "label": "Co",
@@ -2603,13 +2600,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5613f"
+                "desor": "DE5613f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-07-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Newport Up",
+                "title": "Newport Up",
                 "releases": [
                     {
                         "label": "Co",
@@ -2620,7 +2618,12 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5613g"
+                "desor": "DE5613g",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2821,18 +2824,14 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-07-09-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Festival Junction",
+                "title": "Festival Junction",
                 "releases": [
                     {
                         "label": "Co",
@@ -2843,13 +2842,14 @@
                         "catalog": "CL 934"
                     }
                 ],
-                "desor": "DE5614a"
+                "desor": "DE5614a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-09-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [
                     {
                         "label": "Co",
@@ -2860,13 +2860,14 @@
                         "catalog": "CL 934"
                     }
                 ],
-                "desor": "DE5614b"
+                "desor": "DE5614b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-09-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Newport Up",
+                "title": "Newport Up",
                 "releases": [
                     {
                         "label": "Co",
@@ -2877,7 +2878,12 @@
                         "catalog": "CL 934"
                     }
                 ],
-                "desor": "DE5614c"
+                "desor": "DE5614c",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3005,36 +3011,39 @@
                 "desor": "DE5616a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NIGHT CREATURE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NIGHT CREATURE"
             },
             {
                 "type": "take",
                 "index": "56-07-10-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blind Bug",
+                "title": "Blind Bug",
                 "releases": [],
-                "desor": "DE5616b"
+                "desor": "DE5616b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-10-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Stalking Monster",
+                "title": "Stalking Monster",
                 "releases": [],
-                "desor": "DE5616c"
+                "desor": "DE5616c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-10-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dazzling Creature",
+                "title": "Dazzling Creature",
                 "releases": [],
-                "desor": "DE5616d"
+                "desor": "DE5616d",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3359,51 +3368,54 @@
                 "value": "As before."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-07-15-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Festival Junction",
+                "title": "Festival Junction",
                 "releases": [
                     {
                         "label": "QD",
                         "catalog": "Q-050"
                     }
                 ],
-                "desor": "DE5617k"
+                "desor": "DE5617k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-15-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [
                     {
                         "label": "QD",
                         "catalog": "Q-050"
                     }
                 ],
-                "desor": "DE5617l"
+                "desor": "DE5617l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-15-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Newport Up",
+                "title": "Newport Up",
                 "releases": [
                     {
                         "label": "QD",
                         "catalog": "Q-050"
                     }
                 ],
-                "desor": "DE5617m"
+                "desor": "DE5617m",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3833,36 +3845,39 @@
                 "desor": "DE5618k"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-07-18-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Festival Junction",
+                "title": "Festival Junction",
                 "releases": [],
-                "desor": "DE5618l"
+                "desor": "DE5618l",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-18-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [],
-                "desor": "DE5618m"
+                "desor": "DE5618m",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-18-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Newport Up",
+                "title": "Newport Up",
                 "releases": [],
-                "desor": "DE5618n"
+                "desor": "DE5618n",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4013,36 +4028,39 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-07-19-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Festival Junction",
+                "title": "Festival Junction",
                 "releases": [],
-                "desor": "DE5619a"
+                "desor": "DE5619a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-19-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [],
-                "desor": "DE5619b"
+                "desor": "DE5619b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-19-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Newport Up",
+                "title": "Newport Up",
                 "releases": [],
-                "desor": "DE5619c"
+                "desor": "DE5619c",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4165,40 +4183,43 @@
                 "desor": "DE5621a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NIGHT CREATURE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NIGHT CREATURE"
             },
             {
                 "type": "take",
                 "index": "56-07-25-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blind Bug",
+                "title": "Blind Bug",
                 "releases": [],
-                "desor": "DE5621b"
+                "desor": "DE5621b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-25-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Stalking Monster",
+                "title": "Stalking Monster",
                 "releases": [],
-                "desor": "DE5621c"
+                "desor": "DE5621c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-25-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dazzling Creature",
+                "title": "Dazzling Creature",
                 "releases": [],
-                "desor": "DE5621d"
+                "desor": "DE5621d",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": "Cleveland Pops Orchestra out."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4383,18 +4404,14 @@
                 "desor": "DE5622a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-07-28-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Festival Junction",
+                "title": "Festival Junction",
                 "releases": [
                     {
                         "label": "IAJRC",
@@ -4405,13 +4422,14 @@
                         "catalog": "CD 1005"
                     }
                 ],
-                "desor": "DE5622b"
+                "desor": "DE5622b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-07-28-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [
                     {
                         "label": "IAJRC",
@@ -4422,13 +4440,14 @@
                         "catalog": "CD 1005"
                     }
                 ],
-                "desor": "DE5622c"
+                "desor": "DE5622c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-07-28-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Newport Up",
+                "title": "Newport Up",
                 "releases": [
                     {
                         "label": "IAJRC",
@@ -4439,7 +4458,12 @@
                         "catalog": "CD 1005"
                     }
                 ],
-                "desor": "DE5622d"
+                "desor": "DE5622d",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4863,18 +4887,14 @@
                 "desor": "DE5625d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUCH SWEET THUNDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUCH SWEET THUNDER"
             },
             {
                 "type": "take",
                 "index": "56-08-07-006",
                 "matrix": "CO56566-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Half The Fun",
+                "title": "Half The Fun",
                 "releases": [
                     {
                         "label": "Co",
@@ -4885,13 +4905,14 @@
                         "catalog": "2006"
                     }
                 ],
-                "desor": "DE5625e"
+                "desor": "DE5625e",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "56-08-07-007",
                 "matrix": "CO56566-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Half The Fun",
+                "title": "Half The Fun",
                 "releases": [
                     {
                         "label": "Co",
@@ -4910,7 +4931,12 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5625f"
+                "desor": "DE5625f",
+                "suite_index": 11
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5163,42 +5189,41 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Joya Sherrill, Margaret Tynes(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-09-17-001",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Matumbe)",
+                "title": "Congo Square (Matumbe)",
                 "releases": [],
-                "desor": "DE5629a"
+                "desor": "DE5629a",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-17-002",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Matumbe)",
+                "title": "Congo Square (Matumbe)",
                 "releases": [],
-                "desor": "DE5629b"
+                "desor": "DE5629b",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-17-003",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Matumbe)",
+                "title": "Congo Square (Matumbe)",
                 "releases": [],
-                "desor": "DE5629c"
+                "desor": "DE5629c",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-17-004",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Matumbe)",
+                "title": "Congo Square (Matumbe)",
                 "releases": [
                     {
                         "label": "Az",
@@ -5225,61 +5250,68 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5629d"
+                "desor": "DE5629d",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-17-005",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe",
+                "title": "Carribee Joe",
                 "releases": [],
-                "desor": "DE5629e"
+                "desor": "DE5629e",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-006",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [],
-                "desor": "DE5629f"
+                "desor": "DE5629f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-007",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [],
-                "desor": "DE5629g"
+                "desor": "DE5629g",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-008",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe",
+                "title": "Carribee Joe",
                 "releases": [],
-                "desor": "DE5629h"
+                "desor": "DE5629h",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-009",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe",
+                "title": "Carribee Joe",
                 "releases": [],
-                "desor": "DE5629i"
+                "desor": "DE5629i",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-010",
                 "matrix": "-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [],
-                "desor": "DE5629j"
+                "desor": "DE5629j",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-011",
                 "matrix": "-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [
                     {
                         "label": "Az",
@@ -5301,61 +5333,68 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5629k"
+                "desor": "DE5629k",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-012",
                 "matrix": "-9",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe",
+                "title": "Carribee Joe",
                 "releases": [],
-                "desor": "DE5629l"
+                "desor": "DE5629l",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-013",
                 "matrix": "-10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [],
-                "desor": "DE5629m"
+                "desor": "DE5629m",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-014",
                 "matrix": "-11",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [],
-                "desor": "DE5629n"
+                "desor": "DE5629n",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [],
-                "desor": "DE5629o"
+                "desor": "DE5629o",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe",
+                "title": "Carribee Joe",
                 "releases": [],
-                "desor": "DE5629p"
+                "desor": "DE5629p",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe",
+                "title": "Carribee Joe",
                 "releases": [],
-                "desor": "DE5629q"
+                "desor": "DE5629q",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Carribee Joe - vJS",
+                "title": "Carribee Joe - vJS",
                 "releases": [
                     {
                         "label": "Az",
@@ -5378,13 +5417,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5629r"
+                "desor": "DE5629r",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "56-09-17-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. A Drum Is A Woman - vMTy",
+                "title": "A Drum Is A Woman - vMTy",
                 "releases": [
                     {
                         "label": "Az",
@@ -5411,26 +5451,28 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5629s"
+                "desor": "DE5629s",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-09-17-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. A Drum Is A Woman - vMTy",
+                "title": "A Drum Is A Woman - vMTy",
                 "releases": [
                     {
                         "label": "Az",
                         "catalog": "411"
                     }
                 ],
-                "desor": "DE5629t"
+                "desor": "DE5629t",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "56-09-17-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Rhumbop - vJS",
+                "title": "Rhumbop - vJS",
                 "releases": [
                     {
                         "label": "Co",
@@ -5449,20 +5491,22 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5629u"
+                "desor": "DE5629u",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "56-09-17-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Rhumbop - vJS",
+                "title": "Rhumbop - vJS",
                 "releases": [
                     {
                         "label": "Az",
                         "catalog": "411"
                     }
                 ],
-                "desor": "DE5629v"
+                "desor": "DE5629v",
+                "suite_index": 13
             },
             {
                 "type": "note",
@@ -5545,82 +5589,86 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Ozzie Bailey, Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-09-24-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
+                "title": "Rhythm Pum Te Dum - vCho",
                 "releases": [],
-                "desor": "DE5630a"
+                "desor": "DE5630a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-09-24-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
+                "title": "Rhythm Pum Te Dum - vCho",
                 "releases": [],
-                "desor": "DE5630b"
+                "desor": "DE5630b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-09-24-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
+                "title": "Caribee Joe - vCho",
                 "releases": [],
-                "desor": "DE5630c"
+                "desor": "DE5630c",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-24-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
+                "title": "Caribee Joe - vCho",
                 "releases": [],
-                "desor": "DE5630d"
+                "desor": "DE5630d",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-24-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
+                "title": "Caribee Joe - vCho",
                 "releases": [],
-                "desor": "DE5630e"
+                "desor": "DE5630e",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-24-006",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
+                "title": "Rhythm Pum Te Dum - vCho",
                 "releases": [],
-                "desor": "DE5630f"
+                "desor": "DE5630f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-09-24-007",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
+                "title": "Rhythm Pum Te Dum - vCho",
                 "releases": [],
-                "desor": "DE5630g"
+                "desor": "DE5630g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-09-24-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
+                "title": "Rhythm Pum Te Dum - vCho",
                 "releases": [],
-                "desor": "DE5630h"
+                "desor": "DE5630h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-09-24-009",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum - vCho",
+                "title": "Rhythm Pum Te Dum - vCho",
                 "releases": [
                     {
                         "label": "Co",
@@ -5643,13 +5691,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5630i"
+                "desor": "DE5630i",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-09-24-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
+                "title": "Caribee Joe - vCho",
                 "releases": [
                     {
                         "label": "Co",
@@ -5667,53 +5716,59 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5630j"
+                "desor": "DE5630j",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-24-011",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. What Else Can You Do With A Drum? - vOB",
+                "title": "What Else Can You Do With A Drum? - vOB",
                 "releases": [],
-                "desor": "DE5630k"
+                "desor": "DE5630k",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "56-09-24-012",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. What Else Can You Do With A Drum? - vOB",
+                "title": "What Else Can You Do With A Drum? - vOB",
                 "releases": [],
-                "desor": "DE5630l"
+                "desor": "DE5630l",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "56-09-24-013",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. What Else Can You Do With A Drum?",
+                "title": "What Else Can You Do With A Drum?",
                 "releases": [],
-                "desor": "DE5630m"
+                "desor": "DE5630m",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "56-09-24-014",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. What Else Can You Do With A Drum? - vOB",
+                "title": "What Else Can You Do With A Drum? - vOB",
                 "releases": [],
-                "desor": "DE5630n"
+                "desor": "DE5630n",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "56-09-24-015",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. What Else Can You Do With A Drum?",
+                "title": "What Else Can You Do With A Drum?",
                 "releases": [],
-                "desor": "DE5630o"
+                "desor": "DE5630o",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "56-09-24-016",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. What Else Can You Do With A Drum? - vOB",
+                "title": "What Else Can You Do With A Drum? - vOB",
                 "releases": [
                     {
                         "label": "Az",
@@ -5744,85 +5799,95 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5630p"
+                "desor": "DE5630p",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "56-09-24-017",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
+                "title": "Caribee Joe - vCho",
                 "releases": [],
-                "desor": "DE5630q"
+                "desor": "DE5630q",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-24-018",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
+                "title": "Caribee Joe - vCho",
                 "releases": [],
-                "desor": "DE5630r"
+                "desor": "DE5630r",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-24-019",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vCho",
+                "title": "Caribee Joe - vCho",
                 "releases": [],
-                "desor": "DE5630s"
+                "desor": "DE5630s",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-24-020",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square",
+                "title": "Congo Square",
                 "releases": [],
-                "desor": "DE5630t"
+                "desor": "DE5630t",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-021",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence A)",
+                "title": "Congo Square (Silence A)",
                 "releases": [],
-                "desor": "DE5630u"
+                "desor": "DE5630u",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-022",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence A)",
+                "title": "Congo Square (Silence A)",
                 "releases": [],
-                "desor": "DE5630v"
+                "desor": "DE5630v",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-023",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence A)",
+                "title": "Congo Square (Silence A)",
                 "releases": [],
-                "desor": "DE5630w"
+                "desor": "DE5630w",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-024",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence A)",
+                "title": "Congo Square (Silence A)",
                 "releases": [],
-                "desor": "DE5630x"
+                "desor": "DE5630x",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-025",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence A)",
+                "title": "Congo Square (Silence A)",
                 "releases": [],
-                "desor": "DE5630y"
+                "desor": "DE5630y",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-026",
                 "matrix": "-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence A)",
+                "title": "Congo Square (Silence A)",
                 "releases": [
                     {
                         "label": "Az",
@@ -5849,61 +5914,68 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5630z"
+                "desor": "DE5630z",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-027",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence B)",
+                "title": "Congo Square (Silence B)",
                 "releases": [],
-                "desor": "DE5630aa"
+                "desor": "DE5630aa",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-028",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence B)",
+                "title": "Congo Square (Silence B)",
                 "releases": [],
-                "desor": "DE5630ab"
+                "desor": "DE5630ab",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-029",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence B)",
+                "title": "Congo Square (Silence B)",
                 "releases": [],
-                "desor": "DE5630ac"
+                "desor": "DE5630ac",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-030",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence C)",
+                "title": "Congo Square (Silence C)",
                 "releases": [],
-                "desor": "DE5630ad"
+                "desor": "DE5630ad",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-031",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence C)",
+                "title": "Congo Square (Silence C)",
                 "releases": [],
-                "desor": "DE5630ae"
+                "desor": "DE5630ae",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-032",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence C)",
+                "title": "Congo Square (Silence C)",
                 "releases": [],
-                "desor": "DE5630af"
+                "desor": "DE5630af",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-24-033",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Silence C)",
+                "title": "Congo Square (Silence C)",
                 "releases": [
                     {
                         "label": "Co",
@@ -5926,7 +5998,8 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5630ag"
+                "desor": "DE5630ag",
+                "suite_index": 7
             },
             {
                 "type": "note",
@@ -5945,18 +6018,14 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington, Billy Strayhorn(p); Jimmy Woode(sb); Sam Woodyard(d); Joya Sherrill, Margaret Tynes, Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-09-25-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. A Drum Is A Woman  - vMTy",
+                "title": "A Drum Is A Woman  - vMTy",
                 "releases": [
                     {
                         "label": "Az",
@@ -5983,13 +6052,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5631a"
+                "desor": "DE5631a",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "56-09-25-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Hey Buddy Bolden  - vJS, Cho",
+                "title": "Hey Buddy Bolden  - vJS, Cho",
                 "releases": [
                     {
                         "label": "Az",
@@ -6016,13 +6086,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5631b"
+                "desor": "DE5631b",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "56-09-25-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe - vJS",
+                "title": "Caribee Joe - vJS",
                 "releases": [
                     {
                         "label": "Co",
@@ -6041,20 +6112,22 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5631c"
+                "desor": "DE5631c",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "56-09-25-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caribee Joe",
+                "title": "Caribee Joe",
                 "releases": [
                     {
                         "label": "Az",
                         "catalog": "411"
                     }
                 ],
-                "desor": "DE5631d"
+                "desor": "DE5631d",
+                "suite_index": 14
             },
             {
                 "type": "artists",
@@ -6064,7 +6137,7 @@
                 "type": "take",
                 "index": "56-09-25-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square",
+                "title": "Congo Square",
                 "releases": [
                     {
                         "label": "Az",
@@ -6087,7 +6160,8 @@
                         "catalog": "933"
                     }
                 ],
-                "desor": "DE5631e"
+                "desor": "DE5631e",
+                "suite_index": 7
             },
             {
                 "type": "artists",
@@ -6097,7 +6171,7 @@
                 "type": "take",
                 "index": "56-09-25-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madam Zajj",
+                "title": "Madam Zajj",
                 "releases": [
                     {
                         "label": "Az",
@@ -6120,20 +6194,22 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5631f"
+                "desor": "DE5631f",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "56-09-25-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madam Zajj",
+                "title": "Madam Zajj",
                 "releases": [
                     {
                         "label": "Az",
                         "catalog": "411"
                     }
                 ],
-                "desor": "DE5631g"
+                "desor": "DE5631g",
+                "suite_index": 10
             },
             {
                 "type": "note",
@@ -6152,26 +6228,23 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Tom Whaley(d); Marion Bruce, Margaret Tynes(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-09-28-001",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Sunrise Act 1)",
+                "title": "New Orleans (Sunrise Act 1)",
                 "releases": [],
-                "desor": "DE5632a"
+                "desor": "DE5632a",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-002",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Sunrise Act 1)",
+                "title": "New Orleans (Sunrise Act 1)",
                 "releases": [
                     {
                         "label": "Az",
@@ -6198,13 +6271,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5632b"
+                "desor": "DE5632b",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-003",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Sunrise Act 2)",
+                "title": "New Orleans (Sunrise Act 2)",
                 "releases": [
                     {
                         "label": "Az",
@@ -6226,29 +6300,32 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5632c"
+                "desor": "DE5632c",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-004",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Sunrise Act 2)",
+                "title": "New Orleans (Sunrise Act 2)",
                 "releases": [],
-                "desor": "DE5632d"
+                "desor": "DE5632d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-005",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Sunrise Act 2)",
+                "title": "New Orleans (Sunrise Act 2)",
                 "releases": [],
-                "desor": "DE5632e"
+                "desor": "DE5632e",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-006",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Sunrise Act 2)",
+                "title": "New Orleans (Sunrise Act 2)",
                 "releases": [
                     {
                         "label": "Az",
@@ -6259,69 +6336,77 @@
                         "catalog": "JCL 951"
                     }
                 ],
-                "desor": "DE5632f"
+                "desor": "DE5632f",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-007",
                 "matrix": "-9",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Sunrise Act 2)",
+                "title": "New Orleans (Sunrise Act 2)",
                 "releases": [],
-                "desor": "DE5632g"
+                "desor": "DE5632g",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-008",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Rhumbop (Terry)",
+                "title": "Rhumbop (Terry)",
                 "releases": [],
-                "desor": "DE5632h"
+                "desor": "DE5632h",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "56-09-28-009",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Rhumbop (Terry)",
+                "title": "Rhumbop (Terry)",
                 "releases": [],
-                "desor": "DE5632i"
+                "desor": "DE5632i",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "56-09-28-010",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Rhumbop (Hamilton)",
+                "title": "Rhumbop (Hamilton)",
                 "releases": [],
-                "desor": "DE5632j"
+                "desor": "DE5632j",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "56-09-28-011",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Rhumbop (Hamilton)",
+                "title": "Rhumbop (Hamilton)",
                 "releases": [],
-                "desor": "DE5632k"
+                "desor": "DE5632k",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "56-09-28-012",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Rhumbop (Hamilton)",
+                "title": "Rhumbop (Hamilton)",
                 "releases": [],
-                "desor": "DE5632l"
+                "desor": "DE5632l",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "56-09-28-013",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Hey Buddy Bolden",
+                "title": "Hey Buddy Bolden",
                 "releases": [],
-                "desor": "DE5632m"
+                "desor": "DE5632m",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "56-09-28-014",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Hey Buddy Bolden",
+                "title": "Hey Buddy Bolden",
                 "releases": [
                     {
                         "label": "Az",
@@ -6343,93 +6428,104 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5632n"
+                "desor": "DE5632n",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "56-09-28-015",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632o"
+                "desor": "DE5632o",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-016",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632p"
+                "desor": "DE5632p",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-017",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632q"
+                "desor": "DE5632q",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-018",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632r"
+                "desor": "DE5632r",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-019",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632s"
+                "desor": "DE5632s",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-020",
                 "matrix": "-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632t"
+                "desor": "DE5632t",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-021",
                 "matrix": "-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632u"
+                "desor": "DE5632u",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-022",
                 "matrix": "-9",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632v"
+                "desor": "DE5632v",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-023",
                 "matrix": "-10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632w"
+                "desor": "DE5632w",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-024",
                 "matrix": "-11",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [],
-                "desor": "DE5632x"
+                "desor": "DE5632x",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-025",
                 "matrix": "-12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Carribee Interlude)",
+                "title": "Zajj's Dream (Carribee Interlude)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6448,29 +6544,32 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5632y"
+                "desor": "DE5632y",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-026",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Parade)",
+                "title": "New Orleans (Parade)",
                 "releases": [],
-                "desor": "DE5632z"
+                "desor": "DE5632z",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-027",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Parade)",
+                "title": "New Orleans (Parade)",
                 "releases": [],
-                "desor": "DE5632aa"
+                "desor": "DE5632aa",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "56-09-28-028",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. New Orleans (Parade)",
+                "title": "New Orleans (Parade)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6498,7 +6597,12 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5632ab"
+                "desor": "DE5632ab",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6525,26 +6629,23 @@
                 "desor": "DE5632ae"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-09-28-032",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Anderson Ending)",
+                "title": "Zajj's Dream (Anderson Ending)",
                 "releases": [],
-                "desor": "DE5632af"
+                "desor": "DE5632af",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-033",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Anderson Ending)",
+                "title": "Zajj's Dream (Anderson Ending)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6562,21 +6663,23 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5632ag"
+                "desor": "DE5632ag",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-09-28-034",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Gonsalves Stanza)",
+                "title": "Congo Square (Gonsalves Stanza)",
                 "releases": [],
-                "desor": "DE5632ah"
+                "desor": "DE5632ah",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-28-035",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Gonsalves Stanza)",
+                "title": "Congo Square (Gonsalves Stanza)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6599,21 +6702,23 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5632ai"
+                "desor": "DE5632ai",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-09-28-036",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. A Drum Is A Woman (Ending Drum) - vMTy",
+                "title": "A Drum Is A Woman (Ending Drum) - vMTy",
                 "releases": [],
-                "desor": "DE5632aj"
+                "desor": "DE5632aj",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "56-09-28-037",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. A Drum Is A Woman (Ending Drum) - vMTy",
+                "title": "A Drum Is A Woman (Ending Drum) - vMTy",
                 "releases": [
                     {
                         "label": "Co",
@@ -6636,23 +6741,26 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5632ak"
+                "desor": "DE5632ak",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "56-09-28-038",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;??. Trumpet Fugue",
+                "title": "Trumpet Fugue",
                 "releases": [],
-                "desor": "DE5632al"
+                "desor": "DE5632al",
+                "suite_index": "??."
             },
             {
                 "type": "take",
                 "index": "56-09-28-039",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;??. Trumpet Fugue",
+                "title": "Trumpet Fugue",
                 "releases": [],
-                "desor": "DE5632am"
+                "desor": "DE5632am",
+                "suite_index": "??."
             },
             {
                 "type": "note",
@@ -6671,18 +6779,14 @@
                 "value": "Duke Ellington(p,tk); Candido Camero(bo); Joya Sherrill(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-10-22-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum (Carribee Sequence)",
+                "title": "Rhythm Pum Te Dum (Carribee Sequence)",
                 "releases": [
                     {
                         "label": "CSP",
@@ -6690,13 +6794,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5633a"
+                "desor": "DE5633a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-10-22-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Rhythm Pum Te Dum (Carribee Sequence) - vJS",
+                "title": "Rhythm Pum Te Dum (Carribee Sequence) - vJS",
                 "releases": [
                     {
                         "label": "Az",
@@ -6718,7 +6823,8 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5633b"
+                "desor": "DE5633b",
+                "suite_index": 2
             },
             {
                 "type": "artists",
@@ -6728,7 +6834,7 @@
                 "type": "take",
                 "index": "56-10-22-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madam Zajj (Carribee Sequence) - vJS",
+                "title": "Madam Zajj (Carribee Sequence) - vJS",
                 "releases": [
                     {
                         "label": "Co",
@@ -6746,7 +6852,8 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5633c"
+                "desor": "DE5633c",
+                "suite_index": 10
             },
             {
                 "type": "artists",
@@ -6756,7 +6863,7 @@
                 "type": "take",
                 "index": "56-10-22-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;??. Narration To A DRUM IS A WOMAN",
+                "title": "Narration To A DRUM IS A WOMAN",
                 "releases": [
                     {
                         "label": "Co",
@@ -6771,7 +6878,8 @@
                         "catalog": "933"
                     }
                 ],
-                "desor": "DE5633d"
+                "desor": "DE5633d",
+                "suite_index": "??."
             }
         ]
     },
@@ -6786,18 +6894,14 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges, Rick Henderson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Betty Glamann(ha); Jimmy Woode(sb); Sam Woodyard, Louie Bellson(d); Terry Snyder(d,ch)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-10-23-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Ballet Of The Flying Saucers (Code Sequence)",
+                "title": "Ballet Of The Flying Saucers (Code Sequence)",
                 "releases": [
                     {
                         "label": "Az",
@@ -6819,13 +6923,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5634a"
+                "desor": "DE5634a",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "56-10-23-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Congo Square (Bass Drum Solo)",
+                "title": "Congo Square (Bass Drum Solo)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6848,13 +6953,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5634b"
+                "desor": "DE5634b",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "56-10-23-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Ballet Of The Flying Saucers",
+                "title": "Ballet Of The Flying Saucers",
                 "releases": [
                     {
                         "label": "Az",
@@ -6877,13 +6983,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5634c"
+                "desor": "DE5634c",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "56-10-23-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Harp Chords)",
+                "title": "Zajj's Dream (Harp Chords)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6901,13 +7008,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5634d"
+                "desor": "DE5634d",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "56-10-23-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Zajj's Dream (Tympani Roll)",
+                "title": "Zajj's Dream (Tympani Roll)",
                 "releases": [
                     {
                         "label": "Co",
@@ -6925,7 +7033,8 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5634e"
+                "desor": "DE5634e",
+                "suite_index": 12
             }
         ]
     },
@@ -6948,20 +7057,21 @@
                 "desor": "DE5635a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-11-18-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Festival Junction",
+                "title": "Festival Junction",
                 "releases": [],
-                "desor": "DE5635b"
+                "desor": "DE5635b",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6980,28 +7090,26 @@
                 "desor": "DE5635d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEWPORT JAZZ FESTIVAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEWPORT JAZZ FESTIVAL SUITE"
             },
             {
                 "type": "take",
                 "index": "56-11-18-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [],
-                "desor": "DE5635e"
+                "desor": "DE5635e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "56-11-18-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Newport Up",
+                "title": "Newport Up",
                 "releases": [],
-                "desor": "DE5635f"
+                "desor": "DE5635f",
+                "suite_index": 3
             }
         ]
     },
@@ -7124,31 +7232,28 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Margaret Tynes, Ozzie Bailey(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A DRUM IS A WOMAN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A DRUM IS A WOMAN"
             },
             {
                 "type": "take",
                 "index": "56-12-06-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. You Better Know It",
+                "title": "You Better Know It",
                 "releases": [
                     {
                         "label": "Az",
                         "catalog": "411"
                     }
                 ],
-                "desor": "DE5638a"
+                "desor": "DE5638a",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "56-12-06-002",
                 "matrix": "CO57013-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. You Better Know It - vOB",
+                "title": "You Better Know It - vOB",
                 "releases": [
                     {
                         "label": "Az",
@@ -7175,13 +7280,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5638b"
+                "desor": "DE5638b",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "56-12-06-003",
                 "matrix": "-10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. Finale # - vMT,OB",
+                "title": "Finale # - vMT,OB",
                 "releases": [
                     {
                         "label": "Co",
@@ -7200,7 +7306,12 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5638c"
+                "desor": "DE5638c",
+                "suite_index": 15
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

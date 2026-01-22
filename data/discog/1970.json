@@ -179,18 +179,14 @@
                 "desor": "DE7002g"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LATIN-AMERICAN SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LATIN-AMERICAN SUITE"
             },
             {
                 "type": "take",
                 "index": "70-01-07-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Tina",
+                "title": "Tina",
                 "releases": [
                     {
                         "label": "Fa",
@@ -201,11 +197,16 @@
                         "catalog": "469-2"
                     }
                 ],
-                "desor": "DE7002h"
+                "desor": "DE7002h",
+                "suite_index": 1
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Victor Gaskin(sb); Rufus Jones(d)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2799,14 +2800,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE RIVER",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "70-03-09-001",
                 "matrix": "01",
                 "title": "04. The Giggling Rapids [Grap]",
@@ -3035,14 +3028,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "70-03-14-001",
                 "matrix": null,
                 "title": "01. Praise God And Dance [Opening Title]",
@@ -3192,14 +3177,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Willie Cook(t); Booty Wood, Julian Priester(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins, Devonne Gardner, Nanice Lund, Unk Choir(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -4936,52 +4913,57 @@
                 "desor": "DE7033b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEW ORLEANS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEW ORLEANS SUITE"
             },
             {
                 "type": "take",
                 "index": "70-04-23-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Thanks For The Beautiful Land",
+                "title": "Thanks For The Beautiful Land",
                 "releases": [],
-                "desor": "DE7033c"
+                "desor": "DE7033c",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-04-23-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Aristocracy À La Jean Lafitte",
+                "title": "Aristocracy À La Jean Lafitte",
                 "releases": [],
-                "desor": "DE7033d"
+                "desor": "DE7033d",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "70-04-23-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Second Line",
+                "title": "Second Line",
                 "releases": [],
-                "desor": "DE7033e"
+                "desor": "DE7033e",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-04-23-025",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7033f"
+                "desor": "DE7033f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-23-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blues For New Orleans",
+                "title": "Blues For New Orleans",
                 "releases": [],
-                "desor": "DE7033g"
+                "desor": "DE7033g",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5038,21 +5020,22 @@
                 "youtube": "https://www.youtube.com/watch?v=oihgKaUS-wA"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEW ORLEANS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEW ORLEANS SUITE"
             },
             {
                 "type": "take",
                 "index": "70-04-25-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blues For New Orleans",
+                "title": "Blues For New Orleans",
                 "releases": [],
                 "desor": null,
+                "suite_index": 1,
                 "youtube": "https://www.youtube.com/watch?v=BLP6_CxSaQY"
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5161,134 +5144,144 @@
                 "value": "Cootie Williams, Al Rubin, Harold \"Money\" Johnson, Fred Stone(t); Booty Wood, Julian Priester(tb); Dave Taylor(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEW ORLEANS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEW ORLEANS SUITE"
             },
             {
                 "type": "take",
                 "index": "70-04-27-001",
                 "matrix": "01",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Second Line",
+                "title": "Second Line",
                 "releases": [],
-                "desor": "DE7034a"
+                "desor": "DE7034a",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-04-27-002",
                 "matrix": "02",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Second Line",
+                "title": "Second Line",
                 "releases": [],
-                "desor": "DE7034b"
+                "desor": "DE7034b",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-04-27-003",
                 "matrix": "03",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Second Line",
+                "title": "Second Line",
                 "releases": [],
-                "desor": "DE7034c"
+                "desor": "DE7034c",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-04-27-004",
                 "matrix": "04",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Second Line",
+                "title": "Second Line",
                 "releases": [],
-                "desor": "DE7034d"
+                "desor": "DE7034d",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-04-27-005",
                 "matrix": "05",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Second Line",
+                "title": "Second Line",
                 "releases": [],
-                "desor": "DE7034e"
+                "desor": "DE7034e",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-04-27-006",
                 "matrix": "06",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Second Line",
+                "title": "Second Line",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7034f"
+                "desor": "DE7034f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-04-27-007",
                 "matrix": "07",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7034g"
+                "desor": "DE7034g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-27-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7034h"
+                "desor": "DE7034h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-27-009",
                 "matrix": "09",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7034i"
+                "desor": "DE7034i",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-27-010",
                 "matrix": "12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7034j"
+                "desor": "DE7034j",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-27-011",
                 "matrix": "14",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7034k"
+                "desor": "DE7034k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-27-012",
                 "matrix": "15",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7034l"
+                "desor": "DE7034l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-27-013",
                 "matrix": "16",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [],
-                "desor": "DE7034m"
+                "desor": "DE7034m",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-04-27-014",
                 "matrix": "18",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Bourbon Street Jingling Jollies",
+                "title": "Bourbon Street Jingling Jollies",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7034n"
+                "desor": "DE7034n",
+                "suite_index": 2
             },
             {
                 "type": "artists",
@@ -5298,67 +5291,74 @@
                 "type": "take",
                 "index": "70-04-27-015",
                 "matrix": "20",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Aristocracy À La Jean Lafitte",
+                "title": "Aristocracy À La Jean Lafitte",
                 "releases": [],
-                "desor": "DE7034o"
+                "desor": "DE7034o",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "70-04-27-016",
                 "matrix": "21",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Aristocracy À La Jean Lafitte",
+                "title": "Aristocracy À La Jean Lafitte",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7034p"
+                "desor": "DE7034p",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "70-04-27-017",
                 "matrix": "22",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Aristocracy À La Jean Lafitte",
+                "title": "Aristocracy À La Jean Lafitte",
                 "releases": [],
-                "desor": "DE7034q"
+                "desor": "DE7034q",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "70-04-27-018",
                 "matrix": "33",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Thanks For The Beautiful Land",
+                "title": "Thanks For The Beautiful Land",
                 "releases": [],
-                "desor": "DE7034r"
+                "desor": "DE7034r",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-04-27-019",
                 "matrix": "34",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Thanks For The Beautiful Land",
+                "title": "Thanks For The Beautiful Land",
                 "releases": [],
-                "desor": "DE7034s"
+                "desor": "DE7034s",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-04-27-020",
                 "matrix": "35",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Thanks For The Beautiful Land",
+                "title": "Thanks For The Beautiful Land",
                 "releases": [],
-                "desor": "DE7034t"
+                "desor": "DE7034t",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-04-27-021",
                 "matrix": "36",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Thanks For The Beautiful Land",
+                "title": "Thanks For The Beautiful Land",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7034u"
+                "desor": "DE7034u",
+                "suite_index": 4
             },
             {
                 "type": "artists",
@@ -5368,30 +5368,37 @@
                 "type": "take",
                 "index": "70-04-27-022",
                 "matrix": "39",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blues For New Orleans",
+                "title": "Blues For New Orleans",
                 "releases": [],
-                "desor": "DE7034v"
+                "desor": "DE7034v",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-04-27-023",
                 "matrix": "40",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blues For New Orleans",
+                "title": "Blues For New Orleans",
                 "releases": [],
-                "desor": "DE7034w"
+                "desor": "DE7034w",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-04-27-024",
                 "matrix": "41",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blues For New Orleans",
+                "title": "Blues For New Orleans",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7034x"
+                "desor": "DE7034x",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5451,26 +5458,23 @@
                 "value": "Duke Ellington(p)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE RIVER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE RIVER"
             },
             {
                 "type": "take",
                 "index": "70-05-11-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. The Spring",
+                "title": "The Spring",
                 "releases": [],
-                "desor": "DE7036a"
+                "desor": "DE7036a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-05-11-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. The Spring",
+                "title": "The Spring",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5481,13 +5485,14 @@
                         "catalog": "108 8617"
                     }
                 ],
-                "desor": "DE7036b"
+                "desor": "DE7036b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-05-11-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5498,13 +5503,14 @@
                         "catalog": "108 8617"
                     }
                 ],
-                "desor": "DE7036c"
+                "desor": "DE7036c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-11-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Meander",
+                "title": "Meander",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5515,13 +5521,14 @@
                         "catalog": "108 8617"
                     }
                 ],
-                "desor": "DE7036d"
+                "desor": "DE7036d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-11-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5532,21 +5539,23 @@
                         "catalog": "108 8617"
                     }
                 ],
-                "desor": "DE7036e"
+                "desor": "DE7036e",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-05-11-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. The Lake",
+                "title": "The Lake",
                 "releases": [],
-                "desor": "DE7036f"
+                "desor": "DE7036f",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-11-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. The Lake",
+                "title": "The Lake",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5557,13 +5566,14 @@
                         "catalog": "108 8617"
                     }
                 ],
-                "desor": "DE7036g"
+                "desor": "DE7036g",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-11-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5574,7 +5584,8 @@
                         "catalog": "108 8617"
                     }
                 ],
-                "desor": "DE7036h"
+                "desor": "DE7036h",
+                "suite_index": 9
             }
         ]
     },
@@ -5589,193 +5600,209 @@
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Fred Stone(t); Booty Wood, Julian Priester(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEW ORLEANS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEW ORLEANS SUITE"
             },
             {
                 "type": "take",
                 "index": "70-05-13-001",
                 "matrix": "02",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Portrait Of Wellman Braud",
+                "title": "Portrait Of Wellman Braud",
                 "releases": [],
-                "desor": "DE7037a"
+                "desor": "DE7037a",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-13-002",
                 "matrix": "03",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Portrait Of Wellman Braud",
+                "title": "Portrait Of Wellman Braud",
                 "releases": [],
-                "desor": "DE7037b"
+                "desor": "DE7037b",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-13-003",
                 "matrix": "04",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Portrait Of Wellman Braud",
+                "title": "Portrait Of Wellman Braud",
                 "releases": [],
-                "desor": "DE7037c"
+                "desor": "DE7037c",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-13-004",
                 "matrix": "06",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Portrait Of Wellman Braud",
+                "title": "Portrait Of Wellman Braud",
                 "releases": [],
-                "desor": "DE7037d"
+                "desor": "DE7037d",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-13-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Portrait Of Wellman Braud",
+                "title": "Portrait Of Wellman Braud",
                 "releases": [],
-                "desor": "DE7037e"
+                "desor": "DE7037e",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-13-006",
                 "matrix": "07",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Portrait Of Wellman Braud",
+                "title": "Portrait Of Wellman Braud",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7037f"
+                "desor": "DE7037f",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-13-007",
                 "matrix": "08",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037g"
+                "desor": "DE7037g",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-008",
                 "matrix": "09",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037h"
+                "desor": "DE7037h",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-009",
                 "matrix": "10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037i"
+                "desor": "DE7037i",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-010",
                 "matrix": "11",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037j"
+                "desor": "DE7037j",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-011",
                 "matrix": "12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037k"
+                "desor": "DE7037k",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-012",
                 "matrix": "14",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037l"
+                "desor": "DE7037l",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-013",
                 "matrix": "15",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037m"
+                "desor": "DE7037m",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-014",
                 "matrix": "16",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037n"
+                "desor": "DE7037n",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-015",
                 "matrix": "17",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [],
-                "desor": "DE7037o"
+                "desor": "DE7037o",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-016",
                 "matrix": "19",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Portrait Of Sidney Bechet",
+                "title": "Portrait Of Sidney Bechet",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7037p"
+                "desor": "DE7037p",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-05-13-017",
                 "matrix": "20",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7037q"
+                "desor": "DE7037q",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-13-018",
                 "matrix": "21",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7037r"
+                "desor": "DE7037r",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-13-019",
                 "matrix": "22",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7037s"
+                "desor": "DE7037s",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-13-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7037t"
+                "desor": "DE7037t",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-13-021",
                 "matrix": "23",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [
                     {
                         "label": "At",
@@ -5783,28 +5810,31 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE7037u"
+                "desor": "DE7037u",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-13-022",
                 "matrix": "26",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Portrait Of Mahalia Jackson",
+                "title": "Portrait Of Mahalia Jackson",
                 "releases": [],
-                "desor": "DE7037v"
+                "desor": "DE7037v",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-05-13-023",
                 "matrix": "28",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Portrait Of Mahalia Jackson",
+                "title": "Portrait Of Mahalia Jackson",
                 "releases": [
                     {
                         "label": "At",
                         "catalog": "SD 1580"
                     }
                 ],
-                "desor": "DE7037w"
+                "desor": "DE7037w",
+                "suite_index": 9
             }
         ]
     },
@@ -5863,224 +5893,239 @@
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Fred Stone(t); Booty Wood, Julian Priester(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NEW ORLEANS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NEW ORLEANS SUITE"
             },
             {
                 "type": "take",
                 "index": "70-05-25-001",
                 "matrix": "01",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7039a"
+                "desor": "DE7039a",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-002",
                 "matrix": "02",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7039b"
+                "desor": "DE7039b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-003",
                 "matrix": "03",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7039c"
+                "desor": "DE7039c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-004",
                 "matrix": "04",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7039d"
+                "desor": "DE7039d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-005",
                 "matrix": "05",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7039e"
+                "desor": "DE7039e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-006",
                 "matrix": "06",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Portrait Of Louis Armstrong",
+                "title": "Portrait Of Louis Armstrong",
                 "releases": [],
-                "desor": "DE7039f"
+                "desor": "DE7039f",
+                "suite_index": 3
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE RIVER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE RIVER"
             },
             {
                 "type": "take",
                 "index": "70-05-25-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039g"
+                "desor": "DE7039g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-008",
                 "matrix": "07",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039h"
+                "desor": "DE7039h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-009",
                 "matrix": "09",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039i"
+                "desor": "DE7039i",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-010",
                 "matrix": "10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039j"
+                "desor": "DE7039j",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-011",
                 "matrix": "11",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039k"
+                "desor": "DE7039k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-012",
                 "matrix": "12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039l"
+                "desor": "DE7039l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-013",
                 "matrix": "13",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039m"
+                "desor": "DE7039m",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-014",
                 "matrix": "14",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039n"
+                "desor": "DE7039n",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-015",
                 "matrix": "15",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [],
-                "desor": "DE7039o"
+                "desor": "DE7039o",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-016",
                 "matrix": "16",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. The Run = Marcia Regina",
+                "title": "The Run = Marcia Regina",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7039p"
+                "desor": "DE7039p",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-25-017",
                 "matrix": "17",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Meander",
+                "title": "Meander",
                 "releases": [],
-                "desor": "DE7039q"
+                "desor": "DE7039q",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-018",
                 "matrix": "19",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Meander",
+                "title": "Meander",
                 "releases": [],
-                "desor": "DE7039r"
+                "desor": "DE7039r",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-019",
                 "matrix": "20",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Meander",
+                "title": "Meander",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7039s"
+                "desor": "DE7039s",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-05-25-020",
                 "matrix": "21",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. The Lake",
+                "title": "The Lake",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7039t"
+                "desor": "DE7039t",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "70-05-25-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7039u"
+                "desor": "DE7039u",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-05-25-022",
                 "matrix": "22",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7039v"
+                "desor": "DE7039v",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-05-25-023",
                 "matrix": "23",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7039w"
+                "desor": "DE7039w",
+                "suite_index": 4
             },
             {
                 "type": "artists",
@@ -6090,14 +6135,15 @@
                 "type": "take",
                 "index": "70-05-25-024",
                 "matrix": "24",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. The Spring",
+                "title": "The Spring",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7039x"
+                "desor": "DE7039x",
+                "suite_index": 1
             }
         ]
     },
@@ -6146,18 +6192,14 @@
                 "desor": "DE7040b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "70-05-28-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [
                     {
                         "label": "De",
@@ -6168,13 +6210,14 @@
                         "catalog": "MCAD-42318"
                     }
                 ],
-                "desor": "DE7040c"
+                "desor": "DE7040c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-05-28-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [
                     {
                         "label": "De",
@@ -6185,13 +6228,14 @@
                         "catalog": "MCAD-42318"
                     }
                 ],
-                "desor": "DE7040d"
+                "desor": "DE7040d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-05-28-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [
                     {
                         "label": "De",
@@ -6202,7 +6246,8 @@
                         "catalog": "MCAD-42318"
                     }
                 ],
-                "desor": "DE7040e"
+                "desor": "DE7040e",
+                "suite_index": 3
             }
         ]
     },
@@ -6454,25 +6499,22 @@
                 "value": "Cootie Williams, Cat Anderson, Al Rubin, Fred Stone(t); Booty Wood, Julian Priester(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE RIVER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE RIVER"
             },
             {
                 "type": "take",
                 "index": "70-06-03-001",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. The Village Of The Virgins",
+                "title": "The Village Of The Virgins",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7042a"
+                "desor": "DE7042a",
+                "suite_index": 10
             },
             {
                 "type": "artists",
@@ -6482,166 +6524,186 @@
                 "type": "take",
                 "index": "70-06-03-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042b"
+                "desor": "DE7042b",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042c"
+                "desor": "DE7042c",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042d"
+                "desor": "DE7042d",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042e"
+                "desor": "DE7042e",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042f"
+                "desor": "DE7042f",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042g"
+                "desor": "DE7042g",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042h"
+                "desor": "DE7042h",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042i"
+                "desor": "DE7042i",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042j"
+                "desor": "DE7042j",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042k"
+                "desor": "DE7042k",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042l"
+                "desor": "DE7042l",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042m"
+                "desor": "DE7042m",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-014",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042n"
+                "desor": "DE7042n",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-015",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042o"
+                "desor": "DE7042o",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-016",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042p"
+                "desor": "DE7042p",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042q"
+                "desor": "DE7042q",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-018",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042r"
+                "desor": "DE7042r",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-019",
                 "matrix": "-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042s"
+                "desor": "DE7042s",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-020",
                 "matrix": "-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [],
-                "desor": "DE7042t"
+                "desor": "DE7042t",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "70-06-03-021",
                 "matrix": "-9",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. The Whirlpool",
+                "title": "The Whirlpool",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7042u"
+                "desor": "DE7042u",
+                "suite_index": 7
             },
             {
                 "type": "artists",
@@ -6651,179 +6713,200 @@
                 "type": "take",
                 "index": "70-06-03-022",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids [Grap]",
+                "title": "The Giggling Rapids [Grap]",
                 "releases": [],
-                "desor": "DE7042v"
+                "desor": "DE7042v",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-03-023",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids [Grap]",
+                "title": "The Giggling Rapids [Grap]",
                 "releases": [],
-                "desor": "DE7042w"
+                "desor": "DE7042w",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-03-024",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids [Grap]",
+                "title": "The Giggling Rapids [Grap]",
                 "releases": [],
-                "desor": "DE7042x"
+                "desor": "DE7042x",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-03-025",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids [Grap]",
+                "title": "The Giggling Rapids [Grap]",
                 "releases": [],
-                "desor": "DE7042y"
+                "desor": "DE7042y",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-03-026",
                 "matrix": "-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids [Grap]",
+                "title": "The Giggling Rapids [Grap]",
                 "releases": [],
-                "desor": "DE7042z"
+                "desor": "DE7042z",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-03-027",
                 "matrix": "-9",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids [Grap]",
+                "title": "The Giggling Rapids [Grap]",
                 "releases": [],
-                "desor": "DE7042aa"
+                "desor": "DE7042aa",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-03-028",
                 "matrix": "-10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids [Grap]",
+                "title": "The Giggling Rapids [Grap]",
                 "releases": [],
-                "desor": "DE7042ab"
+                "desor": "DE7042ab",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-03-029",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042ac"
+                "desor": "DE7042ac",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-030",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042ad"
+                "desor": "DE7042ad",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-031",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042ae"
+                "desor": "DE7042ae",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-032",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042af"
+                "desor": "DE7042af",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-033",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042ag"
+                "desor": "DE7042ag",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-034",
                 "matrix": "-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042ah"
+                "desor": "DE7042ah",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-035",
                 "matrix": "-9",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042ai"
+                "desor": "DE7042ai",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-036",
                 "matrix": "-10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042aj"
+                "desor": "DE7042aj",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-037",
                 "matrix": "-11",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042ak"
+                "desor": "DE7042ak",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-038",
                 "matrix": "-12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042al"
+                "desor": "DE7042al",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-039",
                 "matrix": "-13",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [],
-                "desor": "DE7042am"
+                "desor": "DE7042am",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-040",
                 "matrix": "-14",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Neo-Hip-Hot Cool Kiddies Community [Stud]",
+                "title": "The Neo-Hip-Hot Cool Kiddies Community [Stud]",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7042an"
+                "desor": "DE7042an",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-06-03-041",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. The River",
+                "title": "The River",
                 "releases": [],
-                "desor": "DE7042ao"
+                "desor": "DE7042ao",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "70-06-03-042",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. The River",
+                "title": "The River",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7042ap"
+                "desor": "DE7042ap",
+                "suite_index": 8
             }
         ]
     },
@@ -6838,101 +6921,111 @@
                 "value": "Cootie Williams, Cat Anderson, Fred Stone, Dave Burns(t); Booty Wood, Cliff Heathers(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Davis Fitz(xy,ma); Walter E. Rosenberger(gk); Elayne Jones(ty)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE RIVER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE RIVER"
             },
             {
                 "type": "take",
                 "index": "70-06-08-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043a"
+                "desor": "DE7043a",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-002",
                 "matrix": "01",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043b"
+                "desor": "DE7043b",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-003",
                 "matrix": "02",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043c"
+                "desor": "DE7043c",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-004",
                 "matrix": "03",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043d"
+                "desor": "DE7043d",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-005",
                 "matrix": "04",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043e"
+                "desor": "DE7043e",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-006",
                 "matrix": "05",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043f"
+                "desor": "DE7043f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-007",
                 "matrix": "06",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043g"
+                "desor": "DE7043g",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-008",
                 "matrix": "07",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7043h"
+                "desor": "DE7043h",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-009",
                 "matrix": "08",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043i"
+                "desor": "DE7043i",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-06-08-010",
                 "matrix": "09",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Falls",
+                "title": "The Falls",
                 "releases": [],
-                "desor": "DE7043j"
+                "desor": "DE7043j",
+                "suite_index": 6
             },
             {
                 "type": "artists",
                 "value": "Davis Fitz, Walter E. Rosenberger out."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6972,41 +7065,40 @@
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Fred Stone(t); Booty Wood, Julian Priester(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE RIVER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE RIVER"
             },
             {
                 "type": "take",
                 "index": "70-06-15-001",
                 "matrix": "01",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. The Mother, Her Majesty The Sea",
+                "title": "The Mother, Her Majesty The Sea",
                 "releases": [],
-                "desor": "DE7044a"
+                "desor": "DE7044a",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "70-06-15-002",
                 "matrix": "05",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. The Mother, Her Majesty The Sea",
+                "title": "The Mother, Her Majesty The Sea",
                 "releases": [],
-                "desor": "DE7044b"
+                "desor": "DE7044b",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "70-06-15-003",
                 "matrix": "07",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. The Mother, Her Majesty The Sea",
+                "title": "The Mother, Her Majesty The Sea",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE7044c"
+                "desor": "DE7044c",
+                "suite_index": 11
             },
             {
                 "type": "artists",
@@ -7016,7 +7108,7 @@
                 "type": "take",
                 "index": "70-06-15-004",
                 "matrix": "08",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. The Spring [Soft]",
+                "title": "The Spring [Soft]",
                 "releases": [
                     {
                         "label": "Sv",
@@ -7027,7 +7119,8 @@
                         "catalog": "108 8617"
                     }
                 ],
-                "desor": "DE7044d"
+                "desor": "DE7044d",
+                "suite_index": 1
             },
             {
                 "type": "artists",
@@ -7037,81 +7130,95 @@
                 "type": "take",
                 "index": "70-06-15-005",
                 "matrix": "09",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044e"
+                "desor": "DE7044e",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-006",
                 "matrix": "10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044f"
+                "desor": "DE7044f",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-007",
                 "matrix": "11",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044g"
+                "desor": "DE7044g",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-008",
                 "matrix": "14",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044h"
+                "desor": "DE7044h",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-009",
                 "matrix": "15",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044i"
+                "desor": "DE7044i",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-010",
                 "matrix": "16",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044j"
+                "desor": "DE7044j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-011",
                 "matrix": "17",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044k"
+                "desor": "DE7044k",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-012",
                 "matrix": "18",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044l"
+                "desor": "DE7044l",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-013",
                 "matrix": "19",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044m"
+                "desor": "DE7044m",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-06-15-014",
                 "matrix": "20",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. The Giggling Rapids",
+                "title": "The Giggling Rapids",
                 "releases": [],
-                "desor": "DE7044n"
+                "desor": "DE7044n",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -11961,14 +12068,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "70-07-26-001",
                 "matrix": null,
                 "title": "01. Praise God And Dance [Opening theme]",
@@ -12090,14 +12189,6 @@
             {
                 "type": "artists",
                 "value": "As before."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -12732,36 +12823,39 @@
                 "desor": "DE7070a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "70-08-09-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [],
-                "desor": "DE7070b"
+                "desor": "DE7070b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-08-09-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [],
-                "desor": "DE7070c"
+                "desor": "DE7070c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-08-09-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [],
-                "desor": "DE7070d"
+                "desor": "DE7070d",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -13750,72 +13844,79 @@
                 "desor": "DE7082b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AFRO-EURASIAN ECLIPSE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AFRO-EURASIAN ECLIPSE"
             },
             {
                 "type": "take",
                 "index": "70-09-18-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Gong",
+                "title": "Gong",
                 "releases": [],
-                "desor": "DE7082c"
+                "desor": "DE7082c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-09-18-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Chinoiserie",
+                "title": "Chinoiserie",
                 "releases": [],
-                "desor": "DE7082d"
+                "desor": "DE7082d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-09-18-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Tang [Django Django]",
+                "title": "Tang [Django Django]",
                 "releases": [],
-                "desor": "DE7082e"
+                "desor": "DE7082e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "70-09-18-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. True = Tell Me It's The Truth",
+                "title": "True = Tell Me It's The Truth",
                 "releases": [],
-                "desor": "DE7082f"
+                "desor": "DE7082f",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "70-09-18-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Big Luv",
+                "title": "Big Luv",
                 "releases": [],
-                "desor": "DE7082g"
+                "desor": "DE7082g",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-09-18-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Afrique [Deep Forest]",
+                "title": "Afrique [Deep Forest]",
                 "releases": [],
-                "desor": "DE7082h"
+                "desor": "DE7082h",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "70-09-18-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. The Hard Way",
+                "title": "The Hard Way",
                 "releases": [],
-                "desor": "DE7082i"
+                "desor": "DE7082i",
+                "suite_index": 7
             },
             {
                 "type": "artists",
                 "value": "Add Woody Herman(as)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -13990,40 +14091,43 @@
                 "value": "Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nashville Symphony Orchestra, Thor Johnson(con)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "70-09-25-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [],
-                "desor": "DE7084a"
+                "desor": "DE7084a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "70-09-25-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [],
-                "desor": "DE7084b"
+                "desor": "DE7084b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "70-09-25-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [],
-                "desor": "DE7084c"
+                "desor": "DE7084c",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -14614,76 +14718,80 @@
                 "value": "Cootie Williams, Cat Anderson, Harold \"Money\" Johnson, Mercer Ellington(t); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wild Bill Davis(o); Joe Benjamin(sb); Rufus Jones(d); Unk, Toney Watkins, Herman McCoy Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED MUSIC",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SECOND SACRED MUSIC"
             },
             {
                 "type": "take",
                 "index": "70-11-15-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Meditation",
+                "title": "Meditation",
                 "releases": [],
-                "desor": "DE9055a"
+                "desor": "DE9055a",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "70-11-15-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;16. Come Sunday - vTW",
+                "title": "Come Sunday - vTW",
                 "releases": [],
-                "desor": "DE9055b"
+                "desor": "DE9055b",
+                "suite_index": 16
             },
             {
                 "type": "take",
                 "index": "70-11-15-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. The Biggest And Busiest Intersection [Kixx]",
+                "title": "The Biggest And Busiest Intersection [Kixx]",
                 "releases": [],
-                "desor": "DE9055c"
+                "desor": "DE9055c",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "70-11-15-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. T.G.T.T - vUnk",
+                "title": "T.G.T.T - vUnk",
                 "releases": [],
-                "desor": "DE9055d"
+                "desor": "DE9055d",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "70-11-15-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Don't Get Down On Your Knees - vTW",
+                "title": "Don't Get Down On Your Knees - vTW",
                 "releases": [],
-                "desor": "DE9055e"
+                "desor": "DE9055e",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "70-11-15-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Father Forgive - vTW,HMC",
+                "title": "Father Forgive - vTW,HMC",
                 "releases": [],
-                "desor": "DE9055f"
+                "desor": "DE9055f",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "70-11-15-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Don't Get Down On Your Knees - vTW",
+                "title": "Don't Get Down On Your Knees - vTW",
                 "releases": [],
-                "desor": "DE9055g"
+                "desor": "DE9055g",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "70-11-15-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Praise God And Dance - vUnk,HMC",
+                "title": "Praise God And Dance - vUnk,HMC",
                 "releases": [],
-                "desor": "DE9055h"
+                "desor": "DE9055h",
+                "suite_index": 14
             },
             {
                 "type": "note",

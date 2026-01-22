@@ -833,44 +833,48 @@
                 "desor": "DE6507c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-01-30-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6507d"
+                "desor": "DE6507d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-01-30-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6507e"
+                "desor": "DE6507e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-01-30-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6507f"
+                "desor": "DE6507f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-01-30-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6507g"
+                "desor": "DE6507g",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1203,18 +1207,14 @@
                 "desor": "DE6508b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-01-30-031",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [
                     {
                         "label": "La",
@@ -1225,13 +1225,14 @@
                         "catalog": "710433"
                     }
                 ],
-                "desor": "DE6508c"
+                "desor": "DE6508c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-01-30-032",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [
                     {
                         "label": "La",
@@ -1242,13 +1243,14 @@
                         "catalog": "710433"
                     }
                 ],
-                "desor": "DE6508d"
+                "desor": "DE6508d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-01-30-033",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [
                     {
                         "label": "La",
@@ -1259,13 +1261,14 @@
                         "catalog": "710433"
                     }
                 ],
-                "desor": "DE6508e"
+                "desor": "DE6508e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-01-30-034",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [
                     {
                         "label": "La",
@@ -1276,7 +1279,12 @@
                         "catalog": "710433"
                     }
                 ],
-                "desor": "DE6508f"
+                "desor": "DE6508f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1655,64 +1663,68 @@
                 "desor": "DE6509c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-01-31-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [
                     {
                         "label": "QL",
                         "catalog": "QLD 0246"
                     }
                 ],
-                "desor": "DE6509d"
+                "desor": "DE6509d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-01-31-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [
                     {
                         "label": "QL",
                         "catalog": "QLD 0246"
                     }
                 ],
-                "desor": "DE6509e"
+                "desor": "DE6509e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-01-31-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [
                     {
                         "label": "QL",
                         "catalog": "QLD 0246"
                     }
                 ],
-                "desor": "DE6509f"
+                "desor": "DE6509f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-01-31-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [
                     {
                         "label": "QL",
                         "catalog": "QLD 0246"
                     }
                 ],
-                "desor": "DE6509g"
+                "desor": "DE6509g",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2193,64 +2205,68 @@
                 "desor": "DE6511b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-03-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [
                     {
                         "label": "Pb",
                         "catalog": "PACD-5304-2"
                     }
                 ],
-                "desor": "DE6511c"
+                "desor": "DE6511c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-03-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [
                     {
                         "label": "Pb",
                         "catalog": "PACD-5304-2"
                     }
                 ],
-                "desor": "DE6511d"
+                "desor": "DE6511d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-03-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [
                     {
                         "label": "Pb",
                         "catalog": "PACD-5304-2"
                     }
                 ],
-                "desor": "DE6511e"
+                "desor": "DE6511e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-03-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [
                     {
                         "label": "Pb",
                         "catalog": "PACD-5304-2"
                     }
                 ],
-                "desor": "DE6511f"
+                "desor": "DE6511f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2435,44 +2451,48 @@
                 "desor": "DE6512c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-09-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6512d"
+                "desor": "DE6512d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-09-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6512e"
+                "desor": "DE6512e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-09-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6512f"
+                "desor": "DE6512f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-09-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6512g"
+                "desor": "DE6512g",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2765,44 +2785,48 @@
                 "desor": "DE6515b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-12-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6515c"
+                "desor": "DE6515c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-12-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6515d"
+                "desor": "DE6515d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-12-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6515e"
+                "desor": "DE6515e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-12-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6515f"
+                "desor": "DE6515f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2997,44 +3021,48 @@
                 "desor": "DE6516b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-13-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6516c"
+                "desor": "DE6516c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-13-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6516d"
+                "desor": "DE6516d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-13-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6516e"
+                "desor": "DE6516e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-13-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6516f"
+                "desor": "DE6516f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3237,44 +3265,48 @@
                 "desor": "DE6517c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-13-029",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6517d"
+                "desor": "DE6517d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-13-030",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6517e"
+                "desor": "DE6517e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-13-031",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6517f"
+                "desor": "DE6517f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-13-032",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6517g"
+                "desor": "DE6517g",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3509,44 +3541,48 @@
                 "desor": "DE6518c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-14-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6518d"
+                "desor": "DE6518d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-14-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6518e"
+                "desor": "DE6518e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-14-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6518f"
+                "desor": "DE6518f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-14-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6518g"
+                "desor": "DE6518g",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3741,44 +3777,48 @@
                 "desor": "DE6519c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-14-029",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6519d"
+                "desor": "DE6519d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-14-030",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6519e"
+                "desor": "DE6519e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-14-031",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6519f"
+                "desor": "DE6519f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-14-032",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6519g"
+                "desor": "DE6519g",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3973,36 +4013,39 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Ray Nance(t,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-16-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE9035a"
+                "desor": "DE9035a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-16-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE9035b"
+                "desor": "DE9035b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-16-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE9035c"
+                "desor": "DE9035c",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4233,44 +4276,48 @@
                 "desor": "DE9035ad"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-16-031",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE9035ae"
+                "desor": "DE9035ae",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-16-032",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE9035af"
+                "desor": "DE9035af",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-16-033",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE9035ag"
+                "desor": "DE9035ag",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-16-034",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE9035ah"
+                "desor": "DE9035ah",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4373,44 +4420,48 @@
                 "desor": "DE6520c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-16-046",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6520d"
+                "desor": "DE6520d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-16-047",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6520e"
+                "desor": "DE6520e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-16-048",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6520f"
+                "desor": "DE6520f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-16-049",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6520g"
+                "desor": "DE6520g",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4663,44 +4714,48 @@
                 "desor": "DE9067b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-27-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE9067c"
+                "desor": "DE9067c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-27-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE9067d"
+                "desor": "DE9067d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-27-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE9067e"
+                "desor": "DE9067e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-27-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE9067f"
+                "desor": "DE9067f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4887,44 +4942,48 @@
                 "desor": "DE6524b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-27-027",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6524c"
+                "desor": "DE6524c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-27-028",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6524d"
+                "desor": "DE6524d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-27-029",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6524e"
+                "desor": "DE6524e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-27-030",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6524f"
+                "desor": "DE6524f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5135,44 +5194,48 @@
                 "desor": "DE6525b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-28-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6525c"
+                "desor": "DE6525c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-28-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6525d"
+                "desor": "DE6525d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-28-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6525e"
+                "desor": "DE6525e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-28-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6525f"
+                "desor": "DE6525f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5351,44 +5414,48 @@
                 "desor": "DE6526a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-02-28-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6526b"
+                "desor": "DE6526b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-28-027",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6526c"
+                "desor": "DE6526c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-28-028",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6526d"
+                "desor": "DE6526d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-02-28-029",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6526e"
+                "desor": "DE6526e",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5603,58 +5670,59 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-03-04-001",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6528a"
+                "desor": "DE6528a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-03-04-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6528b"
+                "desor": "DE6528b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-03-04-003",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6528c"
+                "desor": "DE6528c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-03-04-004",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6528d"
+                "desor": "DE6528d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-03-04-005",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6528e"
+                "desor": "DE6528e",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-04-006",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -5665,13 +5733,14 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6528f"
+                "desor": "DE6528f",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-03-04-007",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -5682,13 +5751,14 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6528g"
+                "desor": "DE6528g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-03-04-008",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -5699,13 +5769,14 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6528h"
+                "desor": "DE6528h",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-03-04-009",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -5716,7 +5787,12 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6528i"
+                "desor": "DE6528i",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6059,18 +6135,14 @@
                 "desor": "DE6530h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "VIRGIN ISLAND SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "VIRGIN ISLAND SUITE"
             },
             {
                 "type": "take",
                 "index": "65-03-17-009",
                 "matrix": "3382-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
+                "title": "Jungle Kitty",
                 "releases": [
                     {
                         "label": "Ms",
@@ -6081,53 +6153,59 @@
                         "catalog": "R-6185"
                     }
                 ],
-                "desor": "DE6530i"
+                "desor": "DE6530i",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-17-010",
                 "matrix": "3382-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
+                "title": "Jungle Kitty",
                 "releases": [],
-                "desor": "DE6530j"
+                "desor": "DE6530j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-17-011",
                 "matrix": "3382-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
+                "title": "Jungle Kitty",
                 "releases": [],
-                "desor": "DE6530k"
+                "desor": "DE6530k",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-17-012",
                 "matrix": "3382-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
+                "title": "Jungle Kitty",
                 "releases": [],
-                "desor": "DE6530l"
+                "desor": "DE6530l",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-17-013",
                 "matrix": "3382-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
+                "title": "Jungle Kitty",
                 "releases": [],
-                "desor": "DE6530m"
+                "desor": "DE6530m",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-17-014",
                 "matrix": "3382",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
+                "title": "Jungle Kitty",
                 "releases": [],
-                "desor": "DE6530n"
+                "desor": "DE6530n",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-17-015",
                 "matrix": "3382-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Jungle Kitty",
+                "title": "Jungle Kitty",
                 "releases": [
                     {
                         "label": "Ms",
@@ -6140,7 +6218,12 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE6530o"
+                "desor": "DE6530o",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6681,26 +6764,23 @@
                 "desor": "DE6533r"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "VIRGIN ISLAND SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "VIRGIN ISLAND SUITE"
             },
             {
                 "type": "take",
                 "index": "65-04-14-019",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Island Virgin",
+                "title": "Island Virgin",
                 "releases": [],
-                "desor": "DE6533s"
+                "desor": "DE6533s",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-04-14-020",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Island Virgin",
+                "title": "Island Virgin",
                 "releases": [
                     {
                         "label": "Ms",
@@ -6711,21 +6791,23 @@
                         "catalog": "R-6185"
                     }
                 ],
-                "desor": "DE6533t"
+                "desor": "DE6533t",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-04-14-021",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Virgin Jungle",
+                "title": "Virgin Jungle",
                 "releases": [],
-                "desor": "DE6533u"
+                "desor": "DE6533u",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-04-14-022",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Virgin Jungle",
+                "title": "Virgin Jungle",
                 "releases": [
                     {
                         "label": "Ms",
@@ -6736,13 +6818,14 @@
                         "catalog": "R-6185"
                     }
                 ],
-                "desor": "DE6533v"
+                "desor": "DE6533v",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-04-14-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Virgin Jungle",
+                "title": "Virgin Jungle",
                 "releases": [
                     {
                         "label": "Ms",
@@ -6755,21 +6838,23 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE6533w"
+                "desor": "DE6533w",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-04-14-024",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Fiddler On The Diddle",
+                "title": "Fiddler On The Diddle",
                 "releases": [],
-                "desor": "DE6533x"
+                "desor": "DE6533x",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-04-14-025",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Fiddler On The Diddle",
+                "title": "Fiddler On The Diddle",
                 "releases": [
                     {
                         "label": "Ms",
@@ -6780,7 +6865,12 @@
                         "catalog": "R-6185"
                     }
                 ],
-                "desor": "DE6533y"
+                "desor": "DE6533y",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -8184,40 +8274,43 @@
                 "desor": "DE6545d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "65-07-30-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [],
-                "desor": "DE6545a"
+                "desor": "DE6545a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-07-30-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [],
-                "desor": "DE6545b"
+                "desor": "DE6545b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-07-30-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [],
-                "desor": "DE6545c"
+                "desor": "DE6545c",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(tk); The New York Philharmonic Orchestra, Lukas Foss(con)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -8449,48 +8542,52 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-08-26-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6549a"
+                "desor": "DE6549a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-08-26-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6549b"
+                "desor": "DE6549b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-08-26-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6549c"
+                "desor": "DE6549c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-08-26-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6549d"
+                "desor": "DE6549d",
+                "suite_index": 4
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl); Harry Carney(bcl)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -8927,18 +9024,14 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Jon Hendricks, Herman McCoy Choir, Grace Cathedral Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "CONCERT OF SACRED MUSIC",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "CONCERT OF SACRED MUSIC"
             },
             {
                 "type": "take",
                 "index": "65-09-16-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "EV",
@@ -8946,13 +9039,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE6551a"
+                "desor": "DE6551a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-09-16-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [
                     {
                         "label": "EV",
@@ -8960,13 +9054,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE6551b"
+                "desor": "DE6551b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-09-16-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Tell Me It's The Truth - vEM",
+                "title": "Tell Me It's The Truth - vEM",
                 "releases": [
                     {
                         "label": "EV",
@@ -8974,29 +9069,32 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE6551c"
+                "desor": "DE6551c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-09-16-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. We Shall Walk This Lonesome Valley - vGCC",
+                "title": "We Shall Walk This Lonesome Valley - vGCC",
                 "releases": [],
-                "desor": "DE6551d"
+                "desor": "DE6551d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-09-16-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Only Joyful - vGCC",
+                "title": "Only Joyful - vGCC",
                 "releases": [],
-                "desor": "DE6551e"
+                "desor": "DE6551e",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "65-09-16-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. In The Beginning God - vJHe,HMC",
+                "title": "In The Beginning God - vJHe,HMC",
                 "releases": [
                     {
                         "label": "EV",
@@ -9007,7 +9105,8 @@
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551f"
+                "desor": "DE6551f",
+                "suite_index": 6
             },
             {
                 "type": "artists",
@@ -9017,14 +9116,15 @@
                 "type": "take",
                 "index": "65-09-16-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Will You Be There? - vHMC",
+                "title": "Will You Be There? - vHMC",
                 "releases": [
                     {
                         "label": "Ss",
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551g"
+                "desor": "DE6551g",
+                "suite_index": 9
             },
             {
                 "type": "artists",
@@ -9034,20 +9134,21 @@
                 "type": "take",
                 "index": "65-09-16-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. 99% Won't Do - vJMP,HMC",
+                "title": "99% Won't Do - vJMP,HMC",
                 "releases": [
                     {
                         "label": "Ss",
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551h"
+                "desor": "DE6551h",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "65-09-16-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Ain't But The One- vJMP,HMC",
+                "title": "Ain't But The One- vJMP,HMC",
                 "releases": [
                     {
                         "label": "EV",
@@ -9058,7 +9159,8 @@
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551i"
+                "desor": "DE6551i",
+                "suite_index": 11
             },
             {
                 "type": "artists",
@@ -9068,7 +9170,7 @@
                 "type": "take",
                 "index": "65-09-16-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. NEW WORLD A-COMIN'",
+                "title": "NEW WORLD A-COMIN'",
                 "releases": [
                     {
                         "label": "EV",
@@ -9079,7 +9181,8 @@
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551j"
+                "desor": "DE6551j",
+                "suite_index": 8
             },
             {
                 "type": "artists",
@@ -9089,33 +9192,35 @@
                 "type": "take",
                 "index": "65-09-16-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;18. In The Beginning God - vJHe",
+                "title": "In The Beginning God - vJHe",
                 "releases": [
                     {
                         "label": "Ss",
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551k"
+                "desor": "DE6551k",
+                "suite_index": 18
             },
             {
                 "type": "take",
                 "index": "65-09-16-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. My Mother, My Father And Love - vJMP",
+                "title": "My Mother, My Father And Love - vJMP",
                 "releases": [
                     {
                         "label": "Ss",
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551l"
+                "desor": "DE6551l",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "65-09-16-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer - vEM",
+                "title": "The Lord's Prayer - vEM",
                 "releases": [
                     {
                         "label": "EV",
@@ -9126,13 +9231,14 @@
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551m"
+                "desor": "DE6551m",
+                "suite_index": 15
             },
             {
                 "type": "take",
                 "index": "65-09-16-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Come Sunday - vEM",
+                "title": "Come Sunday - vEM",
                 "releases": [
                     {
                         "label": "EV",
@@ -9143,7 +9249,8 @@
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551n"
+                "desor": "DE6551n",
+                "suite_index": 14
             },
             {
                 "type": "artists",
@@ -9153,7 +9260,7 @@
                 "type": "take",
                 "index": "65-09-16-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;16. David Danced=Come Sunday - vJHe,HMC",
+                "title": "David Danced=Come Sunday - vJHe,HMC",
                 "releases": [
                     {
                         "label": "EV",
@@ -9164,11 +9271,16 @@
                         "catalog": "DSTS1015"
                     }
                 ],
-                "desor": "DE6551o"
+                "desor": "DE6551o",
+                "suite_index": 16
             },
             {
                 "type": "artists",
                 "value": "Toney Watkins(v) solo."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9214,18 +9326,14 @@
                 "desor": "DE6552a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-09-18-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [
                     {
                         "label": "FS",
@@ -9240,13 +9348,14 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6552b"
+                "desor": "DE6552b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-09-18-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [
                     {
                         "label": "EV",
@@ -9265,13 +9374,14 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6552c"
+                "desor": "DE6552c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-09-18-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [
                     {
                         "label": "EV",
@@ -9290,13 +9400,14 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6552d"
+                "desor": "DE6552d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-09-18-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [
                     {
                         "label": "EV",
@@ -9315,7 +9426,12 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6552e"
+                "desor": "DE6552e",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -10091,44 +10207,48 @@
                 "desor": "DE6559a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "AD LIB ON NIPPON",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "AD LIB ON NIPPON"
             },
             {
                 "type": "take",
                 "index": "65-10-31-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Fugi",
+                "title": "Fugi",
                 "releases": [],
-                "desor": "DE6559b"
+                "desor": "DE6559b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-10-31-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Igoo",
+                "title": "Igoo",
                 "releases": [],
-                "desor": "DE6559c"
+                "desor": "DE6559c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-10-31-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Nagoya",
+                "title": "Nagoya",
                 "releases": [],
-                "desor": "DE6559d"
+                "desor": "DE6559d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-10-31-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Tokyo",
+                "title": "Tokyo",
                 "releases": [],
-                "desor": "DE6559e"
+                "desor": "DE6559e",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -10452,44 +10572,42 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Brock Peters, Herman McCoy Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "CONCERT OF SACRED MUSIC",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "CONCERT OF SACRED MUSIC"
             },
             {
                 "type": "take",
                 "index": "65-12-26-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564a"
+                "desor": "DE6564a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-12-26-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Tell Me It's The Truth",
+                "title": "Tell Me It's The Truth",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564b"
+                "desor": "DE6564b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-12-26-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Tell Me It's The Truth - vEM",
+                "title": "Tell Me It's The Truth - vEM",
                 "releases": [
                     {
                         "label": "MSS",
@@ -10507,20 +10625,22 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6564c"
+                "desor": "DE6564c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-12-26-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. In The Beginning God - vBPe,HMC",
+                "title": "In The Beginning God - vBPe,HMC",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564d"
+                "desor": "DE6564d",
+                "suite_index": 6
             },
             {
                 "type": "artists",
@@ -10530,7 +10650,7 @@
                 "type": "take",
                 "index": "65-12-26-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Christmas Surprise - vLH",
+                "title": "Christmas Surprise - vLH",
                 "releases": [
                     {
                         "label": "MSS",
@@ -10544,7 +10664,8 @@
                         "length": 233
                     }
                 ],
-                "desor": "DE6564e"
+                "desor": "DE6564e",
+                "suite_index": 7
             },
             {
                 "type": "artists",
@@ -10554,7 +10675,7 @@
                 "type": "take",
                 "index": "65-12-26-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. NEW WORLD A-COMIN'",
+                "title": "NEW WORLD A-COMIN'",
                 "releases": [
                     {
                         "label": "MSS",
@@ -10568,7 +10689,8 @@
                         "length": 500
                     }
                 ],
-                "desor": "DE6564f"
+                "desor": "DE6564f",
+                "suite_index": 8
             },
             {
                 "type": "artists",
@@ -10578,14 +10700,15 @@
                 "type": "take",
                 "index": "65-12-26-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Will You Be There? - vHMC",
+                "title": "Will You Be There? - vHMC",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564g"
+                "desor": "DE6564g",
+                "suite_index": 9
             },
             {
                 "type": "artists",
@@ -10595,7 +10718,7 @@
                 "type": "take",
                 "index": "65-12-26-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. 99% Won't Do - vJMP, HMC",
+                "title": "99% Won't Do - vJMP, HMC",
                 "releases": [
                     {
                         "label": "MSS",
@@ -10609,46 +10732,50 @@
                         "length": 114
                     }
                 ],
-                "desor": "DE6564h"
+                "desor": "DE6564h",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "65-12-26-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Ain't But The One - vJMP, HMC",
+                "title": "Ain't But The One - vJMP, HMC",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564i"
+                "desor": "DE6564i",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "65-12-26-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Come Sunday - vEM",
+                "title": "Come Sunday - vEM",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564j"
+                "desor": "DE6564j",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "65-12-26-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer - vEM",
+                "title": "The Lord's Prayer - vEM",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564k"
+                "desor": "DE6564k",
+                "suite_index": 15
             },
             {
                 "type": "artists",
@@ -10658,14 +10785,15 @@
                 "type": "take",
                 "index": "65-12-26-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;16. David Danced=Come Sunday - vHMC",
+                "title": "David Danced=Come Sunday - vHMC",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564l"
+                "desor": "DE6564l",
+                "suite_index": 16
             },
             {
                 "type": "artists",
@@ -10675,14 +10803,15 @@
                 "type": "take",
                 "index": "65-12-26-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;17. The Preacher's Song - vTW",
+                "title": "The Preacher's Song - vTW",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564m"
+                "desor": "DE6564m",
+                "suite_index": 17
             },
             {
                 "type": "artists",
@@ -10692,14 +10821,15 @@
                 "type": "take",
                 "index": "65-12-26-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;18. In The Beginning God - vHMC",
+                "title": "In The Beginning God - vHMC",
                 "releases": [
                     {
                         "label": "MSS",
                         "catalog": "(un-numbered)"
                     }
                 ],
-                "desor": "DE6564n"
+                "desor": "DE6564n",
+                "suite_index": 18
             },
             {
                 "type": "note",
@@ -10718,18 +10848,14 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper, Quentin Jackson(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Louie Bellson(d); Esther Marrow, Jimmy McPhail, Brock Peters, Herman McCoy Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "CONCERT OF SACRED MUSIC",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "CONCERT OF SACRED MUSIC"
             },
             {
                 "type": "take",
                 "index": "65-12-26-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10743,7 +10869,8 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565a"
+                "desor": "DE6565a",
+                "suite_index": 1
             },
             {
                 "type": "artists",
@@ -10753,7 +10880,7 @@
                 "type": "take",
                 "index": "65-12-26-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Christmas Surprise - vLH",
+                "title": "Christmas Surprise - vLH",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10763,7 +10890,8 @@
                         "length": 208
                     }
                 ],
-                "desor": "DE6565b"
+                "desor": "DE6565b",
+                "suite_index": 7
             },
             {
                 "type": "artists",
@@ -10773,15 +10901,16 @@
                 "type": "take",
                 "index": "65-12-26-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Tell Me It's The Truth - vEM",
+                "title": "Tell Me It's The Truth - vEM",
                 "releases": [],
-                "desor": "DE6565c"
+                "desor": "DE6565c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-12-26-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. In The Beginning God - vBPe,HMC",
+                "title": "In The Beginning God - vBPe,HMC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10795,7 +10924,8 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565d"
+                "desor": "DE6565d",
+                "suite_index": 6
             },
             {
                 "type": "artists",
@@ -10805,7 +10935,7 @@
                 "type": "take",
                 "index": "65-12-26-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. NEW WORLD A-COMIN'",
+                "title": "NEW WORLD A-COMIN'",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10819,7 +10949,8 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565e"
+                "desor": "DE6565e",
+                "suite_index": 8
             },
             {
                 "type": "artists",
@@ -10829,7 +10960,7 @@
                 "type": "take",
                 "index": "65-12-26-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Will You Be There? - vHMC",
+                "title": "Will You Be There? - vHMC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10843,7 +10974,8 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565f"
+                "desor": "DE6565f",
+                "suite_index": 9
             },
             {
                 "type": "artists",
@@ -10853,15 +10985,16 @@
                 "type": "take",
                 "index": "65-12-26-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. 99% Won't Do - vJMP, HMC",
+                "title": "99% Won't Do - vJMP, HMC",
                 "releases": [],
-                "desor": "DE6565g"
+                "desor": "DE6565g",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "65-12-26-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Ain't But The One - vJMP, HMC",
+                "title": "Ain't But The One - vJMP, HMC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10875,13 +11008,14 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565h"
+                "desor": "DE6565h",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "65-12-26-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. My Mother, My Father And Love - vJMP",
+                "title": "My Mother, My Father And Love - vJMP",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10891,13 +11025,14 @@
                         "length": 237
                     }
                 ],
-                "desor": "DE6565i"
+                "desor": "DE6565i",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "65-12-26-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Come Sunday - vEM",
+                "title": "Come Sunday - vEM",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10911,13 +11046,14 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565j"
+                "desor": "DE6565j",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "65-12-26-025",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;15. The Lord's Prayer - vEM",
+                "title": "The Lord's Prayer - vEM",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10931,7 +11067,8 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565k"
+                "desor": "DE6565k",
+                "suite_index": 15
             },
             {
                 "type": "artists",
@@ -10941,7 +11078,7 @@
                 "type": "take",
                 "index": "65-12-26-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;16. David Danced=Come Sunday - vHMC",
+                "title": "David Danced=Come Sunday - vHMC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -10955,7 +11092,8 @@
                         "catalog": "LPM 3582"
                     }
                 ],
-                "desor": "DE6565l"
+                "desor": "DE6565l",
+                "suite_index": 16
             },
             {
                 "type": "artists",
@@ -10965,9 +11103,10 @@
                 "type": "take",
                 "index": "65-12-26-027",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;17. The Preacher's Song - vTW",
+                "title": "The Preacher's Song - vTW",
                 "releases": [],
-                "desor": "DE6565m"
+                "desor": "DE6565m",
+                "suite_index": 17
             },
             {
                 "type": "artists",
@@ -10977,9 +11116,10 @@
                 "type": "take",
                 "index": "65-12-26-028",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;18. In The Beginning God - vHMC",
+                "title": "In The Beginning God - vHMC",
                 "releases": [],
-                "desor": "DE6565n"
+                "desor": "DE6565n",
+                "suite_index": 18
             },
             {
                 "type": "note",

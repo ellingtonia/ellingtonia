@@ -315,36 +315,39 @@
                 "desor": "DE6003u"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "DUAEL FUEL",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "DUAEL FUEL"
             },
             {
                 "type": "take",
                 "index": "60-02-22-032",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Duael Fuel PART I",
+                "title": "Duael Fuel PART I",
                 "releases": [],
-                "desor": "DE6003xa"
+                "desor": "DE6003xa",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-02-22-033",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Duael Fuel PART II",
+                "title": "Duael Fuel PART II",
                 "releases": [],
-                "desor": "DE6003xb"
+                "desor": "DE6003xb",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-02-22-034",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Duael Fuel PART III",
+                "title": "Duael Fuel PART III",
                 "releases": [],
-                "desor": "DE6003xc"
+                "desor": "DE6003xc",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -519,36 +522,39 @@
                 "desor": "DE6004n"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "DUAEL FUEL",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "DUAEL FUEL"
             },
             {
                 "type": "take",
                 "index": "60-02-26-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Duael Fuel PART I",
+                "title": "Duael Fuel PART I",
                 "releases": [],
-                "desor": "DE6004o"
+                "desor": "DE6004o",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-02-26-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Duael Fuel PART II",
+                "title": "Duael Fuel PART II",
                 "releases": [],
-                "desor": "DE6004p"
+                "desor": "DE6004p",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-02-26-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Duael Fuel PART III",
+                "title": "Duael Fuel PART III",
                 "releases": [],
-                "desor": "DE6004q"
+                "desor": "DE6004q",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -823,18 +829,14 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE NUTCRACKER SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE NUTCRACKER SUITE"
             },
             {
                 "type": "take",
                 "index": "60-05-26-001",
                 "matrix": "RHCO46653-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Overture",
+                "title": "Overture",
                 "releases": [
                     {
                         "label": "Co",
@@ -854,13 +856,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6006a"
+                "desor": "DE6006a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-05-26-002",
                 "matrix": "RHCO46654-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Entr'acte=Overture",
+                "title": "Entr'acte=Overture",
                 "releases": [
                     {
                         "label": "Co",
@@ -880,15 +883,17 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6006b"
+                "desor": "DE6006b",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "60-05-26-003",
                 "matrix": "RHCO46655-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Arabesque Cookie",
+                "title": "Arabesque Cookie",
                 "releases": [],
-                "desor": "DE6006c"
+                "desor": "DE6006c",
+                "suite_index": 9
             }
         ]
     },
@@ -1281,18 +1286,14 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE NUTCRACKER SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE NUTCRACKER SUITE"
             },
             {
                 "type": "take",
                 "index": "60-05-31-001",
                 "matrix": "RHCO46656-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Toot Toot Tootie Toot",
+                "title": "Toot Toot Tootie Toot",
                 "releases": [
                     {
                         "label": "Co",
@@ -1312,7 +1313,12 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6008a"
+                "desor": "DE6008a",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1501,18 +1507,14 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE NUTCRACKER SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE NUTCRACKER SUITE"
             },
             {
                 "type": "take",
                 "index": "60-06-03-001",
                 "matrix": "RHCO46674-20",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Dance Of The Floreadores",
+                "title": "Dance Of The Floreadores",
                 "releases": [
                     {
                         "label": "Co",
@@ -1540,13 +1542,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6011a"
+                "desor": "DE6011a",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "60-06-03-002",
                 "matrix": "RHCO46675-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sugar Rum Cherry",
+                "title": "Sugar Rum Cherry",
                 "releases": [
                     {
                         "label": "Co",
@@ -1566,7 +1569,8 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6011b"
+                "desor": "DE6011b",
+                "suite_index": 4
             }
         ]
     },
@@ -1732,18 +1736,14 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE NUTCRACKER SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE NUTCRACKER SUITE"
             },
             {
                 "type": "take",
                 "index": "60-06-21-001",
                 "matrix": "RHCO46684-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Chinoiserie #",
+                "title": "Chinoiserie #",
                 "releases": [
                     {
                         "label": "Co",
@@ -1763,13 +1763,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6014a"
+                "desor": "DE6014a",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "60-06-21-002",
                 "matrix": "RHCO46685-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Peanut Brittle Brigade",
+                "title": "Peanut Brittle Brigade",
                 "releases": [
                     {
                         "label": "Co",
@@ -1789,15 +1790,17 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6014b"
+                "desor": "DE6014b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "60-06-21-003",
                 "matrix": "RHCO46655-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Arabesque Cookie",
+                "title": "Arabesque Cookie",
                 "releases": [],
-                "desor": "DE6014c"
+                "desor": "DE6014c",
+                "suite_index": 9
             }
         ]
     },
@@ -1812,18 +1815,14 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE NUTCRACKER SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE NUTCRACKER SUITE"
             },
             {
                 "type": "take",
                 "index": "60-06-22-001",
                 "matrix": "RHCO46655-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Arabesque Cookie",
+                "title": "Arabesque Cookie",
                 "releases": [
                     {
                         "label": "Co",
@@ -1843,13 +1842,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6015a"
+                "desor": "DE6015a",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "60-06-22-002",
                 "matrix": "RHCO46688-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. The Volga Vouty",
+                "title": "The Volga Vouty",
                 "releases": [
                     {
                         "label": "Co",
@@ -1869,7 +1869,12 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE6015b"
+                "desor": "DE6015b",
+                "suite_index": 6
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2277,18 +2282,14 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "ASPHALT JUNGLE SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "ASPHALT JUNGLE SUITE"
             },
             {
                 "type": "take",
                 "index": "60-07-01-001",
                 "matrix": "RHCO46717-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Wild Car",
+                "title": "Wild Car",
                 "releases": [
                     {
                         "label": "CBS",
@@ -2296,13 +2297,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6020a"
+                "desor": "DE6020a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-07-01-002",
                 "matrix": "RHCO46718-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Cops",
+                "title": "Cops",
                 "releases": [
                     {
                         "label": "CBS",
@@ -2310,13 +2312,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6020b"
+                "desor": "DE6020b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-07-01-003",
                 "matrix": "RHCO46719-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Robbers",
+                "title": "Robbers",
                 "releases": [
                     {
                         "label": "CBS",
@@ -2324,7 +2327,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6020c"
+                "desor": "DE6020c",
+                "suite_index": 3
             },
             {
                 "type": "note",
@@ -4223,18 +4227,14 @@
                 "desor": "DE6029g"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "60-09-24-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [
                     {
                         "label": "Ss",
@@ -4242,13 +4242,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6029h"
+                "desor": "DE6029h",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-09-24-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [
                     {
                         "label": "Ss",
@@ -4256,13 +4257,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6029i"
+                "desor": "DE6029i",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-09-24-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [
                     {
                         "label": "Ss",
@@ -4270,13 +4272,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6029j"
+                "desor": "DE6029j",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "60-09-24-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [
                     {
                         "label": "Ss",
@@ -4284,7 +4287,12 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6029k"
+                "desor": "DE6029k",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4433,44 +4441,48 @@
                 "desor": "DE6030a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "60-09-27-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [],
-                "desor": "DE6030b"
+                "desor": "DE6030b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-09-27-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [],
-                "desor": "DE6030c"
+                "desor": "DE6030c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-09-27-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [],
-                "desor": "DE6030d"
+                "desor": "DE6030d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "60-09-27-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [],
-                "desor": "DE6030e"
+                "desor": "DE6030e",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4593,18 +4605,14 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Horn(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "60-10-10-001",
                 "matrix": "RHCO46797-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [
                     {
                         "label": "Co",
@@ -4616,13 +4624,14 @@
                         "catalog": "COL 467913 2"
                     }
                 ],
-                "desor": "DE6032a"
+                "desor": "DE6032a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-10-10-002",
                 "matrix": "RHCO46798-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [
                     {
                         "label": "Co",
@@ -4634,13 +4643,14 @@
                         "catalog": "COL 467913 2"
                     }
                 ],
-                "desor": "DE6032b"
+                "desor": "DE6032b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-10-10-003",
                 "matrix": "RHCO46799-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [
                     {
                         "label": "Co",
@@ -4652,13 +4662,14 @@
                         "catalog": "COL 467913 2"
                     }
                 ],
-                "desor": "DE6032c"
+                "desor": "DE6032c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "60-10-10-004",
                 "matrix": "RHCO46800-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [
                     {
                         "label": "Co",
@@ -4670,7 +4681,8 @@
                         "catalog": "COL 467913 2"
                     }
                 ],
-                "desor": "DE6032d"
+                "desor": "DE6032d",
+                "suite_index": 4
             }
         ]
     },
@@ -5126,340 +5138,362 @@
                 "value": "Maurice Thomas, Fred Gérard, Vincent Casino, Roger Guérin(t); André Paquinet, Marcel Galiègue, Billy Byers, Nat Peck(tb); Jo Hrasko, René Nicolas(as); Georges Grenu, Marcel Hrasko(ts); Lucky Thompson (ts); William Boucaya (bar); Raymond Guiot(f); Duke Ellington, Billy Strayhorn(p); Guy Pedersen (b); Christian Garros (d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TURCARET",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TURCARET"
             },
             {
                 "type": "take",
                 "index": "60-12-30-001",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Overture",
+                "title": "Overture",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037a"
+                "desor": "DE6037a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-12-30-002",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Overture",
+                "title": "Overture",
                 "releases": [],
-                "desor": "DE6037b"
+                "desor": "DE6037b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-12-30-003",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Overture",
+                "title": "Overture",
                 "releases": [],
-                "desor": "DE6037c"
+                "desor": "DE6037c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "60-12-30-004",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Frontin",
+                "title": "Frontin",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037d"
+                "desor": "DE6037d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-12-30-005",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Frontin",
+                "title": "Frontin",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037e"
+                "desor": "DE6037e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-12-30-006",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Frontin",
+                "title": "Frontin",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-12-30-007",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Frontin",
+                "title": "Frontin",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-12-30-008",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Frontin",
+                "title": "Frontin",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "60-12-30-009",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Lisette",
+                "title": "Lisette",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037f"
+                "desor": "DE6037f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "60-12-30-010",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Lisette",
+                "title": "Lisette",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037g"
+                "desor": "DE6037g",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "60-12-30-011",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Lisette",
+                "title": "Lisette",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037h"
+                "desor": "DE6037h",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "60-12-30-012",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. La Baronne",
+                "title": "La Baronne",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037i"
+                "desor": "DE6037i",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "60-12-30-013",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. La Baronne",
+                "title": "La Baronne",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037j"
+                "desor": "DE6037j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "60-12-30-014",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. La Baronne",
+                "title": "La Baronne",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037k"
+                "desor": "DE6037k",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "60-12-30-015",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Turcaret",
+                "title": "Turcaret",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037l"
+                "desor": "DE6037l",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "60-12-30-016",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Turcaret",
+                "title": "Turcaret",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037m"
+                "desor": "DE6037m",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "60-12-30-017",
                 "matrix": "short",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Turcaret",
+                "title": "Turcaret",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037n"
+                "desor": "DE6037n",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "60-12-30-018",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Colère De Turcaret=Turcaret",
+                "title": "Colère De Turcaret=Turcaret",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037o"
+                "desor": "DE6037o",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "60-12-30-019",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Chevalier",
+                "title": "Chevalier",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": ""
+                "desor": "",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "60-12-30-020",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Chevalier",
+                "title": "Chevalier",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037p"
+                "desor": "DE6037p",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "60-12-30-021",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Chevalier",
+                "title": "Chevalier",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037q"
+                "desor": "DE6037q",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "60-12-30-022",
                 "matrix": "-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Chevalier",
+                "title": "Chevalier",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037r"
+                "desor": "DE6037r",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "60-12-30-023",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Chevalier",
+                "title": "Chevalier",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037s"
+                "desor": "DE6037s",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "60-12-30-024",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Madame Mathilde De Turcaret",
+                "title": "Madame Mathilde De Turcaret",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037t"
+                "desor": "DE6037t",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "60-12-30-025",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Madame Mathilde De Turcaret",
+                "title": "Madame Mathilde De Turcaret",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037u"
+                "desor": "DE6037u",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "60-12-30-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Motif De Flamand",
+                "title": "Motif De Flamand",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "011"
                     }
                 ],
-                "desor": "DE6037v"
+                "desor": "DE6037v",
+                "suite_index": 9
             },
             {
                 "type": "note",

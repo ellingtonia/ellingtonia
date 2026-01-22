@@ -2047,18 +2047,14 @@
                 "desor": "DE4509p"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "45-03-25-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade [Love]",
+                "title": "Balcony Serenade [Love]",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2066,13 +2062,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509q"
+                "desor": "DE4509q",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "45-03-25-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling [Violence] - vAH",
+                "title": "Strange feeling [Violence] - vAH",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2080,13 +2077,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509r"
+                "desor": "DE4509r",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "45-03-25-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love [Naiveté]",
+                "title": "Dancers In Love [Naiveté]",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2094,13 +2092,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509s"
+                "desor": "DE4509s",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "45-03-25-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura [Sophistication]",
+                "title": "Coloratura [Sophistication]",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2108,11 +2107,16 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509t"
+                "desor": "DE4509t",
+                "suite_index": 4
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Junior Raglin(sb); Sonny Greer(d)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2589,18 +2593,14 @@
                 "desor": "DE4511g"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "45-04-07-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade [Love]",
+                "title": "Balcony Serenade [Love]",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2616,13 +2616,14 @@
                         "catalog": "903 9001"
                     }
                 ],
-                "desor": "DE4511h"
+                "desor": "DE4511h",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "45-04-07-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling [Violence] - vAH",
+                "title": "Strange feeling [Violence] - vAH",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2638,13 +2639,14 @@
                         "catalog": "903 9001"
                     }
                 ],
-                "desor": "DE4511i"
+                "desor": "DE4511i",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "45-04-07-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love [Naiveté]",
+                "title": "Dancers In Love [Naiveté]",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2660,13 +2662,14 @@
                         "catalog": "903 9001"
                     }
                 ],
-                "desor": "DE4511j"
+                "desor": "DE4511j",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "45-04-07-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura [Sophistication]",
+                "title": "Coloratura [Sophistication]",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2686,7 +2689,12 @@
                         "catalog": "903 9001"
                     }
                 ],
-                "desor": "DE4511k"
+                "desor": "DE4511k",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -10024,18 +10032,14 @@
                 "desor": "DE4545k"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "45-07-07-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade [Love]",
+                "title": "Balcony Serenade [Love]",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10063,13 +10067,14 @@
                         "catalog": "FA-1010"
                     }
                 ],
-                "desor": "DE4545l"
+                "desor": "DE4545l",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "45-07-07-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling - vAH",
+                "title": "Strange feeling - vAH",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10093,13 +10098,14 @@
                         "catalog": "FA-1010"
                     }
                 ],
-                "desor": "DE4545m"
+                "desor": "DE4545m",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "45-07-07-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love",
+                "title": "Dancers In Love",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10123,13 +10129,14 @@
                         "catalog": "FA-1010"
                     }
                 ],
-                "desor": "DE4545n"
+                "desor": "DE4545n",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "45-07-07-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura",
+                "title": "Coloratura",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10153,7 +10160,12 @@
                         "catalog": "FA-1010"
                     }
                 ],
-                "desor": "DE4545o"
+                "desor": "DE4545o",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -11144,18 +11156,14 @@
                 "value": "Shelton Hemphill, Rex Stewart, Taft Jordan, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Claude Jones(tb); Jimmy Hamilton(cl,ts); Otto Hardwick(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin, Al Lucas(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "45-07-24-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange feeling - vAH",
+                "title": "Strange feeling - vAH",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -11186,13 +11194,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4548a"
+                "desor": "DE4548a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "45-07-24-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura",
+                "title": "Coloratura",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -11211,13 +11220,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4548b"
+                "desor": "DE4548b",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "45-07-24-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade",
+                "title": "Balcony Serenade",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -11248,7 +11258,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4548c"
+                "desor": "DE4548c",
+                "suite_index": 1
             }
         ]
     },
@@ -11821,18 +11832,14 @@
                 "value": "Shelton Hemphill, Rex Stewart, Taft Jordan, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Claude Jones(tb); Jimmy Hamilton(cl,ts); Otto Hardwick(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "45-07-30-001",
                 "matrix": "D5VB506-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Coloratura",
+                "title": "Coloratura",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -11863,7 +11870,12 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4551a"
+                "desor": "DE4551a",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -11912,18 +11924,14 @@
                 "value": "Duke Ellington(p); Junior Raglin(sb)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "45-07-30-003",
                 "matrix": "D5VB519-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dancers In Love",
+                "title": "Dancers In Love",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -11954,7 +11962,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4551c"
+                "desor": "DE4551c",
+                "suite_index": 3
             }
         ]
     },

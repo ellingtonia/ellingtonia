@@ -1428,18 +1428,14 @@
                 "value": "Willie Cook, Edward Mullens, Cat Anderson, Clark Terry, Ray Nance(t); Louis Blackburn, Murray McEachern, Lawrence Brown, Britt Woodman(tb); Juan Tizol(vtb); Jimmy Hamilton, Arthur Clark(cl,ts); Russell Procope(cl,as); Johnny Hodges, Oliver Nelson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Harry Smiles(ob); Duke Ellington(p); Les Spann(g,f); Aaron Bell(sb); Sonny Greer, Dave Jackson, Jimmy Johnson, Philly Joe Jones, Max Roach(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PARIS BLUES",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PARIS BLUES"
             },
             {
                 "type": "take",
                 "index": "61-05-02-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Nite (Paris Blues)",
+                "title": "Nite (Paris Blues)",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1450,26 +1446,28 @@
                         "catalog": "UAL-4092"
                     }
                 ],
-                "desor": "DE6108a"
+                "desor": "DE6108a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-05-02-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Nite (Paris Blues)",
+                "title": "Nite (Paris Blues)",
                 "releases": [
                     {
                         "label": "OC",
                         "catalog": "OPTD 1348"
                     }
                 ],
-                "desor": "DE6108xa"
+                "desor": "DE6108xa",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-05-02-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Autumnal Suite (Paris Blues)",
+                "title": "Autumnal Suite (Paris Blues)",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1480,26 +1478,28 @@
                         "catalog": "UAL-4092"
                     }
                 ],
-                "desor": "DE6108b"
+                "desor": "DE6108b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "61-05-02-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Autumnal Suite (Paris Blues)",
+                "title": "Autumnal Suite (Paris Blues)",
                 "releases": [
                     {
                         "label": "OC",
                         "catalog": "OPTD 1348"
                     }
                 ],
-                "desor": "DE6108xb"
+                "desor": "DE6108xb",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "61-05-02-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. Birdie Jungle (Guitar Amour)",
+                "title": "Birdie Jungle (Guitar Amour)",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1510,26 +1510,28 @@
                         "catalog": "UAL-4092"
                     }
                 ],
-                "desor": "DE6108c"
+                "desor": "DE6108c",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "61-05-02-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. Birdie Jungle (Guitar Amour)",
+                "title": "Birdie Jungle (Guitar Amour)",
                 "releases": [
                     {
                         "label": "OC",
                         "catalog": "OPTD 1348"
                     }
                 ],
-                "desor": "DE6108d"
+                "desor": "DE6108d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "61-05-02-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Paris Stairs",
+                "title": "Paris Stairs",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1540,52 +1542,56 @@
                         "catalog": "UAL-4092"
                     }
                 ],
-                "desor": "DE6108e"
+                "desor": "DE6108e",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "61-05-02-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Paris Stairs",
+                "title": "Paris Stairs",
                 "releases": [
                     {
                         "label": "OC",
                         "catalog": "OPTD 1348"
                     }
                 ],
-                "desor": "DE6108xc"
+                "desor": "DE6108xc",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "61-05-02-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06. Paris Blues",
+                "title": "Paris Blues",
                 "releases": [
                     {
                         "label": "OC",
                         "catalog": "OPTD 1348"
                     }
                 ],
-                "desor": "DE6108f"
+                "desor": "DE6108f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "61-05-02-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08. Autumnal Suite (Paris Blues)",
+                "title": "Autumnal Suite (Paris Blues)",
                 "releases": [
                     {
                         "label": "OC",
                         "catalog": "OPTD 1348"
                     }
                 ],
-                "desor": "DE6108g"
+                "desor": "DE6108g",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "61-05-02-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Paris Blues",
+                "title": "Paris Blues",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1596,20 +1602,22 @@
                         "catalog": "UAL-4092"
                     }
                 ],
-                "desor": "DE6108h"
+                "desor": "DE6108h",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "61-05-02-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Paris Blues",
+                "title": "Paris Blues",
                 "releases": [
                     {
                         "label": "OC",
                         "catalog": "OPTD 1348"
                     }
                 ],
-                "desor": "DE6108i"
+                "desor": "DE6108i",
+                "suite_index": 10
             },
             {
                 "type": "note",
@@ -1628,20 +1636,21 @@
                 "value": "Willie Cook, Edward Mullens,  Cat Anderson, Clark Terry(t); Ray Nance(t,vn); Britt Woodman, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Oliver Jackson(d); Eddie Locke(pc)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "61-06-01-001",
                 "matrix": "CO67171-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange Feeling",
+                "title": "Strange Feeling",
                 "releases": [],
-                "desor": "DE6109a"
+                "desor": "DE6109a",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1773,48 +1782,52 @@
                 "desor": "DE6110c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "61-06-24-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [],
-                "desor": "DE6110d"
+                "desor": "DE6110d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "61-06-24-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [],
-                "desor": "DE6110e"
+                "desor": "DE6110e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-06-24-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [],
-                "desor": "DE6110f"
+                "desor": "DE6110f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "61-06-24-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [],
-                "desor": "DE6110g"
+                "desor": "DE6110g",
+                "suite_index": 4
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p) solo."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1993,44 +2006,44 @@
                 "desor": "DE6111d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "61-06-28-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [],
-                "desor": "DE6111e"
+                "desor": "DE6111e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "61-06-28-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [],
-                "desor": "DE6111f"
+                "desor": "DE6111f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-06-28-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [],
-                "desor": "DE6111g"
+                "desor": "DE6111g",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "61-06-28-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [],
-                "desor": "DE6111h"
+                "desor": "DE6111h",
+                "suite_index": 4
             }
         ]
     },
@@ -2046,36 +2059,39 @@
                 "value": "As before. Add Cleveland Symphony Orchestra, Louis Lane(con)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NIGHT CREATURE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NIGHT CREATURE"
             },
             {
                 "type": "take",
                 "index": "61-06-28-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blind Bug",
+                "title": "Blind Bug",
                 "releases": [],
-                "desor": "DE6111i"
+                "desor": "DE6111i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "61-06-28-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Stalking Monster",
+                "title": "Stalking Monster",
                 "releases": [],
-                "desor": "DE6111j"
+                "desor": "DE6111j",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-06-28-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dazzling Creature",
+                "title": "Dazzling Creature",
                 "releases": [],
-                "desor": "DE6111k"
+                "desor": "DE6111k",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2226,44 +2242,48 @@
                 "desor": "DE6112b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "61-07-03-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [],
-                "desor": "DE6112c"
+                "desor": "DE6112c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "61-07-03-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [],
-                "desor": "DE6112d"
+                "desor": "DE6112d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-07-03-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [],
-                "desor": "DE6112e"
+                "desor": "DE6112e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "61-07-03-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [],
-                "desor": "DE6112f"
+                "desor": "DE6112f",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3902,44 +3922,48 @@
                 "desor": "DE6124i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "61-09-23-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [],
-                "desor": "DE6124j"
+                "desor": "DE6124j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "61-09-23-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [],
-                "desor": "DE6124k"
+                "desor": "DE6124k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-09-23-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [],
-                "desor": "DE6124l"
+                "desor": "DE6124l",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "61-09-23-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [],
-                "desor": "DE6124m"
+                "desor": "DE6124m",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3962,77 +3986,82 @@
                 "value": "Add Jimmy Hamilton(cl,ts)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GIRL'S SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GIRL'S SUITE"
             },
             {
                 "type": "take",
                 "index": "61-09-23-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Girls",
+                "title": "Girls",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "004"
                     }
                 ],
-                "desor": "DE6124p"
+                "desor": "DE6124p",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "61-09-23-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sarah",
+                "title": "Sarah",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "004"
                     }
                 ],
-                "desor": "DE6124q"
+                "desor": "DE6124q",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "61-09-23-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Lena",
+                "title": "Lena",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "004"
                     }
                 ],
-                "desor": "DE6124r"
+                "desor": "DE6124r",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "61-09-23-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Mahalia",
+                "title": "Mahalia",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "004"
                     }
                 ],
-                "desor": "DE6124s"
+                "desor": "DE6124s",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-09-23-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Dinah #",
+                "title": "Dinah #",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "004"
                     }
                 ],
-                "desor": "DE6124t"
+                "desor": "DE6124t",
+                "suite_index": 8
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4522,44 +4551,48 @@
                 "desor": "DE6128a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUITE THURSDAY",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUITE THURSDAY"
             },
             {
                 "type": "take",
                 "index": "61-11-21-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Misfit Blues",
+                "title": "Misfit Blues",
                 "releases": [],
-                "desor": "DE6128b"
+                "desor": "DE6128b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "61-11-21-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Schwiphti",
+                "title": "Schwiphti",
                 "releases": [],
-                "desor": "DE6128c"
+                "desor": "DE6128c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "61-11-21-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Zweet Zurzday",
+                "title": "Zweet Zurzday",
                 "releases": [],
-                "desor": "DE6128d"
+                "desor": "DE6128d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "61-11-21-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Lay-By",
+                "title": "Lay-By",
                 "releases": [],
-                "desor": "DE6128e"
+                "desor": "DE6128e",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

@@ -4215,36 +4215,35 @@
                 "value": "The London Philharmonic Orchestra, Duke Ellington(con)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "67-02-19-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [],
-                "desor": "DE6726c"
+                "desor": "DE6726c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "67-02-19-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [],
-                "desor": "DE6726d"
+                "desor": "DE6726d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "67-02-19-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [],
-                "desor": "DE6726e"
+                "desor": "DE6726e",
+                "suite_index": 3
             }
         ]
     },

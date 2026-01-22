@@ -725,18 +725,14 @@
                 "value": "Harold Baker(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOOT SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOOT SUITE"
             },
             {
                 "type": "take",
                 "index": "59-02-19-001",
                 "matrix": "CO62192-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Red Garter",
+                "title": "Red Garter",
                 "releases": [
                     {
                         "label": "Co",
@@ -747,13 +743,14 @@
                         "catalog": "CL 1323"
                     }
                 ],
-                "desor": "DE5906a"
+                "desor": "DE5906a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "59-02-19-002",
                 "matrix": "CO62193-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Red Carpet",
+                "title": "Red Carpet",
                 "releases": [
                     {
                         "label": "Co",
@@ -764,13 +761,14 @@
                         "catalog": "CL 1323"
                     }
                 ],
-                "desor": "DE5906b"
+                "desor": "DE5906b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "59-02-19-003",
                 "matrix": "CO62194-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Ready-Go",
+                "title": "Ready-Go",
                 "releases": [
                     {
                         "label": "Co",
@@ -781,11 +779,16 @@
                         "catalog": "CL 1323"
                     }
                 ],
-                "desor": "DE5906c"
+                "desor": "DE5906c",
+                "suite_index": 4
             },
             {
                 "type": "artists",
                 "value": "Add Dizzy Gillespie, Andres Marenguito, Cat Anderson(t)"
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -826,18 +829,14 @@
                 "desor": "DE5906e"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOOT SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOOT SUITE"
             },
             {
                 "type": "take",
                 "index": "59-02-19-006",
                 "matrix": "CO62197-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Red Shoes",
+                "title": "Red Shoes",
                 "releases": [
                     {
                         "label": "Co",
@@ -848,7 +847,12 @@
                         "catalog": "CL 1323"
                     }
                 ],
-                "desor": "DE5906f"
+                "desor": "DE5906f",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1069,18 +1073,14 @@
                 "value": "Elden C. Bailey, Harry Breuer, George Gaber, Morris Goldenberg, Chauncey Morehouse, Walter E. Rosenberger, Robert M. Rosengarten, Milton Schlesinger, Bradley Spinney out"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE QUEENS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE QUEENS SUITE"
             },
             {
                 "type": "take",
                 "index": "59-02-25-003",
                 "matrix": "CO62257-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Northern Lights",
+                "title": "Northern Lights",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -1091,13 +1091,14 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE5908c"
+                "desor": "DE5908c",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "59-02-25-004",
                 "matrix": "CO62258-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Le Sucrier Velour",
+                "title": "Le Sucrier Velour",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -1108,13 +1109,14 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE5908d"
+                "desor": "DE5908d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "59-02-25-005",
                 "matrix": "CO62259-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Lightning Bugs And Frogs",
+                "title": "Lightning Bugs And Frogs",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -1125,7 +1127,8 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE5908e"
+                "desor": "DE5908e",
+                "suite_index": 2
             }
         ]
     },
@@ -1873,18 +1876,14 @@
                 "value": "Harold Baker, Andres Marenguito(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Jimmy Johnson(d)"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE QUEENS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE QUEENS SUITE"
             },
             {
                 "type": "take",
                 "index": "59-04-01-001",
                 "matrix": "C063072-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Sunset And The Mocking Bird",
+                "title": "Sunset And The Mocking Bird",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -1895,13 +1894,14 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE5916a"
+                "desor": "DE5916a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "59-04-01-002",
                 "matrix": "C063073-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Apes And Peacocks",
+                "title": "Apes And Peacocks",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -1912,7 +1912,8 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE5916b"
+                "desor": "DE5916b",
+                "suite_index": 6
             }
         ]
     },
@@ -1927,18 +1928,14 @@
                 "value": "Duke Ellington(p); Jimmy Woode(sb)"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE QUEENS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE QUEENS SUITE"
             },
             {
                 "type": "take",
                 "index": "59-04-14-001",
                 "matrix": "C063249-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Single Petal Of A Rose",
+                "title": "Single Petal Of A Rose",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -1949,7 +1946,8 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE5917a"
+                "desor": "DE5917a",
+                "suite_index": 5
             }
         ]
     },
@@ -2041,31 +2039,28 @@
                 "value": "Cat Anderson, Harold Baker, Gerald Wilsoni(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Jimmy Johnson(d)"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "ANATOMY OF A MURDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "ANATOMY OF A MURDER"
             },
             {
                 "type": "take",
                 "index": "59-06-01-001",
                 "matrix": "RHC046258-13",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Happy Anatomy",
+                "title": "Happy Anatomy",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65569"
                     }
                 ],
-                "desor": "DE5918a"
+                "desor": "DE5918a",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "59-06-01-002",
                 "matrix": "RHC046261-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Flirtibird",
+                "title": "Flirtibird",
                 "releases": [
                     {
                         "label": "Co",
@@ -2088,21 +2083,23 @@
                         "catalog": "CL 1360"
                     }
                 ],
-                "desor": "DE5918b"
+                "desor": "DE5918b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "59-06-01-003",
                 "matrix": "RHC046262-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Flirtibird (Flirtibird Down)",
+                "title": "Flirtibird (Flirtibird Down)",
                 "releases": [],
-                "desor": "DE5918c"
+                "desor": "DE5918c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "59-06-01-004",
                 "matrix": "RHC046263-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Almost Cried",
+                "title": "Almost Cried",
                 "releases": [
                     {
                         "label": "Co",
@@ -2117,7 +2114,12 @@
                         "catalog": "E-10071"
                     }
                 ],
-                "desor": "DE5918d"
+                "desor": "DE5918d",
+                "suite_index": 8
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2147,14 +2149,6 @@
             {
                 "type": "artists",
                 "value": "Cat Anderson, Harold Baker, Gerald Wilsoni(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy\nHamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Jimmy Johnson(d)"
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "ANATOMY OF A MURDER",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -2238,18 +2232,14 @@
                 "value": "Cat Anderson, Harold Baker, Gerald Wilsoni(t); Clark Terry(t,flh); Ray Nance(t,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy\nHamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Billy Strayhorn(p,cs); Jimmy Woode(sb); Jimmy Johnson(d)"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "ANATOMY OF A MURDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "ANATOMY OF A MURDER"
             },
             {
                 "type": "take",
                 "index": "59-06-05-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Anatomy Of A Murder",
+                "title": "Anatomy Of A Murder",
                 "releases": [
                     {
                         "label": "Co",
@@ -2264,13 +2254,14 @@
                         "catalog": "E-10071"
                     }
                 ],
-                "desor": "DE5920a"
+                "desor": "DE5920a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "59-06-05-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Flirtibird",
+                "title": "Flirtibird",
                 "releases": [
                     {
                         "label": "Co",
@@ -2281,13 +2272,14 @@
                         "catalog": "E-10071"
                     }
                 ],
-                "desor": "DE5920xa"
+                "desor": "DE5920xa",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "59-06-05-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Way Early Subtone",
+                "title": "Way Early Subtone",
                 "releases": [
                     {
                         "label": "Co",
@@ -2302,13 +2294,14 @@
                         "catalog": "E-10071"
                     }
                 ],
-                "desor": "DE5920b"
+                "desor": "DE5920b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "59-06-05-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Hero To Zero=Haupé",
+                "title": "Hero To Zero=Haupé",
                 "releases": [
                     {
                         "label": "Co",
@@ -2323,7 +2316,12 @@
                         "catalog": "E-10071"
                     }
                 ],
-                "desor": "DE5920c"
+                "desor": "DE5920c",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3260,18 +3258,14 @@
                 "desor": "DE5924a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "IDIOM '59",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "IDIOM '59"
             },
             {
                 "type": "take",
                 "index": "59-07-04-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Idiom '59 PART I",
+                "title": "Idiom '59 PART I",
                 "releases": [
                     {
                         "label": "Ea",
@@ -3282,7 +3276,12 @@
                         "catalog": "546-686-2"
                     }
                 ],
-                "desor": "DE5924b"
+                "desor": "DE5924b",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4062,18 +4061,14 @@
                 "desor": "DE5925t"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "DUAEL FUEL",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "DUAEL FUEL"
             },
             {
                 "type": "take",
                 "index": "59-08-08-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Duael Fuel PART I",
+                "title": "Duael Fuel PART I",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -4084,13 +4079,14 @@
                         "catalog": "00006"
                     }
                 ],
-                "desor": "DE5925g"
+                "desor": "DE5925g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "59-08-08-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Duael Fuel PART II",
+                "title": "Duael Fuel PART II",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -4101,13 +4097,14 @@
                         "catalog": "00006"
                     }
                 ],
-                "desor": "DE5925h"
+                "desor": "DE5925h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "59-08-08-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Duael Fuel PART III",
+                "title": "Duael Fuel PART III",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -4118,7 +4115,12 @@
                         "catalog": "00006"
                     }
                 ],
-                "desor": "DE5925i"
+                "desor": "DE5925i",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4490,51 +4492,54 @@
                 "desor": "DE5926q"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "DUAEL FUEL",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "DUAEL FUEL"
             },
             {
                 "type": "take",
                 "index": "59-08-09-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Duael Fuel PART I",
+                "title": "Duael Fuel PART I",
                 "releases": [
                     {
                         "label": "Rl",
                         "catalog": "828637 2"
                     }
                 ],
-                "desor": "DE5926r"
+                "desor": "DE5926r",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "59-08-09-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Duael Fuel PART II",
+                "title": "Duael Fuel PART II",
                 "releases": [
                     {
                         "label": "Rl",
                         "catalog": "828637 2"
                     }
                 ],
-                "desor": "DE5926s"
+                "desor": "DE5926s",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "59-08-09-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Duael Fuel PART III",
+                "title": "Duael Fuel PART III",
                 "releases": [
                     {
                         "label": "Rl",
                         "catalog": "828637 2"
                     }
                 ],
-                "desor": "DE5926t"
+                "desor": "DE5926t",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4775,18 +4780,14 @@
                 "value": "Cat Anderson, Harold Baker, Andres Marenguito, Willie Cook(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, John Sanders(tb); Jimmy\nHamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Quentin Jackson(sb);Jimmy Johnson,Sam Woodyard(d)"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "DUAEL FUEL",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "DUAEL FUEL"
             },
             {
                 "type": "take",
                 "index": "59-09-08-001",
                 "matrix": "C063502-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Duael Fuel PART I",
+                "title": "Duael Fuel PART I",
                 "releases": [
                     {
                         "label": "Co",
@@ -4797,13 +4798,14 @@
                         "catalog": "CL 1400"
                     }
                 ],
-                "desor": "DE5928a"
+                "desor": "DE5928a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "59-09-08-002",
                 "matrix": "C063503-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Duael Fuel PART II",
+                "title": "Duael Fuel PART II",
                 "releases": [
                     {
                         "label": "Co",
@@ -4814,13 +4816,14 @@
                         "catalog": "CL 1400"
                     }
                 ],
-                "desor": "DE5928b"
+                "desor": "DE5928b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "59-09-08-003",
                 "matrix": "C063504-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Duael Fuel PART III",
+                "title": "Duael Fuel PART III",
                 "releases": [
                     {
                         "label": "Co",
@@ -4831,25 +4834,22 @@
                         "catalog": "CL 1400"
                     }
                 ],
-                "desor": "DE5928c"
+                "desor": "DE5928c",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": "Quentin Jackson(tb); Add Joe Benjamin(sb)"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "IDIOM '59",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "IDIOM '59"
             },
             {
                 "type": "take",
                 "index": "59-09-08-004",
                 "matrix": "C063505-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Idiom '59 PART I",
+                "title": "Idiom '59 PART I",
                 "releases": [
                     {
                         "label": "Co",
@@ -4860,11 +4860,16 @@
                         "catalog": "CL 1400"
                     }
                 ],
-                "desor": "DE5928d"
+                "desor": "DE5928d",
+                "suite_index": 1
             },
             {
                 "type": "artists",
                 "value": "Joe Benjamin out. Add Jimmy Woode(sb)"
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

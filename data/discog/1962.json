@@ -2776,36 +2776,35 @@
                 "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); The National Symphony Orchestra, Gunther Schuller(con)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NIGHT CREATURE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NIGHT CREATURE"
             },
             {
                 "type": "take",
                 "index": "62-05-31-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blind Bug",
+                "title": "Blind Bug",
                 "releases": [],
-                "desor": "DE6224a"
+                "desor": "DE6224a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "62-05-31-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Stalking Monster",
+                "title": "Stalking Monster",
                 "releases": [],
-                "desor": "DE6224b"
+                "desor": "DE6224b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "62-05-31-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dazzling Creature",
+                "title": "Dazzling Creature",
                 "releases": [],
-                "desor": "DE6224c"
+                "desor": "DE6224c",
+                "suite_index": 3
             }
         ]
     },

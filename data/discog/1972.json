@@ -143,49 +143,53 @@
                 "desor": "DE7202m"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-01-06-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [
                     {
                         "label": "MP",
                         "catalog": "Ell-86"
                     }
                 ],
-                "desor": "DE7202n"
+                "desor": "DE7202n",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-01-06-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7202o"
+                "desor": "DE7202o",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-01-06-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7202p"
+                "desor": "DE7202p",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-01-06-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7202q"
+                "desor": "DE7202q",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -508,44 +512,48 @@
                 "desor": "DE7203m"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-01-06-054",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7203n"
+                "desor": "DE7203n",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-01-06-055",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7203o"
+                "desor": "DE7203o",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-01-06-056",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7203p"
+                "desor": "DE7203p",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-01-06-057",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7203q"
+                "desor": "DE7203q",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2312,28 +2320,30 @@
                 "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v); National Symphony Orchestra, Redentor Romero(con,vn)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "NIGHT CREATURE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "NIGHT CREATURE"
             },
             {
                 "type": "take",
                 "index": "72-01-20-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Blind Bug",
+                "title": "Blind Bug",
                 "releases": [],
-                "desor": "DE9057a"
+                "desor": "DE9057a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-01-20-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Stalking Monster",
+                "title": "Stalking Monster",
                 "releases": [],
-                "desor": "DE9057b"
+                "desor": "DE9057b",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2545,44 +2555,48 @@
                 "desor": "DE7211f"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-02-11-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7211g"
+                "desor": "DE7211g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-02-11-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7211h"
+                "desor": "DE7211h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-02-11-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7211i"
+                "desor": "DE7211i",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-02-11-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7211j"
+                "desor": "DE7211j",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3429,44 +3443,48 @@
                 "desor": "DE7215m"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-02-21-043",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7215n"
+                "desor": "DE7215n",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-02-21-044",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7215o"
+                "desor": "DE7215o",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-02-21-045",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7215p"
+                "desor": "DE7215p",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-02-21-046",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7215q"
+                "desor": "DE7215q",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3561,48 +3579,52 @@
                 "desor": "DE7216g"
             },
             {
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
+            },
+            {
                 "type": "take",
                 "index": "72-02-25-008",
                 "matrix": null,
-                "title": "TOGO BRAVA SUITE",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": null
+                "desor": "DE7216h",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-02-25-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7216h"
+                "desor": "DE7216i",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-02-25-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7216i"
+                "desor": "DE7216j",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-02-25-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7216j"
+                "desor": "DE7216k",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
                 "index": "72-02-25-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
-                "releases": [],
-                "desor": "DE7216k"
-            },
-            {
-                "type": "take",
-                "index": "72-02-25-013",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -3610,7 +3632,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-014",
+                "index": "72-02-25-013",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -3618,7 +3640,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-015",
+                "index": "72-02-25-014",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -3626,7 +3648,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-016",
+                "index": "72-02-25-015",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -3634,7 +3656,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-017",
+                "index": "72-02-25-016",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -3642,7 +3664,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-018",
+                "index": "72-02-25-017",
                 "matrix": null,
                 "title": "I Can't Get Started",
                 "releases": [],
@@ -3650,7 +3672,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-019",
+                "index": "72-02-25-018",
                 "matrix": null,
                 "title": "Goof",
                 "releases": [],
@@ -3658,7 +3680,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-020",
+                "index": "72-02-25-019",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -3666,7 +3688,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-021",
+                "index": "72-02-25-020",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -3674,7 +3696,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-022",
+                "index": "72-02-25-021",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -3682,7 +3704,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-023",
+                "index": "72-02-25-022",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -3698,7 +3720,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-024",
+                "index": "72-02-25-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -3706,7 +3728,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-025",
+                "index": "72-02-25-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -3714,7 +3736,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-026",
+                "index": "72-02-25-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -3722,7 +3744,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-027",
+                "index": "72-02-25-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Don't Get Around Much Anymore",
                 "releases": [],
@@ -3730,7 +3752,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-028",
+                "index": "72-02-25-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Mood Indigo",
                 "releases": [],
@@ -3738,7 +3760,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-029",
+                "index": "72-02-25-028",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. I'm Beginning To See The Light",
                 "releases": [],
@@ -3746,7 +3768,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-030",
+                "index": "72-02-25-029",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude - vTW",
                 "releases": [],
@@ -3754,7 +3776,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-031",
+                "index": "72-02-25-030",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Heaven - vTW",
                 "releases": [],
@@ -3762,7 +3784,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-032",
+                "index": "72-02-25-031",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. In The Beginngin God - vTW",
                 "releases": [],
@@ -3770,7 +3792,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-033",
+                "index": "72-02-25-032",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. One More Time For The People - vTW",
                 "releases": [],
@@ -3778,7 +3800,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-034",
+                "index": "72-02-25-033",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -3786,7 +3808,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-035",
+                "index": "72-02-25-034",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -3798,7 +3820,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-036",
+                "index": "72-02-25-035",
                 "matrix": null,
                 "title": "Monologue",
                 "releases": [],
@@ -4840,48 +4862,52 @@
                 "desor": "DE7220e"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-04-23-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7220f"
+                "desor": "DE7220f",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-04-23-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7220g"
+                "desor": "DE7220g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-04-23-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7220h"
+                "desor": "DE7220h",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-04-23-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7220i"
+                "desor": "DE7220i",
+                "suite_index": 4
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5020,44 +5046,48 @@
                 "desor": "DE7221f"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-04-28-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7221g"
+                "desor": "DE7221g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-04-28-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7221h"
+                "desor": "DE7221h",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-04-28-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7221i"
+                "desor": "DE7221i",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-04-28-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7221j"
+                "desor": "DE7221j",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6005,44 +6035,48 @@
                 "desor": "DE7227d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-06-23-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7227e"
+                "desor": "DE7227e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-06-23-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7227f"
+                "desor": "DE7227f",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-06-23-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7227g"
+                "desor": "DE7227g",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-06-23-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7227h"
+                "desor": "DE7227h",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6361,48 +6395,52 @@
                 "desor": "DE7229d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-07-08-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7229e"
+                "desor": "DE7229e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-07-08-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7229f"
+                "desor": "DE7229f",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-07-08-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7229g"
+                "desor": "DE7229g",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-07-08-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7229h"
+                "desor": "DE7229h",
+                "suite_index": 2
             },
             {
                 "type": "artists",
                 "value": "Paul Gonsalves(ts); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6789,44 +6827,48 @@
                 "desor": "DE7232g"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-07-18-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7232h"
+                "desor": "DE7232h",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-07-18-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7232i"
+                "desor": "DE7232i",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-07-18-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7232j"
+                "desor": "DE7232j",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-07-18-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7232k"
+                "desor": "DE7232k",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7025,128 +7067,142 @@
                 "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins, Devonne Gardner, Patricia Hoy, Roscoe Gill, Ellington Festival Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SECOND SACRED CONCERT"
             },
             {
                 "type": "take",
                 "index": "72-07-19-001",
                 "matrix": null,
-                "title": "-&nbsp;01. Praise God And Dance [Opening Theme]",
+                "title": "Praise God And Dance [Opening Theme]",
                 "releases": [],
-                "desor": "DE7233a"
+                "desor": "DE7233a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-07-19-002",
                 "matrix": null,
-                "title": "-&nbsp;02. Supreme Being - vEFC",
+                "title": "Supreme Being - vEFC",
                 "releases": [],
-                "desor": "DE7233b"
+                "desor": "DE7233b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-07-19-003",
                 "matrix": null,
-                "title": "-&nbsp;03. Something 'Bout Believing - vDG,RG,TW,EFC",
+                "title": "Something 'Bout Believing - vDG,RG,TW,EFC",
                 "releases": [],
-                "desor": "DE7233c"
+                "desor": "DE7233c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-07-19-004",
                 "matrix": null,
-                "title": "-&nbsp;04. Almighty God - vDG,EFC",
+                "title": "Almighty God - vDG,EFC",
                 "releases": [],
-                "desor": "DE7233d"
+                "desor": "DE7233d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-07-19-005",
                 "matrix": null,
-                "title": "-&nbsp;05. The Shepherd",
+                "title": "The Shepherd",
                 "releases": [],
-                "desor": "DE7233e"
+                "desor": "DE7233e",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "72-07-19-006",
                 "matrix": null,
-                "title": "-&nbsp;06. Heaven - vDG,EFC",
+                "title": "Heaven - vDG,EFC",
                 "releases": [],
-                "desor": "DE7233f"
+                "desor": "DE7233f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "72-07-19-007",
                 "matrix": null,
-                "title": "-&nbsp;07. It's Freedom - vDG,PHo,RG,TW,EFC",
+                "title": "It's Freedom - vDG,PHo,RG,TW,EFC",
                 "releases": [],
-                "desor": "DE7233g"
+                "desor": "DE7233g",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "72-07-19-008",
                 "matrix": null,
-                "title": "-&nbsp;08. Meditation",
+                "title": "Meditation",
                 "releases": [],
-                "desor": "DE7233h"
+                "desor": "DE7233h",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "72-07-19-009",
                 "matrix": null,
-                "title": "-&nbsp;09. The Biggest And Busiest Intersection [Kixx] - vPHo",
+                "title": "The Biggest And Busiest Intersection [Kixx] - vPHo",
                 "releases": [],
-                "desor": "DE7233i"
+                "desor": "DE7233i",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "72-07-19-010",
                 "matrix": null,
-                "title": "-&nbsp;10. T.G.T.T. - vTW",
+                "title": "T.G.T.T. - vTW",
                 "releases": [],
-                "desor": "DE7233j"
+                "desor": "DE7233j",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "72-07-19-011",
                 "matrix": null,
-                "title": "-&nbsp;11. Don't Get Down On Your Knees - vTW",
+                "title": "Don't Get Down On Your Knees - vTW",
                 "releases": [],
-                "desor": "DE7233k"
+                "desor": "DE7233k",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "72-07-19-012",
                 "matrix": null,
-                "title": "-&nbsp;12. Father Forgive - vTW,EFC",
+                "title": "Father Forgive - vTW,EFC",
                 "releases": [],
-                "desor": "DE7233l"
+                "desor": "DE7233l",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "72-07-19-013",
                 "matrix": null,
-                "title": "-&nbsp;13. Don't Get Down On Your Knees - vTW",
+                "title": "Don't Get Down On Your Knees - vTW",
                 "releases": [],
-                "desor": "DE7233m"
+                "desor": "DE7233m",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "72-07-19-014",
                 "matrix": null,
-                "title": "-&nbsp;14. Praise God And Dance - vPHo,TW,EFC",
+                "title": "Praise God And Dance - vPHo,TW,EFC",
                 "releases": [],
-                "desor": "DE7233n"
+                "desor": "DE7233n",
+                "suite_index": 14
             },
             {
                 "type": "artists",
                 "value": "Toney Watkins(v) solo."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7293,44 +7349,48 @@
                 "desor": "DE7235e"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-07-20-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7235f"
+                "desor": "DE7235f",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-07-20-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7235g"
+                "desor": "DE7235g",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-07-20-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7235h"
+                "desor": "DE7235h",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-07-20-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7235i"
+                "desor": "DE7235i",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7389,28 +7449,30 @@
                 "desor": "DE7235p"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOUTELAS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOUTELAS SUITE"
             },
             {
                 "type": "take",
                 "index": "72-07-20-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Goutelas",
+                "title": "Goutelas",
                 "releases": [],
-                "desor": "DE7235q"
+                "desor": "DE7235q",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-07-20-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Get-With-Itness",
+                "title": "Get-With-Itness",
                 "releases": [],
-                "desor": "DE7235r"
+                "desor": "DE7235r",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7501,48 +7563,52 @@
                 "desor": "DE7237a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOUTELAS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOUTELAS SUITE"
             },
             {
                 "type": "take",
                 "index": "72-07-21-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Goutelas",
+                "title": "Goutelas",
                 "releases": [],
-                "desor": "DE7237b"
+                "desor": "DE7237b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-07-21-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Get-With-Itness",
+                "title": "Get-With-Itness",
                 "releases": [],
-                "desor": "DE7237c"
+                "desor": "DE7237c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-07-21-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Something",
+                "title": "Something",
                 "releases": [],
-                "desor": "DE7237d"
+                "desor": "DE7237d",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-07-21-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Having At It",
+                "title": "Having At It",
                 "releases": [],
-                "desor": "DE7237e"
+                "desor": "DE7237e",
+                "suite_index": 4
             },
             {
                 "type": "artists",
                 "value": "Paul Gonsalves(ts); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7629,44 +7695,48 @@
                 "desor": "DE7237n"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE UWIS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE UWIS SUITE"
             },
             {
                 "type": "take",
                 "index": "72-07-21-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. The Anticipation",
+                "title": "The Anticipation",
                 "releases": [],
-                "desor": "DE7237o"
+                "desor": "DE7237o",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-07-21-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Loco Madi",
+                "title": "Loco Madi",
                 "releases": [],
-                "desor": "DE7237p"
+                "desor": "DE7237p",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-07-21-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [],
-                "desor": "DE7237q"
+                "desor": "DE7237q",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-07-21-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Klop",
+                "title": "Klop",
                 "releases": [],
-                "desor": "DE7237r"
+                "desor": "DE7237r",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9280,44 +9350,48 @@
                 "desor": "DE7246h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-09-21-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7246i"
+                "desor": "DE7246i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-09-21-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7246j"
+                "desor": "DE7246j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-09-21-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7246k"
+                "desor": "DE7246k",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-09-21-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7246l"
+                "desor": "DE7246l",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9541,66 +9615,68 @@
                 "value": "Wulf Freedman out."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE UWIS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE UWIS SUITE"
             },
             {
                 "type": "take",
                 "index": "72-10-05-006",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [],
-                "desor": "DE7248f"
+                "desor": "DE7248f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-05-007",
                 "matrix": "-5",
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [],
-                "desor": "DE7248g"
+                "desor": "DE7248g",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-05-008",
                 "matrix": "-6",
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [],
-                "desor": "DE7248h"
+                "desor": "DE7248h",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-05-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [],
-                "desor": "DE7248i"
+                "desor": "DE7248i",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-05-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [],
-                "desor": "DE7248j"
+                "desor": "DE7248j",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-05-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [],
-                "desor": "DE7248k"
+                "desor": "DE7248k",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-05-012",
                 "matrix": "-7",
-                "title": "-&nbsp;&nbsp;3. Uwis",
+                "title": "Uwis",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -9611,45 +9687,50 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE7248l"
+                "desor": "DE7248l",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-05-013",
                 "matrix": "-8",
-                "title": "-&nbsp;&nbsp;4. Klop",
+                "title": "Klop",
                 "releases": [],
-                "desor": "DE7248m"
+                "desor": "DE7248m",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-10-05-014",
                 "matrix": "-9",
-                "title": "-&nbsp;&nbsp;4. Klop",
+                "title": "Klop",
                 "releases": [],
-                "desor": "DE7248n"
+                "desor": "DE7248n",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-10-05-015",
                 "matrix": "-10",
-                "title": "-&nbsp;&nbsp;4. Klop",
+                "title": "Klop",
                 "releases": [],
-                "desor": "DE7248o"
+                "desor": "DE7248o",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-10-05-016",
                 "matrix": "-11",
-                "title": "-&nbsp;&nbsp;4. Klop",
+                "title": "Klop",
                 "releases": [],
-                "desor": "DE7248p"
+                "desor": "DE7248p",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-10-05-017",
                 "matrix": "-12",
-                "title": "-&nbsp;&nbsp;4. Klop",
+                "title": "Klop",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -9660,7 +9741,8 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE7248q"
+                "desor": "DE7248q",
+                "suite_index": 4
             },
             {
                 "type": "artists",
@@ -9670,7 +9752,7 @@
                 "type": "take",
                 "index": "72-10-05-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Loco Madi",
+                "title": "Loco Madi",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -9681,7 +9763,8 @@
                         "catalog": "2310-762"
                     }
                 ],
-                "desor": "DE7248r"
+                "desor": "DE7248r",
+                "suite_index": 2
             }
         ]
     },
@@ -9768,44 +9851,44 @@
                 "desor": "DE7249i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-10-13-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7249j"
+                "desor": "DE7249j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-10-13-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7249k"
+                "desor": "DE7249k",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-10-13-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7249l"
+                "desor": "DE7249l",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-13-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7249m"
+                "desor": "DE7249m",
+                "suite_index": 2
             }
         ]
     },
@@ -9900,44 +9983,48 @@
                 "desor": "DE7250j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-10-17-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7250k"
+                "desor": "DE7250k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-10-17-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7250l"
+                "desor": "DE7250l",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-10-17-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7250m"
+                "desor": "DE7250m",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-10-17-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7250n"
+                "desor": "DE7250n",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -10474,18 +10561,14 @@
                 "content": "Also listed as \"See See Rider\", which is quoted in the improvisation."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "FRAGMENTED SUITE FOR PIANO AND BASS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "FRAGMENTED SUITE FOR PIANO AND BASS"
             },
             {
                 "type": "take",
                 "index": "72-12-05-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. First Movement",
+                "title": "First Movement",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -10496,13 +10579,14 @@
                         "catalog": "2310-721"
                     }
                 ],
-                "desor": "DE7253g"
+                "desor": "DE7253g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-12-05-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Second Movement",
+                "title": "Second Movement",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -10513,13 +10597,14 @@
                         "catalog": "2310-721"
                     }
                 ],
-                "desor": "DE7253h"
+                "desor": "DE7253h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "72-12-05-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Third Movement = Pleadin'",
+                "title": "Third Movement = Pleadin'",
                 "releases": [
                     {
                         "label": "OJC20",
@@ -10530,7 +10615,8 @@
                         "catalog": "2310-721"
                     }
                 ],
-                "desor": "DE7253i"
+                "desor": "DE7253i",
+                "suite_index": 3
             }
         ]
     },
@@ -10641,44 +10727,48 @@
                 "desor": "DE7254l"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "72-12-17-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7254m"
+                "desor": "DE7254m",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "72-12-17-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7254n"
+                "desor": "DE7254n",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "72-12-17-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7254o"
+                "desor": "DE7254o",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "72-12-17-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7254p"
+                "desor": "DE7254p",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

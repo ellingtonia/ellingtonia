@@ -228,18 +228,14 @@
                 "desor": "DE4601o"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A TONAL GROUP",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A TONAL GROUP"
             },
             {
                 "type": "take",
                 "index": "46-01-04-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Rhapsoditti (Mellow Ditty)",
+                "title": "Rhapsoditti (Mellow Ditty)",
                 "releases": [
                     {
                         "label": "Df",
@@ -250,13 +246,14 @@
                         "catalog": "P-24074"
                     }
                 ],
-                "desor": "DE4601p"
+                "desor": "DE4601p",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "46-01-04-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Fugueaditti",
+                "title": "Fugueaditti",
                 "releases": [
                     {
                         "label": "Df",
@@ -267,13 +264,14 @@
                         "catalog": "P-24074"
                     }
                 ],
-                "desor": "DE4601q"
+                "desor": "DE4601q",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "46-01-04-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Jam-A-Ditty",
+                "title": "Jam-A-Ditty",
                 "releases": [
                     {
                         "label": "Df",
@@ -284,11 +282,16 @@
                         "catalog": "P-24074"
                     }
                 ],
-                "desor": "DE4601r"
+                "desor": "DE4601r",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Oscar Pettiford(sb); Sonny Greer(d)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1034,18 +1037,14 @@
                 "desor": "DE4606o"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A TONAL GROUP",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A TONAL GROUP"
             },
             {
                 "type": "take",
                 "index": "46-01-20-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Rhapsoditti (Mellow Ditty)",
+                "title": "Rhapsoditti (Mellow Ditty)",
                 "releases": [
                     {
                         "label": "DETS",
@@ -1056,13 +1055,14 @@
                         "catalog": "903 9017"
                     }
                 ],
-                "desor": "DE4606p"
+                "desor": "DE4606p",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "46-01-20-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Fugueaditti",
+                "title": "Fugueaditti",
                 "releases": [
                     {
                         "label": "DETS",
@@ -1073,13 +1073,14 @@
                         "catalog": "903 9017"
                     }
                 ],
-                "desor": "DE4606q"
+                "desor": "DE4606q",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "46-01-20-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Jam-A-Ditty",
+                "title": "Jam-A-Ditty",
                 "releases": [
                     {
                         "label": "DETS",
@@ -1090,7 +1091,12 @@
                         "catalog": "903 9017"
                     }
                 ],
-                "desor": "DE4606r"
+                "desor": "DE4606r",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6255,51 +6261,50 @@
                 "value": "Shelton Hemphill, Taft Jordan, Cat Anderson, Francis Williams, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Wilbur De Paris, Claude Jones(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Oscar Pettiford(sb); Sonny Greer(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "46-08-09-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Balcony Serenade",
+                "title": "Balcony Serenade",
                 "releases": [
                     {
                         "label": "UA",
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE4627a"
+                "desor": "DE4627a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "46-08-09-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Strange Feeling",
+                "title": "Strange Feeling",
                 "releases": [
                     {
                         "label": "UA",
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE4627b"
+                "desor": "DE4627b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "46-08-09-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Dancers In Love",
+                "title": "Dancers In Love",
                 "releases": [
                     {
                         "label": "UA",
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE4627c"
+                "desor": "DE4627c",
+                "suite_index": 3
             },
             {
                 "type": "note",
@@ -6488,19 +6493,14 @@
                 "desor": "DE4629e"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A TONAL GROUP",
-                "releases": [
-                ],
-                "desor": null
+                "type": "suite",
+                "suite_title": "A TONAL GROUP"
             },
             {
                 "type": "take",
                 "index": "46-08-17-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Rhapsoditti",
+                "title": "Rhapsoditti",
                 "releases": [
                     {
                         "label": "DETS",
@@ -6511,13 +6511,14 @@
                         "catalog": "903 9022"
                     }
                 ],
-                "desor": "DE4629f"
+                "desor": "DE4629f",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "46-08-17-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Fugueaditti",
+                "title": "Fugueaditti",
                 "releases": [
                     {
                         "label": "DETS",
@@ -6528,13 +6529,14 @@
                         "catalog": "903 9022"
                     }
                 ],
-                "desor": "DE4629g"
+                "desor": "DE4629g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "46-08-17-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Jam-A-Ditty",
+                "title": "Jam-A-Ditty",
                 "releases": [
                     {
                         "label": "DETS",
@@ -6545,11 +6547,16 @@
                         "catalog": "903 9022"
                     }
                 ],
-                "desor": "DE4629h"
+                "desor": "DE4629h",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": " Add Billy Strayhorn(p)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9048,18 +9055,14 @@
                 "desor": "DE4647m"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "DEEP SOUTH SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "DEEP SOUTH SUITE"
             },
             {
                 "type": "take",
                 "index": "46-11-10-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Magnolias Dripping With Molasses",
+                "title": "Magnolias Dripping With Molasses",
                 "releases": [
                     {
                         "label": "MM",
@@ -9070,13 +9073,14 @@
                         "catalog": "DC-02"
                     }
                 ],
-                "desor": "DE4647n"
+                "desor": "DE4647n",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "46-11-10-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hearsay",
+                "title": "Hearsay",
                 "releases": [
                     {
                         "label": "MM",
@@ -9087,13 +9091,14 @@
                         "catalog": "DC-02"
                     }
                 ],
-                "desor": "DE4647o"
+                "desor": "DE4647o",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "46-11-10-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. There Was Nobody Looking",
+                "title": "There Was Nobody Looking",
                 "releases": [
                     {
                         "label": "MM",
@@ -9104,13 +9109,14 @@
                         "catalog": "DC-02"
                     }
                 ],
-                "desor": "DE4647p"
+                "desor": "DE4647p",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "46-11-10-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Happy Go Lucky Local",
+                "title": "Happy Go Lucky Local",
                 "releases": [
                     {
                         "label": "MM",
@@ -9121,7 +9127,12 @@
                         "catalog": "DC-02"
                     }
                 ],
-                "desor": "DE4647q"
+                "desor": "DE4647q",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9154,31 +9165,28 @@
                 "desor": "DE4647s"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE BEAUTIFUL INDIANS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE BEAUTIFUL INDIANS"
             },
             {
                 "type": "take",
                 "index": "46-11-10-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Minnehaha - vKD",
+                "title": "Minnehaha - vKD",
                 "releases": [
                     {
                         "label": "Pri",
                         "catalog": "DC-02"
                     }
                 ],
-                "desor": "DE4647t"
+                "desor": "DE4647t",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "46-11-10-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hiawatha",
+                "title": "Hiawatha",
                 "releases": [
                     {
                         "label": "MM",
@@ -9189,11 +9197,16 @@
                         "catalog": "DC-02"
                     }
                 ],
-                "desor": "DE4647u"
+                "desor": "DE4647u",
+                "suite_index": 2
             },
             {
                 "type": "artists",
                 "value": "Add Django Reinhardt(g)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9529,18 +9542,14 @@
                 "desor": "DE4649f"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "DEEP SOUTH SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "DEEP SOUTH SUITE"
             },
             {
                 "type": "take",
                 "index": "46-11-23-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Magnolias Dripping With Molasses",
+                "title": "Magnolias Dripping With Molasses",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -9559,13 +9568,14 @@
                         "catalog": "750"
                     }
                 ],
-                "desor": "DE4649g"
+                "desor": "DE4649g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "46-11-23-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hearsay",
+                "title": "Hearsay",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -9584,13 +9594,14 @@
                         "catalog": "750"
                     }
                 ],
-                "desor": "DE4649h"
+                "desor": "DE4649h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "46-11-23-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. There Was Nobody Looking",
+                "title": "There Was Nobody Looking",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -9609,13 +9620,14 @@
                         "catalog": "759"
                     }
                 ],
-                "desor": "DE4649i"
+                "desor": "DE4649i",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "46-11-23-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Happy Go Lucky Local",
+                "title": "Happy Go Lucky Local",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -9634,7 +9646,8 @@
                         "catalog": "759"
                     }
                 ],
-                "desor": "DE4649j"
+                "desor": "DE4649j",
+                "suite_index": 4
             },
             {
                 "type": "note",
@@ -9781,18 +9794,14 @@
                 "value": "Shelton Hemphill, Taft Jordan, Francis Williams, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Wilbur De Paris, Claude Jones(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Oscar Pettiford(sb); Sonny Greer(d); Kay Davis(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE BEAUTIFUL INDIANS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE BEAUTIFUL INDIANS"
             },
             {
                 "type": "take",
                 "index": "46-12-05-001",
                 "matrix": "5817-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hiawatha",
+                "title": "Hiawatha",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -9819,7 +9828,12 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE4651a"
+                "desor": "DE4651a",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9880,18 +9894,14 @@
                 "desor": "DE4651c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE BEAUTIFUL INDIANS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE BEAUTIFUL INDIANS"
             },
             {
                 "type": "take",
                 "index": "46-12-05-004",
                 "matrix": "5824-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Minnehaha - vKD",
+                "title": "Minnehaha - vKD",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -9918,7 +9928,8 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE4651d"
+                "desor": "DE4651d",
+                "suite_index": 1
             }
         ]
     },

@@ -302,18 +302,14 @@
                 "value": "Russell Procope(ss) instead of (as)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "CONTROVERSIAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "CONTROVERSIAL SUITE"
             },
             {
                 "type": "take",
                 "index": "51-01-21-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Later",
+                "title": "Later",
                 "releases": [
                     {
                         "label": "RRe",
@@ -324,13 +320,14 @@
                         "catalog": "J-11/12"
                     }
                 ],
-                "desor": "DE5102i"
+                "desor": "DE5102i",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "51-01-21-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Before My Time",
+                "title": "Before My Time",
                 "releases": [
                     {
                         "label": "RRe",
@@ -341,11 +338,16 @@
                         "catalog": "J-11/12"
                     }
                 ],
-                "desor": "DE5102j"
+                "desor": "DE5102j",
+                "suite_index": 1
             },
             {
                 "type": "artists",
                 "value": "As before."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -815,32 +817,34 @@
                 "value": "Russell Procope(ss) instead of (as)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "CONTROVERSIAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "CONTROVERSIAL SUITE"
             },
             {
                 "type": "take",
                 "index": "51-02-09-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Later",
+                "title": "Later",
                 "releases": [],
-                "desor": "DE9059j"
+                "desor": "DE9059j",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "51-02-09-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Before My Time",
+                "title": "Before My Time",
                 "releases": [],
-                "desor": "DE9059k"
+                "desor": "DE9059k",
+                "suite_index": 1
             },
             {
                 "type": "artists",
                 "value": "As before."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3996,52 +4000,42 @@
                 "desor": "DE5128c"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": "CO47269-2",
-                "title": "CONTROVERSIAL SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "CONTROVERSIAL SUITE"
             },
             {
                 "type": "take",
                 "index": "51-12-11-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Before My Time",
+                "title": "Before My Time",
                 "releases": [
                     {
                         "label": "UtD",
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE5128d"
+                "desor": "DE5128d",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "51-12-11-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Later",
+                "title": "Later",
                 "releases": [
                     {
                         "label": "UtD",
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE5128e"
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": "CO47269-3",
-                "title": "CONTROVERSIAL SUITE",
-                "releases": [],
-                "desor": null
+                "desor": "DE5128e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "51-12-11-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Before My Time",
+                "title": "Before My Time",
                 "releases": [
                     {
                         "label": "CBS",
@@ -4068,13 +4062,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5128f"
+                "desor": "DE5128f",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "51-12-11-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Later",
+                "title": "Later",
                 "releases": [
                     {
                         "label": "CBS",
@@ -4101,11 +4096,16 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5128g"
+                "desor": "DE5128g",
+                "suite_index": 2
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington out. Add Billy Strayhorn(p)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

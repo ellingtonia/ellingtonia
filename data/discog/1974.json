@@ -527,36 +527,39 @@
                 "desor": "DE9070k"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "74-02-26-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE9070l"
+                "desor": "DE9070l",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "74-02-26-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE9070m"
+                "desor": "DE9070m",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "74-02-26-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE9070n"
+                "desor": "DE9070n",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -843,36 +846,39 @@
                 "desor": "DE7404i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "74-03-05-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7404j"
+                "desor": "DE7404j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "74-03-05-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7404k"
+                "desor": "DE7404k",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "74-03-05-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7404l"
+                "desor": "DE7404l",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1147,40 +1153,43 @@
                 "desor": "DE7405h"
             },
             {
-                "type": "take",
-                "index": "74-03-08-009",
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7405i"
+                "desor": "DE7405i",
+                "suite_index": 1
+            },
+            {
+                "type": "take",
+                "index": "74-03-08-009",
+                "matrix": null,
+                "title": "Right On Togo",
+                "releases": [],
+                "desor": "DE7405j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "74-03-08-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7405j"
+                "desor": "DE7405k",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
                 "index": "74-03-08-011",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
-                "releases": [],
-                "desor": "DE7405k"
-            },
-            {
-                "type": "take",
-                "index": "74-03-08-012",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -1188,7 +1197,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-013",
+                "index": "74-03-08-012",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -1196,7 +1205,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-014",
+                "index": "74-03-08-013",
                 "matrix": null,
                 "title": "¬ Piano Interlude",
                 "releases": [],
@@ -1204,7 +1213,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-015",
+                "index": "74-03-08-014",
                 "matrix": null,
                 "title": "_| Take The \"A\" Train",
                 "releases": [],
@@ -1212,7 +1221,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-016",
+                "index": "74-03-08-015",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -1220,7 +1229,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-017",
+                "index": "74-03-08-016",
                 "matrix": null,
                 "title": "In Triplicate (In Duplicate)",
                 "releases": [],
@@ -1228,7 +1237,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-018",
+                "index": "74-03-08-017",
                 "matrix": null,
                 "title": "New York, New York - vAMo",
                 "releases": [],
@@ -1236,7 +1245,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-019",
+                "index": "74-03-08-018",
                 "matrix": null,
                 "title": "I'm Beginning To See The Light - vAMo",
                 "releases": [],
@@ -1244,7 +1253,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-020",
+                "index": "74-03-08-019",
                 "matrix": null,
                 "title": "I Got It Bad - vAMo",
                 "releases": [],
@@ -1252,7 +1261,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-021",
+                "index": "74-03-08-020",
                 "matrix": null,
                 "title": "Blem - vAMo",
                 "releases": [],
@@ -1260,7 +1269,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-022",
+                "index": "74-03-08-021",
                 "matrix": null,
                 "title": "Basin Street Blues - vMJ",
                 "releases": [],
@@ -1268,7 +1277,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-023",
+                "index": "74-03-08-022",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -1284,7 +1293,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-024",
+                "index": "74-03-08-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [],
@@ -1292,7 +1301,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-025",
+                "index": "74-03-08-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [],
@@ -1300,7 +1309,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-026",
+                "index": "74-03-08-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. It Don't Mean A Thing",
                 "releases": [],
@@ -1308,7 +1317,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-027",
+                "index": "74-03-08-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
                 "releases": [],
@@ -1316,7 +1325,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-028",
+                "index": "74-03-08-027",
                 "matrix": null,
                 "title": "Mood Indigo - vTW",
                 "releases": [],
@@ -1324,7 +1333,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-029",
+                "index": "74-03-08-028",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -1332,7 +1341,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-030",
+                "index": "74-03-08-029",
                 "matrix": null,
                 "title": "Solitude - vTW",
                 "releases": [],
@@ -1340,7 +1349,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-031",
+                "index": "74-03-08-030",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -1348,7 +1357,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-032",
+                "index": "74-03-08-031",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -1356,7 +1365,7 @@
             },
             {
                 "type": "take",
-                "index": "74-03-08-033",
+                "index": "74-03-08-032",
                 "matrix": null,
                 "title": "Metcuria The Lion",
                 "releases": [],

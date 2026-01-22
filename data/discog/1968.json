@@ -176,14 +176,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "68-01-19-003",
                 "matrix": null,
                 "title": "01. Praise God And Dance [Opening Theme]",
@@ -332,14 +324,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "68-01-20-001",
                 "matrix": null,
                 "title": "01. Praise God And Dance [Opening Theme]",
@@ -473,14 +457,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,ep); Jeff Castleman(sb); Sam Woodyard, Steve Little(d); Alice Babs, Devonne Gardner, Roscoe Gill, Trish Turner, Toney Watkins, AME Mother Zion Church Choir, Central Connecticut State Singers(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -817,14 +793,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,ep); Jeff Castleman(sb); Sam Woodyard, Steve Little(d); Devonne Gardner, Roscoe Gill, Trish Turner, Toney Watkins(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -1887,14 +1855,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "68-01-31-001",
                 "matrix": null,
                 "title": "11. Don't Get Down On Your Knees - vTW",
@@ -1949,14 +1909,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper, Benny Green(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,ep); Jeff Castleman(sb); Sam Woodyard(d); Toney Watkins, Devonne Gardner, Roscoe Gill, Central Connecticut State Singers, The Frank Parker Singers(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -4194,14 +4146,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "68-05-07-001",
                 "matrix": null,
                 "title": "01. Praise God And Dance [Opening Theme]",
@@ -5276,14 +5220,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "68-06-23-001",
                 "matrix": null,
                 "title": "02. Supreme Being - vCho",
@@ -5710,14 +5646,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts,cl); Harold Ashby(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jeff Castleman(sb); Rufus Jones(d); Nanice Lund, Trish Turner, Toney Watkins, St. John's United Church Choir(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -6248,40 +6176,43 @@
                 "desor": "DE6840a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "68-08-03-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [],
-                "desor": "DE6840b"
+                "desor": "DE6840b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-08-03-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [],
-                "desor": "DE6840c"
+                "desor": "DE6840c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "68-08-03-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [],
-                "desor": "DE6840d"
+                "desor": "DE6840d",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": "Add Johnny Hodges(as)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -8373,18 +8304,14 @@
                 "desor": "DE6851a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LATIN-AMERICAN SUITE [MEXICANTICIPATION]",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LATIN-AMERICAN SUITE [MEXICANTICIPATION]"
             },
             {
                 "type": "take",
                 "index": "68-09-23-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. ¬ Anticipation And Hesitation",
+                "title": "¬ Anticipation And Hesitation",
                 "releases": [
                     {
                         "label": "A-Vi",
@@ -8399,13 +8326,14 @@
                         "catalog": "JHD-016"
                     }
                 ],
-                "desor": "DE6851b"
+                "desor": "DE6851b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "68-09-23-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. _|Chico Cuadradino",
+                "title": "_|Chico Cuadradino",
                 "releases": [
                     {
                         "label": "A-Vi",
@@ -8420,21 +8348,23 @@
                         "catalog": "JHD-016"
                     }
                 ],
-                "desor": "DE6851c"
+                "desor": "DE6851c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-09-23-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. The Sleeping Lady",
+                "title": "The Sleeping Lady",
                 "releases": [],
-                "desor": "DE6851d"
+                "desor": "DE6851d",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-09-23-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Latin American Sunshine",
+                "title": "Latin American Sunshine",
                 "releases": [
                     {
                         "label": "A-Vi",
@@ -8449,15 +8379,21 @@
                         "catalog": "JHD-016"
                     }
                 ],
-                "desor": "DE6851e"
+                "desor": "DE6851e",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "68-09-23-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Oclupaca",
+                "title": "Oclupaca",
                 "releases": [],
-                "desor": "DE6851f"
+                "desor": "DE6851f",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -8588,64 +8524,68 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington, Willie Cook(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves, Harold Ashby(ts,cl); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jeff Castleman(sb); Rufus Jones(d); Trish Turner, Toney Watkins(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LATIN-AMERICAN SUITE [MEXICANTICIPATION]",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LATIN-AMERICAN SUITE [MEXICANTICIPATION]"
             },
             {
                 "type": "take",
                 "index": "68-09-26-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Chico Cuadradino",
+                "title": "Chico Cuadradino",
                 "releases": [
                     {
                         "label": "MVD",
                         "catalog": "5071D"
                     }
                 ],
-                "desor": "DE9100a"
+                "desor": "DE9100a",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-09-26-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Latin American Sunshine",
+                "title": "Latin American Sunshine",
                 "releases": [
                     {
                         "label": "MVD",
                         "catalog": "5071D"
                     }
                 ],
-                "desor": "DE9100b"
+                "desor": "DE9100b",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "68-09-26-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. The Sleeping Lady",
+                "title": "The Sleeping Lady",
                 "releases": [
                     {
                         "label": "MVD",
                         "catalog": "5071D"
                     }
                 ],
-                "desor": "DE9100c"
+                "desor": "DE9100c",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-09-26-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Oclupaca",
+                "title": "Oclupaca",
                 "releases": [
                     {
                         "label": "MVD",
                         "catalog": "5071D"
                     }
                 ],
-                "desor": "DE9100d"
+                "desor": "DE9100d",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -8903,18 +8843,14 @@
                 "desor": "DE6852d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LATIN-AMERICAN SUITE [MEXICANTICIPATION]",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LATIN-AMERICAN SUITE [MEXICANTICIPATION]"
             },
             {
                 "type": "take",
                 "index": "68-09-28-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. The Sleeping Lady",
+                "title": "The Sleeping Lady",
                 "releases": [
                     {
                         "label": "A-Vi",
@@ -8929,13 +8865,14 @@
                         "catalog": "JHD-016"
                     }
                 ],
-                "desor": "DE6852e"
+                "desor": "DE6852e",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-09-28-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. ¬ The Sleeping Lady",
+                "title": "¬ The Sleeping Lady",
                 "releases": [
                     {
                         "label": "A-Vi",
@@ -8950,13 +8887,14 @@
                         "catalog": "JHD-016"
                     }
                 ],
-                "desor": "DE6852f"
+                "desor": "DE6852f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-09-28-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. _|Oclupaca",
+                "title": "_|Oclupaca",
                 "releases": [
                     {
                         "label": "A-Vi",
@@ -8971,7 +8909,12 @@
                         "catalog": "JHD-016"
                     }
                 ],
-                "desor": "DE6852g"
+                "desor": "DE6852g",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -10089,18 +10032,14 @@
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Willie Cook(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves, Harold Ashby(ts,cl); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jeff Castleman(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LATIN-AMERICAN SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LATIN-AMERICAN SUITE"
             },
             {
                 "type": "take",
                 "index": "68-11-05-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Oclupaca",
+                "title": "Oclupaca",
                 "releases": [
                     {
                         "label": "Fa",
@@ -10111,13 +10050,14 @@
                         "catalog": "469-2"
                     }
                 ],
-                "desor": "DE6856a"
+                "desor": "DE6856a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-05-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Chico Cuadradino",
+                "title": "Chico Cuadradino",
                 "releases": [
                     {
                         "label": "Fa",
@@ -10128,13 +10068,14 @@
                         "catalog": "469-2"
                     }
                 ],
-                "desor": "DE6856b"
+                "desor": "DE6856b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-11-05-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Eque",
+                "title": "Eque",
                 "releases": [
                     {
                         "label": "Fa",
@@ -10145,13 +10086,14 @@
                         "catalog": "469-2"
                     }
                 ],
-                "desor": "DE6856c"
+                "desor": "DE6856c",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "68-11-05-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. The Sleeping Lady",
+                "title": "The Sleeping Lady",
                 "releases": [
                     {
                         "label": "Fa",
@@ -10162,13 +10104,14 @@
                         "catalog": "469-2"
                     }
                 ],
-                "desor": "DE6856d"
+                "desor": "DE6856d",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-05-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Latin-American Sunshine",
+                "title": "Latin-American Sunshine",
                 "releases": [
                     {
                         "label": "Fa",
@@ -10179,13 +10122,14 @@
                         "catalog": "469-2"
                     }
                 ],
-                "desor": "DE6856e"
+                "desor": "DE6856e",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "68-11-05-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Brasilliance",
+                "title": "Brasilliance",
                 "releases": [
                     {
                         "label": "Fa",
@@ -10196,7 +10140,8 @@
                         "catalog": "469-2"
                     }
                 ],
-                "desor": "DE6856f"
+                "desor": "DE6856f",
+                "suite_index": 8
             }
         ]
     },
@@ -10211,119 +10156,127 @@
                 "value": "Willie Cook(t); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,bcl); Duke Ellington(p); Jeff Castleman(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE DEGAS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE DEGAS SUITE"
             },
             {
                 "type": "take",
                 "index": "68-11-06-001",
                 "matrix": "01",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6857a"
+                "desor": "DE6857a",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-002",
                 "matrix": "02",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6857b"
+                "desor": "DE6857b",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-003",
                 "matrix": "04",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race",
+                "title": "Race",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6857c"
+                "desor": "DE6857c",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-004",
                 "matrix": "05",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6857d"
+                "desor": "DE6857d",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-005",
                 "matrix": "06",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6857e"
+                "desor": "DE6857e",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-006",
                 "matrix": "08",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6857f"
+                "desor": "DE6857f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-007",
                 "matrix": "09",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6857g"
+                "desor": "DE6857g",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-008",
                 "matrix": "10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Opening Titles",
+                "title": "Opening Titles",
                 "releases": [],
-                "desor": "DE6857h"
+                "desor": "DE6857h",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-06-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Opening Titles",
+                "title": "Opening Titles",
                 "releases": [],
-                "desor": "DE6857i"
+                "desor": "DE6857i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-06-010",
                 "matrix": "11",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Opening Titles",
+                "title": "Opening Titles",
                 "releases": [],
-                "desor": "DE6857j"
+                "desor": "DE6857j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-06-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Opening Titles",
+                "title": "Opening Titles",
                 "releases": [],
-                "desor": "DE6857k"
+                "desor": "DE6857k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-06-012",
                 "matrix": "13",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Opening Titles",
+                "title": "Opening Titles",
                 "releases": [],
-                "desor": "DE6857l"
+                "desor": "DE6857l",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-06-013",
                 "matrix": "14",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Opening Titles",
+                "title": "Opening Titles",
                 "releases": [
                     {
                         "label": "LMR",
@@ -10331,143 +10284,161 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE6857m"
+                "desor": "DE6857m",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-06-014",
                 "matrix": "15",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race [Intro]",
+                "title": "Race [Intro]",
                 "releases": [],
-                "desor": "DE6857n"
+                "desor": "DE6857n",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-015",
                 "matrix": "16",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race [Intro]",
+                "title": "Race [Intro]",
                 "releases": [],
-                "desor": "DE6857o"
+                "desor": "DE6857o",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-016",
                 "matrix": "17",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race [Intro]",
+                "title": "Race [Intro]",
                 "releases": [],
-                "desor": "DE6857p"
+                "desor": "DE6857p",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-017",
                 "matrix": "19",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race [Intro]",
+                "title": "Race [Intro]",
                 "releases": [],
-                "desor": "DE6857q"
+                "desor": "DE6857q",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-018",
                 "matrix": "20",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. Race [Intro]",
+                "title": "Race [Intro]",
                 "releases": [],
-                "desor": "DE6857r"
+                "desor": "DE6857r",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "68-11-06-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857s"
+                "desor": "DE6857s",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857t"
+                "desor": "DE6857t",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857u"
+                "desor": "DE6857u",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857v"
+                "desor": "DE6857v",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857w"
+                "desor": "DE6857w",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-024",
                 "matrix": "21",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857x"
+                "desor": "DE6857x",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-025",
                 "matrix": "22",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857y"
+                "desor": "DE6857y",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-026",
                 "matrix": "24",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857z"
+                "desor": "DE6857z",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-027",
                 "matrix": "25",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857aa"
+                "desor": "DE6857aa",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-028",
                 "matrix": "26",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857ab"
+                "desor": "DE6857ab",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-029",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857ac"
+                "desor": "DE6857ac",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-030",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6857ad"
+                "desor": "DE6857ad",
+                "suite_index": 13
             },
             {
                 "type": "note",
@@ -10486,369 +10457,404 @@
                 "value": "Willie Cook(t); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,bcl); Duke Ellington(p); Jeff Castleman(sb); Rufus Jones(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE DEGAS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE DEGAS SUITE"
             },
             {
                 "type": "take",
                 "index": "68-11-06-031",
                 "matrix": "01",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6858a"
+                "desor": "DE6858a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "68-11-06-032",
                 "matrix": "03",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6858b"
+                "desor": "DE6858b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "68-11-06-033",
                 "matrix": "04",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6858c"
+                "desor": "DE6858c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "68-11-06-034",
                 "matrix": "05",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Race",
+                "title": "Race",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858d"
+                "desor": "DE6858d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "68-11-06-035",
                 "matrix": "06",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Racing=Race",
+                "title": "Racing=Race",
                 "releases": [],
-                "desor": "DE6858e"
+                "desor": "DE6858e",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-11-06-036",
                 "matrix": "07",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Racing=Race",
+                "title": "Racing=Race",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858f"
+                "desor": "DE6858f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-11-06-037",
                 "matrix": "09",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6858g"
+                "desor": "DE6858g",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-038",
                 "matrix": "10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6858h"
+                "desor": "DE6858h",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-039",
                 "matrix": "12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6858i"
+                "desor": "DE6858i",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-040",
                 "matrix": "14",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6858j"
+                "desor": "DE6858j",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-041",
                 "matrix": "15",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6858k"
+                "desor": "DE6858k",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-042",
                 "matrix": "16",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6858l"
+                "desor": "DE6858l",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-043",
                 "matrix": "17",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Trump=Anticipation And Hesitation",
+                "title": "Trump=Anticipation And Hesitation",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858m"
+                "desor": "DE6858m",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "68-11-06-044",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Prat",
+                "title": "Prat",
                 "releases": [],
-                "desor": "DE6858n"
+                "desor": "DE6858n",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "68-11-06-045",
                 "matrix": "21",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Prat",
+                "title": "Prat",
                 "releases": [],
-                "desor": "DE6858o"
+                "desor": "DE6858o",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "68-11-06-046",
                 "matrix": "23",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Prat",
+                "title": "Prat",
                 "releases": [],
-                "desor": "DE6858p"
+                "desor": "DE6858p",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "68-11-06-047",
                 "matrix": "25",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858q"
+                "desor": "DE6858q",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-048",
                 "matrix": "26",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858r"
+                "desor": "DE6858r",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-049",
                 "matrix": "27",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858s"
+                "desor": "DE6858s",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-050",
                 "matrix": "28",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858t"
+                "desor": "DE6858t",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-051",
                 "matrix": "30",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858u"
+                "desor": "DE6858u",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-052",
                 "matrix": "31",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Piano Pastel",
+                "title": "Piano Pastel",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858v"
+                "desor": "DE6858v",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "68-11-06-053",
                 "matrix": "32",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858w"
+                "desor": "DE6858w",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-054",
                 "matrix": "33",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858x"
+                "desor": "DE6858x",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-055",
                 "matrix": "35",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Promenade",
+                "title": "Promenade",
                 "releases": [],
-                "desor": "DE6858y"
+                "desor": "DE6858y",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "68-11-06-056",
                 "matrix": "37",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Promenade",
+                "title": "Promenade",
                 "releases": [],
-                "desor": "DE6858z"
+                "desor": "DE6858z",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "68-11-06-057",
                 "matrix": "38",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Promenade",
+                "title": "Promenade",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858aa"
+                "desor": "DE6858aa",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "68-11-06-058",
                 "matrix": "42",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Pastel",
+                "title": "Pastel",
                 "releases": [],
-                "desor": "DE6858ab"
+                "desor": "DE6858ab",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "68-11-06-059",
                 "matrix": "43",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6858ac"
+                "desor": "DE6858ac",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-11-06-060",
                 "matrix": "46",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6858ad"
+                "desor": "DE6858ad",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-11-06-061",
                 "matrix": "49",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Opening Titles [A.C.]",
+                "title": "Opening Titles [A.C.]",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858ae"
+                "desor": "DE6858ae",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "68-11-06-062",
                 "matrix": "50",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858af"
+                "desor": "DE6858af",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-063",
                 "matrix": "51",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858ag"
+                "desor": "DE6858ag",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-064",
                 "matrix": "53",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Sonnet",
+                "title": "Sonnet",
                 "releases": [],
-                "desor": "DE6858ah"
+                "desor": "DE6858ah",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "68-11-06-065",
                 "matrix": "55",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6858ai"
+                "desor": "DE6858ai",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-11-06-066",
                 "matrix": "56",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Race",
+                "title": "Race",
                 "releases": [],
-                "desor": "DE6858aj"
+                "desor": "DE6858aj",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "68-11-06-067",
                 "matrix": "59",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Drawings",
+                "title": "Drawings",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858ak"
+                "desor": "DE6858ak",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "68-11-06-068",
                 "matrix": "61",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Improvisations=Marcia Regina",
+                "title": "Improvisations=Marcia Regina",
                 "releases": [],
-                "desor": "DE6858al"
+                "desor": "DE6858al",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "68-11-06-069",
                 "matrix": "62",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Improvisations=Marcia Regina",
+                "title": "Improvisations=Marcia Regina",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6858am"
+                "desor": "DE6858am",
+                "suite_index": 5
             },
             {
                 "type": "note",
@@ -11744,25 +11750,26 @@
                 "desor": "DE6863a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE DEGAS SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE DEGAS SUITE"
             },
             {
                 "type": "take",
                 "index": "68-12-03-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Daily Double=Race",
+                "title": "Daily Double=Race",
                 "releases": [
                     {
                         "label": "LMR",
                         "catalog": "CD 83004"
                     }
                 ],
-                "desor": "DE6863b"
+                "desor": "DE6863b",
+                "suite_index": 7
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -12175,14 +12182,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Willie Cook(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves, Harold Ashby(ts,cl); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jeff Castleman(sb); Rufus Jones(d); Devonne Gardner, Nanice Lund, Buster Perrymore, Toney Watkins, church's choir(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",

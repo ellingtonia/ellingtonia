@@ -559,18 +559,14 @@
                 "value": "Joe Pass, Louie Bellson out."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "FRAGMENTED SUITE FOR PIANO AND BASS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "FRAGMENTED SUITE FOR PIANO AND BASS"
             },
             {
                 "type": "take",
                 "index": "73-01-08-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Fourth Movement",
+                "title": "Fourth Movement",
                 "releases": [
                     {
                         "label": "EV",
@@ -585,7 +581,8 @@
                         "catalog": "2310-721"
                     }
                 ],
-                "desor": "DE9068z"
+                "desor": "DE9068z",
+                "suite_index": 4
             }
         ]
     },
@@ -2992,44 +2989,48 @@
                 "desor": "DE7321h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "73-04-10-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7321i"
+                "desor": "DE7321i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-04-10-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7321j"
+                "desor": "DE7321j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-04-10-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7321k"
+                "desor": "DE7321k",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "73-04-10-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7321l"
+                "desor": "DE7321l",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3236,44 +3237,48 @@
                 "desor": "DE7322h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "73-04-12-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7322i"
+                "desor": "DE7322i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-04-12-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7322j"
+                "desor": "DE7322j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-04-12-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7322k"
+                "desor": "DE7322k",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "73-04-12-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7322l"
+                "desor": "DE7322l",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3764,120 +3769,133 @@
                 "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Murray McEachern(tb,as); Chuck Connors(btb); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Devonne Gardner, Patricia Hoy, Roscoe Gill, Toney Watkins, Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SECOND SACRED CONCERT"
             },
             {
                 "type": "take",
                 "index": "73-04-30-001",
                 "matrix": null,
-                "title": "-&nbsp;01. Praise God And Dance [Opening Theme]",
+                "title": "Praise God And Dance [Opening Theme]",
                 "releases": [],
-                "desor": "DE7325a"
+                "desor": "DE7325a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-04-30-002",
                 "matrix": null,
-                "title": "-&nbsp;02. Supreme Being - vCho",
+                "title": "Supreme Being - vCho",
                 "releases": [],
-                "desor": "DE7325b"
+                "desor": "DE7325b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "73-04-30-003",
                 "matrix": null,
-                "title": "-&nbsp;03. Something 'Bout Believing - vDG,RG,TW,Cho",
+                "title": "Something 'Bout Believing - vDG,RG,TW,Cho",
                 "releases": [],
-                "desor": "DE7325c"
+                "desor": "DE7325c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "73-04-30-004",
                 "matrix": null,
-                "title": "-&nbsp;04. Almighty God - vDG,Cho",
+                "title": "Almighty God - vDG,Cho",
                 "releases": [],
-                "desor": "DE7325d"
+                "desor": "DE7325d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-04-30-005",
                 "matrix": null,
-                "title": "-&nbsp;05. The Shepherd",
+                "title": "The Shepherd",
                 "releases": [],
-                "desor": "DE7325e"
+                "desor": "DE7325e",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "73-04-30-006",
                 "matrix": null,
-                "title": "-&nbsp;06. Heaven - vDG,Cho",
+                "title": "Heaven - vDG,Cho",
                 "releases": [],
-                "desor": "DE7325f"
+                "desor": "DE7325f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "73-04-30-007",
                 "matrix": null,
-                "title": "-&nbsp;08. Meditation",
+                "title": "Meditation",
                 "releases": [],
-                "desor": "DE7325g"
+                "desor": "DE7325g",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "73-04-30-008",
                 "matrix": null,
-                "title": "-&nbsp;09. The Biggest And Busiest Intersection [Kixx]",
+                "title": "The Biggest And Busiest Intersection [Kixx]",
                 "releases": [],
-                "desor": "DE7325h"
+                "desor": "DE7325h",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "73-04-30-009",
                 "matrix": null,
-                "title": "-&nbsp;10. T.G.T.T. -vPHo",
+                "title": "T.G.T.T. -vPHo",
                 "releases": [],
-                "desor": "DE7325i"
+                "desor": "DE7325i",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "73-04-30-010",
                 "matrix": null,
-                "title": "-&nbsp;11. Don't Get Down On Your Knees - vTW",
+                "title": "Don't Get Down On Your Knees - vTW",
                 "releases": [],
-                "desor": "DE7325j"
+                "desor": "DE7325j",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "73-04-30-011",
                 "matrix": null,
-                "title": "-&nbsp;12. Father Forgive - vTW,Cho",
+                "title": "Father Forgive - vTW,Cho",
                 "releases": [],
-                "desor": "DE7325k"
+                "desor": "DE7325k",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "73-04-30-012",
                 "matrix": null,
-                "title": "-&nbsp;13. Don't Get Down On Your Knees - vTW",
+                "title": "Don't Get Down On Your Knees - vTW",
                 "releases": [],
-                "desor": "DE7325l"
+                "desor": "DE7325l",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "73-04-30-013",
                 "matrix": null,
-                "title": "-&nbsp;14. Praise God And Dance - vPHo,TW,Cho",
+                "title": "Praise God And Dance - vPHo,TW,Cho",
                 "releases": [],
-                "desor": "DE7325m"
+                "desor": "DE7325m",
+                "suite_index": 14
             },
             {
                 "type": "artists",
                 "value": "Toney Watkins(v) solo."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4597,44 +4615,48 @@
                 "desor": "DE7328xc"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "73-05-25-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7328xd"
+                "desor": "DE7328xd",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-05-25-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7328xe"
+                "desor": "DE7328xe",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-05-25-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7328xf"
+                "desor": "DE7328xf",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "73-05-25-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Naturellement",
+                "title": "Naturellement",
                 "releases": [],
-                "desor": "DE7328xg"
+                "desor": "DE7328xg",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5660,36 +5682,39 @@
                 "desor": "DE7333r"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "73-07-31-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7333s"
+                "desor": "DE7333s",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-07-31-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7333t"
+                "desor": "DE7333t",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-07-31-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7333u"
+                "desor": "DE7333u",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7372,36 +7397,39 @@
                 "desor": "DE7343h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "73-10-03-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7343i"
+                "desor": "DE7343i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-10-03-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7343j"
+                "desor": "DE7343j",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-10-03-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7343k"
+                "desor": "DE7343k",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7624,18 +7652,14 @@
                 "value": "Mercer Ellington(t); Harold \"Money\" Johnson(t); Barrie Lee Hall, Johnny Coles(t,flh); Vince Prudente(tb); Art Baron(tb,re); Chuck Connors(btb); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Percy Marion(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Quentin \"Rocky\" White(d); Alice Babs, Anita Moore, Toney Watkins, Roscoe Gill, The John Alldis Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THIRD SACRED CONCERT",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THIRD SACRED CONCERT"
             },
             {
                 "type": "take",
                 "index": "73-10-24-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;02. The Lord's Prayer #",
+                "title": "The Lord's Prayer #",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7649,13 +7673,14 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344a"
+                "desor": "DE7344a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "73-10-24-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;08. My Love - vABa",
+                "title": "My Love - vABa",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7669,13 +7694,14 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344b"
+                "desor": "DE7344b",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "73-10-24-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;03. Hallelujah - vJAC",
+                "title": "Hallelujah - vJAC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7689,13 +7715,14 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344c"
+                "desor": "DE7344c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "73-10-24-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;07. Is God A Three-Letter Word For Love? (Part I) - vABa",
+                "title": "Is God A Three-Letter Word For Love? (Part I) - vABa",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7709,13 +7736,14 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344d"
+                "desor": "DE7344d",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "73-10-24-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;07. Is God A Three-Letter Word For Love? (Part II) - vABa,JAC",
+                "title": "Is God A Three-Letter Word For Love? (Part II) - vABa,JAC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7729,13 +7757,14 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344d"
+                "desor": "DE7344d",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "73-10-24-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;09. The Brotherhood - vJAC",
+                "title": "The Brotherhood - vJAC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7749,13 +7778,14 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344e"
+                "desor": "DE7344e",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "73-10-24-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;13. Every Man Prays In His Own Language - vABa,JAC",
+                "title": "Every Man Prays In His Own Language - vABa,JAC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7769,29 +7799,32 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344f"
+                "desor": "DE7344f",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "73-10-24-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;11. Tell Me It's The Truth - vAMo,TW",
+                "title": "Tell Me It's The Truth - vAMo,TW",
                 "releases": [],
-                "desor": "DE7344g"
+                "desor": "DE7344g",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "73-10-24-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;12. Somebody Cares - vABa,AMo,TW",
+                "title": "Somebody Cares - vABa,AMo,TW",
                 "releases": [],
-                "desor": "DE7344h"
+                "desor": "DE7344h",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "73-10-24-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;06. The Majesty Of God - vABa,JAC",
+                "title": "The Majesty Of God - vABa,JAC",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7805,13 +7838,14 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344i"
+                "desor": "DE7344i",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "73-10-24-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;14. Ain't Nobody Nowhere Nothin' Without God - vTW",
+                "title": "Ain't Nobody Nowhere Nothin' Without God - vTW",
                 "releases": [
                     {
                         "label": "RCA",
@@ -7825,19 +7859,25 @@
                         "catalog": "APL1-0785"
                     }
                 ],
-                "desor": "DE7344j"
+                "desor": "DE7344j",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "73-10-24-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;15. Praise God And Dance - vABa,Amo,RG,TW,JAC",
+                "title": "Praise God And Dance - vABa,Amo,RG,TW,JAC",
                 "releases": [],
-                "desor": "DE7344k"
+                "desor": "DE7344k",
+                "suite_index": 15
             },
             {
                 "type": "artists",
                 "value": "Toney Watkins(v) solo."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -9278,36 +9318,39 @@
                 "desor": "DE7350i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "TOGO BRAVA SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "TOGO BRAVA SUITE"
             },
             {
                 "type": "take",
                 "index": "73-11-05-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Soul Soothing Beach",
+                "title": "Soul Soothing Beach",
                 "releases": [],
-                "desor": "DE7350j"
+                "desor": "DE7350j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-11-05-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Right On Togo",
+                "title": "Right On Togo",
                 "releases": [],
-                "desor": "DE7350k"
+                "desor": "DE7350k",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-11-05-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Amour, Amour",
+                "title": "Amour, Amour",
                 "releases": [],
-                "desor": "DE7350l"
+                "desor": "DE7350l",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -10001,185 +10044,198 @@
                 "desor": "DE7353a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THIRD SACRED CONCERT",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THIRD SACRED CONCERT"
             },
             {
                 "type": "take",
                 "index": "73-11-10-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;01. Praise God And Dance [Opening Theme]",
+                "title": "Praise God And Dance [Opening Theme]",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353b"
+                "desor": "DE7353b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "73-11-10-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;03. Hallelujah",
+                "title": "Hallelujah",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353c"
+                "desor": "DE7353c",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "73-11-10-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;04. Heaven - vTW",
+                "title": "Heaven - vTW",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353d"
+                "desor": "DE7353d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "73-11-10-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;05 Supreme Being - vRG",
+                "title": "Supreme Being - vRG",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353e"
+                "desor": "DE7353e",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "73-11-10-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;06. The Majesty Of God - vABa",
+                "title": "The Majesty Of God - vABa",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353f"
+                "desor": "DE7353f",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "73-11-10-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;07. Is God A Three-Letter Word For Love? - vABa",
+                "title": "Is God A Three-Letter Word For Love? - vABa",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353g"
+                "desor": "DE7353g",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "73-11-10-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;08. My Love - vABa",
+                "title": "My Love - vABa",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353h"
+                "desor": "DE7353h",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "73-11-10-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;10. The Shepherd",
+                "title": "The Shepherd",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353i"
+                "desor": "DE7353i",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "73-11-10-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;11. Tell Me It's The Truth - vAMo,TW",
+                "title": "Tell Me It's The Truth - vAMo,TW",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353j"
+                "desor": "DE7353j",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "73-11-10-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;12. Somebody Cares - vABa,AMo,TW",
+                "title": "Somebody Cares - vABa,AMo,TW",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353k"
+                "desor": "DE7353k",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "73-11-10-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;13. Every Man Prays In His Own Language - vABa",
+                "title": "Every Man Prays In His Own Language - vABa",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353l"
+                "desor": "DE7353l",
+                "suite_index": 13
             },
             {
                 "type": "take",
                 "index": "73-11-10-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;14. Ain't Nobody Nowhere Nothin' Without God - vTW",
+                "title": "Ain't Nobody Nowhere Nothin' Without God - vTW",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353m"
+                "desor": "DE7353m",
+                "suite_index": 14
             },
             {
                 "type": "take",
                 "index": "73-11-10-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;15. Praise God And Dance - vABa,Amo,RG,TW",
+                "title": "Praise God And Dance - vABa,Amo,RG,TW",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "9"
                     }
                 ],
-                "desor": "DE7353n"
+                "desor": "DE7353n",
+                "suite_index": 15
             },
             {
                 "type": "artists",
                 "value": "Toney Watkins(v) solo."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

@@ -321,28 +321,26 @@
                 "desor": "DE4702d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE BEAUTIFUL INDIANS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE BEAUTIFUL INDIANS"
             },
             {
                 "type": "take",
                 "index": "47-02-02-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Minnehaha - vKD",
+                "title": "Minnehaha - vKD",
                 "releases": [],
-                "desor": "DE4702e"
+                "desor": "DE4702e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-02-02-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hiawatha",
+                "title": "Hiawatha",
                 "releases": [],
-                "desor": "DE4702f"
+                "desor": "DE4702f",
+                "suite_index": 2
             }
         ]
     },
@@ -1588,38 +1586,40 @@
                 "desor": "DE4710f"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE BEAUTIFUL INDIANS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE BEAUTIFUL INDIANS"
             },
             {
                 "type": "take",
                 "index": "47-07-01-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Minnehaha - vKD",
+                "title": "Minnehaha - vKD",
                 "releases": [
                     {
                         "label": "J&J",
                         "catalog": "JJ 602"
                     }
                 ],
-                "desor": "DE4710g"
+                "desor": "DE4710g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-07-01-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hiawatha",
+                "title": "Hiawatha",
                 "releases": [
                     {
                         "label": "J&J",
                         "catalog": "JJ 602"
                     }
                 ],
-                "desor": "DE4710h"
+                "desor": "DE4710h",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2242,18 +2242,14 @@
                 "desor": "DE4715b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE BEAUTIFUL INDIANS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE BEAUTIFUL INDIANS"
             },
             {
                 "type": "take",
                 "index": "47-07-30-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Minnehaha - vKD",
+                "title": "Minnehaha - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2272,13 +2268,14 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4715c"
+                "desor": "DE4715c",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-07-30-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hiawatha",
+                "title": "Hiawatha",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2297,7 +2294,12 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4715d"
+                "desor": "DE4715d",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3541,18 +3543,14 @@
                 "desor": "DE4718ac"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE BEAUTIFUL INDIANS",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE BEAUTIFUL INDIANS"
             },
             {
                 "type": "take",
                 "index": "47-08-31-030",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Minnehaha - vKD",
+                "title": "Minnehaha - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3563,13 +3561,14 @@
                         "catalog": "003"
                     }
                 ],
-                "desor": "DE4718ad"
+                "desor": "DE4718ad",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-08-31-031",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Hiawatha",
+                "title": "Hiawatha",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3580,7 +3579,12 @@
                         "catalog": "003"
                     }
                 ],
-                "desor": "DE4718ae"
+                "desor": "DE4718ae",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5726,18 +5730,14 @@
                 "value": "Shelton Hemphill, Al Killian, Francis Williams, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Claude Jones(tb); Tyree Glenn(tb,vib); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Oscar Pettiford, Junior Raglin(sb); Sonny Greer(d,ty)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LIBERIAN SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LIBERIAN SUITE"
             },
             {
                 "type": "take",
                 "index": "47-12-24-001",
                 "matrix": "XCO40788-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I Like The Sunrise",
+                "title": "I Like The Sunrise",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -5756,13 +5756,14 @@
                         "catalog": "858"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-12-24-002",
                 "matrix": "XCO40789-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I Like The Sunrise - vAH",
+                "title": "I Like The Sunrise - vAH",
                 "releases": [
                     {
                         "label": "CBS",
@@ -5789,13 +5790,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE4735a"
+                "desor": "DE4735a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-12-24-003",
                 "matrix": "XCO40789-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I Like The Sunrise - vAH",
+                "title": "I Like The Sunrise - vAH",
                 "releases": [
                     {
                         "label": "Co",
@@ -5814,21 +5816,23 @@
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE4735b"
+                "desor": "DE4735b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-12-24-004",
                 "matrix": "XCO40790-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Dance No. 1",
+                "title": "Dance No. 1",
                 "releases": [],
-                "desor": "DE4735c"
+                "desor": "DE4735c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "47-12-24-005",
                 "matrix": "XCO40790-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Dance No. 1",
+                "title": "Dance No. 1",
                 "releases": [
                     {
                         "label": "CBS",
@@ -5855,13 +5859,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE4735d"
+                "desor": "DE4735d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "47-12-24-006",
                 "matrix": "XCO40790-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Dance No. 1",
+                "title": "Dance No. 1",
                 "releases": [
                     {
                         "label": "Nw",
@@ -5872,13 +5877,14 @@
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE4735e"
+                "desor": "DE4735e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "47-12-24-007",
                 "matrix": "XCO40791-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dance No. 2",
+                "title": "Dance No. 2",
                 "releases": [
                     {
                         "label": "CBS",
@@ -5909,13 +5915,14 @@
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE4735f"
+                "desor": "DE4735f",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "47-12-24-008",
                 "matrix": "XCO40792-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Dance No. 3",
+                "title": "Dance No. 3",
                 "releases": [
                     {
                         "label": "Nw",
@@ -5926,13 +5933,14 @@
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE4735g"
+                "desor": "DE4735g",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "47-12-24-009",
                 "matrix": "XCO40792-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Dance No. 3",
+                "title": "Dance No. 3",
                 "releases": [
                     {
                         "label": "CBS",
@@ -5963,13 +5971,14 @@
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE4735h"
+                "desor": "DE4735h",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "47-12-24-010",
                 "matrix": "XCO40793-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Dance No. 4",
+                "title": "Dance No. 4",
                 "releases": [
                     {
                         "label": "CBS",
@@ -6000,26 +6009,28 @@
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE4735i"
+                "desor": "DE4735i",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "47-12-24-011",
                 "matrix": "XCO40794-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Dance No. 5",
+                "title": "Dance No. 5",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 87066"
                     }
                 ],
-                "desor": "DE4735xa"
+                "desor": "DE4735xa",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "47-12-24-012",
                 "matrix": "XCO40794-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Dance No. 5",
+                "title": "Dance No. 5",
                 "releases": [
                     {
                         "label": "CBS",
@@ -6042,7 +6053,8 @@
                         "catalog": "2005"
                     }
                 ],
-                "desor": "DE4735j"
+                "desor": "DE4735j",
+                "suite_index": 6
             },
             {
                 "type": "note",
@@ -6237,64 +6249,70 @@
                 "value": "As before. Add Elayne Jones(ty)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LIBERIAN SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LIBERIAN SUITE"
             },
             {
                 "type": "take",
                 "index": "47-12-26-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I Like The Sunrise - vAH",
+                "title": "I Like The Sunrise - vAH",
                 "releases": [],
-                "desor": "DE4736p"
+                "desor": "DE4736p",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-12-26-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Dance No. 1",
+                "title": "Dance No. 1",
                 "releases": [],
-                "desor": "DE4736q"
+                "desor": "DE4736q",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "47-12-26-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dance No. 2",
+                "title": "Dance No. 2",
                 "releases": [],
-                "desor": "DE4736r"
+                "desor": "DE4736r",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "47-12-26-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Dance No. 3",
+                "title": "Dance No. 3",
                 "releases": [],
-                "desor": "DE4736s"
+                "desor": "DE4736s",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "47-12-26-025",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Dance No. 4",
+                "title": "Dance No. 4",
                 "releases": [],
-                "desor": "DE4736t"
+                "desor": "DE4736t",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "47-12-26-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Dance No. 5",
+                "title": "Dance No. 5",
                 "releases": [],
-                "desor": "DE4736u"
+                "desor": "DE4736u",
+                "suite_index": 6
             },
             {
                 "type": "artists",
                 "value": "Elayne Jones out."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6802,18 +6820,14 @@
                 "value": "As before. Add Elayne Jones(ty)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "LIBERIAN SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "LIBERIAN SUITE"
             },
             {
                 "type": "take",
                 "index": "47-12-27-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I Like The Sunrise - vAH",
+                "title": "I Like The Sunrise - vAH",
                 "releases": [
                     {
                         "label": "Df",
@@ -6824,13 +6838,14 @@
                         "catalog": "P-24075"
                     }
                 ],
-                "desor": "DE4737p"
+                "desor": "DE4737p",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "47-12-27-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Dance No. 1",
+                "title": "Dance No. 1",
                 "releases": [
                     {
                         "label": "Df",
@@ -6841,13 +6856,14 @@
                         "catalog": "P-24075"
                     }
                 ],
-                "desor": "DE4737q"
+                "desor": "DE4737q",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "47-12-27-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Dance No. 2",
+                "title": "Dance No. 2",
                 "releases": [
                     {
                         "label": "Df",
@@ -6858,13 +6874,14 @@
                         "catalog": "P-24075"
                     }
                 ],
-                "desor": "DE4737r"
+                "desor": "DE4737r",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "47-12-27-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Dance No. 3",
+                "title": "Dance No. 3",
                 "releases": [
                     {
                         "label": "Df",
@@ -6875,13 +6892,14 @@
                         "catalog": "P-24075"
                     }
                 ],
-                "desor": "DE4737s"
+                "desor": "DE4737s",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "47-12-27-025",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Dance No. 4",
+                "title": "Dance No. 4",
                 "releases": [
                     {
                         "label": "Df",
@@ -6892,13 +6910,14 @@
                         "catalog": "P-24075"
                     }
                 ],
-                "desor": "DE4737t"
+                "desor": "DE4737t",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "47-12-27-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Dance No. 5",
+                "title": "Dance No. 5",
                 "releases": [
                     {
                         "label": "Df",
@@ -6909,11 +6928,16 @@
                         "catalog": "P-24075"
                     }
                 ],
-                "desor": "DE4737u"
+                "desor": "DE4737u",
+                "suite_index": 6
             },
             {
                 "type": "artists",
                 "value": "Elayne Jones out."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

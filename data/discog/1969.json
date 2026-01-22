@@ -867,36 +867,39 @@
                 "desor": "DE6906e"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "69-03-09-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [],
-                "desor": "DE6906f"
+                "desor": "DE6906f",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "69-03-09-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [],
-                "desor": "DE6906g"
+                "desor": "DE6906g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "69-03-09-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [],
-                "desor": "DE6906h"
+                "desor": "DE6906h",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3730,36 +3733,35 @@
                 "value": "Paul Kondziela(sb); Rufus Jones(d); Cleveland Symphony Orchestra, Duke Ellington(con)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "THE GOLDEN BROOM AND THE GREEN APPLE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "THE GOLDEN BROOM AND THE GREEN APPLE"
             },
             {
                 "type": "take",
                 "index": "69-06-21-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. The Golden Broom",
+                "title": "The Golden Broom",
                 "releases": [],
-                "desor": "DE6922a"
+                "desor": "DE6922a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "69-06-21-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. The Green Apple",
+                "title": "The Green Apple",
                 "releases": [],
-                "desor": "DE6922b"
+                "desor": "DE6922b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "69-06-21-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. The Handsome Traffic Policeman",
+                "title": "The Handsome Traffic Policeman",
                 "releases": [],
-                "desor": "DE6922c"
+                "desor": "DE6922c",
+                "suite_index": 3
             }
         ]
     },
@@ -5768,14 +5770,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "69-09-27-001",
                 "matrix": null,
                 "title": "01. Praise God And Dance [Opening Theme]",
@@ -5925,14 +5919,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Willie Cook, Mercer Ellington(t); Lawrence Brown, Bennie Green(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wild Bill Davis(o); Victor Gaskin(sb); Rufus Jones(d); Devonne Gardner, Nanice Lund, Roscoe Gill, Toney Watkins, The Westminster Choir(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -8143,14 +8129,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Ambrose Jackson, Mercer Ellington(t); Rolf Ericson(t,flh); Lawrence Brown, Gunnar Medberg(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wild Bill Davis(o); Victor Gaskin(sb); Rufus Jones(d); Alice Babs, Toney Watkins, Swedish Radio Choir(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",
@@ -11169,14 +11147,6 @@
             },
             {
                 "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
                 "index": "69-11-16-010",
                 "matrix": null,
                 "title": "01. Praise God And Dance [Opening Theme]",
@@ -11806,14 +11776,6 @@
             {
                 "type": "artists",
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington(t); Rolf Ericson(t,flh); Lawrence Brown, Miquel Badia Graells(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wild Bill Davis(o); Victor Gaskin(sb); Rufus Jones(d); Alice Babs, Toney Watkins, Sant Jordi Choir(v)."
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SECOND SACRED CONCERT",
-                "releases": [],
-                "desor": null
             },
             {
                 "type": "take",

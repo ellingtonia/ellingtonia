@@ -2021,18 +2021,14 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUCH SWEET THUNDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUCH SWEET THUNDER"
             },
             {
                 "type": "take",
                 "index": "57-04-15-001",
                 "matrix": "CO57712-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Sonnet For Caesar",
+                "title": "Sonnet For Caesar",
                 "releases": [
                     {
                         "label": "Co",
@@ -2051,13 +2047,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5715a"
+                "desor": "DE5715a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-04-15-002",
                 "matrix": "CO57713-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Sonnet In Search Of A Moor",
+                "title": "Sonnet In Search Of A Moor",
                 "releases": [
                     {
                         "label": "Co",
@@ -2076,21 +2073,23 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5715b"
+                "desor": "DE5715b",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "57-04-15-003",
                 "matrix": "CO57714-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madness In Great Ones",
+                "title": "Madness In Great Ones",
                 "releases": [],
-                "desor": "DE5715c"
+                "desor": "DE5715c",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "57-04-15-004",
                 "matrix": "CO57715-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Sonnet For Sister Kate",
+                "title": "Sonnet For Sister Kate",
                 "releases": [
                     {
                         "label": "Co",
@@ -2109,7 +2108,8 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5715d"
+                "desor": "DE5715d",
+                "suite_index": 8
             }
         ]
     },
@@ -2340,31 +2340,28 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUCH SWEET THUNDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUCH SWEET THUNDER"
             },
             {
                 "type": "take",
                 "index": "57-04-24-001",
                 "matrix": "CO57721-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Up And Down, Up And Down",
+                "title": "Up And Down, Up And Down",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65568"
                     }
                 ],
-                "desor": "DE5718xa"
+                "desor": "DE5718xa",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "57-04-24-002",
                 "matrix": "CO57721-12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Up And Down, Up And Down",
+                "title": "Up And Down, Up And Down",
                 "releases": [
                     {
                         "label": "Co",
@@ -2380,6 +2377,7 @@
                     }
                 ],
                 "desor": "DE5718a",
+                "suite_index": 7,
                 "spotify": "https://open.spotify.com/track/1iYULfwDSwsh4eQUkdSx3D?si=94c8bde236364902",
                 "tidal": "https://tidal.com/browse/track/34047446"
             },
@@ -2387,7 +2385,7 @@
                 "type": "take",
                 "index": "57-04-24-003",
                 "matrix": "CO57722-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Such Sweet Thunder",
+                "title": "Such Sweet Thunder",
                 "releases": [
                     {
                         "label": "Co",
@@ -2406,13 +2404,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5718b"
+                "desor": "DE5718b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "57-04-24-004",
                 "matrix": "CO57723-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Lady Mac",
+                "title": "Lady Mac",
                 "releases": [
                     {
                         "label": "Co",
@@ -2431,7 +2430,8 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5718c"
+                "desor": "DE5718c",
+                "suite_index": 4
             },
             {
                 "type": "note",
@@ -2574,100 +2574,107 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUCH SWEET THUNDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUCH SWEET THUNDER"
             },
             {
                 "type": "take",
                 "index": "57-04-28-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Sonnet For Caesar",
+                "title": "Sonnet For Caesar",
                 "releases": [],
-                "desor": "DE5720a"
+                "desor": "DE5720a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-04-28-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Sonnet To Hank Cinq",
+                "title": "Sonnet To Hank Cinq",
                 "releases": [],
-                "desor": "DE5720b"
+                "desor": "DE5720b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "57-04-28-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Telecasters",
+                "title": "The Telecasters",
                 "releases": [],
-                "desor": "DE5720c"
+                "desor": "DE5720c",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "57-04-28-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Lady Mac",
+                "title": "Lady Mac",
                 "releases": [],
-                "desor": "DE5720d"
+                "desor": "DE5720d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "57-04-28-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Sonnet In Search Of A Moor",
+                "title": "Sonnet In Search Of A Moor",
                 "releases": [],
-                "desor": "DE5720e"
+                "desor": "DE5720e",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "57-04-28-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Such Sweet Thunder",
+                "title": "Such Sweet Thunder",
                 "releases": [],
-                "desor": "DE5720f"
+                "desor": "DE5720f",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "57-04-28-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Sonnet For Sister Kate",
+                "title": "Sonnet For Sister Kate",
                 "releases": [],
-                "desor": "DE5720g"
+                "desor": "DE5720g",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "57-04-28-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Up And Down, Up And Down",
+                "title": "Up And Down, Up And Down",
                 "releases": [],
-                "desor": "DE5720h"
+                "desor": "DE5720h",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "57-04-28-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Star-Crossed Lovers",
+                "title": "Star-Crossed Lovers",
                 "releases": [],
-                "desor": "DE5720i"
+                "desor": "DE5720i",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "57-04-28-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madness In Great Ones",
+                "title": "Madness In Great Ones",
                 "releases": [],
-                "desor": "DE5720j"
+                "desor": "DE5720j",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "57-04-28-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Half The Fun",
+                "title": "Half The Fun",
                 "releases": [],
-                "desor": "DE5720k"
+                "desor": "DE5720k",
+                "suite_index": 11
             }
         ]
     },
@@ -2702,18 +2709,14 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);  Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUCH SWEET THUNDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUCH SWEET THUNDER"
             },
             {
                 "type": "take",
                 "index": "57-05-03-001",
                 "matrix": "CO57906-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Sonnet To Hank Cinq",
+                "title": "Sonnet To Hank Cinq",
                 "releases": [
                     {
                         "label": "Co",
@@ -2732,26 +2735,28 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5721a"
+                "desor": "DE5721a",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "57-05-03-002",
                 "matrix": "CO57907-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Telecasters",
+                "title": "The Telecasters",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65568"
                     }
                 ],
-                "desor": "DE5721xa"
+                "desor": "DE5721xa",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "57-05-03-003",
                 "matrix": "CO57907-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Telecasters",
+                "title": "The Telecasters",
                 "releases": [
                     {
                         "label": "Co",
@@ -2766,13 +2771,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5721b"
+                "desor": "DE5721b",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "57-05-03-004",
                 "matrix": "CO57714-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madness In Great Ones",
+                "title": "Madness In Great Ones",
                 "releases": [
                     {
                         "label": "Co",
@@ -2791,13 +2797,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5721c"
+                "desor": "DE5721c",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "57-05-03-005",
                 "matrix": "CO57714-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madness In Great Ones",
+                "title": "Madness In Great Ones",
                 "releases": [
                     {
                         "label": "Co",
@@ -2810,13 +2817,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5721xd"
+                "desor": "DE5721xd",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "57-05-03-006",
                 "matrix": "CO57015-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Star-Crossed Lovers",
+                "title": "Star-Crossed Lovers",
                 "releases": [
                     {
                         "label": "Co",
@@ -2833,13 +2841,14 @@
                         "flags": "*"
                     }
                 ],
-                "desor": "DE5721xb"
+                "desor": "DE5721xb",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "57-05-03-007",
                 "matrix": "CO57015-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Star-Crossed Lovers",
+                "title": "Star-Crossed Lovers",
                 "releases": [
                     {
                         "label": "Co",
@@ -2867,13 +2876,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5721d"
+                "desor": "DE5721d",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "57-05-03-008",
                 "matrix": "CO57908-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Circle Of Fourths",
+                "title": "Circle Of Fourths",
                 "releases": [
                     {
                         "label": "Co",
@@ -2893,13 +2903,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5721e"
+                "desor": "DE5721e",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "57-05-03-009",
                 "matrix": "CO57908-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Circle Of Fourths",
+                "title": "Circle Of Fourths",
                 "releases": [
                     {
                         "label": "Co",
@@ -2907,7 +2918,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5721xc"
+                "desor": "DE5721xc",
+                "suite_index": 12
             }
         ]
     },
@@ -4012,73 +4024,80 @@
                 "value": "Willie Cook, Cat Anderson, Harold Baker, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUCH SWEET THUNDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUCH SWEET THUNDER"
             },
             {
                 "type": "take",
                 "index": "57-07-01-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Such Sweet Thunder",
+                "title": "Such Sweet Thunder",
                 "releases": [],
-                "desor": "DE9097a"
+                "desor": "DE9097a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "57-07-01-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Sonnet For Sister Kate",
+                "title": "Sonnet For Sister Kate",
                 "releases": [],
-                "desor": "DE9097b"
+                "desor": "DE9097b",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "57-07-01-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Up And Down, Up And Down",
+                "title": "Up And Down, Up And Down",
                 "releases": [
                     {
                         "label": "MDD",
                         "catalog": "006"
                     }
                 ],
-                "desor": "DE9097c"
+                "desor": "DE9097c",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "57-07-01-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Star-Crossed Lovers",
+                "title": "Star-Crossed Lovers",
                 "releases": [],
-                "desor": "DE9097d"
+                "desor": "DE9097d",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "57-07-01-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madness In Great Ones",
+                "title": "Madness In Great Ones",
                 "releases": [],
-                "desor": "DE9097e"
+                "desor": "DE9097e",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "57-07-01-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Half The Fun",
+                "title": "Half The Fun",
                 "releases": [],
-                "desor": "DE9097f"
+                "desor": "DE9097f",
+                "suite_index": 11
             },
             {
                 "type": "take",
                 "index": "57-07-01-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Circle Of Fourths",
+                "title": "Circle Of Fourths",
                 "releases": [],
-                "desor": "DE9097g"
+                "desor": "DE9097g",
+                "suite_index": 12
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4859,18 +4878,14 @@
                 "value": "Willie Cook, Cat Anderson, Harold Baker, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PORTRAIT OF ELLA FITZGERALD",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PORTRAIT OF ELLA FITZGERALD"
             },
             {
                 "type": "take",
                 "index": "57-09-02-001",
                 "matrix": "21380-13",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Royal Ancestry",
+                "title": "Royal Ancestry",
                 "releases": [
                     {
                         "label": "Ve",
@@ -4886,45 +4901,50 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733a"
+                "desor": "DE5733a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "57-09-02-002",
                 "matrix": "21381-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [],
-                "desor": "DE5733b"
+                "desor": "DE5733b",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-003",
                 "matrix": "21381-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [],
-                "desor": "DE5733c"
+                "desor": "DE5733c",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-004",
                 "matrix": "21381-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [],
-                "desor": "DE5733d"
+                "desor": "DE5733d",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-005",
                 "matrix": "21381-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [],
-                "desor": "DE5733e"
+                "desor": "DE5733e",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-006",
                 "matrix": "21381-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [
                     {
                         "label": "Ve",
@@ -4932,13 +4952,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733xa"
+                "desor": "DE5733xa",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-007",
                 "matrix": "21381-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [
                     {
                         "label": "Ve",
@@ -4946,13 +4967,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733xb"
+                "desor": "DE5733xb",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-008",
                 "matrix": "21381-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [
                     {
                         "label": "Ve",
@@ -4960,13 +4982,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733xc"
+                "desor": "DE5733xc",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-009",
                 "matrix": "21381-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [
                     {
                         "label": "Ve",
@@ -4974,13 +4997,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733xd"
+                "desor": "DE5733xd",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-010",
                 "matrix": "21381-12",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. All Heart",
+                "title": "All Heart",
                 "releases": [
                     {
                         "label": "Ve",
@@ -4996,13 +5020,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733f"
+                "desor": "DE5733f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-02-011",
                 "matrix": "21382-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Beyond Category",
+                "title": "Beyond Category",
                 "releases": [
                     {
                         "label": "Ve",
@@ -5018,13 +5043,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733g"
+                "desor": "DE5733g",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "57-09-02-012",
                 "matrix": "21383-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Total Jazz",
+                "title": "Total Jazz",
                 "releases": [
                     {
                         "label": "Ve",
@@ -5040,7 +5066,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5733h"
+                "desor": "DE5733h",
+                "suite_index": 4
             }
         ]
     },
@@ -5055,100 +5082,107 @@
                 "value": "Willie Cook, Cat Anderson, Harold Baker, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "SUCH SWEET THUNDER",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "SUCH SWEET THUNDER"
             },
             {
                 "type": "take",
                 "index": "57-09-05-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Sonnet For Caesar",
+                "title": "Sonnet For Caesar",
                 "releases": [],
-                "desor": "DE5734a"
+                "desor": "DE5734a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-09-05-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Sonnet To Hank Cinq",
+                "title": "Sonnet To Hank Cinq",
                 "releases": [],
-                "desor": "DE5734b"
+                "desor": "DE5734b",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "57-09-05-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;06. The Telecasters",
+                "title": "The Telecasters",
                 "releases": [],
-                "desor": "DE5734c"
+                "desor": "DE5734c",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "57-09-05-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. Lady Mac",
+                "title": "Lady Mac",
                 "releases": [],
-                "desor": "DE5734d"
+                "desor": "DE5734d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "57-09-05-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Circle Of Fourths",
+                "title": "Circle Of Fourths",
                 "releases": [],
-                "desor": "DE5734e"
+                "desor": "DE5734e",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "57-09-05-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Sonnet In Search Of A Moor",
+                "title": "Sonnet In Search Of A Moor",
                 "releases": [],
-                "desor": "DE5734f"
+                "desor": "DE5734f",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "57-09-05-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Such Sweet Thunder",
+                "title": "Such Sweet Thunder",
                 "releases": [],
-                "desor": "DE5734g"
+                "desor": "DE5734g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "57-09-05-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Sonnet For Sister Kate",
+                "title": "Sonnet For Sister Kate",
                 "releases": [],
-                "desor": "DE5734h"
+                "desor": "DE5734h",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "57-09-05-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. Up And Down, Up And Down",
+                "title": "Up And Down, Up And Down",
                 "releases": [],
-                "desor": "DE5734i"
+                "desor": "DE5734i",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "57-09-05-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Star-Crossed Lovers",
+                "title": "Star-Crossed Lovers",
                 "releases": [],
-                "desor": "DE5734j"
+                "desor": "DE5734j",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "57-09-05-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Madness In Great Ones",
+                "title": "Madness In Great Ones",
                 "releases": [],
-                "desor": "DE5734k"
+                "desor": "DE5734k",
+                "suite_index": 10
             }
         ]
     },
@@ -6634,51 +6668,50 @@
                 "desor": "DE5744f"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "PERFUME SUITE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "PERFUME SUITE"
             },
             {
                 "type": "take",
                 "index": "57-11-25-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Balcony Serenade",
+                "title": "Balcony Serenade",
                 "releases": [
                     {
                         "label": "Jo",
                         "catalog": "LP-1023"
                     }
                 ],
-                "desor": "DE5744g"
+                "desor": "DE5744g",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "57-11-25-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Strange Feeling - vJG",
+                "title": "Strange Feeling - vJG",
                 "releases": [
                     {
                         "label": "Jo",
                         "catalog": "LP-1023"
                     }
                 ],
-                "desor": "DE5744h"
+                "desor": "DE5744h",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "57-11-25-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Coloratura",
+                "title": "Coloratura",
                 "releases": [
                     {
                         "label": "Jo",
                         "catalog": "LP-1023"
                     }
                 ],
-                "desor": "DE5744i"
+                "desor": "DE5744i",
+                "suite_index": 3
             },
             {
                 "type": "artists",
@@ -6688,18 +6721,23 @@
                 "type": "take",
                 "index": "57-11-25-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Dancers In Love",
+                "title": "Dancers In Love",
                 "releases": [
                     {
                         "label": "Jo",
                         "catalog": "LP-1023"
                     }
                 ],
-                "desor": "DE5744j"
+                "desor": "DE5744j",
+                "suite_index": 4
             },
             {
                 "type": "artists",
                 "value": "As before. Add Lurlean Hunter(v)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
