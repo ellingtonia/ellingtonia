@@ -15,6 +15,7 @@ menu:
 * 1941
 * 1942
 * 1945
+* 1960
 
 ## November 2025
 * Update Pathé label for 1925,26,28,29
