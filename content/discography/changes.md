@@ -21,6 +21,7 @@ menu:
 * 1929
 * 1969
 * 1973
+* 1933
 
 ## Jan 2026
 * Improved representation of various suites

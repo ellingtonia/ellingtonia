@@ -432,7 +432,7 @@
                         "catalog": "637"
                     },
                     {
-                        "label": "Co",
+                        "label": "Co(E)",
                         "catalog": "CB 625",
                         "first_issue": true
                     },
@@ -1529,7 +1529,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as,bsx); Harry Carney(as,bar); Duke Ellington(p); Benny James(g); Wellman Braud(sb); Sonny Greer(d,ch,vib); Ivie Anderson(v)."
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(as,bsx); Harry Carney(as,bar); Duke Ellington(p); Unk(g); Wellman Braud(sb); Sonny Greer(d,ch,vib); Ivie Anderson(v)."
             },
             {
                 "type": "take",
@@ -1610,7 +1610,7 @@
             },
             {
                 "type": "note",
-                "content": "Film sound track from Paramount's \"A Bundle Of Blues.\""
+                "content": "Film sound track from Paramount's \"A Bundle Of Blues.\". New DESOR shows Benny James as the guitarist on this session, but Ruth Ellington, who knew James, didn’t identify him in the film."
             }
         ]
     },
@@ -2213,7 +2213,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741114"
+                        "catalog": "741114",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3313b"
@@ -2267,7 +2268,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "24501"
+                        "catalog": "24501",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3313d"
@@ -2297,7 +2299,8 @@
                     },
                     {
                         "label": "RCA(F)",
-                        "catalog": "741114"
+                        "catalog": "741114",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3313e"
