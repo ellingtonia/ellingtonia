@@ -7,6 +7,7 @@ menu:
 ---
 
 ## March 2026
+* Updates to labels and titles.
 * 1924
 * 1925
 * 1926
