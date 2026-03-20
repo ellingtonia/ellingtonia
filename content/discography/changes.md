@@ -18,6 +18,7 @@ menu:
 * 1951
 * 1953
 * 1961
+* 1929
 
 ## Jan 2026
 * Improved representation of various suites
