@@ -12,6 +12,7 @@ menu:
 * Replaced "Crimpler" with "Crumpler"
 * 1961
 * 1947
+* 1934
 
 ## December 2025
 * Fixes to 1933-1938
