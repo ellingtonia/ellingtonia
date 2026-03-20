@@ -11,6 +11,7 @@ menu:
 * Various small fixes 1930-1960
 * Replaced "Crimpler" with "Crumpler"
 * 1961
+* 1947
 
 ## December 2025
 * Fixes to 1933-1938
