@@ -10,6 +10,7 @@ menu:
 * Improved representation of various suites
 * Various small fixes 1930-1960
 * Replaced "Crimpler" with "Crumpler"
+* 1961
 
 ## December 2025
 * Fixes to 1933-1938
