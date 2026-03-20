@@ -76,7 +76,8 @@ for key in ENTRY_LINKS:
 Entry = dataclass(frozen=False, eq=False)(Entry)
 
 
-@dataclass(frozen=True, eq=True, order=True)
+# Not frozen so we can implement rename_label
+@dataclass(frozen=False, eq=True, order=True, unsafe_hash=True)
 class Label:
     label: str
     name: str
