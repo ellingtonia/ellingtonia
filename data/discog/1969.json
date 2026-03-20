@@ -1513,15 +1513,34 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Willie Cook(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves, Harold Ashby(ts,cl); Harry Carney(bar,cl,bcl); Duke Ellington(p); Paul Kondziela(sb); Rufus Jones(d); Tony Bennett(v)."
+                "value": "Cootie Williams, Cat Anderson, Mercer Ellington, Willie Cook(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves, Harold Ashby(ts,cl); Harry Carney(bar,cl,bcl); Duke Ellington(p); Paul Kondziela(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
                 "index": "69-04-06-001",
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
-                "releases": [],
-                "desor": "DE6911a"
+                "releases": [
+                    {
+                        "label": "TVT",
+                        "catalog": "9451-2"
+                    }
+                ],
+                "desor": "DE6911a",
+                "youtube": "https://www.youtube.com/watch?v=Z_CloCfS5Ss"
+            }
+        ]
+    },
+    {
+        "group": "TONY BENNETT WITH DUKE ELLINGTON AND HIS ORCHESTRA",
+        "location": null,
+        "date": "06 April 1969",
+        "same_session": true,
+        "description": null,
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Add Tony Bennett(v)."
             },
             {
                 "type": "take",
@@ -1529,7 +1548,12 @@
                 "matrix": null,
                 "title": "Making That Scene - vTBe",
                 "releases": [],
-                "desor": "DE6911b"
+                "desor": "DE6911b",
+                "youtube": "https://www.youtube.com/watch?v=pdNXsXuWGOE"
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington(p); Paul Kondziela(sb); Rufus Jones(d); Tony Bennett(v)."
             },
             {
                 "type": "take",
@@ -1537,15 +1561,21 @@
                 "matrix": null,
                 "title": "Solitude - vTBe",
                 "releases": [],
-                "desor": "DE6911c"
+                "desor": "DE6911c",
+                "youtube": "https://www.youtube.com/watch?v=pdNXsXuWGOE&t=132s"
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington(p) out; add John Bunch(p)."
             },
             {
                 "type": "take",
                 "index": "69-04-06-004",
                 "matrix": null,
-                "title": "What The World Needs - vTBe",
+                "title": "What The World Needs Now Is Love - vTBe",
                 "releases": [],
-                "desor": "DE6911d"
+                "desor": "DE6911d",
+                "youtube": "https://www.youtube.com/watch?v=BwEGgTd-efw&t=2960s"
             },
             {
                 "type": "take",
@@ -1553,11 +1583,8 @@
                 "matrix": null,
                 "title": "People - vTBe",
                 "releases": [],
-                "desor": "DE6911e"
-            },
-            {
-                "type": "note",
-                "content": "Solitude is played by Duke Ellington, Paul Kondziela and Rufus Jones only."
+                "desor": "DE6911e",
+                "youtube": "https://www.youtube.com/watch?v=BwEGgTd-efw&t=3085s"
             }
         ]
     },
@@ -1825,6 +1852,11 @@
                     {
                         "label": "BN",
                         "catalog": "72435 35249 2"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "DE 100WA",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2545,7 +2577,8 @@
                 "releases": [
                     {
                         "label": "Pb",
-                        "catalog": "2310-787"
+                        "catalog": "2310-787",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6916bo"
@@ -3670,7 +3703,8 @@
                 "releases": [
                     {
                         "label": "Pb",
-                        "catalog": "2310-815"
+                        "catalog": "2310-815",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6921d"
@@ -3699,7 +3733,8 @@
                 "releases": [
                     {
                         "label": "Pb",
-                        "catalog": "2310-815"
+                        "catalog": "2310-815",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6921g"
@@ -4036,7 +4071,8 @@
                 "releases": [
                     {
                         "label": "Pb",
-                        "catalog": "2310-787"
+                        "catalog": "2310-787",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6925a"
@@ -4739,7 +4775,8 @@
                 "releases": [
                     {
                         "label": "Pb",
-                        "catalog": "2310-787"
+                        "catalog": "2310-787",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6930m"
@@ -5076,7 +5113,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6932xa"
@@ -5093,7 +5131,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6932a"
@@ -5110,7 +5149,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6932b"
@@ -5151,7 +5191,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     },
                     {
                         "label": "Rdi",
@@ -5168,7 +5209,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933xa"
@@ -5185,7 +5227,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933b"
@@ -5198,7 +5241,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933c"
@@ -5215,7 +5259,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933d"
@@ -5228,7 +5273,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933xb"
@@ -5245,7 +5291,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-106"
+                        "catalog": "RD4-106",
+                        "first_issue": true
                     },
                     {
                         "label": "Rdi",
@@ -5262,7 +5309,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933xc"
@@ -5279,7 +5327,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     },
                     {
                         "label": "Rdi",
@@ -5296,7 +5345,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933xd"
@@ -5309,7 +5359,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933xe"
@@ -5322,7 +5373,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6933xf"
@@ -5347,7 +5399,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934xa"
@@ -5360,7 +5413,8 @@
                 "releases": [
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934a"
@@ -5377,7 +5431,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-106"
+                        "catalog": "RD4-106",
+                        "first_issue": true
                     },
                     {
                         "label": "Rdi",
@@ -5394,7 +5449,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934xb"
@@ -5407,7 +5463,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934c"
@@ -5420,7 +5477,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934xc"
@@ -5433,7 +5491,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934xd"
@@ -5446,7 +5505,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934xe"
@@ -5459,7 +5519,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934xf"
@@ -5472,7 +5533,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "09026-63953-2"
+                        "catalog": "09026-63953-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934xg"
@@ -5489,7 +5551,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4A-017"
+                        "catalog": "RD4A-017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934d"
@@ -5506,7 +5569,8 @@
                     },
                     {
                         "label": "Rdi",
-                        "catalog": "RD4-112"
+                        "catalog": "RD4-112",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6934e"
@@ -5563,7 +5627,8 @@
                 "releases": [
                     {
                         "label": "MM",
-                        "catalog": "5041-2C"
+                        "catalog": "5041-2C",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6935e"
@@ -6080,7 +6145,8 @@
                 "releases": [
                     {
                         "label": "CrRd",
-                        "catalog": "1001"
+                        "catalog": "1001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6939a",
@@ -6758,7 +6824,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944c"
@@ -6771,7 +6838,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944d"
@@ -6784,7 +6852,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944e"
@@ -6797,7 +6866,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944f"
@@ -6810,7 +6880,8 @@
                 "releases": [
                     {
                         "label": "BJa",
-                        "catalog": "BJ-003CD"
+                        "catalog": "BJ-003CD",
+                        "first_issue": true
                     },
                     {
                         "label": "JMY",
@@ -6827,7 +6898,8 @@
                 "releases": [
                     {
                         "label": "BJa",
-                        "catalog": "BJ-003CD"
+                        "catalog": "BJ-003CD",
+                        "first_issue": true
                     },
                     {
                         "label": "JMY",
@@ -6844,11 +6916,16 @@
                 "releases": [
                     {
                         "label": "BJa",
-                        "catalog": "BJ-003CD"
+                        "catalog": "BJ-003CD",
+                        "first_issue": true
                     },
                     {
                         "label": "JMY",
                         "catalog": "1011-2"
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6944i"
@@ -6861,7 +6938,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944j"
@@ -6874,7 +6952,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944k"
@@ -6887,7 +6966,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944l"
@@ -6900,7 +6980,8 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6944m"
@@ -6913,7 +6994,12 @@
                 "releases": [
                     {
                         "label": "JMY",
-                        "catalog": "1011-2"
+                        "catalog": "1011-2",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6944n"
@@ -6946,7 +7032,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945a"
@@ -6956,7 +7043,12 @@
                 "index": "69-11-01-017",
                 "matrix": null,
                 "title": "¬ Kinda Dukish",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
+                    }
+                ],
                 "desor": "DE6945b"
             },
             {
@@ -6964,7 +7056,12 @@
                 "index": "69-11-01-018",
                 "matrix": null,
                 "title": "_|Rockin' In Rhythm",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
+                    }
+                ],
                 "desor": "DE6945c"
             },
             {
@@ -6983,7 +7080,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945e"
@@ -6996,7 +7094,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945f"
@@ -7009,7 +7108,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945g"
@@ -7019,7 +7119,12 @@
                 "index": "69-11-01-023",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
+                    }
+                ],
                 "desor": "DE6945h"
             },
             {
@@ -7030,7 +7135,12 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6945i"
@@ -7043,7 +7153,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945j"
@@ -7056,7 +7167,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945k"
@@ -7069,7 +7181,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945l"
@@ -7082,7 +7195,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945m"
@@ -7095,7 +7209,12 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6945n"
@@ -7108,7 +7227,12 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6945o"
@@ -7121,7 +7245,12 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6945p"
@@ -7134,7 +7263,12 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6945q"
@@ -7151,7 +7285,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945r"
@@ -7164,7 +7299,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945s"
@@ -7181,7 +7317,8 @@
                 "releases": [
                     {
                         "label": "By",
-                        "catalog": "YX-6031"
+                        "catalog": "YX-6031",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945t"
@@ -7202,7 +7339,8 @@
                     },
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-1"
+                        "catalog": "GJ-1",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6945u"
@@ -7219,7 +7357,12 @@
                 "releases": [
                     {
                         "label": "BJa",
-                        "catalog": "BJ-003CD"
+                        "catalog": "BJ-003CD",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sq",
+                        "catalog": "SR-0258"
                     }
                 ],
                 "desor": "DE6945v"
@@ -7260,7 +7403,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946a"
@@ -7273,7 +7417,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946b"
@@ -7286,7 +7431,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946c"
@@ -7299,7 +7445,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946d"
@@ -7312,7 +7459,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946e"
@@ -7325,7 +7473,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946f"
@@ -7338,7 +7487,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946g"
@@ -7351,7 +7501,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946h"
@@ -7364,7 +7515,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946i"
@@ -7377,7 +7529,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946j"
@@ -7390,7 +7543,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946k"
@@ -7403,7 +7557,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946l"
@@ -7424,7 +7579,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946n"
@@ -7441,7 +7597,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946o"
@@ -7458,7 +7615,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946p"
@@ -7471,7 +7629,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946q"
@@ -7484,7 +7643,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946r"
@@ -7497,7 +7657,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946s"
@@ -7510,7 +7671,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946t"
@@ -7527,7 +7689,8 @@
                 "releases": [
                     {
                         "label": "QL",
-                        "catalog": "QLDVD 0252"
+                        "catalog": "QLDVD 0252",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6946u"
@@ -7680,7 +7843,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6948c"
@@ -7925,7 +8089,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6949j"
@@ -8178,7 +8343,8 @@
                 "releases": [
                     {
                         "label": "MJ",
-                        "catalog": "2MJP-1082"
+                        "catalog": "2MJP-1082",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6951f"
@@ -8467,7 +8633,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953a"
@@ -8480,7 +8647,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953b"
@@ -8493,7 +8661,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953c"
@@ -8506,7 +8675,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953d"
@@ -8519,7 +8689,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953e"
@@ -8532,7 +8703,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953f"
@@ -8545,7 +8717,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953g"
@@ -8558,7 +8731,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953h"
@@ -8571,7 +8745,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953i"
@@ -8584,7 +8759,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953j"
@@ -8597,7 +8773,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953k"
@@ -8610,7 +8787,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953l"
@@ -8631,7 +8809,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -8644,7 +8823,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -8657,7 +8837,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -8670,7 +8851,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953n"
@@ -8683,7 +8865,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953o"
@@ -8696,7 +8879,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953p"
@@ -8709,7 +8893,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953q"
@@ -8722,7 +8907,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953r"
@@ -8735,7 +8921,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953s"
@@ -8748,7 +8935,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953t"
@@ -8761,7 +8949,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8440"
+                        "catalog": "101 8440",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953u"
@@ -8778,7 +8967,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8445"
+                        "catalog": "101 8445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953v"
@@ -8791,7 +8981,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8445"
+                        "catalog": "101 8445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953w"
@@ -8804,7 +8995,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8445"
+                        "catalog": "101 8445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953x"
@@ -8817,7 +9009,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8445"
+                        "catalog": "101 8445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6953y"
@@ -8866,7 +9059,8 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6954d"
@@ -8887,7 +9081,12 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "TLR",
+                        "catalog": "2204041"
                     }
                 ],
                 "desor": "DE6954f"
@@ -8905,7 +9104,13 @@
                 "index": "69-11-08-008",
                 "matrix": null,
                 "title": "El Gato",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "TLR",
+                        "catalog": "2204041",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6954h"
             },
             {
@@ -8916,7 +9121,8 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6954i"
@@ -8929,7 +9135,8 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6954j"
@@ -8946,7 +9153,8 @@
                     },
                     {
                         "label": "JD",
-                        "catalog": "11023"
+                        "catalog": "11023",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6954k"
@@ -8967,7 +9175,12 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "TLR",
+                        "catalog": "2204041"
                     }
                 ],
                 "desor": null
@@ -8980,7 +9193,12 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "TLR",
+                        "catalog": "2204041"
                     }
                 ],
                 "desor": null
@@ -9025,7 +9243,8 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -9038,7 +9257,8 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6954m"
@@ -9051,7 +9271,12 @@
                 "releases": [
                     {
                         "label": "IJ",
-                        "catalog": "509"
+                        "catalog": "509",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "TLR",
+                        "catalog": "2204041"
                     }
                 ],
                 "desor": "DE6954n"
@@ -9113,7 +9338,13 @@
                 "index": "69-11-08-026",
                 "matrix": null,
                 "title": "I Can't Get Started",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "TLR",
+                        "catalog": "2204041",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6954s"
             },
             {
@@ -9137,7 +9368,13 @@
                 "index": "69-11-08-028",
                 "matrix": null,
                 "title": "Meditation",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "TLR",
+                        "catalog": "2204041",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6953xb"
             }
         ]
@@ -9600,7 +9837,8 @@
                 "releases": [
                     {
                         "label": "JL",
-                        "catalog": "N 77 029"
+                        "catalog": "N 77 029",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957a"
@@ -9617,7 +9855,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957b"
@@ -9634,7 +9873,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957c"
@@ -9651,7 +9891,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957d"
@@ -9668,7 +9909,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957e"
@@ -9685,7 +9927,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957f"
@@ -9702,7 +9945,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957g"
@@ -9719,7 +9963,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957h"
@@ -9736,7 +9981,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957i"
@@ -9753,7 +9999,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957j"
@@ -9766,7 +10013,8 @@
                 "releases": [
                     {
                         "label": "JL",
-                        "catalog": "N 77 029"
+                        "catalog": "N 77 029",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957k"
@@ -9791,7 +10039,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957m"
@@ -9816,7 +10065,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -9833,7 +10083,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -9846,7 +10097,8 @@
                 "releases": [
                     {
                         "label": "JL",
-                        "catalog": "N 77 029"
+                        "catalog": "N 77 029",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -9859,7 +10111,8 @@
                 "releases": [
                     {
                         "label": "JL",
-                        "catalog": "N 77 029"
+                        "catalog": "N 77 029",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -9876,7 +10129,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957o"
@@ -9893,7 +10147,8 @@
                     },
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6957p"
@@ -9950,7 +10205,8 @@
                 "releases": [
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6958e"
@@ -9963,7 +10219,8 @@
                 "releases": [
                     {
                         "label": "WW",
-                        "catalog": "2406"
+                        "catalog": "2406",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6958f"
@@ -11153,7 +11410,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0228"
+                        "catalog": "SR-0228",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6964a",
@@ -11191,7 +11449,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0228"
+                        "catalog": "SR-0228",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6964e",
@@ -11205,7 +11464,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0228"
+                        "catalog": "SR-0228",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6964f",
@@ -11219,7 +11479,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0228"
+                        "catalog": "SR-0228",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6964g",
@@ -11241,7 +11502,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0228"
+                        "catalog": "SR-0228",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6964i",
@@ -11279,7 +11541,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0228"
+                        "catalog": "SR-0228",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6964m",
@@ -11293,7 +11556,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0228"
+                        "catalog": "SR-0228",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6964n",
@@ -11543,7 +11807,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965a"
@@ -11556,7 +11821,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965b"
@@ -11569,7 +11835,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965c"
@@ -11582,7 +11849,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965d"
@@ -11599,7 +11867,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965e"
@@ -11612,7 +11881,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965f"
@@ -11625,7 +11895,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965g"
@@ -11638,7 +11909,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965h"
@@ -11651,7 +11923,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965i"
@@ -11668,7 +11941,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965j"
@@ -11709,7 +11983,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965n"
@@ -11726,7 +12001,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965o"
@@ -11739,7 +12015,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965p"
@@ -11752,7 +12029,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1024"
+                        "catalog": "SJ-1024",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6965q"
@@ -12165,7 +12443,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6968m"
@@ -12294,7 +12573,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12315,7 +12595,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12336,7 +12617,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12357,7 +12639,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12378,7 +12661,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12399,7 +12683,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12420,7 +12705,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12441,7 +12727,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12462,7 +12749,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12483,7 +12771,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12504,7 +12793,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12529,7 +12819,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12546,7 +12837,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12563,7 +12855,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12580,7 +12873,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12597,7 +12891,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12614,7 +12909,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12631,7 +12927,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12648,7 +12945,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12665,7 +12963,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12682,7 +12981,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12699,7 +12999,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12716,7 +13017,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12733,7 +13035,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12750,7 +13053,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12771,7 +13075,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
@@ -12792,7 +13097,8 @@
                 "releases": [
                     {
                         "label": "SdS",
-                        "catalog": "SS-19000"
+                        "catalog": "SS-19000",
+                        "first_issue": true
                     },
                     {
                         "label": "SqJ",
