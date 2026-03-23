@@ -12,6 +12,7 @@ menu:
 * Renamed Ok -> OK "OKeh"
 * Changed multi-part suites not to use all caps.
 * Numerous corrections to use copyrighted titles.
+* 1946
 
 ## Jan 2026
 * Improved representation of various suites
