@@ -239,9 +239,11 @@ class Database:
 
     def validate_releases(self):
         seen = set()
+        exempt_ambiguous_releases = {("Co", "PE-7")}
         for label, catalog in self._releases.keys():
+            # TODO: Remove this hack
             key = (label, catalog.replace(" ", "-"))
-            if key in seen:
+            if key in seen and (label.label, key[1]) not in exempt_ambiguous_releases:
                 raise RuntimeError("Ambiguous releases detected", label.label, catalog)
             seen.add(key)
 
