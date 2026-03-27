@@ -21,7 +21,7 @@ Please note that due to the sheer quantity of recorded output, the pages on this
 
 As with all discographies, this will always be a work in progress and cannot be thought of as definitive. Errors and omissions are still being found. Decades after Duke's last recording, new compilations continue to be released on CD, LP and via streaming services. Corrections and contributions are gratefully received.
 
-The site is currently maintained by Charlie Dyson with almost all editing work and much research done by Ezio Chiarelli. Steven Lasker has provided hundreds of corrections and also contributed heavily to virtually all source material used. David Palmquist continues to yield new corrections as he expands and improves TDWAW.
+The site is currently maintained by Charlie Dyson with almost all editing work and much research done by Ezio Chiarelli. Steven Lasker has provided countless corrections and also contributed heavily to virtually all source material used. David Palmquist continues to yield new corrections as he expands and improves TDWAW.
 
 Please contact Charlie Dyson (charlie@charliedyson.net) if you spot something that's missing or wrong. A list of known bugs is maintained [here](https://github.com/ellingtonia/ellingtonia/issues), while changes to the discography are recorded on the [Changes]({{< ref "changes" >}}) page.
 
