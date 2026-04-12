@@ -36,9 +36,8 @@ obvious from filenames like `1926.json` vs `1926_changed_April2026.json`, so do
 not attempt clever heuristics.
 
 Make a commit when you're done. Do not ask for confirmation. The commit message
-should be approximately verbatim from the email body and/or any attached text
-file or descriptive document.  The first line of the commit message should
-simply be the year or years processed (e.g. "1940" or "1940, 1941").
+should consist of the year (or years), then after a blank line, should be the
+email body and/or any attached text file or descriptive document.
 
 Please don't try to be clever, don't write helper python scripts, this should
 all be extremely trivial. If you're stuck, say why.
