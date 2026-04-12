@@ -8,7 +8,7 @@ will be to modify these files.
 # Processing emails
 You may be asked to process an email file. This will typically have several
 attachments. Usually they take the form of a json file for a particular year,
-and the un-modified version of the same, plus possibly some new labels.
+and the unmodified version of the same, plus possibly some new labels.
 
 Read `MAINTAINERS.md` first for context.
 
@@ -19,11 +19,11 @@ called `TMP`). Create the parent directory if needed.
   - the script prints the full paths of the directory and files it creates
   - note the paths are nested by email file name (to handle multiple emails)
 - if the email includes `labels.json` / `labels_changed*.json`, apply label
-changes first. This is normally a simple diff. Use `patch`, don't try anythign
+changes first. This is normally a simple diff. Use `patch`, don't try anything
 clever. If only one file is present, just use that file as the new
 `labels.json`. Note that `labels.json` lives in data/discog.
 - find the original and edited year JSON files in the extracted attachments
-(these is no need to read these assuming things go smoothly).
+(there is no need to read these assuming things go smoothly).
 - run `tools/import_for_agents.sh YEAR BASE_JSON MODIFIED_JSON`
 
 `tools/import_for_agents.sh` will patch the repo file at `data/discog/YEAR.json`
