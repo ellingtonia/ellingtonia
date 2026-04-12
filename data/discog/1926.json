@@ -178,6 +178,21 @@
                 "title": "I'm Just Wild About Animal Crackers",
                 "releases": [
                     {
+                        "label": "Bunny",
+                        "catalog": "8063",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ch",
+                        "catalog": "15118",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Chg",
+                        "catalog": "135",
+                        "first_issue": true
+                    },
+                    {
                         "label": "Cl(F)",
                         "catalog": "539"
                     },
@@ -209,8 +224,23 @@
                 "type": "take",
                 "index": "26-06-21-002",
                 "matrix": "X191",
-                "title": "Li'l Farina",
+                "title": "Lil' Farina (Everybody Loves You)",
                 "releases": [
+                    {
+                        "label": "Bunny",
+                        "catalog": "8063",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ch",
+                        "catalog": "15120",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Chg",
+                        "catalog": "134",
+                        "first_issue": true
+                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "539"
@@ -238,6 +268,10 @@
                     }
                 ],
                 "desor": "DE2603b"
+            },
+            {
+                "type": "note",
+                "content": "This latter title was copyrighted as \"Lil' Farina, Everybody Loves You\", and was spelled \"Lil' Farina (Ev'rybody Loves You)\" on sheet music and \"Li'l Farina\" on the 78rpm releases. (Li'l is a mistake, the correct contraction of little is lil')."
             }
         ]
     },
