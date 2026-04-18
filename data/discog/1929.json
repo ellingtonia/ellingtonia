@@ -1257,7 +1257,7 @@
             },
             {
                 "type": "note",
-                "content": "Harmonica Charlie played a short passage on his harmonica after Goin' To Town."
+                "content": "Harmonica Charlie played a short passage on his harmonica after Goin' To Town.\n\nCVE51158-1 and CVE51159-1 are misidentified as CVE51158-2 and CVE51159-3 on Pi MPC-524, RCA(F) 741029 and MoJ MJCD 88."
             }
         ]
     },
@@ -1576,7 +1576,7 @@
                 "type": "take",
                 "index": "29-07-29-001",
                 "matrix": "E30585-B",
-                "title": "Black And Blue",
+                "title": "(What Did I Do To Be So) Black And Blue",
                 "releases": [
                     {
                         "label": "Br",
@@ -1666,7 +1666,7 @@
             },
             {
                 "type": "note",
-                "content": "Session sheets don't specify the musicians. Two waxes were cut but not processed, the matrix number reassigned. (details on the [tdwaw.ca website] (https://tdwaw.ellingtonweb.ca/TDWAW1.html)."
+                "content": "Session sheets don't specify the musicians. Two waxes were cut but not processed, the matrix number reassigned. (Details on the [tdwaw.ca website](https://tdwaw.ellingtonweb.ca/TDWAW1.html)."
             }
         ]
     },
@@ -1763,7 +1763,7 @@
         ]
     },
     {
-        "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
+        "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "Circa 12-17 August 1929",
         "index_date": 290812,
@@ -1771,7 +1771,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Choir(v)."
+                "value": "Duke Ellington(p)."
             },
             {
                 "type": "take",
@@ -1789,6 +1789,10 @@
                     }
                 ],
                 "desor": "DE2913a"
+            },
+            {
+                "type": "artists",
+                "value": "Add Arthur Whetsel(t)."
             },
             {
                 "type": "take",
@@ -1840,6 +1844,20 @@
                     }
                 ],
                 "desor": "DE2913d"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
+        "location": null,
+        "date": "Circa 12-17 August 1929",
+        "index_date": 290812,
+        "same_session": true,
+        "description": null,
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Harry Carney(as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Choir(v)."
             },
             {
                 "type": "take",
@@ -1944,6 +1962,10 @@
                 "desor": "DE2913j"
             },
             {
+                "type": "artists",
+                "value": "Choir(v) only."
+            },
+            {
                 "type": "take",
                 "index": "29-08-12-011",
                 "matrix": null,
@@ -1959,6 +1981,10 @@
                     }
                 ],
                 "desor": null
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -1979,7 +2005,7 @@
             },
             {
                 "type": "note",
-                "content": "Same Train is by Choir only. Although several reference works identify the choir as the Hall Johnson Choir, Steven Lasker has found no credible evidence that the Hall Johnson Choir worked on ‘Black and Tan’."
+                "content": "Although several reference works identify the choir as the Hall Johnson Choir, Steven Lasker has found no credible evidence that the Hall Johnson Choir worked on ‘Black and Tan’. More details on [TDWAW](https://tdwaw.ellingtonweb.ca/TDWAW1.html) at the date \"circa 1929 08 12.\""
             }
         ]
     },
