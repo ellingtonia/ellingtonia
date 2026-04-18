@@ -504,8 +504,7 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3526",
-                        "first_issue": true
+                        "catalog": "3526"
                     },
                     {
                         "label": "Cl(F)",
@@ -533,7 +532,8 @@
                     },
                     {
                         "label": "Vo",
-                        "catalog": "15555"
+                        "catalog": "15555",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE2707a"
@@ -1483,6 +1483,10 @@
                     }
                 ],
                 "desor": "DE2713b"
+            },
+            {
+                "type": "note",
+                "content": "Neither \"Red Hot Band\" nor \"Doin' the Frog\" were copyrighted under those titles, but the melody of \"Doin' the Frog\" was copyrighted in 1929 under a different title -- \"Raisin' the Roof\" (Steven Lasker)."
             }
         ]
     }
