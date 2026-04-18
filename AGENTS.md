@@ -3,7 +3,9 @@
 will be to modify these files.
 - `generated.json` is generated and should not be modified directly.
 - After making source changes, always run `tools/database.py normalise`.
-- Read `MAINTAINERS.md` for context on the format of the json files etc.
+- If you need to, read `MAINTAINERS.md` for context on the format of the json
+files etc. However for trivial edits and following the email workflow, you
+probably won't need to.
 
 # Processing emails
 You may be asked to process an email file. This will typically have several
