@@ -13,6 +13,7 @@ menu:
 * Changed multi-part suites not to use all caps.
 * Numerous corrections to use copyrighted titles.
 * 1949
+* 1943
 
 ## Jan 2026
 * Improved representation of various suites
