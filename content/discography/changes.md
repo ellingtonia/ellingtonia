@@ -6,6 +6,13 @@ menu:
     weight: 10
 ---
 
+## April 2026
+* Added "first_issue" flags across many years: 1930, 1933, 1935, 1936, 1939, 1941, 1945, 1950, 1951, 1952, 1953, 1954, 1955.
+* Suite titles no longer in all caps (not all years processed yet)
+* Swing catalog corrections (SW.230, SW.327): 1938, 1946.
+* 1955: new unidentified session (Night Creature / Stalking Monster, Guild Light Music label added).
+* Various title and other corrections: 1945, 1946, 1950, 1952, 1953, 1954, 1955.
+
 ## March 2026
 * Updates to labels and titles.
 * Extensive changes to many years: 1924, 1925, 1926, 1927, 1929, 1931, 1932, 1933, 1934, 1946, 1947, 1951, 1953, 1961, 1969, 1973.
