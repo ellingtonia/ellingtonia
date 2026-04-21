@@ -71,7 +71,7 @@ additional compositions from ASCAP's list that were "unaccountably omitted" from
 *MIMM* appear in Mercer Ellington's *Duke Ellington in Person* on pages 222-223.
 Titles of pre-1947 songs not composed by Ellington appear as listed in the
 *Catalog[s] of Copyright Entries for Musical Compositions*. (The various volumes
-prior to 1947 are viewable on the Internet Archive.)
+prior to 1947 are [viewable on the Internet Archive](https://archive.org/search?query=catalog+of+copyright+entries+musical+compositions&sort=-date).)
 
 Many of Ellington's compositions have multiple titles, some of them working
 titles discarded prior to their debut on record, others retitled months or years
