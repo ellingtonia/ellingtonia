@@ -6,6 +6,7 @@ will be to modify these files.
 - If you need to, read `MAINTAINERS.md` for context on the format of the json
 files etc. However for trivial edits and following the email workflow, you
 probably won't need to.
+- Don't update MEMORY.md. Instead offer to update AGENTS.md where appropriate.
 
 # Processing emails
 You may be asked to process an email file. This will typically have several
@@ -36,9 +37,9 @@ obvious from filenames like `1926.json` vs `1926_changed_April2026.json`, so do
 not attempt clever heuristics.
 
 Make a commit when you're done. Do not ask for confirmation. The commit message
-should consist of the year (or years), then after a blank line, should be the
-email body (from body.txt) and/or any attached text file or descriptive
-document. Don't paraphrase or come up with your own commit message.
+should consist of the year (or years), then after a blank line, the email body
+(from body.txt) and/or any attached text file or descriptive document. Don't
+paraphrase or come up with your own commit message.
 
 Please don't try to be clever, don't write helper python scripts, this should
 all be extremely trivial. If you're stuck, say why.
