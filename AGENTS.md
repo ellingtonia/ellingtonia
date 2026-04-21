@@ -37,7 +37,8 @@ not attempt clever heuristics.
 
 Make a commit when you're done. Do not ask for confirmation. The commit message
 should consist of the year (or years), then after a blank line, should be the
-email body and/or any attached text file or descriptive document.
+email body (from body.txt) and/or any attached text file or descriptive
+document. Don't paraphrase or come up with your own commit message.
 
 Please don't try to be clever, don't write helper python scripts, this should
 all be extremely trivial. If you're stuck, say why.
