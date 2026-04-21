@@ -57,6 +57,31 @@ of _A Night in Harlem_. In this case, we show both numbers but not so with the
 next song recorded, _East St. Louis Toodle-O_, in which case we list the issued
 take (`E4110W`) but not the unissued one (`E4111W`).
 
+## Titles
+
+Titles of Ellington's copyrighted songs appear as per their copyright
+registrations, as listed in *Ellington's Copyrights*, a document prepared by the
+copyright office circa 1985 and viewable as a sub-webpage on
+[TDWAW](http://tdwaw.ca). Titles by Ellington that are not copyrighted are shown
+here either as they appear on record labels, or as listed in ASCAP's *Record of
+the Works of Ellington, Edward Kennedy ("Duke")*, a document originally compiled
+circa 1970 and updated periodically thereafter. This was the source of the list
+of Ellington's compositions published as an appendix to *Music Is My Mistress*;
+additional compositions from ASCAP's list that were "unaccountably omitted" from
+*MIMM* appear in Mercer Ellington's *Duke Ellington in Person* on pages 222-223.
+Titles of pre-1947 songs not composed by Ellington appear as listed in the
+*Catalog[s] of Copyright Entries for Musical Compositions*. (The various volumes
+prior to 1947 are viewable on the Internet Archive.)
+
+Many of Ellington's compositions have multiple titles, some of them working
+titles discarded prior to their debut on record, others retitled months or years
+after a song's first release. Some of these alternate titles appear herein, but
+not all. Many of these alternate titles are listed in *The New Desor* Part II on
+pages XXXIII to XL (available on the Internet Archive [here](https://archive.org/details/new-desor)).
+
+A general discussion of Ellington's titles and copyrights (*A [Blue] Rose by any
+other Name...*) appears in 03/3 DEMS 5.
+
 ## Misc
 `Unk` refers to unknown artist(s) or other persons.
 
