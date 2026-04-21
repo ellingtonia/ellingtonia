@@ -12,8 +12,6 @@ You may be asked to process an email file. This will typically have several
 attachments. Usually they take the form of a json file for a particular year,
 and the unmodified version of the same, plus possibly some new labels.
 
-Read `MAINTAINERS.md` first for context.
-
 The preferred workflow is:
 - make a new, empty temporary directory under `.agents-tmp/` (let's assume it's
 called `TMP`). Create the parent directory if needed.
