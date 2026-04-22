@@ -79,6 +79,10 @@ after a song's first release. Some of these alternate titles appear herein, but
 not all. Many of these alternate titles are listed in *The New Desor* Part II on
 pages XXXIII to XL (available on the Internet Archive [here](https://archive.org/details/new-desor)).
 
+Subtitles are shown within round brackets *()*; alternate titles are shown
+within square brackets *[]*. For example: *Just Squeeze Me (But Don't Tease Me)
+[Subtle Slough]*.
+
 A general discussion of Ellington's titles and copyrights (*A [Blue] Rose by any
 other Name...*) appears in 03/3 DEMS 5.
 
