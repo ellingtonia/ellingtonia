@@ -2,11 +2,13 @@
 - data/discog contains json files for a discographic database. Most requests
 will be to modify these files.
 - `generated.json` is generated and should not be modified directly.
-- After making source changes, always run `tools/database.py normalise`.
+- After making source changes, always run `tools/database.py normalise` (without a leading `./`).
 - If you need to, read `MAINTAINERS.md` for context on the format of the json
 files etc. However for trivial edits and following the email workflow, you
 probably won't need to.
 - Don't update MEMORY.md. Instead offer to update AGENTS.md where appropriate.
+- In general, look at your permissions and try to use commands that will avoid
+requiring confirmation from the user.
 
 # Processing emails
 You may be asked to process an email file. This will typically have several
@@ -28,7 +30,7 @@ clever. If only one file is present, just use that file as the new
 - run `tools/import_for_agents.sh YEAR BASE_JSON MODIFIED_JSON`
 
 `tools/import_for_agents.sh` will patch the repo file at `data/discog/YEAR.json`
-and then run `./tools/database.py normalise`. Do not run this without processing
+and then run `tools/database.py normalise`. Do not run this without processing
 labels first.
 
 As an LLM, it is fine to make a practical judgement about which attachment is
