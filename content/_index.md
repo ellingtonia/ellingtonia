@@ -92,7 +92,7 @@ A general discussion of Ellington's titles and copyrights (*A [Blue] Rose by any
 other Name...*) appears in 03/3 DEMS 5.
 
 ## Release issues
-First releases are shown in **boldface**. Where multiple issues on different labels are all shown in boldface, all were contemporaneous releases.
+First releases are shown in **boldface**; where multiple issues on different labels are shown in boldface, all were contemporaneous releases; variant formats account for multiple issues on the same label.
 
 ## Misc
 `Unk` refers to unknown artist(s) or other persons.
