@@ -25,20 +25,20 @@ The site is currently maintained by Charlie Dyson with almost all editing work a
 
 Please contact Charlie Dyson (charlie@charliedyson.net) if you spot something that's missing or wrong. A list of known bugs is maintained [here](https://github.com/ellingtonia/ellingtonia/issues), while changes to the discography are recorded on the [Changes]({{< ref "changes" >}}) page.
 
-You can join us in talking all things Duke using the DESUK Discord chatroom at https://discord.gg/efQNUMa.
+You can join us in talking all things Duke using the [DESUK Discord chatroom](https://discord.gg/efQNUMa).
 
 ## Other resources:
 
 * David Palmquist's [*The Duke: Where And When* (TDWAW)](http://tdwaw.ca) — the essential guide to The Duke's itinerary — also includes session times for recording sessions and addresses of recording studios, information not found on Ellingtonia.com.
-* The Duke Ellington Society UK (DESUK): https://dukeellington.org.uk
-* The Duke Ellington Society of Sweden (DESS): https://ellingtongalaxy.org/
-* The Dooji Collection: Duke Ellington 78 rpm record labels and related materials: http://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection.htm
-* The 1999 New Desor, which lacks some corrections contained in this site, but has a wealth of other material including analyses of song form, soloist charts for each recording (not found elsewhere), and other useful appendices: https://archive.org/details/new-desor
-* Archives of the DEMS bulletins: http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html (these are largely corrections to the 1999 New Desor)
+* The [Duke Ellington Society UK (DESUK)](https://dukeellington.org.uk)
+* The [Duke Ellington Society of Sweden (DESS)](https://ellingtongalaxy.org/)
+* The [Dooji Collection](http://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection.htm): Duke Ellington 78 rpm record labels and related materials.
+* The [1999 New Desor](https://archive.org/details/new-desor), which lacks some corrections contained in this site, but has a wealth of other material including analyses of song form, soloist charts for each recording (not found elsewhere), and other useful appendices.
+* [Archives of the DEMS bulletins](http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html) (largely corrections to the 1999 New Desor).
 * W.E. Timner's *Ellingtonia: The Recorded Music of Duke Ellington and His Sidemen*, fifth edition, available on the Internet Archive. Unlike the sixth edition (not currently online), the fifth includes a listing of sessions by the sidemen without Ellington, a feature not found elsewhere.
 * Jerry Valburn's [*The Directory of Duke Ellington's Recordings*](https://archive.org/details/directoryofdukee00valb) and [*Duke Ellington on Compact Disc*](https://archive.org/details/dukeellingtononc00valb).
 * Klaus Stratemann's [*Duke Ellington — Day by Day and Film by Film*](https://archive.org/details/dukeellingtonday0000stra).
-* The sixth edition of Brian Rust's *Jazz and Ragtime Records, 1897–1942*, available via Mainspring Press: https://mainspringpress.org/wp-content/uploads/2025/11/RUST_JRR-6.pdf — lists many of the 78 issues of Ellington's recordings from that era, and indicates which issues were master-pressed and which were dubbed.
+* The sixth edition of Brian Rust's [*Jazz and Ragtime Records, 1897–1942*](https://mainspringpress.org/wp-content/uploads/2025/11/RUST_JRR-6.pdf) (Mainspring Press) — lists many of the 78 issues of Ellington's recordings from that era, and indicates which issues were master-pressed and which were dubbed.
 
 # Technical notes
 ## Matrix numbers
