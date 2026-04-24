@@ -36,8 +36,8 @@ You can join us in talking all things Duke using the DESUK Discord chatroom at h
 * The 1999 New Desor, which lacks some corrections contained in this site, but has a wealth of other material including analyses of song form, soloist charts for each recording (not found elsewhere), and other useful appendices: https://archive.org/details/new-desor
 * Archives of the DEMS bulletins: http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html (these are largely corrections to the 1999 New Desor)
 * W.E. Timner's *Ellingtonia: The Recorded Music of Duke Ellington and His Sidemen*, fifth edition, available on the Internet Archive. Unlike the sixth edition (not currently online), the fifth includes a listing of sessions by the sidemen without Ellington, a feature not found elsewhere.
-* Jerry Valburn's *The Directory of Duke Ellington's Recordings* and *Duke Ellington on Compact Disc*, both available on the Internet Archive.
-* Klaus Stratemann's *Duke Ellington — Day by Day and Film by Film*, available on the Internet Archive.
+* Jerry Valburn's [*The Directory of Duke Ellington's Recordings*](https://archive.org/details/directoryofdukee00valb) and [*Duke Ellington on Compact Disc*](https://archive.org/details/dukeellingtononc00valb).
+* Klaus Stratemann's [*Duke Ellington — Day by Day and Film by Film*](https://archive.org/details/dukeellingtonday0000stra).
 * The sixth edition of Brian Rust's *Jazz and Ragtime Records, 1897–1942*, available via Mainspring Press: https://mainspringpress.org/wp-content/uploads/2025/11/RUST_JRR-6.pdf — lists many of the 78 issues of Ellington's recordings from that era, and indicates which issues were master-pressed and which were dubbed.
 
 # Technical notes
