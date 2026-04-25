@@ -81,9 +81,11 @@ def extract_message(eml_path: Path, output_dir: Path) -> None:
         if plain_parts:
             with text_path.open("w", encoding="utf-8") as body_file:
                 body_file.write("\n\n".join(plain_parts))
+            created_paths.append(text_path.resolve())
         elif html_parts:
             with html_path.open("w", encoding="utf-8") as body_file:
                 body_file.write("\n\n".join(html_parts))
+            created_paths.append(html_path.resolve())
     else:
         missing = output_dir / "body.txt"
         missing.write_text("", encoding="utf-8")
