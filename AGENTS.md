@@ -1,6 +1,8 @@
 # Agent Guidance
 - data/discog contains json files for a discographic database. Most requests
 will be to modify these files.
+- The ordering of `take` entries within a session is chronological (recording
+order) and should not be changed without explicit instruction.
 - `generated.json` is generated and should not be modified directly.
 - After making source changes, always run `tools/database.py normalise` (without a leading `./`).
 - If you need to, read `MAINTAINERS.md` for context on the format of the json
