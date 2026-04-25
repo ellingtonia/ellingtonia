@@ -10,7 +10,7 @@ probably won't need to.
 - In general, look at your permissions and try to use commands that will avoid
 requiring confirmation from the user.
 - Carefully read through your permissions to try to avoid the user needing
-to approve commands.
+to approve commands. Consider whether using `&&` might cause an un-needed approval.
 
 # Processing emails
 You may be asked to process an email file. This will typically have several
