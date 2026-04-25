@@ -27,7 +27,7 @@ Please contact Charlie Dyson (charlie@charliedyson.net) if you spot something th
 
 You can join us in talking all things Duke using the [DESUK Discord chatroom](https://discord.gg/efQNUMa).
 
-## Other resources:
+## Other resources
 
 * David Palmquist's [*The Duke: Where And When* (TDWAW)](http://tdwaw.ca) — the essential guide to The Duke's itinerary — also includes session times for recording sessions and addresses of recording studios, information not found on Ellingtonia.com.
 * The [Duke Ellington Society UK (DESUK)](https://dukeellington.org.uk)
