@@ -9,6 +9,8 @@ probably won't need to.
 - Don't update MEMORY.md. Instead offer to update AGENTS.md where appropriate.
 - In general, look at your permissions and try to use commands that will avoid
 requiring confirmation from the user.
+- Carefully read through your permissions to try to avoid the user needing
+to approve commands.
 
 # Processing emails
 You may be asked to process an email file. This will typically have several
