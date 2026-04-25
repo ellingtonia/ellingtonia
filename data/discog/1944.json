@@ -3328,18 +3328,14 @@
                 "value": "Shelton Hemphill, Taft Jordan, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Claude Jones(tb); Jimmy Hamilton(cl,ts); Otto Hardwick(cl,as); Johnny Hodges(as); Al Sears(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Joya Sherrill(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "44-12-11-001",
                 "matrix": "D4VC-560-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -3365,13 +3361,14 @@
                         "catalog": "28-0400"
                     }
                 ],
-                "desor": "DE4436a"
+                "desor": "DE4436a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "44-12-11-002",
                 "matrix": "D4VC-561-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -3397,13 +3394,18 @@
                         "catalog": "28-0401"
                     }
                 ],
-                "desor": "DE4436b"
+                "desor": "DE4436b",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "44-12-11-003",
                 "matrix": "D4VC-562-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06. The Blues - vJS",
+                "title": "The Blues - vJS",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -3429,13 +3431,14 @@
                         "catalog": "28-0401"
                     }
                 ],
-                "desor": "DE4436c"
+                "desor": "DE4436c",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "44-12-11-004",
                 "matrix": "D4VC-563-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -3462,13 +3465,14 @@
                         "catalog": "28-0400"
                     }
                 ],
-                "desor": "DE4436d"
+                "desor": "DE4436d",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "44-12-11-005",
                 "matrix": "D4VC-563-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Emancipation Celebration",
+                "title": "Emancipation Celebration",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -3495,13 +3499,18 @@
                         "catalog": "28-0400"
                     }
                 ],
-                "desor": "DE4436e"
+                "desor": "DE4436e",
+                "suite_index": 5
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "44-12-11-006",
                 "matrix": "D4VC-563-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Sugar Hill Penthouse",
+                "title": "Sugar Hill Penthouse",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -3528,7 +3537,8 @@
                         "catalog": "28-0400"
                     }
                 ],
-                "desor": "DE4436f"
+                "desor": "DE4436f",
+                "suite_index": 10
             },
             {
                 "type": "note",
@@ -3974,18 +3984,14 @@
                 "desor": "DE4438q"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "44-12-19-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "Df",
@@ -4000,13 +4006,18 @@
                         "catalog": "P-24073"
                     }
                 ],
-                "desor": "DE4438r"
+                "desor": "DE4438r",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "44-12-19-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06. The Blues - vME",
+                "title": "The Blues - vME",
                 "releases": [
                     {
                         "label": "Df",
@@ -4021,13 +4032,14 @@
                         "catalog": "P-24073"
                     }
                 ],
-                "desor": "DE4438s"
+                "desor": "DE4438s",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "44-12-19-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [
                     {
                         "label": "Df",
@@ -4042,13 +4054,18 @@
                         "catalog": "P-24073"
                     }
                 ],
-                "desor": "DE4438t"
+                "desor": "DE4438t",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "44-12-19-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Sugar Hill Penthouse",
+                "title": "Sugar Hill Penthouse",
                 "releases": [
                     {
                         "label": "Df",
@@ -4063,13 +4080,18 @@
                         "catalog": "P-24073"
                     }
                 ],
-                "desor": "DE4438u"
+                "desor": "DE4438u",
+                "suite_index": 10
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "44-12-19-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Emancipation Celebration",
+                "title": "Emancipation Celebration",
                 "releases": [
                     {
                         "label": "Df",
@@ -4084,13 +4106,18 @@
                         "catalog": "P-24073"
                     }
                 ],
-                "desor": "DE4438v"
+                "desor": "DE4438v",
+                "suite_index": 5
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "44-12-19-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "Df",
@@ -4105,13 +4132,14 @@
                         "catalog": "P-24073"
                     }
                 ],
-                "desor": "DE4438w"
+                "desor": "DE4438w",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "44-12-19-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [
                     {
                         "label": "Df",
@@ -4126,7 +4154,12 @@
                         "catalog": "P-24073"
                     }
                 ],
-                "desor": "DE4438x"
+                "desor": "DE4438x",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

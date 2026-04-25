@@ -709,28 +709,30 @@
                 "desor": "DE6506a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-01-29-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6506b"
+                "desor": "DE6506b",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-01-29-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6506c"
+                "desor": "DE6506c",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -906,36 +908,39 @@
                 "desor": "DE6507j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-01-30-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6507k"
+                "desor": "DE6507k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-01-30-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6507l"
+                "desor": "DE6507l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-01-30-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6507m"
+                "desor": "DE6507m",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1329,18 +1334,14 @@
                 "desor": "DE6508i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-01-30-038",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "La",
@@ -1351,13 +1352,14 @@
                         "catalog": "710433"
                     }
                 ],
-                "desor": "DE6508j"
+                "desor": "DE6508j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-01-30-039",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "La",
@@ -1368,13 +1370,14 @@
                         "catalog": "710433"
                     }
                 ],
-                "desor": "DE6508k"
+                "desor": "DE6508k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-01-30-040",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [
                     {
                         "label": "La",
@@ -1385,7 +1388,12 @@
                         "catalog": "710433"
                     }
                 ],
-                "desor": "DE6508l"
+                "desor": "DE6508l",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1766,56 +1774,54 @@
                 "desor": "DE6509j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [
-                    {
-                        "label": "QL",
-                        "catalog": "QLD 0246"
-                    }
-                ],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-01-31-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "QL",
                         "catalog": "QLD 0246"
                     }
                 ],
-                "desor": "DE6509k"
+                "desor": "DE6509k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-01-31-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "QL",
                         "catalog": "QLD 0246"
                     }
                 ],
-                "desor": "DE6509l"
+                "desor": "DE6509l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-01-31-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [
                     {
                         "label": "QL",
                         "catalog": "QLD 0246"
                     }
                 ],
-                "desor": "DE6509m"
+                "desor": "DE6509m",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2108,36 +2114,39 @@
                 "desor": "DE6510d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-02-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6510e"
+                "desor": "DE6510e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-02-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6510f"
+                "desor": "DE6510f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-02-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6510g"
+                "desor": "DE6510g",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2519,36 +2528,39 @@
                 "desor": "DE6512j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-09-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6512k"
+                "desor": "DE6512k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-09-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6512xa"
+                "desor": "DE6512xa",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-09-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6512xb"
+                "desor": "DE6512xb",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -2853,36 +2865,39 @@
                 "desor": "DE6515i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-12-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6515j"
+                "desor": "DE6515j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-12-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6515k"
+                "desor": "DE6515k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-12-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6515l"
+                "desor": "DE6515l",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3081,36 +3096,39 @@
                 "desor": "DE6516h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-13-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6516i"
+                "desor": "DE6516i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-13-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6516j"
+                "desor": "DE6516j",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-13-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6516k"
+                "desor": "DE6516k",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3333,36 +3351,39 @@
                 "desor": "DE6517j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-13-036",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6517k"
+                "desor": "DE6517k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-13-037",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6517l"
+                "desor": "DE6517l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-13-038",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6517m"
+                "desor": "DE6517m",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3609,36 +3630,39 @@
                 "desor": "DE6518j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-14-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6518k"
+                "desor": "DE6518k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-14-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6518l"
+                "desor": "DE6518l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-14-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6518m"
+                "desor": "DE6518m",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3845,36 +3869,39 @@
                 "desor": "DE6519j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-14-036",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6519k"
+                "desor": "DE6519k",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-14-037",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6519l"
+                "desor": "DE6519l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-14-038",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6519m"
+                "desor": "DE6519m",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -4782,36 +4809,39 @@
                 "desor": "DE9067i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-27-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE9067j"
+                "desor": "DE9067j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-27-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE9067k"
+                "desor": "DE9067k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-27-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE9067l"
+                "desor": "DE9067l",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5010,36 +5040,39 @@
                 "desor": "DE6524i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-27-034",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6524j"
+                "desor": "DE6524j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-27-035",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6524k"
+                "desor": "DE6524k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-27-036",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6524l"
+                "desor": "DE6524l",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5262,36 +5295,39 @@
                 "desor": "DE6525i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-28-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6525j"
+                "desor": "DE6525j",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-28-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6525k"
+                "desor": "DE6525k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-28-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6525l"
+                "desor": "DE6525l",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5482,36 +5518,39 @@
                 "desor": "DE6526h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-02-28-033",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6526i"
+                "desor": "DE6526i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-02-28-034",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6526j"
+                "desor": "DE6526j",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-02-28-035",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6526k"
+                "desor": "DE6526k",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -5812,34 +5851,23 @@
                 "desor": "DE6528j"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "A. BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-03-04-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6528k"
+                "desor": "DE6528k",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-03-04-012",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -5850,13 +5878,14 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6528l"
+                "desor": "DE6528l",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-03-04-013",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -5867,29 +5896,32 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6528m"
+                "desor": "DE6528m",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-03-04-014",
                 "matrix": "-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6528n"
+                "desor": "DE6528n",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-03-04-015",
                 "matrix": "-2",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [],
-                "desor": "DE6528o"
+                "desor": "DE6528o",
+                "suite_index": 3
             },
             {
                 "type": "take",
                 "index": "65-03-04-016",
                 "matrix": "-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Montage)",
+                "title": "Light (Montage)",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -5900,7 +5932,12 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6528p"
+                "desor": "DE6528p",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6497,36 +6534,30 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "B. BROWN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "65-03-31-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [],
-                "desor": "DE6531a"
+                "desor": "DE6531a",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "65-03-31-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;05. Emancipation Celebration",
+                "title": "Emancipation Celebration",
                 "releases": [],
-                "desor": "DE6531b"
+                "desor": "DE6531b",
+                "suite_index": 5
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -6960,34 +6991,23 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Paul Serrano, Ray Nance(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "C. BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "65-05-18-001",
                 "matrix": "(04)",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;07. A View From Central Park",
+                "title": "A View From Central Park",
                 "releases": [],
-                "desor": "DE6534a"
+                "desor": "DE6534a",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "65-05-18-002",
                 "matrix": "(12)",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;08. Cy Runs Rock Waltz",
+                "title": "Cy Runs Rock Waltz",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -6998,21 +7018,23 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6534b"
+                "desor": "DE6534b",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "65-05-18-003",
                 "matrix": "(13)",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude=Cy Runs Rock Waltz",
+                "title": "Interlude=Cy Runs Rock Waltz",
                 "releases": [],
-                "desor": "DE6534c"
+                "desor": "DE6534c",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "65-05-18-004",
                 "matrix": "(19)",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude=Cy Runs Rock Waltz",
+                "title": "Interlude=Cy Runs Rock Waltz",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -7023,13 +7045,14 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6534d"
+                "desor": "DE6534d",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "65-05-18-005",
                 "matrix": "(25)",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Sugar Hill Penthouse",
+                "title": "Sugar Hill Penthouse",
                 "releases": [
                     {
                         "label": "KAZ",
@@ -7040,7 +7063,12 @@
                         "catalog": "91234-2"
                     }
                 ],
-                "desor": "DE6534e"
+                "desor": "DE6534e",
+                "suite_index": 10
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -7238,36 +7266,39 @@
                 "desor": "DE6538d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "65-06-14-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [],
-                "desor": "DE6538e"
+                "desor": "DE6538e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "65-06-14-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [],
-                "desor": "DE6538f"
+                "desor": "DE6538f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "65-06-14-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [],
-                "desor": "DE6538g"
+                "desor": "DE6538g",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

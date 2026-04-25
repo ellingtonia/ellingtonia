@@ -166,26 +166,14 @@
                 "desor": "DE4301h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;A. BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "43-01-23-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "FDC",
@@ -193,13 +181,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4301i"
+                "desor": "DE4301i",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "43-01-23-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "FDC",
@@ -216,13 +205,14 @@
                         "catalog": "2MJP-1082"
                     }
                 ],
-                "desor": "DE4301j"
+                "desor": "DE4301j",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "43-01-23-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [
                     {
                         "label": "Df",
@@ -242,21 +232,18 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301k"
+                "desor": "DE4301k",
+                "suite_index": 3
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;B. BROWN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "43-01-23-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [
                     {
                         "label": "Df",
@@ -276,13 +263,14 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301l"
+                "desor": "DE4301l",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "43-01-23-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Emancipation Celebration",
+                "title": "Emancipation Celebration",
                 "releases": [
                     {
                         "label": "Df",
@@ -302,13 +290,14 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301m"
+                "desor": "DE4301m",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "43-01-23-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06. The Blues - vBR",
+                "title": "The Blues - vBR",
                 "releases": [
                     {
                         "label": "Df",
@@ -328,21 +317,18 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301n"
+                "desor": "DE4301n",
+                "suite_index": 6
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;C. BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "43-01-23-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07. A View From Central Park",
+                "title": "A View From Central Park",
                 "releases": [
                     {
                         "label": "Df",
@@ -362,13 +348,14 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301o"
+                "desor": "DE4301o",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "43-01-23-016",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08. Cy Runs Rock Waltz",
+                "title": "Cy Runs Rock Waltz",
                 "releases": [
                     {
                         "label": "Df",
@@ -388,13 +375,14 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301p"
+                "desor": "DE4301p",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "43-01-23-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude = Cy Runs Rock Waltz",
+                "title": "Interlude = Cy Runs Rock Waltz",
                 "releases": [
                     {
                         "label": "Df",
@@ -414,13 +402,14 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301q"
+                "desor": "DE4301q",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "43-01-23-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Sugar Hill Penthouse",
+                "title": "Sugar Hill Penthouse",
                 "releases": [
                     {
                         "label": "Df",
@@ -440,13 +429,14 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301r"
+                "desor": "DE4301r",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "43-01-23-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11. Finale",
+                "title": "Finale",
                 "releases": [
                     {
                         "label": "Df",
@@ -466,7 +456,12 @@
                         "catalog": "P-34004"
                     }
                 ],
-                "desor": "DE4301s"
+                "desor": "DE4301s",
+                "suite_index": 11
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -847,26 +842,14 @@
                 "desor": "DE4302d"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;A. BLACK",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "43-01-28-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "Df",
@@ -878,13 +861,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4302e"
+                "desor": "DE4302e",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "43-01-28-006",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "Df",
@@ -896,37 +880,36 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4302f"
+                "desor": "DE4302f",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "43-01-28-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [],
-                "desor": "DE4302g"
+                "desor": "DE4302g",
+                "suite_index": 3
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;B. BROWN",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "43-01-28-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [],
-                "desor": "DE4302h"
+                "desor": "DE4302h",
+                "suite_index": 4
             },
             {
                 "type": "take",
                 "index": "43-01-28-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Emancipation Celebration",
+                "title": "Emancipation Celebration",
                 "releases": [
                     {
                         "label": "MJ",
@@ -934,13 +917,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4302i"
+                "desor": "DE4302i",
+                "suite_index": 5
             },
             {
                 "type": "take",
                 "index": "43-01-28-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06. The Blues - vBR",
+                "title": "The Blues - vBR",
                 "releases": [
                     {
                         "label": "JA",
@@ -948,55 +932,61 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4302j"
+                "desor": "DE4302j",
+                "suite_index": 6
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;C. BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "43-01-28-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;07. A View From Central Park",
+                "title": "A View From Central Park",
                 "releases": [],
-                "desor": "DE4302k"
+                "desor": "DE4302k",
+                "suite_index": 7
             },
             {
                 "type": "take",
                 "index": "43-01-28-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08. Cy Runs Rock Waltz",
+                "title": "Cy Runs Rock Waltz",
                 "releases": [],
-                "desor": "DE4302l"
+                "desor": "DE4302l",
+                "suite_index": 8
             },
             {
                 "type": "take",
                 "index": "43-01-28-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09. Interlude = Cy Runs Rock Waltz",
+                "title": "Interlude = Cy Runs Rock Waltz",
                 "releases": [],
-                "desor": "DE4302m"
+                "desor": "DE4302m",
+                "suite_index": 9
             },
             {
                 "type": "take",
                 "index": "43-01-28-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Sugar Hill Penthouse",
+                "title": "Sugar Hill Penthouse",
                 "releases": [],
-                "desor": "DE4302n"
+                "desor": "DE4302n",
+                "suite_index": 10
             },
             {
                 "type": "take",
                 "index": "43-01-28-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11. Finale",
+                "title": "Finale",
                 "releases": [],
-                "desor": "DE4302o"
+                "desor": "DE4302o",
+                "suite_index": 11
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

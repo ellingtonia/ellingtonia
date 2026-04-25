@@ -1517,18 +1517,14 @@
                 "value": "Louis Armstrong, Benny Goodman out."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "45-01-17-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1544,13 +1540,18 @@
                         "catalog": "DE-4"
                     }
                 ],
-                "desor": "DE4504s"
+                "desor": "DE4504s",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "45-01-17-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06. The Blues - vME",
+                "title": "The Blues - vME",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1566,13 +1567,14 @@
                         "catalog": "DE-4"
                     }
                 ],
-                "desor": "DE4504t"
+                "desor": "DE4504t",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "45-01-17-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1584,13 +1586,18 @@
                         "catalog": "DE-4"
                     }
                 ],
-                "desor": "DE4504u"
+                "desor": "DE4504u",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "45-01-17-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Sugar Hill Penthouse",
+                "title": "Sugar Hill Penthouse",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1602,13 +1609,18 @@
                         "catalog": "DE-4"
                     }
                 ],
-                "desor": "DE4504v"
+                "desor": "DE4504v",
+                "suite_index": 10
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "45-01-17-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Emancipation Celebration",
+                "title": "Emancipation Celebration",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1620,13 +1632,18 @@
                         "catalog": "DE-4"
                     }
                 ],
-                "desor": "DE4504w"
+                "desor": "DE4504w",
+                "suite_index": 5
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "45-01-17-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1638,13 +1655,14 @@
                         "catalog": "DE-4"
                     }
                 ],
-                "desor": "DE4504x"
+                "desor": "DE4504x",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "45-01-17-025",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1656,11 +1674,16 @@
                         "catalog": "DE-4"
                     }
                 ],
-                "desor": "DE4504y"
+                "desor": "DE4504y",
+                "suite_index": 3
             },
             {
                 "type": "artists",
                 "value": "Taft Jordan(t); Jimmy Hamilton(cl); Duke Ellington(p); Al Casey(g); Junior Raglin(sb); Sidney Catlett(d); Anita O'Day(v)."
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -1933,18 +1956,14 @@
                 "desor": "DE4509h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "45-03-25-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "Jo",
@@ -1952,13 +1971,18 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509i"
+                "desor": "DE4509i",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "45-03-25-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06. The Blues - vME",
+                "title": "The Blues - vME",
                 "releases": [
                     {
                         "label": "Jo",
@@ -1966,13 +1990,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509j"
+                "desor": "DE4509j",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "45-03-25-011",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [
                     {
                         "label": "Jo",
@@ -1980,13 +2005,18 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509k"
+                "desor": "DE4509k",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "45-03-25-012",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10. Sugar Hill Penthouse",
+                "title": "Sugar Hill Penthouse",
                 "releases": [
                     {
                         "label": "Jo",
@@ -1994,13 +2024,18 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509l"
+                "desor": "DE4509l",
+                "suite_index": 10
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
             },
             {
                 "type": "take",
                 "index": "45-03-25-013",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05. Emancipation Celebration",
+                "title": "Emancipation Celebration",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2008,13 +2043,18 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509m"
+                "desor": "DE4509m",
+                "suite_index": 5
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "45-03-25-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2022,13 +2062,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509n"
+                "desor": "DE4509n",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "45-03-25-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [
                     {
                         "label": "Jo",
@@ -2036,7 +2077,12 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4509o"
+                "desor": "DE4509o",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -13584,18 +13630,14 @@
                 "desor": "DE4556a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "45-08-18-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong",
+                "title": "Worksong",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -13615,7 +13657,12 @@
                         "catalog": "RM-343/344†"
                     }
                 ],
-                "desor": "DE4556b"
+                "desor": "DE4556b",
+                "suite_index": 1
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -13636,10 +13683,14 @@
                 "desor": "DE4556c"
             },
             {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
+            },
+            {
                 "type": "take",
                 "index": "45-08-18-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;06.The Blues - vME",
+                "title": "The Blues - vME",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -13655,13 +13706,14 @@
                         "catalog": "903 9010"
                     }
                 ],
-                "desor": "DE4556d"
+                "desor": "DE4556d",
+                "suite_index": 6
             },
             {
                 "type": "take",
                 "index": "45-08-18-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -13681,7 +13733,12 @@
                         "catalog": "RM-343/344†"
                     }
                 ],
-                "desor": "DE4556e"
+                "desor": "DE4556e",
+                "suite_index": 4
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -13702,10 +13759,14 @@
                 "desor": "DE4556f"
             },
             {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
+            },
+            {
                 "type": "take",
                 "index": "45-08-18-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday",
+                "title": "Come Sunday",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -13725,13 +13786,14 @@
                         "catalog": "RM-343/344†"
                     }
                 ],
-                "desor": "DE4556g"
+                "desor": "DE4556g",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "45-08-18-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -13751,7 +13813,12 @@
                         "catalog": "RM-343/344†"
                     }
                 ],
-                "desor": "DE4556h"
+                "desor": "DE4556h",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",

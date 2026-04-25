@@ -712,51 +712,50 @@
                 "desor": "DE5804b"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "58-02-04-019",
                 "matrix": "¬",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong (Part I)",
+                "title": "Worksong (Part I)",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65566"
                     }
                 ],
-                "desor": "DE5804xq"
+                "desor": "DE5804xq",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "58-02-04-020",
                 "matrix": " | RHCO40627-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday (Part II)",
+                "title": "Come Sunday (Part II)",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65566"
                     }
                 ],
-                "desor": "DE5804xr"
+                "desor": "DE5804xr",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "58-02-04-021",
                 "matrix": "_|",
-                "title": "_|    03. Light (Part 3)",
+                "title": "Light (Part 3)",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65566"
                     }
                 ],
-                "desor": "DE5804xs"
+                "desor": "DE5804xs",
+                "suite_index": 3
             }
         ]
     },
@@ -771,18 +770,14 @@
                 "value": "Cat Anderson, Harold Baker(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Bill Graham(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "58-02-05-001",
                 "matrix": "RHCO40633-5",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;01. Worksong (Part I)",
+                "title": "Worksong (Part I)",
                 "releases": [
                     {
                         "label": "Co",
@@ -793,13 +788,14 @@
                         "catalog": "CL 1162"
                     }
                 ],
-                "desor": "DE5805a"
+                "desor": "DE5805a",
+                "suite_index": 1
             },
             {
                 "type": "take",
                 "index": "58-02-05-002",
                 "matrix": "RHCO40634-7",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday (Part II)",
+                "title": "Come Sunday (Part II)",
                 "releases": [
                     {
                         "label": "Co",
@@ -810,7 +806,8 @@
                         "catalog": "CL 1162"
                     }
                 ],
-                "desor": "DE5805b"
+                "desor": "DE5805b",
+                "suite_index": 2
             }
         ]
     },
@@ -893,31 +890,28 @@
                 "value": "Cat Anderson, Harold Baker(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Bill Graham(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Mahalia Jackson(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "58-02-11-001",
                 "matrix": "RHCO40635-4",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday (Part IV) - vMJk",
+                "title": "Come Sunday (Part IV) - vMJk",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65566"
                     }
                 ],
-                "desor": "DE5807xa"
+                "desor": "DE5807xa",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "58-02-11-002",
                 "matrix": "RHCO40635-10",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday (Part IV) - vMJk",
+                "title": "Come Sunday (Part IV) - vMJk",
                 "releases": [
                     {
                         "label": "Co",
@@ -940,26 +934,32 @@
                         "catalog": "CL 1162"
                     }
                 ],
-                "desor": "DE5807a"
+                "desor": "DE5807a",
+                "suite_index": 2
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
                 "index": "58-02-11-003",
                 "matrix": "RHCO40636-1",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12 23rd Psalm(Part VI) - vMJk",
+                "title": "23rd Psalm(Part VI) - vMJk",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65566"
                     }
                 ],
-                "desor": "DE5807xb"
+                "desor": "DE5807xb",
+                "suite_index": 12
             },
             {
                 "type": "take",
                 "index": "58-02-11-004",
                 "matrix": "RHCO40636-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12 23rd Psalm(Part VI) - vMJk",
+                "title": "23rd Psalm(Part VI) - vMJk",
                 "releases": [
                     {
                         "label": "Co",
@@ -970,15 +970,21 @@
                         "catalog": "CL 1162"
                     }
                 ],
-                "desor": "DE5807b"
+                "desor": "DE5807b",
+                "suite_index": 12
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "58-02-11-005",
                 "matrix": "RHCO40649-",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light (Part III)",
+                "title": "Light (Part III)",
                 "releases": [],
-                "desor": "DE5807c"
+                "desor": "DE5807c",
+                "suite_index": 3
             }
         ]
     },
@@ -1019,31 +1025,28 @@
                 "value": "Cat Anderson, Harold Baker(t); Clark Terry(t,flh); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,ss,as); Bill Graham(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "BLACK, BROWN AND BEIGE",
-                "releases": [],
-                "desor": null
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (A) Black"
             },
             {
                 "type": "take",
                 "index": "58-02-12-002",
                 "matrix": "RHCO40652-3",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday (Part V)",
+                "title": "Come Sunday (Part V)",
                 "releases": [
                     {
                         "label": "Co",
                         "catalog": "CK 65566"
                     }
                 ],
-                "desor": "DE5808xb"
+                "desor": "DE5808xb",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "58-02-12-003",
                 "matrix": "RHCO40652-8",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;02. Come Sunday (Part V)",
+                "title": "Come Sunday (Part V)",
                 "releases": [
                     {
                         "label": "Co",
@@ -1054,13 +1057,14 @@
                         "catalog": "CL 1162"
                     }
                 ],
-                "desor": "DE5808a"
+                "desor": "DE5808a",
+                "suite_index": 2
             },
             {
                 "type": "take",
                 "index": "58-02-12-004",
                 "matrix": "RHCO40649-6",
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;03. Light",
+                "title": "Light",
                 "releases": [
                     {
                         "label": "Co",
@@ -1071,7 +1075,12 @@
                         "catalog": "CL 1162"
                     }
                 ],
-                "desor": "DE5808b"
+                "desor": "DE5808b",
+                "suite_index": 3
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
