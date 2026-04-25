@@ -35,7 +35,7 @@ You can join us in talking all things Duke using the [DESUK Discord chatroom](ht
 * The [Dooji Collection](http://ellingtonweb.ca/Hostedpages/DoojiCollection/DoojiCollection.htm): Duke Ellington 78 rpm record labels and related materials.
 * The [1999 New Desor](https://archive.org/details/new-desor), which lacks some corrections contained in this site, but has a wealth of other material including analyses of song form, soloist charts for each recording (not found elsewhere), and other useful appendices.
 * [Archives of the DEMS bulletins](http://tdwaw.ellingtonweb.ca/DEMS/DEMSIndex.html) (largely corrections to the 1999 New Desor).
-* W.E. Timner's [*Ellingtonia: The Recorded Music of Duke Ellington and His Sidemen*](https://archive.org/details/ellingtoniarecor00timn), fifth edition. Unlike the sixth edition (not currently online), the fifth includes a listing of sessions by the sidemen without Ellington, a feature not found elsewhere.
+* W.E. Timner's *Ellingtonia: The Recorded Music of Duke Ellington and His Sidemen*: [the third (1988) edition](https://archive.org/details/ellingtoniarecor00timn) includes a listing of sessions by Ellington's sidemen away from his orchestra, a feature not found in books by others. This work was revised with a fourth edition in 1996, and a fifth edition in 2007, but neither are online.
 * Eddie Lambert's [*Duke Ellington: A Listener's Guide*](https://archive.org/details/dukeellingtonlis0000lamb/page/n5/mode/2up).
 * Jerry Valburn's [*The Directory of Duke Ellington's Recordings*](https://archive.org/details/directoryofdukee00valb) and [*Duke Ellington on Compact Disc*](https://archive.org/details/dukeellingtononc00valb).
 * Klaus Stratemann's [*Duke Ellington — Day by Day and Film by Film*](https://archive.org/details/dukeellingtonday0000stra).
@@ -93,7 +93,7 @@ A general discussion of Ellington's titles and copyrights (*A [Blue] Rose by any
 other Name...*) appears in 03/3 DEMS 5.
 
 ## Release issues
-First releases are shown in **boldface**; where multiple issues on different labels are shown in boldface, all were contemporaneous releases; variant formats account for multiple issues on the same label.
+First releases are shown in **boldface**; where multiple issues on different labels are shown in boldface, all were contemporaneous releases; variant formats account for multiple original issues on the same label.
 
 ## Misc
 `Unk` refers to unknown artist(s) or other persons.
