@@ -23,6 +23,7 @@ called `TMP`). Create the parent directory if needed.
 - extract the `.eml` contents using `tools/unpack_eml.py --output-dir TMP file.eml`
   - the script prints the full paths of the directory and files it creates
   - note the paths are nested by email file name (to handle multiple emails)
+  - there is always a body.txt which you should read and consider for the commit message.
 - if the email includes `labels.json` / `labels_changed*.json`, apply label
 changes first. This is normally a simple diff. Use `patch`, don't try anything
 clever. If only one file is present, just use that file as the new
