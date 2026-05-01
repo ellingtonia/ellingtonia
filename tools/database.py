@@ -770,7 +770,7 @@ def cmd_normalise(args):
     # Some checks
     for release in database.all_releases():
         if release.discogs:
-            assert re.match(DISCOGS_REGEX, release.discogs)
+            assert re.match(DISCOGS_REGEX, release.discogs), release.discogs
 
         # Checks very roughly that URLs etc look reasonable
         for key in [
