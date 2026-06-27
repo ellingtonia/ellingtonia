@@ -43,6 +43,10 @@ the base/original file and which is the changed/edited version. It should be
 obvious from filenames like `1926.json` vs `1926_changed_April2026.json`, so do
 not attempt clever heuristics.
 
+After importing, update `content/discography/changes.md`. Add or extend the
+entry for the current month (e.g. `## June 2026`) with a brief bullet per year
+summarising what changed, based on the email body. Keep it succinct.
+
 Make a commit when you're done. Do not ask for confirmation. The commit message
 should consist of the year (or years), then after a blank line, the email body
 (from body.txt) and/or any attached text file or descriptive document. Don't
@@ -52,3 +56,16 @@ Please don't try to be clever, don't write helper python scripts, this should
 all be extremely trivial. If you're stuck, say why.
 
 You can then delete the temporary directory.
+
+# Ambiguous/uncertain dates
+If a session has a date string that cannot be parsed (e.g. "Possibly 08 November
+1952", "circa Spring 1943"), `tools/database.py normalise` will fail with
+"Could not parse ...". The fix is to add an `index_date` field to that session
+in the JSON, giving a numeric date for sorting purposes:
+
+    "index_date": YYMMDD
+
+where the formula is `(year - 1900) * 10000 + month * 100 + day`. You can
+confirm the right date by checking the `index` values of the takes within that
+session (e.g. `"index": "52-11-08-001"` → 521108). Add the field directly to
+the session object alongside `"date"`.

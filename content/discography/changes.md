@@ -6,6 +6,10 @@ menu:
     weight: 10
 ---
 
+## June 2026
+* 1952: DE5220 date, location and footnote updated.
+* 1956: footnotes updated for 23 Jan, 27 Jan, 17 Sep sessions.
+
 ## April 2026
 * Added "first_issue" flags across many years: 1930, 1933, 1935, 1936, 1939, 1941, 1945, 1950, 1951, 1952, 1953, 1954, 1955.
 * Suite titles no longer in all caps (not all years processed yet)
