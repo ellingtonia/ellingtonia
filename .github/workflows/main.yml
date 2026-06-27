@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2.6.0
         with:
-          hugo-version: '0.99.1'
+          hugo-version: '0.161.1'
 
       - name: Generate
         run: ./tools/database.py normalise --no-scrape-discogs
