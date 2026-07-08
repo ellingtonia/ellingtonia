@@ -7,6 +7,10 @@ menu:
 ---
 
 ## July 2026
+* Instruments: renamed wwh ("wooden whistle") to wtw ("wooden train whistle"); added sw ("slide whistle").
+* 1924: updated wwh to wtw for Sonny Greer (2 sessions).
+* 1925: removed side indication from Ev 1047 releases (April-May 1925 session).
+* 1926: added wtw and sw to Sonny Greer on 30 March session; noted his use of wooden train whistle and slide whistle on "You've Got Those Wanna Go Back Again Blues".
 * Added home page note explaining the Hotel Sherman 1940 broadcast series as an exception to the audio-must-survive rule, with a cross-reference on the first broadcast (6 September 1940).
 * 1940: added wtw to Sonny Greer (5, 8 Sept) and Duke Ellington (7 Nov); removed wwh from Fred Guy (7 Nov).
 * 1951: confirmed Detroit location for 17 April session, citing Down Beat 15 June 1951 p.8.
