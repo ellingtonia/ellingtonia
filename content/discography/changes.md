@@ -7,6 +7,7 @@ menu:
 ---
 
 ## July 2026
+* 1929: added note on disparate master numbers for the 13 September session (two recording rooms in use).
 * 1930: fixed typos ("Utle"/"Ume") in note for 17 October session (Mood Indigo / Dreamy Blues).
 * Instruments: renamed wwh ("wooden whistle") to wtw ("wooden train whistle"); added sw ("slide whistle").
 * 1924: updated wwh to wtw for Sonny Greer (2 sessions).
