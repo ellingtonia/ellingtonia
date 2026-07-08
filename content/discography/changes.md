@@ -7,6 +7,8 @@ menu:
 ---
 
 ## July 2026
+* Added home page note explaining the Hotel Sherman 1940 broadcast series as an exception to the audio-must-survive rule, with a cross-reference on the first broadcast (6 September 1940).
+* 1940: added wtw to Sonny Greer (5, 8 Sept) and Duke Ellington (7 Nov); removed wwh from Fred Guy (7 Nov).
 * 1951: confirmed Detroit location for 17 April session, citing Down Beat 15 June 1951 p.8.
 * 1933: corrected Sonny Greer's instrumentation to wtw on 5 December 1933 session (Daybreak Express).
 * 1934: corrected "2 chorus sung" to "2 choruses sung" in note for 24 March 1934 session.

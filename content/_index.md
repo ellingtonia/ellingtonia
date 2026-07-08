@@ -95,6 +95,24 @@ other Name...*) appears in 03/3 DEMS 5.
 ## Release issues
 First releases are shown in **boldface**; where multiple issues on different labels are shown in boldface, all were contemporaneous releases; variant formats account for multiple original issues on the same label.
 
+## Broadcasts
+As a rule, we list only concerts and broadcasts for which audio exists. The
+series of broadcasts from Hotel Sherman in Chicago, 1940, is an exception to
+this rule.
+
+Duke Ellington and his Orchestra played at the Hotel Sherman in Chicago from
+September 6 to October 17, 1940. Ellington made two half-hour broadcasts most
+nights on local stations and nationally on the NBC networks. Several of these
+broadcasts have been saved on acetates, and partly issued on LPs over the
+years. The dates of the performances have always been uncertain. Carl
+Hällström and Ken Steiner did research through the radio logs at the Library
+of Congress, which put that mess in order. Their results were published in
+[DEMS bulletin 09/3](https://tdwaw.ellingtonweb.ca/DEMS/DEMS-09-3-200912-201003-Complete.html).
+Here we have chosen to show those broadcasts for which Carl Hällström and Ken
+Steiner were able to document the program schedule, even if the audio was
+lost. We **have tried to reconcile that information with known recordings
+and the New DESOR discography**.
+
 ## Misc
 `Unk` refers to unknown artist(s) or other persons.
 
