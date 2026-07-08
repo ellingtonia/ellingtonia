@@ -7,6 +7,7 @@ menu:
 ---
 
 ## July 2026
+* Added brand new year, 1923: a 26 July trial recording by Elmer Snowden's Novelty Orchestra (Duke Ellington's earliest documented session), rejected and not surviving. Site's earliest year updated from 1924 to 1923 throughout.
 * 1969: added new session, 27 August (Voice of America interview by Garry Moore).
 * 1929: added note on disparate master numbers for the 13 September session (two recording rooms in use).
 * 1930: fixed typos ("Utle"/"Ume") in note for 17 October session (Mood Indigo / Dreamy Blues).

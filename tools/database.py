@@ -573,7 +573,7 @@ def save_releases_to_json(database, generated):
 
                 year = er.entry.session.year()
                 if year < 1930:
-                    page = "1924-1929"
+                    page = "1923-1929"
                 elif year < 1940:
                     page = "1930-1939"
                 elif year < 1950:

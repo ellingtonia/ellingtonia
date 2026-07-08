@@ -7,4 +7,4 @@ menu:
     parent: "Discography"
 ---
 
-{{< discography 1924 1974 >}}
+{{< discography 1923 1974 >}}
