@@ -7,6 +7,7 @@ menu:
 ---
 
 ## July 2026
+* 1951: confirmed Detroit location for 17 April session, citing Down Beat 15 June 1951 p.8.
 * 1933: corrected Sonny Greer's instrumentation to wtw on 5 December 1933 session (Daybreak Express).
 * 1934: corrected "2 chorus sung" to "2 choruses sung" in note for 24 March 1934 session.
 * 1929: added note on Tiger Rag - Part I take A/B release history (8 January 1929 session).
