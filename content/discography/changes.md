@@ -7,6 +7,7 @@ menu:
 ---
 
 ## July 2026
+* Changed six ALL-CAPS titles to Title Case (Harlem, Blue Bells of Harlem, New World A-Comin', Reminiscing in Tempo, Symphony in Black, The Tattooed Bride); also consolidated the "New World A'Comin'" spelling variant onto the hyphenated form.
 * 1963: added complete setlist for the 21 February Milan concert (28 takes across two sets), consolidating the previously misdated placeholder session; added Rai "Notti Jazz" release with videoclip link. Other corrections: HARLEM -> Harlem; [] replacing () for alternate titles; removed stray dash before Asphalt Jungle Theme; reordered Harry Carney's instrument listing throughout.
 * Added brand new year, 1923: a 26 July trial recording by Elmer Snowden's Novelty Orchestra (Duke Ellington's earliest documented session), rejected and not surviving. Site's earliest year updated from 1924 to 1923 throughout.
 * 1969: added new session, 27 August (Voice of America interview by Garry Moore).
