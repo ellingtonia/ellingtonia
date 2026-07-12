@@ -31,6 +31,8 @@ json_generated_path = json_prefix + "/generated.json"
 FORBIDDEN_UNICODE_CHARS = {
     "‘": "'",  # left single quotation mark ('curly' apostrophe)
     "’": "'",  # right single quotation mark ('curly' apostrophe)
+    "“": '"',  # left double quotation mark ('curly' quote)
+    "”": '"',  # right double quotation mark ('curly' quote)
 }
 
 
