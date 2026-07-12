@@ -22,6 +22,29 @@ json_labels_path = json_prefix + "/labels.json"
 json_releases_path = json_prefix + "/releases.json"
 json_generated_path = json_prefix + "/generated.json"
 
+# Characters we don't want creeping into the JSON data, and the ASCII
+# equivalent that should be used instead.
+FORBIDDEN_UNICODE_CHARS = {
+    "‘": "'",  # left single quotation mark ('curly' apostrophe)
+    "’": "'",  # right single quotation mark ('curly' apostrophe)
+}
+
+
+def check_forbidden_unicode(obj, path):
+    if isinstance(obj, str):
+        for ch in obj:
+            if ch in FORBIDDEN_UNICODE_CHARS:
+                raise RuntimeError(
+                    f"Forbidden character {ch!r} (use {FORBIDDEN_UNICODE_CHARS[ch]!r} instead) "
+                    f"found in {path}: {obj!r}"
+                )
+    elif isinstance(obj, dict):
+        for v in obj.values():
+            check_forbidden_unicode(v, path)
+    elif isinstance(obj, list):
+        for item in obj:
+            check_forbidden_unicode(item, path)
+
 
 # Need eq=False as we have duplicates
 @dataclass(frozen=False, eq=False)
@@ -289,6 +312,7 @@ def load_from_json():
 
     with open(json_labels_path) as f:
         label_data = json.load(f)
+        check_forbidden_unicode(label_data, json_labels_path)
         for label, name in label_data.items():
             database.add_label(Label(label=label, name=name))
 
@@ -302,6 +326,8 @@ def load_from_json():
             except json.decoder.JSONDecodeError as e:
                 e.args += (session_path,)
                 raise
+
+        check_forbidden_unicode(json_sessions, session_path)
 
         old_date = None
 
@@ -471,6 +497,7 @@ def load_from_json():
 
     with open(json_releases_path) as f:
         releases_data = json.load(f)
+        check_forbidden_unicode(releases_data, json_releases_path)
         for label, label_releases in releases_data.items():
             for catalog, release_data in label_releases.items():
                 release = database.get_release(database.get_label(label), catalog)
