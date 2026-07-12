@@ -24,6 +24,10 @@ json_generated_path = json_prefix + "/generated.json"
 
 # Characters we don't want creeping into the JSON data, and the ASCII
 # equivalent that should be used instead.
+#
+# TODO: titles.json isn't loaded by this script (it's rendered directly, see
+# MAINTAINERS.md) so check_forbidden_unicode() never sees it. One day it
+# should be brought under normalise too so it gets this check for free.
 FORBIDDEN_UNICODE_CHARS = {
     "‘": "'",  # left single quotation mark ('curly' apostrophe)
     "’": "'",  # right single quotation mark ('curly' apostrophe)
