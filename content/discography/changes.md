@@ -7,6 +7,7 @@ menu:
 ---
 
 ## July 2026
+* 1952/1953: restored Acr ACTRCD9033-(CD3) as distinct from ACTRCD9033 (reflects Tidal/Spotify distribution), and added disc/track numbers throughout; corrected Procope's and Carney's instrumentation in places (Carney now bcl/bar rather than alto/bar on 29 December 1952).
 * Standardised FMRS catalog number "FM-4001/2" / "FM-4001/02" to "FM-4001/02†" throughout.
 * 1960 substantial fixes: adapted Peer Gynt suite structure; added missing first_issue flags; reworked 25 April session.
 * Corrected "V.I.P. Boogie" / "V.I.P Boogie" to "V.I.P.'s Boogie" throughout (55 occurrences, 1951-1964).

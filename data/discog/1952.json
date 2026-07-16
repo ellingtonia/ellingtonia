@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -119,7 +119,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -165,7 +165,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -306,7 +306,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -317,7 +317,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 3
                     }
                 ],
                 "desor": "DE5204a"
@@ -330,7 +332,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 4
                     },
                     {
                         "label": "SR",
@@ -344,11 +348,13 @@
                 "type": "take",
                 "index": "52-03-18-003",
                 "matrix": null,
-                "title": "Moonstone",
+                "title": "Moonstone [W.C.]",
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 6
                     },
                     {
                         "label": "SR",
@@ -366,7 +372,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 5
                     },
                     {
                         "label": "Fk",
@@ -388,7 +396,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 7
                     },
                     {
                         "label": "SR",
@@ -406,7 +416,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 8
                     },
                     {
                         "label": "Fk",
@@ -429,7 +441,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 9
                     }
                 ],
                 "desor": "DE5204g"
@@ -716,7 +730,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -1232,7 +1246,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -1243,7 +1257,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 1
                     }
                 ],
                 "desor": "DE5201a"
@@ -1257,7 +1273,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 2
                     }
                 ],
                 "desor": "DE5201b"
@@ -1271,7 +1289,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 3
                     }
                 ],
                 "desor": "DE5201c"
@@ -1285,7 +1305,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 4
                     }
                 ],
                 "desor": "DE5201d"
@@ -1299,7 +1321,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 5
                     }
                 ],
                 "desor": "DE5201e"
@@ -1313,7 +1337,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 6
                     }
                 ],
                 "desor": "DE5201f"
@@ -1327,7 +1353,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 7
                     }
                 ],
                 "desor": "DE5201g"
@@ -1341,7 +1369,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 8
                     }
                 ],
                 "desor": "DE5201h"
@@ -1355,7 +1385,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 9
                     }
                 ],
                 "desor": "DE5201i"
@@ -1369,7 +1401,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 9
                     }
                 ],
                 "desor": "DE5201j"
@@ -1387,7 +1421,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 10
                     }
                 ],
                 "desor": "DE5201k"
@@ -1405,7 +1441,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 11
                     }
                 ],
                 "desor": "DE5201l"
@@ -1430,44 +1468,14 @@
                 "type": "take",
                 "index": "52-03-24-015",
                 "matrix": null,
-                "title": "Tulip Or Turnip - vRN",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "first_issue": true
-                    }
-                ],
-                "desor": "DE5201n"
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-016",
-                "matrix": null,
-                "title": "Basin Street Blues - vRN",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033"
-                    },
-                    {
-                        "label": "SR",
-                        "catalog": "201",
-                        "first_issue": true
-                    }
-                ],
-                "desor": "DE5201o"
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-017",
-                "matrix": null,
                 "title": "Skin Deep",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 12
                     }
                 ],
                 "desor": "DE5201p"
@@ -1482,14 +1490,48 @@
             },
             {
                 "type": "take",
-                "index": "52-03-24-018",
+                "index": "52-03-24-016",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-017",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-018",
+                "matrix": null,
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
                     }
                 ],
                 "desor": null
@@ -1498,12 +1540,14 @@
                 "type": "take",
                 "index": "52-03-24-019",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
                     }
                 ],
                 "desor": null
@@ -1512,12 +1556,14 @@
                 "type": "take",
                 "index": "52-03-24-020",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Prelude To A Kiss",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
                     }
                 ],
                 "desor": null
@@ -1526,12 +1572,14 @@
                 "type": "take",
                 "index": "52-03-24-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.  It Don't Mean A Thing (If It Ain't Got That Swing)",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
                     }
                 ],
                 "desor": null
@@ -1540,12 +1588,14 @@
                 "type": "take",
                 "index": "52-03-24-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Prelude To A Kiss",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
                     }
                 ],
                 "desor": null
@@ -1554,12 +1604,14 @@
                 "type": "take",
                 "index": "52-03-24-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.  It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Don't Get Around Much",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
                     }
                 ],
                 "desor": null
@@ -1568,12 +1620,14 @@
                 "type": "take",
                 "index": "52-03-24-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
+                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song & Don't Get Around Much",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
                     }
                 ],
                 "desor": null
@@ -1582,29 +1636,37 @@
                 "type": "take",
                 "index": "52-03-24-025",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Don't Get Around Much",
+                "title": "Tulip Or Turnip - vRN",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 1
                     }
                 ],
-                "desor": null
+                "desor": "DE5201n"
             },
             {
                 "type": "take",
                 "index": "52-03-24-026",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song & Don't Get Around Much",
+                "title": "Basin Street Blues - vRN",
                 "releases": [
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 2
+                    },
+                    {
+                        "label": "SR",
+                        "catalog": "201",
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": "DE5201o"
             },
             {
                 "type": "note",
@@ -1620,7 +1682,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)."
             },
             {
                 "type": "take",
@@ -1640,7 +1702,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 9,
                         "length": 254
                     },
@@ -1693,7 +1755,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1730,7 +1792,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1767,7 +1829,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1804,7 +1866,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1841,7 +1903,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1878,7 +1940,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1915,7 +1977,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1952,7 +2014,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 12,
                         "length": 415
                     },
@@ -1989,7 +2051,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 10,
                         "length": 918
                     },
@@ -2042,7 +2104,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 7,
                         "length": 374
                     },
@@ -2087,7 +2149,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 6,
                         "length": 232
                     },
@@ -2132,7 +2194,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 8,
                         "length": 279
                     },
@@ -2177,7 +2239,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 11,
                         "length": 173
                     },
@@ -2222,7 +2284,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 5,
                         "length": 455
                     },
@@ -2259,7 +2321,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "17",
+                        "disc": 17,
                         "track": 13,
                         "length": 220
                     },
@@ -2293,7 +2355,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Willie Smith(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)."
             },
             {
                 "type": "take",
@@ -2313,7 +2375,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -2323,7 +2385,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 10
                     },
                     {
                         "label": "SR",
@@ -2342,7 +2406,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 11
                     }
                 ],
                 "desor": "DE5208b"
@@ -2355,7 +2421,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 12
                     },
                     {
                         "label": "Fk",
@@ -2377,7 +2445,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 13
                     },
                     {
                         "label": "Sk",
@@ -2396,7 +2466,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 14
                     }
                 ],
                 "desor": "DE5208e"
@@ -2409,7 +2481,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 15
                     },
                     {
                         "label": "SR",
@@ -2428,7 +2502,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 16
                     }
                 ],
                 "desor": "DE5208g"
@@ -2442,7 +2518,9 @@
                     {
                         "label": "Acr",
                         "catalog": "ACTRCD9033",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 17
                     }
                 ],
                 "desor": "DE5208h"
@@ -2455,7 +2533,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033"
+                        "catalog": "ACTRCD9033",
+                        "disc": 2,
+                        "track": 18
                     },
                     {
                         "label": "Fk",
@@ -2477,7 +2557,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033-(CD3)"
+                        "catalog": "ACTRCD9033-(CD3)",
+                        "disc": 3,
+                        "track": 1
                     },
                     {
                         "label": "SR",
@@ -2495,7 +2577,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033-(CD3)"
+                        "catalog": "ACTRCD9033-(CD3)",
+                        "disc": 3,
+                        "track": 2
                     },
                     {
                         "label": "Fk",
@@ -2517,7 +2601,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033-(CD3)"
+                        "catalog": "ACTRCD9033-(CD3)",
+                        "disc": 3,
+                        "track": 3
                     },
                     {
                         "label": "Fk",
@@ -2539,7 +2625,9 @@
                 "releases": [
                     {
                         "label": "Acr",
-                        "catalog": "ACTRCD9033-(CD3)"
+                        "catalog": "ACTRCD9033-(CD3)",
+                        "disc": 3,
+                        "track": 4
                     },
                     {
                         "label": "JG",
@@ -2556,11 +2644,11 @@
         "location": "unknown location USA",
         "date": "possibly Spring 1952",
         "index_date": 520500,
-        "description": "Broadcast,",
+        "description": "Broadcast",
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche(v)."
             },
             {
                 "type": "take",
@@ -2629,7 +2717,7 @@
             },
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -2718,7 +2806,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -2906,7 +2994,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3098,7 +3186,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
+                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3166,7 +3254,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3322,7 +3410,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3478,7 +3566,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3586,7 +3674,7 @@
         "group": "DUKE ELLINGTON",
         "location": "New York City, NY",
         "date": "27 September 1952",
-        "description": "ABC Telecast, \"Chance Of A Lifetime\"",
+        "description": "ABC telecast, \"Chance Of A Lifetime\"",
         "entries": [
             {
                 "type": "artists",
@@ -3640,7 +3728,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3701,7 +3789,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -3777,7 +3865,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -3893,7 +3981,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -4165,7 +4253,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4401,7 +4489,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4485,7 +4573,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4609,7 +4697,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4685,7 +4773,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
+                "value": "Willie Cook, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Betty Roche, Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4768,7 +4856,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4821,7 +4909,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -4841,7 +4929,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Clark Terry, John Carroll, John Hunt(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
+                "value": "Willie Cook, Clark Terry, John Carroll, John Hunt(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d); Jimmy Grissom(v)."
             },
             {
                 "type": "take",
@@ -4957,7 +5045,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t,vn,v);Jimmy Hamilton(cl); Harry Carney(as,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Jimmy Grissom(d,v)."
+                "value": "Ray Nance(t,vn,v);Jimmy Hamilton(cl); Harry Carney(bcl,bar); Duke Ellington(p,tk); Wendell Marshall(sb); Jimmy Grissom(d,v)."
             },
             {
                 "type": "take",
@@ -5145,7 +5233,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(as,cl); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
+                "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Hilton Jefferson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
