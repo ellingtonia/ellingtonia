@@ -7,7 +7,8 @@ menu:
 ---
 
 ## July 2026
-* 1960: adapted Peer Gynt suite structure; added missing first_issue flags; reworked 25 April session.
+* Standardised FMRS catalog number "FM-4001/2" / "FM-4001/02" to "FM-4001/02†" throughout.
+* 1960 substantial fixes: adapted Peer Gynt suite structure; added missing first_issue flags; reworked 25 April session.
 * Corrected "V.I.P. Boogie" / "V.I.P Boogie" to "V.I.P.'s Boogie" throughout (55 occurrences, 1951-1964).
 * Cleaned up messy apostrophes and quotation marks site-wide; fixed a couple of typos.
 * Changed six ALL-CAPS titles to Title Case (Harlem, Blue Bells of Harlem, New World a'Comin', Reminiscing in Tempo, Symphony in Black, The Tattooed Bride). Also consolidated spelling variants onto "New World a'Comin'", the copyrighted spelling, with lower-case "a" per Chicago Manual of Style.
