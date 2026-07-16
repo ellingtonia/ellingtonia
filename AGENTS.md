@@ -47,6 +47,12 @@ After importing, update `content/discography/changes.md`. Add or extend the
 entry for the current month (e.g. `## June 2026`) with a brief bullet per year
 summarising what changed, based on the email body. Keep it succinct.
 
+`changes.md` is read by people interested in the discography itself, not the
+repo's implementation. Only mention substantive content changes (corrections
+to instrumentation, catalog numbers, track listings, dates, etc). Don't
+mention incidental JSON/data-formatting fixes (e.g. a string "17" corrected to
+the number 17, or other things only a developer would care about).
+
 Make a commit when you're done. Do not ask for confirmation. The commit message
 should consist of the year (or years), then after a blank line, the email body
 (from body.txt) and/or any attached text file or descriptive document. Don't
