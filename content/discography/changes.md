@@ -30,6 +30,7 @@ menu:
 * 1933: corrected Sonny Greer's instrumentation to wtw on 5 December 1933 session (Daybreak Express).
 * 1934: corrected "2 chorus sung" to "2 choruses sung" in note for 24 March 1934 session.
 * 1929: added note on Tiger Rag - Part I take A/B release history (8 January 1929 session).
+* 1950/1951: corrections to the Mercer Records sessions per Steven Lasker's Mercer Records sessionography (tdwaw.ca). Added new 11 February 1950 Chubby Kemp/Kennedy Records session; added two more takes and a note to 13 September 1950 Oscar Pettiford session; split and relabelled several 21 September 1950 same-session entries (new Sara Forde/Billy Strayhorn piano session, corrected personnel/titles/matrix numbers); corrected matrix numbers (E0-CB- prefix) and catalog numbers for 3 October and 1 November 1950 RCA Victor sessions; moved the Wild Bill Davis "Real Gone Organ" session from October to circa November 1950 and added a second take (Make No Mistake). For 1951: added notes clarifying "V.I.P.'s Boogie"/"Jam with Sam" are presented as "Threesome" (several sessions); corrected Me catalog numbers throughout the Coronets/Mercer sessions; renamed 19 June session group to "Billy Strayhorn & His All Stars" with corrected personnel, and added a new same-session Al Hibbler quartet (Trees, Summertime, Ol' Man River, On A Slow Boat To China); expanded description and personnel for the 28 June "Stars on Parade" broadcast (Fred Robbins narration) with a corrected dating note.
 
 ## June 2026
 * 1952: DE5220 date, location and footnote updated.
