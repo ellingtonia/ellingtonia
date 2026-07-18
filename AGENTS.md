@@ -38,6 +38,10 @@ clever. If only one file is present, just use that file as the new
 and then run `tools/database.py normalise`. Do not run this without processing
 labels first.
 
+The attached JSON files are hand-edited and may contain trivial mistakes (e.g.
+a missing comma or a curly quote where `normalise` requires a straight one);
+if `normalise` fails on one of these, it's fine to just fix it directly.
+
 As an LLM, it is fine to make a practical judgement about which attachment is
 the base/original file and which is the changed/edited version. It should be
 obvious from filenames like `1926.json` vs `1926_changed_April2026.json`, so do
