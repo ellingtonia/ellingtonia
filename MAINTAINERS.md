@@ -96,7 +96,9 @@ The loader also accepts `"value"` in place of `"content"` for note entries, so o
 
 ## `suite` entries
 
-Some sessions use a `type: "suite"` entry to group a series of takes under a shared `suite_title`. The loader keeps the suite title for subsequent takes until the `suite_title` is changed or reset to `null` (which indicates following takes are not part of a suite).
+Some sessions use a `type: "suite"` entry to group a series of takes under a shared `suite_title`. The loader keeps the suite title for subsequent takes until the `suite_title` is changed or reset to `null` (which indicates following takes are not part of a suite). Each take within the suite gets a `suite_index` giving its position within the suite (1 = first movement, 2 = second, etc.). Movements are often recorded out of order, so don't expect `suite_index` values within a session to appear as a neat ascending sequence.
+
+Medleys (a single performance stringing together several already-titled songs, e.g. a run through the band's hits) are currently just a header take titled "Medley" (or a specific medley name) followed by ordinary sequential takes, with no dedicated structure of their own. This is ad hoc and likely to be revisited.
 
 ## `take` entries
 
