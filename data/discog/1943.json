@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -797,7 +797,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1069,6 +1069,53 @@
         ]
     },
     {
+        "group": "DUKE ELLINGTON",
+        "location": "New York City, NY",
+        "date": "Circa April 1943",
+        "index_date": 430400,
+        "description": "Recording for War Department \"Downbeat\" Program #11 broadcast",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Duke Ellington, Unk(tk)."
+            },
+            {
+                "type": "take",
+                "index": "43-04-00-001",
+                "matrix": null,
+                "title": "Interview",
+                "releases": [
+                    {
+                        "label": "Db",
+                        "catalog": "H-7 41"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "artists",
+                "value": "Duke Ellington(p)."
+            },
+            {
+                "type": "take",
+                "index": "43-04-00-002",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore [Never No Lament]",
+                "releases": [
+                    {
+                        "label": "Db",
+                        "catalog": "H-7 41"
+                    }
+                ],
+                "desor": null
+            },
+            {
+                "type": "note",
+                "content": "During World War II, the War Department Special Services Division (later Armed Forces Radio Service) produced the \"Downbeat\" radio program, intended for broadcast to U.S. military personnel stationed overseas. Ellington was the guest of \"Downbeat\" Program 11: he was interviewed (he addressed his interviewer as \"soldier\") and some of his recordings were played. Ellington played four bars of Never No Lament / Don't Get Around Much Anymore on the piano."
+            }
+        ]
+    },
+    {
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "New York City, NY",
         "date": "03 April 1943",
@@ -1076,7 +1123,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1348,7 +1395,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1492,7 +1539,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1545,7 +1592,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -1590,7 +1637,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Jimmy Britton(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Chauncey Haughton(cl,ts); Sax Mallard(cl,as); Johnny Hodges(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Jimmy Britton(v)."
             },
             {
                 "type": "take",
@@ -1710,7 +1757,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1794,7 +1841,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1814,7 +1861,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1866,7 +1913,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -1993,7 +2040,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -2057,7 +2104,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Sax Mallard(cl,as); Johnny Hodges, Scotty Scott(as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2084,7 +2131,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2180,7 +2227,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan, Ray Nance(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Jimmy Britton(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan, Ray Nance(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Jimmy Britton(v)."
             },
             {
                 "type": "take",
@@ -2248,7 +2295,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); BettyRoché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); BettyRoché(v)."
             },
             {
                 "type": "take",
@@ -2430,7 +2477,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -2636,7 +2683,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2677,7 +2724,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2704,7 +2751,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl,as); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2780,7 +2827,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -2956,7 +3003,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -3162,7 +3209,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -3309,7 +3356,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -3651,7 +3698,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3691,7 +3738,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3801,7 +3848,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3822,7 +3869,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -3892,7 +3939,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3912,7 +3959,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -3956,7 +4003,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -4103,7 +4150,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4123,7 +4170,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -4177,7 +4224,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4249,7 +4296,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4391,7 +4438,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4537,7 +4584,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -4565,7 +4612,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4675,7 +4722,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -4783,7 +4830,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -4901,7 +4948,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -4945,7 +4992,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5028,7 +5075,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -5039,6 +5086,11 @@
                     {
                         "label": "DESUK",
                         "catalog": "CD 1",
+                        "track": 1
+                    },
+                    {
+                        "label": "LiBe",
+                        "catalog": "(un-numbered)",
                         "first_issue": true
                     }
                 ],
@@ -5053,6 +5105,11 @@
                     {
                         "label": "DESUK",
                         "catalog": "CD 1",
+                        "track": 2
+                    },
+                    {
+                        "label": "LiBe",
+                        "catalog": "(un-numbered)",
                         "first_issue": true
                     }
                 ],
@@ -5067,6 +5124,11 @@
                     {
                         "label": "DESUK",
                         "catalog": "CD 1",
+                        "track": 3
+                    },
+                    {
+                        "label": "LiBe",
+                        "catalog": "(un-numbered)",
                         "first_issue": true
                     }
                 ],
@@ -5083,7 +5145,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5094,6 +5156,11 @@
                     {
                         "label": "DESUK",
                         "catalog": "CD 1",
+                        "track": 4
+                    },
+                    {
+                        "label": "LiBe",
+                        "catalog": "(un-numbered)",
                         "first_issue": true
                     }
                 ],
@@ -5108,6 +5175,11 @@
                     {
                         "label": "DESUK",
                         "catalog": "CD 1",
+                        "track": 5
+                    },
+                    {
+                        "label": "LiBe",
+                        "catalog": "(un-numbered)",
                         "first_issue": true
                     }
                 ],
@@ -5123,7 +5195,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5159,7 +5231,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -5242,7 +5314,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5307,7 +5379,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5341,7 +5413,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5424,7 +5496,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5468,7 +5540,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5496,7 +5568,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5541,7 +5613,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5594,7 +5666,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -5647,7 +5719,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5731,7 +5803,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton, Bernard Archer(tb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -5817,7 +5889,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Dizzy Gillespie, Taft Jordan(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Wilson Myers(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Rex Stewart, Dizzy Gillespie, Taft Jordan(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Wilson Myers(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
@@ -5904,6 +5976,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-101"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -6022,6 +6098,14 @@
                         "catalog": "867"
                     },
                     {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "176"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "6019/6028",
                         "first_issue": true
@@ -6120,6 +6204,10 @@
                         "catalog": "CLP-101"
                     },
                     {
+                        "label": "ST",
+                        "catalog": "110"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "6029/6038",
                         "first_issue": true
@@ -6162,6 +6250,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-102"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -6226,6 +6318,10 @@
                         "catalog": "CLP-102"
                     },
                     {
+                        "label": "ST",
+                        "catalog": "110"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "6909/6918",
                         "first_issue": true
@@ -6254,6 +6350,14 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "867"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "355"
                     },
                     {
                         "label": "Wo",
@@ -6294,6 +6398,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-102"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -6353,7 +6461,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -6408,6 +6516,14 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "867"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "355"
                     },
                     {
                         "label": "Wo",
@@ -6506,6 +6622,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-103"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -6654,6 +6774,10 @@
                         "catalog": "CLP-103"
                     },
                     {
+                        "label": "ST",
+                        "catalog": "110"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "6819/6828",
                         "first_issue": true
@@ -6678,6 +6802,14 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "867"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "315"
                     },
                     {
                         "label": "Wo",
@@ -6777,7 +6909,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler, Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -6891,7 +7023,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
                 "type": "take",
@@ -6942,6 +7074,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-104"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -7046,6 +7182,14 @@
                         "catalog": "867"
                     },
                     {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "415"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "6689/6698",
                         "first_issue": true
@@ -7066,6 +7210,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-104"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -7170,6 +7318,10 @@
                         "catalog": "CLP-104"
                     },
                     {
+                        "label": "ST",
+                        "catalog": "110"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "6909/6918",
                         "first_issue": true
@@ -7208,6 +7360,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-105"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -7271,7 +7427,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Betty Roché(v)."
             },
             {
                 "type": "take",
@@ -7427,7 +7583,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
+                "value": "Wallace Jones, Rex Stewart, Harold Baker, Taft Jordan(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Skippy Williams(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Al Hibbler(v)."
             },
             {
                 "type": "take",
