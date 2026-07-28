@@ -1408,7 +1408,7 @@
         "group": "THE WHOOPEE MAKERS",
         "location": "New York City, NY",
         "date": "Circa 19 October 1928",
-        "index_date": 281020,
+        "index_date": 281019,
         "description": "Pathé recording session",
         "entries": [
             {
@@ -1417,10 +1417,15 @@
             },
             {
                 "type": "take",
-                "index": "28-10-20-001",
+                "index": "28-10-19-001",
                 "matrix": "108446-1",
                 "title": "The Mooch",
                 "releases": [
+                    {
+                        "label": "Cam",
+                        "catalog": "9032",
+                        "first_issue": true
+                    },
                     {
                         "label": "CBS",
                         "catalog": "68275"
@@ -1430,6 +1435,11 @@
                         "catalog": "550"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "3061",
+                        "first_issue": true
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 30"
                     },
@@ -1437,16 +1447,31 @@
                         "label": "PA",
                         "catalog": "36899",
                         "first_issue": true
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15080",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "836",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE2811a"
             },
             {
                 "type": "take",
-                "index": "28-10-20-002",
+                "index": "28-10-19-002",
                 "matrix": "108446-2",
                 "title": "The Mooch",
                 "releases": [
+                    {
+                        "label": "Cam",
+                        "catalog": "9032",
+                        "first_issue": true
+                    },
                     {
                         "label": "CBS",
                         "catalog": "67264"
@@ -1463,6 +1488,16 @@
                         "label": "PA",
                         "catalog": "36899",
                         "first_issue": true
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15080",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "836",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE2811b"
@@ -1473,10 +1508,15 @@
             },
             {
                 "type": "take",
-                "index": "28-10-20-003",
+                "index": "28-10-19-003",
                 "matrix": "108447-2",
                 "title": "Hot And Bothered",
                 "releases": [
+                    {
+                        "label": "Cam",
+                        "catalog": "9023",
+                        "first_issue": true
+                    },
                     {
                         "label": "CBS",
                         "catalog": "67264"
@@ -1486,6 +1526,11 @@
                         "catalog": "550"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "3052",
+                        "first_issue": true
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 30"
                     },
@@ -1493,16 +1538,31 @@
                         "label": "PA",
                         "catalog": "36915",
                         "first_issue": true
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15096",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "827",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE2811c"
             },
             {
                 "type": "take",
-                "index": "28-10-20-004",
+                "index": "28-10-19-004",
                 "matrix": "108448-1",
                 "title": "Move Over",
                 "releases": [
+                    {
+                        "label": "Cam",
+                        "catalog": "9025",
+                        "first_issue": true
+                    },
                     {
                         "label": "CBS",
                         "catalog": "68275"
@@ -1512,12 +1572,27 @@
                         "catalog": "550"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "3054",
+                        "first_issue": true
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 30"
                     },
                     {
                         "label": "PA",
                         "catalog": "36899",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Per",
+                        "catalog": "15080",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "829",
                         "first_issue": true
                     }
                 ],

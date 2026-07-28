@@ -100,7 +100,7 @@
                     },
                     {
                         "label": "Ro",
-                        "catalog": "1289",
+                        "catalog": "1209",
                         "first_issue": true
                     }
                 ],
@@ -1789,8 +1789,8 @@
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "August 1930",
-        "index_date": 300008,
-        "description": "RKO film recording session",
+        "index_date": 300800,
+        "description": "Recording session for the RKO film \"Check And Double Check\". RKO Hollywood Studios",
         "entries": [
             {
                 "type": "artists",
@@ -1798,7 +1798,7 @@
             },
             {
                 "type": "take",
-                "index": "30-00-08-001",
+                "index": "30-08-00-001",
                 "matrix": null,
                 "title": "When I'm Blue",
                 "releases": [
@@ -1808,40 +1808,49 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 102"
+                        "catalog": "PRV 102",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Roan",
+                        "catalog": "AED-2074"
                     }
                 ],
                 "desor": "DE3010a"
             },
             {
                 "type": "take",
-                "index": "30-00-08-002",
+                "index": "30-08-00-002",
                 "matrix": null,
                 "title": "The Mystery song",
                 "releases": [
                     {
                         "label": "MoJ",
                         "catalog": "MJCD 173"
+                    },
+                    {
+                        "label": "Roan",
+                        "catalog": "AED-2074"
                     }
                 ],
                 "desor": "DE3010b"
             },
             {
                 "type": "take",
-                "index": "30-00-08-003",
+                "index": "30-08-00-003",
                 "matrix": null,
                 "title": "When I'm Blue",
                 "releases": [
                     {
-                        "label": "MoJ",
-                        "catalog": "MJCD 173"
+                        "label": "Roan",
+                        "catalog": "AED-2074"
                     }
                 ],
                 "desor": "DE3010c"
             },
             {
                 "type": "take",
-                "index": "30-00-08-004",
+                "index": "30-08-00-004",
                 "matrix": null,
                 "title": "East St. Louis Toodle-O (theme)",
                 "releases": [
@@ -1851,14 +1860,19 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 102"
+                        "catalog": "PRV 102",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Roan",
+                        "catalog": "AED-2074"
                     }
                 ],
                 "desor": "DE3010d"
             },
             {
                 "type": "take",
-                "index": "30-00-08-005",
+                "index": "30-08-00-005",
                 "matrix": null,
                 "title": "Old Man Blues",
                 "releases": [
@@ -1868,14 +1882,19 @@
                     },
                     {
                         "label": "Pv",
-                        "catalog": "PRV 102"
+                        "catalog": "PRV 102",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Roan",
+                        "catalog": "AED-2074"
                     }
                 ],
                 "desor": "DE3010f"
             },
             {
                 "type": "take",
-                "index": "30-00-08-006",
+                "index": "30-08-00-006",
                 "matrix": null,
                 "title": "Three Little Words",
                 "releases": [
@@ -1888,7 +1907,7 @@
             },
             {
                 "type": "note",
-                "content": "Film sound track from RKO Radio Pictures \"Check And Double Check\". NB. 30-08-00-006, while recorded for this film was used in the RKO Radio Pictures \"The Lady Refuses\" The version in \"Check And Double Check\" and appearing on Pv PRV-102 and MoJ MJCD 173 was recorded by The Rhythm Boys and a studio orchestra"
+                "content": "Three Little Words was recorded for this film, but was used in the RKO film \"The Lady Refuses\" The version in \"Check And Double Check\" and appearing on Pv PRV-102 and MoJ MJCD 173 was recorded by The Rhythm Boys backed by a white studio orchestra"
             }
         ]
     },
@@ -2142,7 +2161,7 @@
             },
             {
                 "type": "note",
-                "content": "PBVE61012-2 is misidentified as PBVE61012-3 on Pi MPC-509 and RCA(F)741.048; PBVE61012-3 is misidentified as PBVE61012-6 on FMRS 021."
+                "content": "Shellac test exists of PBVE-61011-1 Ring Dem Bells.\nPBVE61012-2 is misidentified as PBVE61012-3 on Pi MPC-509 and RCA(F)741.048; PBVE61012-3 is misidentified as PBVE61012-6 on FMRS 021."
             }
         ]
     },
@@ -3478,7 +3497,7 @@
             },
             {
                 "type": "note",
-                "content": "A 10min short film, without audio, is visible at [British Pathe website] (https://www.britishpathe.com/asset/90110/). The title is \"Pathe Audio Review - HARLEM - A cinema excursion into the great black metropolis of New York.\" The film music was transferred to a 16-inch wax record, Victor matrix MRC-DR-1, on 26 December 1930. It has never surfaced. Details at [tdwaw.ca](https://tdwaw.ellingtonweb.ca/supportingwebpages/CottonClubOrigins.html)."
+                "content": "A 10min short film, without audio, is visible at [British Pathe website] (https://www.britishpathe.com/asset/90110/). The title is \"Pathe Audio Review - HARLEM - A cinema excursion into the great black metropolis of New York.\" At Victor Records on 26 December 1930, the soundtrack was transferred from optical film to a new 16-inch wax master from which metal parts were fashioned. The 16-inch shellac records that resulted were sent to theatres not yet equipped for sound on film. If a copy ever surfaces, it will likely bear the matrix number assigned by Victor: MRC-DR-1. Details at [tdwaw.ca](https://tdwaw.ellingtonweb.ca/supportingwebpages/CottonClubOrigins.html)."
             }
         ]
     }

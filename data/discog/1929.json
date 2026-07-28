@@ -50,6 +50,10 @@
                 "title": "Tiger Rag - Part I",
                 "releases": [
                     {
+                        "label": "Br(E)",
+                        "catalog": "1338"
+                    },
+                    {
                         "label": "Br/ARC",
                         "catalog": "4238",
                         "first_issue": true
@@ -151,7 +155,7 @@
             },
             {
                 "type": "note",
-                "content": "The recording ledger entry shows this session, the first as by \"The Jungle Band,\" was initially intended for Vocalion's 15,000 (popular) series, not for Brunswick, on which label the sides finally appeared (Steven Lasker).\n\nTiger Rag - Part I take B was released on Brunswick 4238 in March 1929. Tiger Rag - Part I take A was first released on west coast pressings of Brunswick 4238 in the first half of 1932. (The labels on both pressings show them to be products of the Brunswick-Balke-Collender Company, although by 1932 the record company was controlled instead by the American Record Corporation.)"
+                "content": "The recording ledger entry shows this session, the first as by \"The Jungle Band,\" was initially intended for Vocalion's 15,000 (popular) series, not for Brunswick, on which label the sides finally appeared (Steven Lasker).\n\nTiger Rag - Part I take B was released on Brunswick 4238 in March 1929. Tiger Rag - Part I take A was first released on west coast pressings of Brunswick 4238 in the first half of 1932 - probably earlier than the English Brunswick 1338. (The labels on both Br 4238 pressings show them to be products of the Brunswick-Balke-Collender Company, although by 1932 the record company was controlled instead by the American Record Corporation.)"
             }
         ]
     },
@@ -850,7 +854,8 @@
                     },
                     {
                         "label": "Vi",
-                        "catalog": "V-38065"
+                        "catalog": "V-38065",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE2905c"
@@ -1810,6 +1815,11 @@
                 "title": "Black And Tan Fantasy",
                 "releases": [
                     {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656",
+                        "first_issue": true
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
                     },
@@ -1831,8 +1841,17 @@
                 "title": "Black And Tan Fantasy",
                 "releases": [
                     {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1847,6 +1866,11 @@
                 "matrix": null,
                 "title": "Black And Tan Fantasy",
                 "releases": [
+                    {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656",
+                        "first_issue": true
+                    },
                     {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
@@ -1865,8 +1889,21 @@
                 "title": "Black And Tan Fantasy",
                 "releases": [
                     {
+                        "label": "AdJ",
+                        "catalog": "AFG 8",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102"
                     },
                     {
                         "label": "Sv",
@@ -1896,8 +1933,21 @@
                 "title": "The Duke Steps Out",
                 "releases": [
                     {
+                        "label": "AdJ",
+                        "catalog": "AFG 8",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102"
                     },
                     {
                         "label": "Sv",
@@ -1913,8 +1963,21 @@
                 "title": "Black Beauty",
                 "releases": [
                     {
+                        "label": "AdJ",
+                        "catalog": "AFG 8",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102"
                     },
                     {
                         "label": "Sv",
@@ -1930,8 +1993,17 @@
                 "title": "The Duke Steps Out",
                 "releases": [
                     {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1947,8 +2019,17 @@
                 "title": "Black Beauty",
                 "releases": [
                     {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1964,8 +2045,17 @@
                 "title": "Cotton Club Stomp",
                 "releases": [
                     {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -1981,8 +2071,17 @@
                 "title": "Flaming Youth",
                 "releases": [
                     {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -2002,8 +2101,21 @@
                 "title": "Same Train - vCho",
                 "releases": [
                     {
+                        "label": "AdJ",
+                        "catalog": "AFG 8",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102"
                     },
                     {
                         "label": "Sv",
@@ -2023,8 +2135,22 @@
                 "title": "Black And Tan Fantasy - vCho",
                 "releases": [
                     {
+                        "label": "AdJ",
+                        "catalog": "AFG 8",
+                        "flags": "*",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "FR",
+                        "catalog": "SFR-DP 656"
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102"
                     },
                     {
                         "label": "Sv",
@@ -2035,7 +2161,7 @@
             },
             {
                 "type": "note",
-                "content": "Although several reference works identify the choir as the Hall Johnson Choir, Steven Lasker has found no credible evidence that the Hall Johnson Choir worked on 'Black and Tan'. More details on [TDWAW](https://tdwaw.ellingtonweb.ca/TDWAW1.html) at the date \"circa 1929 08 12.\""
+                "content": "Although several reference works identify the choir as the Hall Johnson Choir, Steven Lasker has found no credible evidence that the Hall Johnson Choir worked on 'Black and Tan'. More details on [TDWAW](https://tdwaw.ellingtonweb.ca/TDWAW1.html) at the date \"circa 1929 08 12.\"\n\nOn AdJ AFG 8 the last 16 bars of DE2913k are omitted."
             }
         ]
     },
@@ -2055,6 +2181,10 @@
                 "matrix": "4062-A",
                 "title": "Doin' The Voom Voom",
                 "releases": [
+                    {
+                        "label": "Cam",
+                        "catalog": "9306"
+                    },
                     {
                         "label": "CBS",
                         "catalog": "68275"
@@ -2146,6 +2276,10 @@
                     }
                 ],
                 "desor": "DE2914c"
+            },
+            {
+                "type": "note",
+                "content": "The issues on Pathe and Perfect were 'ready for shipment about Oct. 30' 1929 while the other labels (Cameo, etc.) were released a bit later, circa November/December. (Steven Lasker, email, November 2026)"
             }
         ]
     },
@@ -2569,7 +2703,7 @@
             },
             {
                 "type": "note",
-                "content": "During \"Six or Seven Times\" sung chorus, there are falsetto interjections and humming by two unidentified men, probably band members.."
+                "content": "During \"Six or Seven Times\" sung chorus, there are falsetto interjections and humming by two unidentified men, probably band members.\n\nSome resources, including K.B. Rau's website, [The Harlem Fuss](https://harlem-fuss.com/pdf/bands/harlem_fuss_bands_duke_ellington_cotton_clup_period_1.pdf), claim that a second title was recorded on this date; indeed, the Six Jolly Jesters recorded just one title at this session, as explained at [tdwaw.ca](https://tdwaw.ellingtonweb.ca/TDWAW1.html#Yr1929) at this date."
             }
         ]
     },
@@ -2692,6 +2826,10 @@
                 "title": "Oklahoma Stomp",
                 "releases": [],
                 "desor": "DE2918d"
+            },
+            {
+                "type": "note",
+                "content": "Shellac test exists of E31372-office."
             }
         ]
     },
