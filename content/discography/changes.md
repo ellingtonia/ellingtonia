@@ -7,6 +7,7 @@ menu:
 ---
 
 ## July 2026
+* 1950: corrected the 21 September session take mistitled "A Slip Of The Lip [Me And My Wig]" to just "Me And My Wig" — New DESOR had wrongly conflated it with the distinct song "A Slip Of The Lip" (confirmed by Steven Lasker, who noted Ole Nielsen's discography makes the same error).
 * 1944: added first issue flags; replaced () with [] for alternate titles; sorted Carney's instrument listing from smallest to biggest; added new label "LiBe" (Little Beat Records) and its unnumbered release (Duke Ellington Conference-New York 2016), noting DESUK CD 1 as its second edition; split V-Disc label into VD (Army), VD Navy, and VD Mar; removed drummer Hillard Brown from the 19 December Carnegie Hall concert in favour of Sonny Greer, with a note on the doubtful Brown attribution, and a related note on his presence on 29 November.
 * 1948: added first issue flags; corrected non-official catalog number from "E2KL-3187/8" to "E2-KL-3187/88†" (10 December 1948 session); sorted Carney's instrument listing from smallest to biggest (cl, bcl, bar).
 * 1966: fixed inconsistent presentation of "Ad Lib On Nippon".
