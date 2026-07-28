@@ -7,6 +7,7 @@ menu:
 ---
 
 ## July 2026
+* 1948: added first issue flags; corrected non-official catalog number from "E2KL-3187/8" to "E2-KL-3187/88†" (10 December 1948 session); sorted Carney's instrument listing from smallest to biggest (cl, bcl, bar).
 * 1966: fixed inconsistent presentation of "Ad Lib On Nippon".
 * Standardised "Don't You Know I Care" to the full copyrighted title "Don't You Know I Care (Or Don't You Care To Know)" throughout (71 occurrences).
 * 1952/1953: restored Acr ACTRCD9033-(CD3) as distinct from ACTRCD9033 (reflects Tidal/Spotify distribution), and added disc/track numbers throughout; corrected Procope's and Carney's instrumentation in places (Carney now bcl/bar rather than alto/bar on 29 December 1952).
