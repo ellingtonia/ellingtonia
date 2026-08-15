@@ -42,6 +42,10 @@
                         "catalog": "CLP-105"
                     },
                     {
+                        "label": "ST",
+                        "catalog": "110"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "7799/7808",
                         "first_issue": true
@@ -236,6 +240,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-106"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -1852,6 +1860,10 @@
                     }
                 ],
                 "desor": "DE4507d"
+            },
+            {
+                "type": "note",
+                "content": "New DESOR shows Hillard Brown on drums on this date; his presence is doubtful (see note to the 19 December 1944 concert)."
             }
         ]
     },
@@ -2321,7 +2333,14 @@
                 "index": "45-03-25-032",
                 "matrix": null,
                 "title": "Take The \"A\" Train  (theme)",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Jo",
+                        "catalog": "LP-1053B",
+                        "flags": "*",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE4509ad"
             },
             {
@@ -3315,6 +3334,10 @@
                 "desor": "DE4515e"
             },
             {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (B) Brown"
+            },
+            {
                 "type": "take",
                 "index": "45-04-21-006",
                 "matrix": null,
@@ -3336,9 +3359,18 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9002"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1011"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "657"
                     }
                 ],
-                "desor": "DE4515f"
+                "desor": "DE4515f",
+                "suite_index": 4
             },
             {
                 "type": "take",
@@ -3366,9 +3398,18 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9002"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1011"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "657"
                     }
                 ],
-                "desor": "DE4515g"
+                "desor": "DE4515g",
+                "suite_index": 6
             },
             {
                 "type": "take",
@@ -3392,9 +3433,22 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9002"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1011"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "657"
                     }
                 ],
-                "desor": "DE4515h"
+                "desor": "DE4515h",
+                "suite_index": 5
+            },
+            {
+                "type": "suite",
+                "suite_title": "Black, Brown And Beige (C) Beige"
             },
             {
                 "type": "take",
@@ -3422,9 +3476,22 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9002"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1011"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "657"
                     }
                 ],
-                "desor": "DE4515i"
+                "desor": "DE4515i",
+                "suite_index": 10
+            },
+            {
+                "type": "suite",
+                "suite_title": null
             },
             {
                 "type": "take",
@@ -3496,6 +3563,14 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9002"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "575"
                     }
                 ],
                 "desor": "DE4515l"
@@ -3526,6 +3601,22 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9002"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "480"
+                    },
+                    {
+                        "label": "VD Mar",
+                        "catalog": "260"
+                    },
+                    {
+                        "label": "VD Navy",
+                        "catalog": "260"
                     }
                 ],
                 "desor": "DE4515m"
@@ -3547,6 +3638,10 @@
                     }
                 ],
                 "desor": "DE4515n"
+            },
+            {
+                "type": "note",
+                "content": "On VD 657, The Blues as \"Black, Brown and Beige (Part 1)\" and West Indian Dance - Emancipation Celebration - Sugar Hill Penthouse as \"Black, Brown and Beige (Part 2).\""
             }
         ]
     },
@@ -4422,6 +4517,10 @@
                     }
                 ],
                 "desor": "DE4526f"
+            },
+            {
+                "type": "note",
+                "content": "The liner notes of DETS 903 9010 date this broadcast on 4 May, but from 3 to 9 May Ellington was engaged at the Adams Theatre in Newark. More details at [TDWAW](https://tdwaw.ellingtonweb.ca/TDWAW1.html) on this date."
             }
         ]
     },
@@ -4932,6 +5031,10 @@
                         "catalog": "915"
                     },
                     {
+                        "label": "HMV",
+                        "catalog": "J.O.243"
+                    },
+                    {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "14",
@@ -5008,6 +5111,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "915"
+                    },
+                    {
+                        "label": "HMV",
+                        "catalog": "J.O.243"
                     },
                     {
                         "label": "RCA",
@@ -5331,6 +5438,15 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9003"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "483",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE4530k"
@@ -5375,6 +5491,14 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9003"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1011"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "701"
                     }
                 ],
                 "desor": "DE4530m"
@@ -5549,6 +5673,14 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9003"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "483"
                     }
                 ],
                 "desor": "DE4530s"
@@ -5614,6 +5746,10 @@
                     }
                 ],
                 "desor": "DE4530v"
+            },
+            {
+                "type": "note",
+                "content": "Harlem Air Shaft on FDC 1002 comes from the V-Disc 483: it is introduced by Ellington with the remark: '... and now, with Rex Stewart on trumpet, we fall right into the Harlem Air Shaft', added for the V-Disc; a very brief fragment of Take the \"A\" Train DE4530k can be heard in the background. This introduction is not present on the DETS version, that comes from the actual broadcast. See DEMS Bulletins [84/1-5](https://tdwaw.ellingtonweb.ca/DEMS/DEMS1984-1.pdf) and [85/2-4](https://tdwaw.ellingtonweb.ca/DEMS/DEMS1985-2.pdf). Take the \"A\" Train DE4530k is also used for the intro and outro of the FDC 1002 album."
             }
         ]
     },
@@ -5706,6 +5842,10 @@
                     {
                         "label": "Cl(F)",
                         "catalog": "915"
+                    },
+                    {
+                        "label": "HMV",
+                        "catalog": "J.O.272"
                     },
                     {
                         "label": "RCA",
@@ -6035,7 +6175,8 @@
                     },
                     {
                         "label": "HMV",
-                        "catalog": "J.O.249"
+                        "catalog": "J.O.249",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA",
@@ -6476,7 +6617,7 @@
                 "type": "take",
                 "index": "45-05-19-017",
                 "matrix": null,
-                "title": "Just Squeeze Me (But Don't Tease Me)",
+                "title": "Just Squeeze Me (But Don't Tease Me)[Subtle Slough]",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6822,8 +6963,24 @@
                         "catalog": "903 9004"
                     },
                     {
+                        "label": "FDC",
+                        "catalog": "1002"
+                    },
+                    {
                         "label": "Fm",
                         "catalog": "FA-1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "505"
+                    },
+                    {
+                        "label": "VD Mar",
+                        "catalog": "265"
+                    },
+                    {
+                        "label": "VD Navy",
+                        "catalog": "265"
                     }
                 ],
                 "desor": "DE4536h"
@@ -6916,6 +7073,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "610"
                     }
                 ],
                 "desor": "DE4536l"
@@ -6946,6 +7107,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "626"
                     }
                 ],
                 "desor": "DE4536m"
@@ -6976,6 +7141,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1002"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "626"
                     }
                 ],
                 "desor": "DE4536n"
@@ -8428,6 +8597,10 @@
                     {
                         "label": "UArc",
                         "catalog": "NUA07"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "695"
                     }
                 ],
                 "desor": "DE4539k"
@@ -9959,6 +10132,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1010"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "534"
                     }
                 ],
                 "desor": "DE4545f"
@@ -10015,6 +10192,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1010"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "534"
                     }
                 ],
                 "desor": "DE4545h"
@@ -10085,7 +10266,7 @@
                 "type": "take",
                 "index": "45-07-07-014",
                 "matrix": null,
-                "title": "Sonata [Love]",
+                "title": "Sonata [Love] [Under the Balcony]",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10111,6 +10292,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1010"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "516"
                     }
                 ],
                 "desor": "DE4545l",
@@ -10142,6 +10327,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1010"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "516"
                     }
                 ],
                 "desor": "DE4545m",
@@ -10173,6 +10362,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1010"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "516"
                     }
                 ],
                 "desor": "DE4545n",
@@ -10204,6 +10397,10 @@
                     {
                         "label": "Fm",
                         "catalog": "FA-1010"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "516"
                     }
                 ],
                 "desor": "DE4545o",
@@ -10305,6 +10502,10 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9007"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "701"
                     }
                 ],
                 "desor": "DE4545s"
@@ -10329,7 +10530,7 @@
             },
             {
                 "type": "note",
-                "content": "Dancers In Love is played by Duke Ellington, Junior Raglin and Sonny Greer only."
+                "content": "Dancers In Love is played by Duke Ellington, Junior Raglin and Sonny Greer only.\n\nOn VD 516, Under the Balcony, Strange Feeling as \"Perfume Suite (Part One)\" on side A; Dancers in Love, Coloratura as \"Perfume Suite (Part Two)\" on side B; on VD 516 Strange Feeling ends before Al Hibbler's vocal on Strange Feeling."
             }
         ]
     },
@@ -11927,7 +12128,7 @@
                 "type": "take",
                 "index": "45-07-30-002",
                 "matrix": "D5VB518-1",
-                "title": "Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be [Time's A-Wastin']",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -12876,6 +13077,10 @@
                         "catalog": "CLP-108"
                     },
                     {
+                        "label": "ST",
+                        "catalog": "110"
+                    },
+                    {
                         "label": "Wo",
                         "catalog": "7219/7228",
                         "first_issue": true
@@ -13016,6 +13221,10 @@
                     {
                         "label": "Ci",
                         "catalog": "CLP-109"
+                    },
+                    {
+                        "label": "ST",
+                        "catalog": "110"
                     },
                     {
                         "label": "Wo",
@@ -15056,6 +15265,14 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9012"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1011"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "558"
                     }
                 ],
                 "desor": "DE4560b"
@@ -15144,6 +15361,14 @@
                     {
                         "label": "DETS",
                         "catalog": "903 9012"
+                    },
+                    {
+                        "label": "FDC",
+                        "catalog": "1011"
+                    },
+                    {
+                        "label": "VD",
+                        "catalog": "558"
                     }
                 ],
                 "desor": "DE4560f"
@@ -16566,7 +16791,7 @@
                 "type": "take",
                 "index": "45-09-22-007",
                 "matrix": null,
-                "title": "Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be [Time's A-Wastin']",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -18702,7 +18927,7 @@
                 "type": "take",
                 "index": "45-10-13-002",
                 "matrix": null,
-                "title": "Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be [Time's A-Wastin']",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -22835,6 +23060,10 @@
                     },
                     {
                         "label": "RCA",
+                        "catalog": "EPAT-435"
+                    },
+                    {
+                        "label": "RCA",
                         "catalog": "LPV-553"
                     },
                     {
@@ -22983,7 +23212,7 @@
                 "type": "take",
                 "index": "45-11-28-005",
                 "matrix": null,
-                "title": "Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be [Time's A-Wastin']",
                 "releases": [
                     {
                         "label": "DETS",

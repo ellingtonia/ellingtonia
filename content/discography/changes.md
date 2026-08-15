@@ -6,6 +6,10 @@ menu:
     weight: 10
 ---
 
+## August 2026
+* 1945: added numerous V-Disc (VD, VD Mar, VD Navy), FDC, ST 110, and HMV first-issue releases across many sessions through the year; added a Jo LP-1053B release for the 25 March "Take The 'A' Train" theme; added an RCA EPAT-435 release; structured the 21 April Black, Brown and Beige performance into its (B) Brown / (C) Beige movements with suite indices; added notes on the doubtful Hillard Brown drum credit (21 April), VD 657/516 side labelling, the Adams Theatre engagement affecting a DETS broadcast date, and the V-Disc 483 Harlem Air Shaft introduction; added alternate titles "[Subtle Slough]", "[Under the Balcony]", and "[Time's A-Wastin']" to several recurring titles.
+* Labels: removed unused label "Go"; clarified descriptions for HMV, VD Mar and VD Navy.
+
 ## July 2026
 * 1930: corrected Ro catalog number from 1289 to 1209 (29 January session); added first-issue releases (Pv, Roan) and expanded notes for the August RKO "Check And Double Check" film session, including correcting its index date; added a note on a Ring Dem Bells shellac test; expanded the note on the HARLEM Pathé film short's soundtrack transfer.
 * 1929: added first releases (AdJ, FR, Pv) to the 12-17 August "Black And Tan" film tracks, introducing the new label "AdJ" (Anthologie du Jazz); added a note on a shellac test for the 25 October session; other release and note corrections.
