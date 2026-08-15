@@ -13,6 +13,7 @@ menu:
 * 1934: formatted Symphony in Black as a suite (24-25 October session).
 * 1936: retitled "Blackout" to "Black Out" and expanded the footnote on bass players (29 July session).
 * 1937: added a long note to the 20 September session (input from S. Lasker); corrected catalog number Va 555 to Va 655 on the 29 April session (DemiTasse, Jazz A La Carte); added first-issue flag to Jubilesta (20 September).
+* 1938: retitled "Lost In Meditation (Have A Heart)" to "Lost In Meditation [Have A Heart]" (19 January); added first-issue flag for Dinah In A Jam (24 April); noted a shellac test of M835-2 (7 June session); retitled "Swinging In The Dell" to "Swingin' In The Dell" (1 August); retitled "Sharpie" to "Sharpy" with a note on the discrepancy between the original 78 and the 1938 copyright application (2 August); corrected "Boy Meets Horn [Twits And Therps]" to "[Twits And Twerps]" (22 December).
 
 ## July 2026
 * 1930: corrected Ro catalog number from 1289 to 1209 (29 January session); added first-issue releases (Pv, Roan) and expanded notes for the August RKO "Check And Double Check" film session, including correcting its index date; added a note on a Ring Dem Bells shellac test; expanded the note on the HARLEM Pathé film short's soundtrack transfer.
