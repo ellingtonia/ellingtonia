@@ -29,6 +29,7 @@ menu:
 * 1963: added first-issue flags throughout; changed alternate titles from round to square brackets throughout; fixed numerous typos (e.g. "Voltupé" to "Volupté", "Just Aqueeze Me" to "Just Squeeze Me"); standardised "Star-Crossed Lovers" to "The Star-Crossed Lovers" throughout; corrected "Skillipoop [Jungle Triangle]" to "Skilipoop [Jungle Triangle]" (copyrighted with one "l" under the title Jungle Triangle in 1963; only recopyrighted as "Skilipoop" in 1964); corrected "99% Won't Dp" to "Ninety-Nine Percent" (its copyrighted title).
 * 1925: corrected the January session's date to "Circa January 1925" and credited it to "FLORENCE BRISTOL WITH DUKE ELLINGTON AND OTTO HARDWICK" rather than Florence Bristol alone.
 * 1964: added first-issue flags throughout; changed alternate titles from round to square brackets throughout; corrected "Skillpoop"/"Skillipoop" to "Skilipoop" (its copyrighted title) throughout; sorted Carney's reed listing from smallest to biggest; added new CD "Copenhagen 1964" (Sv 101 8545) across the 13 March session; added release IJ 510 across several takes (13 March session).
+* 1928/1930: corrected "Okeh" to "OKeh" throughout session descriptions.
 
 ## July 2026
 * 1930: corrected Ro catalog number from 1289 to 1209 (29 January session); added first-issue releases (Pv, Roan) and expanded notes for the August RKO "Check And Double Check" film session, including correcting its index date; added a note on a Ring Dem Bells shellac test; expanded the note on the HARLEM Pathé film short's soundtrack transfer.
