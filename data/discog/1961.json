@@ -55,7 +55,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 2029"
+                        "catalog": "CL 2029",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6101b"
@@ -312,7 +313,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Matthew Gee, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -346,7 +347,7 @@
                 "type": "take",
                 "index": "61-03-02-003",
                 "matrix": "RHCO70037-",
-                "title": "Congo Square (Matumbe)",
+                "title": "Congo Square [Matumbe]",
                 "releases": [
                     {
                         "label": "CBS",
@@ -445,7 +446,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Matthew Gee, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Matthew Gee, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -606,7 +607,7 @@
                 "type": "take",
                 "index": "61-03-15-003",
                 "matrix": null,
-                "title": "Blues No. 23",
+                "title": "Blues (No. 23 in New DESOR)",
                 "releases": [
                     {
                         "label": "Sv",
@@ -620,7 +621,7 @@
                 "type": "take",
                 "index": "61-03-15-004",
                 "matrix": null,
-                "title": "Blues No. 23",
+                "title": "Blues (No. 23 in New DESOR)",
                 "releases": [],
                 "desor": "DE9048d"
             }
@@ -982,7 +983,7 @@
                 "type": "take",
                 "index": "61-04-03-022",
                 "matrix": "-5",
-                "title": "C-Jam Blues (Duke's Place) - vLA",
+                "title": "C-Jam Blues [Duke's Place] - vLA",
                 "releases": [
                     {
                         "label": "Rl",
@@ -996,7 +997,7 @@
                 "type": "take",
                 "index": "61-04-03-023",
                 "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vLA",
+                "title": "C-Jam Blues [Duke's Place] - vLA",
                 "releases": [
                     {
                         "label": "Rl",
@@ -1491,7 +1492,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson, Clark Terry, Ray Nance(t); Louis Blackburn, Murray McEachern, Lawrence Brown, Britt Woodman(tb); Juan Tizol(vtb); Jimmy Hamilton, Arthur Clark(cl,ts); Russell Procope(cl,as); Johnny Hodges, Oliver Nelson(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Harry Smiles(ob); Duke Ellington(p); Les Spann(g,f); Aaron Bell(sb); Sonny Greer, Dave Jackson, Jimmy Johnson, Philly Joe Jones, Max Roach(d)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson, Clark Terry, Ray Nance(t); Louis Blackburn, Murray McEachern, Lawrence Brown, Britt Woodman(tb); Juan Tizol(vtb); Jimmy Hamilton, Arthur Clark(cl,ts); Russell Procope(cl,as); Johnny Hodges, Oliver Nelson(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Harry Smiles(ob); Duke Ellington(p); Les Spann(g,f); Aaron Bell(sb); Sonny Greer, Dave Jackson, Jimmy Johnson, Philly Joe Jones, Max Roach(d)."
             },
             {
                 "type": "suite",
@@ -1501,7 +1502,7 @@
                 "type": "take",
                 "index": "61-05-02-001",
                 "matrix": null,
-                "title": "Nite (Paris Blues)",
+                "title": "Nite [Paris Blues]",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1520,7 +1521,7 @@
                 "type": "take",
                 "index": "61-05-02-002",
                 "matrix": null,
-                "title": "Nite (Paris Blues)",
+                "title": "Nite [Paris Blues]",
                 "releases": [
                     {
                         "label": "OC",
@@ -1535,7 +1536,7 @@
                 "type": "take",
                 "index": "61-05-02-003",
                 "matrix": null,
-                "title": "Autumnal Suite (Paris Blues)",
+                "title": "Autumnal Suite [Paris Blues]",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1554,7 +1555,7 @@
                 "type": "take",
                 "index": "61-05-02-004",
                 "matrix": null,
-                "title": "Autumnal Suite (Paris Blues)",
+                "title": "Autumnal Suite [Paris Blues]",
                 "releases": [
                     {
                         "label": "OC",
@@ -1569,7 +1570,7 @@
                 "type": "take",
                 "index": "61-05-02-005",
                 "matrix": null,
-                "title": "Birdie Jungle (Guitar Amour)",
+                "title": "Birdie Jungle [Guitar Amour]",
                 "releases": [
                     {
                         "label": "Ry",
@@ -1588,7 +1589,7 @@
                 "type": "take",
                 "index": "61-05-02-006",
                 "matrix": null,
-                "title": "Birdie Jungle (Guitar Amour)",
+                "title": "Birdie Jungle [Guitar Amour]",
                 "releases": [
                     {
                         "label": "OC",
@@ -1652,7 +1653,7 @@
                 "type": "take",
                 "index": "61-05-02-010",
                 "matrix": null,
-                "title": "Autumnal Suite (Paris Blues)",
+                "title": "Autumnal Suite [Paris Blues]",
                 "releases": [
                     {
                         "label": "OC",
@@ -1711,7 +1712,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens,  Cat Anderson, Clark Terry(t); Ray Nance(t,vn); Britt Woodman, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Oliver Jackson(d); Eddie Locke(pc)."
+                "value": "Willie Cook, Edward Mullens,  Cat Anderson, Clark Terry(t); Ray Nance(t,vn); Britt Woodman, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Oliver Jackson(d); Eddie Locke(pc)."
             },
             {
                 "type": "suite",
@@ -1834,7 +1835,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -2050,7 +2051,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2302,7 +2303,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -2766,7 +2767,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Clark Terry, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Willie Cook, Edward Mullens, Clark Terry, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2891,7 +2892,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -2959,7 +2960,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3251,7 +3252,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3303,7 +3304,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3379,7 +3380,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3704,7 +3705,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "suite",
@@ -3849,7 +3850,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "suite",
@@ -3954,7 +3955,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -4104,7 +4105,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "004"
+                        "catalog": "004",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6124p",
@@ -4118,7 +4120,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "004"
+                        "catalog": "004",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6124q",
@@ -4132,7 +4135,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "004"
+                        "catalog": "004",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6124r",
@@ -4146,7 +4150,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "004"
+                        "catalog": "004",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6124s",
@@ -4160,7 +4165,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "004"
+                        "catalog": "004",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6124t",
@@ -4244,7 +4250,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn,v); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -4560,13 +4566,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Willie Cook, Edward Mullens, Cat Anderson(t); Ray Nance(t,vn); Louis Blackburn, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
                 "index": "61-10-25-001",
                 "matrix": "CO68440-",
-                "title": "Guitar Amour (Bon Amour)",
+                "title": "Guitar Amour [Bon Amour]",
                 "releases": [
                     {
                         "label": "CBS",
@@ -4650,7 +4656,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson(t); Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Cat Anderson(t); Lawrence Brown(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4804,7 +4810,7 @@
                 "type": "take",
                 "index": "61-12-17-001",
                 "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vLA",
+                "title": "C-Jam Blues [Duke's Place] - vLA",
                 "releases": [
                     {
                         "label": "Pu",

@@ -7,7 +7,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Edward Mullens, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Edward Mullens, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -17,7 +17,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6201a"
@@ -34,7 +35,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6201b"
@@ -47,7 +49,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6201c"
@@ -72,7 +75,12 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202a"
@@ -85,7 +93,12 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202b"
@@ -98,7 +111,12 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202c"
@@ -111,11 +129,16 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "Souvenir Recording 1984"
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
                         "catalog": "001"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202d"
@@ -128,11 +151,16 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "Souvenir Recording 1984"
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
                         "catalog": "001"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202e"
@@ -145,11 +173,16 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "Souvenir Recording 1984"
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
                         "catalog": "001"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202f"
@@ -162,11 +195,16 @@
                 "releases": [
                     {
                         "label": "DETS",
-                        "catalog": "Souvenir Recording 1984"
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
                         "catalog": "001"
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202g"
@@ -179,7 +217,12 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "MJ",
+                        "catalog": "MJCD 1345"
                     }
                 ],
                 "desor": "DE6202h"
@@ -196,7 +239,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6202i"
@@ -209,7 +253,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6202j"
@@ -222,7 +267,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6202k"
@@ -235,7 +281,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6202l"
@@ -248,7 +295,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6202m"
@@ -269,7 +317,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -282,7 +331,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -295,7 +345,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -308,7 +359,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -321,7 +373,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -334,7 +387,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -347,7 +401,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -360,7 +415,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -373,7 +429,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "001"
+                        "catalog": "001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6202o"
@@ -388,7 +445,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Edward Mullens, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Edward Mullens, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -398,7 +455,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6203a"
@@ -423,7 +481,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6203c"
@@ -438,7 +497,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Edward Mullens, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Edward Mullens, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -448,7 +507,8 @@
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204a"
@@ -461,7 +521,8 @@
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204b"
@@ -470,11 +531,12 @@
                 "type": "take",
                 "index": "62-01-09-003",
                 "matrix": null,
-                "title": "Wailing Interval (Blow By Blow)",
+                "title": "Wailing Interval [Blow By Blow]",
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204c"
@@ -487,7 +549,8 @@
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204d"
@@ -500,7 +563,8 @@
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204e"
@@ -513,7 +577,8 @@
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204f"
@@ -526,7 +591,8 @@
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204g"
@@ -551,7 +617,7 @@
                 "type": "take",
                 "index": "62-01-09-010",
                 "matrix": null,
-                "title": "One More Once (The Good Years Of Jazz)",
+                "title": "One More Once [The Good Years Of Jazz]",
                 "releases": [],
                 "desor": "DE6204j"
             },
@@ -559,11 +625,12 @@
                 "type": "take",
                 "index": "62-01-09-011",
                 "matrix": null,
-                "title": "One More Once (The Good Years Of Jazz)",
+                "title": "One More Once [The Good Years Of Jazz]",
                 "releases": [
                     {
                         "label": "GY",
-                        "catalog": "106657 L"
+                        "catalog": "106657 L",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6204k"
@@ -582,7 +649,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -592,7 +659,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6205a"
@@ -605,7 +673,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6205b"
@@ -628,7 +697,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -678,7 +747,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6206f"
@@ -703,7 +773,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6206h"
@@ -748,7 +819,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1790"
+                        "catalog": "CL 1790",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6206m"
@@ -765,7 +837,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1970"
+                        "catalog": "CL 1970",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6206n"
@@ -780,7 +853,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -790,7 +863,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6207a"
@@ -803,7 +877,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6207b"
@@ -816,7 +891,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6207c"
@@ -831,7 +907,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Howard McGhee, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Howard McGhee, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -841,7 +917,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6208a"
@@ -850,11 +927,12 @@
                 "type": "take",
                 "index": "62-01-31-002",
                 "matrix": "CO69333-",
-                "title": "Javapachacha",
+                "title": "Javapachacha [Apache]",
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6208b"
@@ -863,11 +941,12 @@
                 "type": "take",
                 "index": "62-01-31-003",
                 "matrix": "CO69334-",
-                "title": "Comme Ci, Comme Ca",
+                "title": "Comme ci, Comme ça",
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6208c"
@@ -882,7 +961,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington, Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d); Della Reese(v)."
+                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington, Billy Strayhorn(p); Aaron Bell(sb); Sam Woodyard(d); Della Reese(v)."
             },
             {
                 "type": "take",
@@ -900,7 +979,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     },
                     {
                         "label": "NG",
@@ -925,7 +1005,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209b"
@@ -946,7 +1027,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209c"
@@ -967,7 +1049,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209d"
@@ -988,7 +1071,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209e"
@@ -1009,7 +1093,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209f"
@@ -1030,7 +1115,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209g"
@@ -1051,7 +1137,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209h"
@@ -1072,7 +1159,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "37/38"
+                        "catalog": "37/38",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209i"
@@ -1093,7 +1181,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209j"
@@ -1114,7 +1203,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209k"
@@ -1135,7 +1225,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209l"
@@ -1156,7 +1247,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209m"
@@ -1177,7 +1269,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209n"
@@ -1198,7 +1291,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209o"
@@ -1219,7 +1313,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209p"
@@ -1240,7 +1335,8 @@
                     },
                     {
                         "label": "NG",
-                        "catalog": "39/40"
+                        "catalog": "39/40",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6209q"
@@ -1255,7 +1351,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1331,7 +1427,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Harold Baker, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1341,7 +1437,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6211a"
@@ -1518,7 +1615,7 @@
                 "type": "take",
                 "index": "62-03-16-014",
                 "matrix": "(14)",
-                "title": "One More Once (One More Twist) - vMG",
+                "title": "One More Once [One More Twist] - vMG",
                 "releases": [],
                 "desor": "DE6212n"
             },
@@ -1526,7 +1623,7 @@
                 "type": "take",
                 "index": "62-03-16-015",
                 "matrix": "(15)",
-                "title": "One More Once (One More Twist) - vMG",
+                "title": "One More Once [One More Twist] - vMG",
                 "releases": [],
                 "desor": "DE6212o"
             },
@@ -1534,7 +1631,7 @@
                 "type": "take",
                 "index": "62-03-16-016",
                 "matrix": "(16)",
-                "title": "One More Once (One More Twist) - vMG",
+                "title": "One More Once [One More Twist] - vMG",
                 "releases": [],
                 "desor": "DE6212p"
             }
@@ -1854,7 +1951,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6214t"
@@ -1871,7 +1969,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6214u"
@@ -1884,7 +1983,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6214v"
@@ -1913,7 +2013,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6214y"
@@ -1928,7 +2029,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -2006,7 +2107,7 @@
                 "type": "take",
                 "index": "62-04-23-010",
                 "matrix": null,
-                "title": "One More Once (One More Twist) - vMG",
+                "title": "One More Once [One More Twist] - vMG",
                 "releases": [],
                 "desor": "DE6215j"
             },
@@ -2104,7 +2205,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -2134,7 +2235,7 @@
                 "type": "take",
                 "index": "62-04-24-004",
                 "matrix": null,
-                "title": "One More Once (One More Twist) - vMG",
+                "title": "One More Once [One More Twist] - vMG",
                 "releases": [],
                 "desor": "DE6217d"
             }
@@ -2148,7 +2249,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2158,7 +2259,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218a"
@@ -2211,7 +2313,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218g"
@@ -2224,7 +2327,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218h"
@@ -2237,7 +2341,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218i"
@@ -2258,7 +2363,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218k"
@@ -2271,7 +2377,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218l"
@@ -2292,7 +2399,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218n"
@@ -2313,7 +2421,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9636"
+                        "catalog": "F-9636",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6218p"
@@ -2328,7 +2437,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2454,7 +2563,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2488,7 +2597,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6221d"
@@ -2501,7 +2611,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6221e"
@@ -2522,7 +2633,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6221g"
@@ -2535,7 +2647,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6221h"
@@ -2550,13 +2663,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
                 "index": "62-05-25-001",
                 "matrix": "-1",
-                "title": "Anatomy Of A Murder (I'm Gonna Go Fishin')",
+                "title": "Anatomy Of A Murder [I'm Gonna Go Fishin']",
                 "releases": [],
                 "desor": "DE6222a"
             },
@@ -2564,11 +2677,12 @@
                 "type": "take",
                 "index": "62-05-25-002",
                 "matrix": "-3",
-                "title": "Anatomy Of A Murder (I'm Gonna Go Fishin')",
+                "title": "Anatomy Of A Murder [I'm Gonna Go Fishin']",
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6222b"
@@ -2597,7 +2711,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6222e"
@@ -2630,7 +2745,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6222h"
@@ -2669,7 +2785,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2679,7 +2795,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6220a"
@@ -2700,7 +2817,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6220c"
@@ -2713,11 +2831,12 @@
                 "type": "take",
                 "index": "62-05-28-004",
                 "matrix": "-1",
-                "title": "Someone (The Sky Fell Down)",
+                "title": "Someone [The Sky Fell Down]",
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6220d"
@@ -2738,7 +2857,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6220f"
@@ -2773,7 +2893,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); The National Symphony Orchestra, Gunther Schuller(con)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); The National Symphony Orchestra, Gunther Schuller(con)."
             },
             {
                 "type": "suite",
@@ -2826,6 +2946,11 @@
                 "releases": [
                     {
                         "label": "Sv",
+                        "catalog": "DE 100WA",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sv",
                         "catalog": "STCD 8310"
                     }
                 ],
@@ -2849,6 +2974,11 @@
                 "matrix": null,
                 "title": "Single Petal Of A Rose",
                 "releases": [
+                    {
+                        "label": "Sv",
+                        "catalog": "DE 100WA",
+                        "first_issue": true
+                    },
                     {
                         "label": "Sv",
                         "catalog": "STCD 8310"
@@ -2882,7 +3012,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3026,7 +3156,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3048,7 +3178,7 @@
                 "type": "take",
                 "index": "62-06-03-003",
                 "matrix": null,
-                "title": "Congo Square",
+                "title": "Congo Square [Matumbe]",
                 "releases": [],
                 "desor": "DE6227c"
             },
@@ -3126,7 +3256,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Leon Cox, Lawrence Brown(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -3136,7 +3266,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6228a"
@@ -3221,7 +3352,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91231-2"
+                        "catalog": "91231-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6228k"
@@ -3256,7 +3388,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3294,7 +3426,7 @@
                 "type": "take",
                 "index": "62-06-17-005",
                 "matrix": null,
-                "title": "Congo Square (Matumbe)",
+                "title": "Congo Square [Matumbe]",
                 "releases": [],
                 "desor": "DE6229d"
             },
@@ -3396,17 +3528,18 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Britt Woodman(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Britt Woodman(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
                 "index": "62-06-21-001",
                 "matrix": "CO75567-",
-                "title": "Mademoiselle De Paris",
+                "title": "Mademoiselle de Paris",
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6230a"
@@ -3431,7 +3564,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6230b"
@@ -3456,7 +3590,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "CL 1893"
+                        "catalog": "CL 1893",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6230c"
@@ -3471,7 +3606,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3481,7 +3616,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6231a"
@@ -3494,7 +3630,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6231b"
@@ -3511,7 +3648,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6231c"
@@ -3528,7 +3666,8 @@
                 "releases": [
                     {
                         "label": "Co",
-                        "catalog": "CL 1907"
+                        "catalog": "CL 1907",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6231d"
@@ -3543,7 +3682,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Dave Rivera(p); Aaron Bell(sb); Sam Woodyard(d); Jimmy Dale(v)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Dave Rivera(p); Aaron Bell(sb); Sam Woodyard(d); Jimmy Dale(v)."
             },
             {
                 "type": "take",
@@ -3577,7 +3716,8 @@
                     },
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6232c"
@@ -3614,7 +3754,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6232g"
@@ -3627,7 +3768,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6232h"
@@ -3640,7 +3782,8 @@
                 "releases": [
                     {
                         "label": "DJ",
-                        "catalog": "FW 40359"
+                        "catalog": "FW 40359",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6232i"
@@ -3685,7 +3828,8 @@
                 "releases": [
                     {
                         "label": "DJ",
-                        "catalog": "FW 40359"
+                        "catalog": "FW 40359",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6232n"
@@ -3722,7 +3866,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6232r"
@@ -3740,8 +3885,18 @@
                 "index": "62-07-03-020",
                 "matrix": null,
                 "title": "The Feeling Of Jazz",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MFD",
+                        "catalog": "G4RS-2536",
+                        "flags": "*"
+                    }
+                ],
                 "desor": "DE6232t"
+            },
+            {
+                "type": "note",
+                "content": "On MFD G4RS-2536 there is \"The Feeling of Jazz\" take 8 (DE6232r), edited replacing the original coda with the insert of coda take 2 (DE6232t)"
             }
         ]
     },
@@ -3753,7 +3908,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Gene Hull, Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Gene Hull, Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3763,7 +3918,8 @@
                 "releases": [
                     {
                         "label": "SYY",
-                        "catalog": "DSOY2233"
+                        "catalog": "DSOY2233",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233a"
@@ -3780,7 +3936,8 @@
                     },
                     {
                         "label": "ToE",
-                        "catalog": "TOLW-3162"
+                        "catalog": "TOLW-3162",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233b"
@@ -3797,7 +3954,8 @@
                     },
                     {
                         "label": "ToE",
-                        "catalog": "TOLW-3162"
+                        "catalog": "TOLW-3162",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233c"
@@ -3814,7 +3972,8 @@
                     },
                     {
                         "label": "ToE",
-                        "catalog": "TOLW-3162"
+                        "catalog": "TOLW-3162",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233d"
@@ -3827,7 +3986,8 @@
                 "releases": [
                     {
                         "label": "SYY",
-                        "catalog": "DSOY2233"
+                        "catalog": "DSOY2233",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233e"
@@ -3840,7 +4000,8 @@
                 "releases": [
                     {
                         "label": "SYY",
-                        "catalog": "DSOY2233"
+                        "catalog": "DSOY2233",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233f"
@@ -3865,7 +4026,8 @@
                 "releases": [
                     {
                         "label": "Ga",
-                        "catalog": "69299"
+                        "catalog": "69299",
+                        "first_issue": true
                     },
                     {
                         "label": "SYY",
@@ -3882,7 +4044,8 @@
                 "releases": [
                     {
                         "label": "Ga",
-                        "catalog": "69299"
+                        "catalog": "69299",
+                        "first_issue": true
                     },
                     {
                         "label": "SYY",
@@ -3903,7 +4066,8 @@
                 "releases": [
                     {
                         "label": "SYY",
-                        "catalog": "DSOY2233"
+                        "catalog": "DSOY2233",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233j"
@@ -3916,7 +4080,8 @@
                 "releases": [
                     {
                         "label": "SYY",
-                        "catalog": "DSOY2233"
+                        "catalog": "DSOY2233",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233k"
@@ -3929,7 +4094,8 @@
                 "releases": [
                     {
                         "label": "SYY",
-                        "catalog": "DSOY2233"
+                        "catalog": "DSOY2233",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233l"
@@ -3942,7 +4108,8 @@
                 "releases": [
                     {
                         "label": "SYY",
-                        "catalog": "DSOY2233"
+                        "catalog": "DSOY2233",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6233m"
@@ -3963,7 +4130,7 @@
                 "type": "take",
                 "index": "62-07-13-001",
                 "matrix": null,
-                "title": "Interview By  Harris",
+                "title": "Interview By Harris",
                 "releases": [],
                 "desor": "DE6234a"
             },
@@ -4052,7 +4219,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6236e"
@@ -4089,7 +4257,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6236i"
@@ -4114,7 +4283,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     },
                     {
                         "label": "MDD",
@@ -4127,7 +4297,7 @@
                 "type": "take",
                 "index": "62-07-25-012",
                 "matrix": "-2",
-                "title": "Tigress (Telstar)",
+                "title": "Tigress [Telstar]",
                 "releases": [],
                 "desor": "DE6236l"
             },
@@ -4135,7 +4305,7 @@
                 "type": "take",
                 "index": "62-07-25-013",
                 "matrix": "-3",
-                "title": "Tigress (Telstar)",
+                "title": "Tigress [Telstar]",
                 "releases": [],
                 "desor": "DE6236m"
             },
@@ -4143,7 +4313,7 @@
                 "type": "take",
                 "index": "62-07-25-014",
                 "matrix": "-4",
-                "title": "Tigress (Telstar)",
+                "title": "Tigress [Telstar]",
                 "releases": [],
                 "desor": "DE6236n"
             },
@@ -4151,7 +4321,7 @@
                 "type": "take",
                 "index": "62-07-25-015",
                 "matrix": "-5",
-                "title": "Tigress (Telstar)",
+                "title": "Tigress [Telstar]",
                 "releases": [],
                 "desor": "DE6236o"
             },
@@ -4159,7 +4329,7 @@
                 "type": "take",
                 "index": "62-07-25-016",
                 "matrix": "-6",
-                "title": "Tigress (Telstar)",
+                "title": "Tigress [Telstar]",
                 "releases": [],
                 "desor": "DE6236p"
             },
@@ -4167,7 +4337,7 @@
                 "type": "take",
                 "index": "62-07-25-017",
                 "matrix": "-7",
-                "title": "Tigress (Telstar)",
+                "title": "Tigress [Telstar]",
                 "releases": [],
                 "desor": "DE6236q"
             },
@@ -4175,11 +4345,12 @@
                 "type": "take",
                 "index": "62-07-25-018",
                 "matrix": "-8",
-                "title": "Tigress (Telstar)",
+                "title": "Tigress [Telstar]",
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6236r"
@@ -4236,7 +4407,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6236x"
@@ -4257,7 +4429,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6236z"
@@ -4318,7 +4491,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6236ag"
@@ -4347,7 +4521,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6236aj"
@@ -4362,7 +4537,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Ray Nance(t); Lawrence Brown(tb); Johnny Hodges(as); Coleman Hawkins(ts); Harry Carney(bar,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Ray Nance(t); Lawrence Brown(tb); Johnny Hodges(as); Coleman Hawkins(ts); Harry Carney(bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4372,7 +4547,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4389,7 +4565,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4406,7 +4583,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4423,7 +4601,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4436,11 +4615,12 @@
                 "type": "take",
                 "index": "62-08-18-005",
                 "matrix": "11048",
-                "title": "Grievin' (Self Portrait Of The Bean)",
+                "title": "Grievin' [Self Portrait Of The Bean]",
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4457,7 +4637,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4482,7 +4663,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4503,7 +4685,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-99"
+                        "catalog": "A-99",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4520,7 +4703,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-26"
+                        "catalog": "A-26",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -4539,7 +4723,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Cootie Williams, Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -4553,7 +4737,7 @@
                 "type": "take",
                 "index": "62-09-12-002",
                 "matrix": "-01",
-                "title": "Broadstream (E.S.P.)",
+                "title": "Broadstream [E.S.P.]",
                 "releases": [],
                 "desor": "DE6238b"
             },
@@ -4561,7 +4745,7 @@
                 "type": "take",
                 "index": "62-09-12-003",
                 "matrix": "-02",
-                "title": "Broadstream (E.S.P.)",
+                "title": "Broadstream [E.S.P.]",
                 "releases": [],
                 "desor": "DE6238c"
             },
@@ -4569,7 +4753,7 @@
                 "type": "take",
                 "index": "62-09-12-004",
                 "matrix": "-03",
-                "title": "Broadstream (E.S.P.)",
+                "title": "Broadstream [E.S.P.]",
                 "releases": [],
                 "desor": "DE6238d"
             },
@@ -4577,7 +4761,7 @@
                 "type": "take",
                 "index": "62-09-12-005",
                 "matrix": "-04",
-                "title": "Broadstream (E.S.P.)",
+                "title": "Broadstream [E.S.P.]",
                 "releases": [],
                 "desor": "DE6238e"
             },
@@ -4585,11 +4769,12 @@
                 "type": "take",
                 "index": "62-09-12-006",
                 "matrix": "-05",
-                "title": "Broadstream (E.S.P.)",
+                "title": "Broadstream [E.S.P.]",
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6238f"
@@ -4646,7 +4831,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6238l"
@@ -4667,7 +4853,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2008"
+                        "catalog": "2008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6238m"
@@ -4682,7 +4869,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Cootie Williams, Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -4712,7 +4899,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2008"
+                        "catalog": "2008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6239c"
@@ -4733,7 +4921,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2008"
+                        "catalog": "2008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6239d"
@@ -4742,11 +4931,12 @@
                 "type": "take",
                 "index": "62-09-13-005",
                 "matrix": "-2",
-                "title": "Do Nothin' Till You Hear From Me (New Concerto For Cootie)",
+                "title": "Do Nothin' Till You Hear From Me [New Concerto For Cootie]",
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6239e"
@@ -4755,7 +4945,7 @@
                 "type": "take",
                 "index": "62-09-13-006",
                 "matrix": null,
-                "title": "Do Nothin' Till You Hear From Me (New Concerto For Cootie)",
+                "title": "Do Nothin' Till You Hear From Me [New Concerto For Cootie]",
                 "releases": [],
                 "desor": "DE6239f"
             },
@@ -4779,7 +4969,8 @@
                     },
                     {
                         "label": "UtD",
-                        "catalog": "2008"
+                        "catalog": "2008",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6239g"
@@ -4804,7 +4995,8 @@
                 "releases": [
                     {
                         "label": "LMR",
-                        "catalog": "CD 83002"
+                        "catalog": "CD 83002",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6239i"
@@ -4841,7 +5033,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAJ 14017"
+                        "catalog": "UAJ 14017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240a"
@@ -4858,7 +5051,8 @@
                     },
                     {
                         "label": "BN",
-                        "catalog": "BT 85129"
+                        "catalog": "BT 85129",
+                        "first_issue": true
                     },
                     {
                         "label": "BN",
@@ -4879,7 +5073,8 @@
                     },
                     {
                         "label": "BN",
-                        "catalog": "CDP 7 46398 2"
+                        "catalog": "CDP 7 46398 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240c"
@@ -4904,7 +5099,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAJ 14017"
+                        "catalog": "UAJ 14017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240d"
@@ -4913,11 +5109,12 @@
                 "type": "take",
                 "index": "62-09-17-005",
                 "matrix": "-1",
-                "title": "Blues For Blanton (REM Blues)",
+                "title": "Blues For Blanton [REM Blues]",
                 "releases": [
                     {
                         "label": "BN",
-                        "catalog": "72435 38227 2"
+                        "catalog": "72435 38227 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240xa"
@@ -4926,7 +5123,7 @@
                 "type": "take",
                 "index": "62-09-17-006",
                 "matrix": "-3",
-                "title": "Blues For Blanton (REM Blues)",
+                "title": "Blues For Blanton [REM Blues]",
                 "releases": [
                     {
                         "label": "BN",
@@ -4934,7 +5131,8 @@
                     },
                     {
                         "label": "BN",
-                        "catalog": "BT 85129"
+                        "catalog": "BT 85129",
+                        "first_issue": true
                     },
                     {
                         "label": "BN",
@@ -4963,7 +5161,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAJ 14017"
+                        "catalog": "UAJ 14017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240f"
@@ -4980,7 +5179,8 @@
                     },
                     {
                         "label": "BN",
-                        "catalog": "BT 85129"
+                        "catalog": "BT 85129",
+                        "first_issue": true
                     },
                     {
                         "label": "BN",
@@ -4997,7 +5197,8 @@
                 "releases": [
                     {
                         "label": "BN",
-                        "catalog": "72435 38227 2"
+                        "catalog": "72435 38227 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240xb"
@@ -5022,7 +5223,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAJ 14017"
+                        "catalog": "UAJ 14017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240h"
@@ -5047,7 +5249,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAJ 14017"
+                        "catalog": "UAJ 14017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240i"
@@ -5064,7 +5267,8 @@
                     },
                     {
                         "label": "BN",
-                        "catalog": "CDP 7 46398 2"
+                        "catalog": "CDP 7 46398 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240j"
@@ -5089,7 +5293,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAJ 14017"
+                        "catalog": "UAJ 14017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240k"
@@ -5114,7 +5319,8 @@
                     },
                     {
                         "label": "UA",
-                        "catalog": "UAJ 14017"
+                        "catalog": "UAJ 14017",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240l"
@@ -5127,7 +5333,8 @@
                 "releases": [
                     {
                         "label": "BN",
-                        "catalog": "72435 38227 2"
+                        "catalog": "72435 38227 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6240xc"
@@ -5144,7 +5351,8 @@
                     },
                     {
                         "label": "BN",
-                        "catalog": "BT 85129"
+                        "catalog": "BT 85129",
+                        "first_issue": true
                     },
                     {
                         "label": "BN",
@@ -5152,6 +5360,42 @@
                     }
                 ],
                 "desor": "DE6240m"
+            }
+        ]
+    },
+    {
+        "group": "CAT ANDERSON AND HIS ORCHESTRA",
+        "location": "New York, NY",
+        "date": "18 September 1962",
+        "description": "Cat Anderson recording session, supervised by Duke Ellington. A&R Studio",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Cat Anderson(t); Chuck Connors(tb); Paul Gonsalves(ts); Doc Bagby(o); Aaron Bell(sb); Stu Martin(d)."
+            },
+            {
+                "type": "take",
+                "index": "62-09-18-001",
+                "matrix": "-4",
+                "title": "Organ Grinder's Swing [De De Dada Dum]",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "62-09-18-002",
+                "matrix": "-3",
+                "title": "En Flight",
+                "releases": [],
+                "desor": null
+            },
+            {
+                "type": "take",
+                "index": "62-09-18-003",
+                "matrix": null,
+                "title": "Tuesday Blues",
+                "releases": [],
+                "desor": null
             }
         ]
     },
@@ -5173,7 +5417,8 @@
                 "releases": [
                     {
                         "label": "Mo",
-                        "catalog": "20"
+                        "catalog": "20",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6241a"
@@ -5199,7 +5444,8 @@
                 "releases": [
                     {
                         "label": "Mo",
-                        "catalog": "20"
+                        "catalog": "20",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6241b"
@@ -5235,7 +5481,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Joya Sherrill, Milt Grayson(v)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d); Joya Sherrill, Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -5369,7 +5615,7 @@
                 "type": "take",
                 "index": "62-09-24-017",
                 "matrix": null,
-                "title": "Do Nothin' Till You Hear From Me (Concerto For Cootie)",
+                "title": "Do Nothin' Till You Hear From Me [New Concerto For Cootie]",
                 "releases": [],
                 "desor": "DE6242q"
             },
@@ -5481,7 +5727,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-30"
+                        "catalog": "A-30",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -5502,7 +5749,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-30"
+                        "catalog": "A-30",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -5519,11 +5767,12 @@
                 "type": "take",
                 "index": "62-09-26-003",
                 "matrix": "11116",
-                "title": "Purple Gazelle (Angelica)",
+                "title": "Purple Gazelle [Angelica]",
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-30"
+                        "catalog": "A-30",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -5540,7 +5789,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-30"
+                        "catalog": "A-30",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -5561,7 +5811,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-30"
+                        "catalog": "A-30",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -5578,7 +5829,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-30"
+                        "catalog": "A-30",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -5599,7 +5851,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "A-30"
+                        "catalog": "A-30",
+                        "first_issue": true
                     },
                     {
                         "label": "Im",
@@ -5625,7 +5878,13 @@
                 "index": "62-09-27-001",
                 "matrix": null,
                 "title": "Medley:",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MVD",
+                        "catalog": "5920D",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6244a"
             },
             {
@@ -5633,7 +5892,13 @@
                 "index": null,
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I Got It Bad And That Ain't Good - vEA",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MVD",
+                        "catalog": "5920D",
+                        "first_issue": true
+                    }
+                ],
                 "desor": null
             },
             {
@@ -5641,7 +5906,13 @@
                 "index": null,
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. I'm Beginning To See The Light - vEA",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MVD",
+                        "catalog": "5920D",
+                        "first_issue": true
+                    }
+                ],
                 "desor": null
             },
             {
@@ -5649,7 +5920,13 @@
                 "index": null,
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Sophisticated Lady - vEA",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MVD",
+                        "catalog": "5920D",
+                        "first_issue": true
+                    }
+                ],
                 "desor": null
             },
             {
@@ -5657,7 +5934,13 @@
                 "index": null,
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Take The \"A\" Train",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MVD",
+                        "catalog": "5920D",
+                        "first_issue": true
+                    }
+                ],
                 "desor": null
             },
             {
@@ -5665,7 +5948,13 @@
                 "index": "62-09-27-002",
                 "matrix": null,
                 "title": "Satin Doll - vEA",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "MVD",
+                        "catalog": "5920D",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6244b"
             }
         ]
@@ -5708,7 +5997,8 @@
                 "releases": [
                     {
                         "label": "VaI",
-                        "catalog": "VS-81007"
+                        "catalog": "VS-81007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6245a"
@@ -5743,7 +6033,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5813,7 +6103,7 @@
                 "type": "take",
                 "index": "62-11-08-009",
                 "matrix": null,
-                "title": "Do Nothin' Till You Hear From Me (Concerto For Cootie)",
+                "title": "Do Nothin' Till You Hear From Me [New Concerto For Cootie]",
                 "releases": [],
                 "desor": "DE6247i"
             },
@@ -5851,7 +6141,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn,v); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -6081,7 +6371,7 @@
                 "type": "take",
                 "index": "62-11-19-028",
                 "matrix": null,
-                "title": "Do Nothin' Till You Hear From Me (New Concerto For Cootie)",
+                "title": "Do Nothin' Till You Hear From Me [New Concerto For Cootie]",
                 "releases": [],
                 "desor": "DE6248r"
             },
@@ -6155,7 +6445,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6173,7 +6463,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6249a"
@@ -6190,7 +6481,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6211,7 +6503,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6232,7 +6525,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6253,7 +6547,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "R9-6069"
+                        "catalog": "R9-6069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6249e"
@@ -6262,7 +6557,7 @@
                 "type": "take",
                 "index": "62-11-29-006",
                 "matrix": "3225-3",
-                "title": "I'm Getting gSentimental Over You",
+                "title": "I'm Getting Sentimental Over You",
                 "releases": [
                     {
                         "label": "At",
@@ -6270,7 +6565,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6295,7 +6591,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6249g"
@@ -6346,7 +6643,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson, Eddie Preston(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson, Eddie Preston(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6364,7 +6661,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6251a"
@@ -6385,7 +6683,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6410,7 +6709,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6469,7 +6769,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6483,7 +6783,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6508,7 +6809,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6254b"
@@ -6521,7 +6823,8 @@
                 "releases": [
                     {
                         "label": "Rep",
-                        "catalog": "R9-6069"
+                        "catalog": "R9-6069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6254c"
@@ -6574,7 +6877,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope  (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
+                "value": "Bill Berry, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope  (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6608,7 +6911,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6256c"
@@ -6625,7 +6929,7 @@
                 "type": "take",
                 "index": "62-12-14-005",
                 "matrix": "3389-2",
-                "title": "For Dancers only",
+                "title": "For Dancers Only",
                 "releases": [
                     {
                         "label": "At",
@@ -6633,7 +6937,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6691,7 +6996,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8399"
+                        "catalog": "101 8399",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6257b"
@@ -6706,7 +7012,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6728,7 +7034,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6769,7 +7076,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6258e"
@@ -6782,7 +7090,8 @@
                 "releases": [
                     {
                         "label": "Rep",
-                        "catalog": "R9-6069"
+                        "catalog": "R9-6069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6258f"
@@ -6803,7 +7112,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6258g"
@@ -6816,7 +7126,8 @@
                 "releases": [
                     {
                         "label": "Rep",
-                        "catalog": "R9-6069"
+                        "catalog": "R9-6069",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6258h"
@@ -6831,13 +7142,13 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
                 "index": "62-12-29-001",
                 "matrix": "3386-15",
-                "title": "Don't get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "At",
@@ -6849,7 +7160,8 @@
                     },
                     {
                         "label": "Rep",
-                        "catalog": "RS-6168"
+                        "catalog": "RS-6168",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6259a"
@@ -6866,7 +7178,8 @@
                     },
                     {
                         "label": "At",
-                        "catalog": "SD 1665"
+                        "catalog": "SD 1665",
+                        "first_issue": true
                     },
                     {
                         "label": "Ms",
@@ -6905,7 +7218,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Britt Woodman, Buster Cooper(tb); Chuck Connors(btb); Aaron Bell(bb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d); Milt Grayson(v)."
+                "value": "Cootie Williams, Roy Burrowes, Cat Anderson(t); Ray Nance(t,vn); Lawrence Brown, Britt Woodman, Buster Cooper(tb); Chuck Connors(btb); Aaron Bell(bb); Jimmy Hamilton(cl,ts); Russell Procope (cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d); Milt Grayson(v)."
             },
             {
                 "type": "take",
@@ -6999,7 +7312,7 @@
                 "type": "take",
                 "index": "62-12-31-012",
                 "matrix": null,
-                "title": "Silk Lace (Caliné)",
+                "title": "Silk Lace [Caliné]",
                 "releases": [],
                 "desor": "DE6260l"
             },
