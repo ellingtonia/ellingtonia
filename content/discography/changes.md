@@ -7,6 +7,9 @@ menu:
 ---
 
 ## August 2026
+* 1940: retitled "The Girl In My Dreams" to "The Girl In My Dreams Tries To Look Like You" (28 December session), matching the correction already applied to 1941 and 1963; also updated the title index (`titles.json`).
+* 1958/1959/1960/1969: standardised "Walkin' And Singin' The Blues" / "Walking And Singing The Blues" to its copyrighted title "Walking & Singing The Blues" throughout, matching the correction already applied to 1963; also updated the title index (`titles.json`).
+* 1969: removed a stray trailing "s" from "It Don't Mean A Thing (If It Ain't Got That Swing)s" (4 occurrences).
 * 1945: added numerous V-Disc (VD, VD Mar, VD Navy), FDC, ST 110, and HMV first-issue releases across many sessions through the year; added a Jo LP-1053B release for the 25 March "Take The 'A' Train" theme; added an RCA EPAT-435 release; structured the 21 April Black, Brown and Beige performance into its (B) Brown / (C) Beige movements with suite indices; added notes on the doubtful Hillard Brown drum credit (21 April), VD 657/516 side labelling, the Adams Theatre engagement affecting a DETS broadcast date, and the V-Disc 483 Harlem Air Shaft introduction; added alternate titles "[Subtle Slough]", "[Under the Balcony]", and "[Time's A-Wastin']" to several recurring titles.
 * Labels: removed unused label "Go"; clarified descriptions for HMV, VD Mar and VD Navy.
 * 1932: retitled "Fast And Furious (Lot O' Fingers)" to "Lot O' Fingers [Fast And Furious][Harlem Manicurist]".
