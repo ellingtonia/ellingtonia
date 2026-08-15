@@ -29,7 +29,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Conte Candoli, Al Porcino, Ray Triscari(t); Murray McEachern, Milt Bernhart, Hoyt Bohannon, Ken Shroyer(tb); Jimmy Hamilton(cl,ts); Buddy Collette(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Bud Shank (f); Catherine Gothoffer(ha); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
+                "value": "Cootie Williams, Cat Anderson, Conte Candoli, Al Porcino, Ray Triscari(t); Murray McEachern, Milt Bernhart, Hoyt Bohannon, Ken Shroyer(tb); Jimmy Hamilton(cl,ts); Buddy Collette(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Bud Shank (f); Catherine Gothoffer(ha); Duke Ellington(p); John Lamb(sb); Louie Bellson(d)."
             },
             {
                 "type": "take",
@@ -39,7 +39,8 @@
                 "releases": [
                     {
                         "label": "DraDo",
-                        "catalog": "DDR621"
+                        "catalog": "DDR621",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6602a"
@@ -52,7 +53,8 @@
                 "releases": [
                     {
                         "label": "DraDo",
-                        "catalog": "DDR621"
+                        "catalog": "DDR621",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6602b"
@@ -69,7 +71,8 @@
                 "releases": [
                     {
                         "label": "DraDo",
-                        "catalog": "DDR621"
+                        "catalog": "DDR621",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6602c"
@@ -86,7 +89,8 @@
                 "releases": [
                     {
                         "label": "DraDo",
-                        "catalog": "DDR621"
+                        "catalog": "DDR621",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6602d"
@@ -100,13 +104,18 @@
                     {
                         "label": "DraDo",
                         "catalog": "DDR621"
+                    },
+                    {
+                        "label": "JzdMe",
+                        "catalog": "JM9003",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
             },
             {
                 "type": "note",
-                "content": "The studio orchestra was overdubbed on February 4. The Big Heist was not used in the film soundtrack; it first appeared in a bonus CD issued with the DVD \"Against The Tide\", a documentary on Bud Shank."
+                "content": "The studio orchestra was overdubbed on February 4. The Big Heist was not used in the film soundtrack; it first appeared in a bonus CD issued with the DVD JzdMe JM9003, \"Against The Tide\", a documentary on Bud Shank."
             }
         ]
     },
@@ -118,7 +127,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Skeets Marsh(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Skeets Marsh(d)."
             },
             {
                 "type": "take",
@@ -234,7 +243,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
             },
             {
                 "type": "take",
@@ -296,7 +305,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6605g",
@@ -310,7 +320,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6605h",
@@ -324,7 +335,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6605i",
@@ -338,7 +350,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6605j",
@@ -420,7 +433,7 @@
                 "type": "take",
                 "index": "66-01-28-020",
                 "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vEF",
+                "title": "C-Jam Blues [Duke's Place] - vEF",
                 "releases": [],
                 "desor": "DE6605s"
             },
@@ -438,7 +451,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
             },
             {
                 "type": "take",
@@ -456,7 +469,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6606b"
@@ -511,7 +525,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
             },
             {
                 "type": "take",
@@ -521,7 +535,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607a"
@@ -534,7 +549,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607b"
@@ -547,7 +563,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607c"
@@ -560,7 +577,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607d"
@@ -569,7 +587,7 @@
                 "type": "take",
                 "index": "66-01-29-012",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6607e"
             },
@@ -581,7 +599,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607f"
@@ -594,7 +613,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607g"
@@ -615,7 +635,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607i"
@@ -624,11 +645,12 @@
                 "type": "take",
                 "index": "66-01-29-017",
                 "matrix": null,
-                "title": "Trombone Buster (El Busto)",
+                "title": "Trombone Buster [El Busto]",
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607j"
@@ -641,7 +663,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607k"
@@ -654,7 +677,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607l"
@@ -667,7 +691,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "007"
+                        "catalog": "007",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6607m"
@@ -712,7 +737,7 @@
                 "type": "take",
                 "index": "66-01-29-025",
                 "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vEF",
+                "title": "C-Jam Blues [Duke's Place] - vEF",
                 "releases": [],
                 "desor": "DE6607r"
             }
@@ -726,7 +751,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
             },
             {
                 "type": "take",
@@ -736,7 +761,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -753,7 +779,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -770,7 +797,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -787,7 +815,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -800,11 +829,12 @@
                 "type": "take",
                 "index": "66-01-30-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -821,7 +851,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -838,7 +869,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -855,7 +887,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -936,7 +969,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -953,7 +987,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -970,7 +1005,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6608k"
@@ -983,7 +1019,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6608l"
@@ -996,7 +1033,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6608m"
@@ -1009,7 +1047,8 @@
                 "releases": [
                     {
                         "label": "CCo",
-                        "catalog": "JBS 93B02b"
+                        "catalog": "JBS 93B02b",
+                        "first_issue": true
                     },
                     {
                         "label": "Rai",
@@ -1031,6 +1070,11 @@
                     {
                         "label": "CCo",
                         "catalog": "JBS 93B02b"
+                    },
+                    {
+                        "label": "STR",
+                        "catalog": "10009",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6608o"
@@ -1059,7 +1103,8 @@
                 "releases": [
                     {
                         "label": "MDD",
-                        "catalog": "011"
+                        "catalog": "011",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6609a",
@@ -1100,7 +1145,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1122,7 +1167,7 @@
                 "type": "take",
                 "index": "66-02-02-003",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6610c"
             },
@@ -1264,7 +1309,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1294,7 +1339,7 @@
                 "type": "take",
                 "index": "66-02-06-004",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6611d"
             },
@@ -1392,7 +1437,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1438,7 +1483,7 @@
                 "type": "take",
                 "index": "66-02-06-019",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6612e"
             },
@@ -1536,7 +1581,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1550,7 +1595,7 @@
                 "type": "take",
                 "index": "66-02-07-002",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6613xb"
             },
@@ -1570,7 +1615,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6613a"
@@ -1583,7 +1629,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6613b"
@@ -1612,7 +1659,8 @@
                 "releases": [
                     {
                         "label": "MFD",
-                        "catalog": "G4RS-2536"
+                        "catalog": "G4RS-2536",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6613c"
@@ -1657,7 +1705,7 @@
                 "type": "take",
                 "index": "66-02-07-013",
                 "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vEF",
+                "title": "C-Jam Blues [Duke's Place] - vEF",
                 "releases": [],
                 "desor": "DE6613xj"
             },
@@ -1679,7 +1727,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1717,7 +1765,7 @@
                 "type": "take",
                 "index": "66-02-07-019",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6614e"
             },
@@ -1833,7 +1881,7 @@
                 "type": "take",
                 "index": "66-02-08-003",
                 "matrix": null,
-                "title": "Marcia Regina (The Queen's Guard)",
+                "title": "Marcia Regina [The Queen's Guard]",
                 "releases": [],
                 "desor": "DE6615c"
             },
@@ -1841,7 +1889,7 @@
                 "type": "take",
                 "index": "66-02-08-004",
                 "matrix": null,
-                "title": "Marcia Regina (The Queen's Guard)",
+                "title": "Marcia Regina [The Queen's Guard]",
                 "releases": [],
                 "desor": "DE6615d"
             },
@@ -1872,7 +1920,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1880,7 +1928,7 @@
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": "DE6616g"
+                "desor": "DE6615g"
             },
             {
                 "type": "take",
@@ -1888,7 +1936,7 @@
                 "matrix": null,
                 "title": "West Indian Pancake",
                 "releases": [],
-                "desor": "DE6616h"
+                "desor": "DE6615h"
             },
             {
                 "type": "take",
@@ -1896,7 +1944,7 @@
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6616i"
+                "desor": "DE6615i"
             },
             {
                 "type": "take",
@@ -1904,7 +1952,7 @@
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6616j"
+                "desor": "DE6615j"
             },
             {
                 "type": "take",
@@ -1912,7 +1960,7 @@
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
-                "desor": "DE6616k"
+                "desor": "DE6615k"
             }
         ]
     },
@@ -1924,7 +1972,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -1975,7 +2023,13 @@
                 "index": "66-02-08-017",
                 "matrix": null,
                 "title": "Imagine My Frustration - vEF",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "2308-242",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6616f"
             },
             {
@@ -1986,13 +2040,19 @@
                 "type": "take",
                 "index": "66-02-08-018",
                 "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vEF",
-                "releases": [],
+                "title": "C-Jam Blues [Duke's Place] - vEF",
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "2308-242",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6616g"
             },
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2014,7 +2074,7 @@
                 "type": "take",
                 "index": "66-02-08-021",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6616j"
             },
@@ -2043,7 +2103,13 @@
                 "index": "66-02-08-024",
                 "matrix": null,
                 "title": "Cotton Tail - vEF",
-                "releases": [],
+                "releases": [
+                    {
+                        "label": "Pb",
+                        "catalog": "2308-242",
+                        "first_issue": true
+                    }
+                ],
                 "desor": "DE6616m"
             },
             {
@@ -2060,7 +2126,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2090,7 +2156,7 @@
                 "type": "take",
                 "index": "66-02-11-004",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6618d"
             },
@@ -2160,7 +2226,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2198,7 +2264,7 @@
                 "type": "take",
                 "index": "66-02-11-016",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6619e"
             },
@@ -2304,7 +2370,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2342,7 +2408,7 @@
                 "type": "take",
                 "index": "66-02-12-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6620e"
             },
@@ -2448,7 +2514,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2486,7 +2552,7 @@
                 "type": "take",
                 "index": "66-02-13-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6621e"
             },
@@ -2534,7 +2600,7 @@
                 "type": "take",
                 "index": "66-02-13-011",
                 "matrix": null,
-                "title": "Trombone Buster (El Busto)",
+                "title": "Trombone Buster [El Busto]",
                 "releases": [],
                 "desor": "DE6621k"
             },
@@ -2584,7 +2650,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2622,7 +2688,7 @@
                 "type": "take",
                 "index": "66-02-13-020",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6622e"
             },
@@ -2670,7 +2736,7 @@
                 "type": "take",
                 "index": "66-02-13-026",
                 "matrix": null,
-                "title": "Trombone Buster (El Busto)",
+                "title": "Trombone Buster [El Busto]",
                 "releases": [],
                 "desor": "DE6622k"
             },
@@ -2700,7 +2766,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2738,7 +2804,7 @@
                 "type": "take",
                 "index": "66-02-14-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6623e"
             },
@@ -2826,7 +2892,7 @@
                 "type": "take",
                 "index": "66-02-14-016",
                 "matrix": null,
-                "title": "Trombone Buster (El Busto)",
+                "title": "Trombone Buster [El Busto]",
                 "releases": [],
                 "desor": "DE6623p"
             },
@@ -2928,7 +2994,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -2966,7 +3032,7 @@
                 "type": "take",
                 "index": "66-02-14-031",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6624e"
             },
@@ -3054,7 +3120,7 @@
                 "type": "take",
                 "index": "66-02-14-042",
                 "matrix": null,
-                "title": "Trombone Buster (El Busto)",
+                "title": "Trombone Buster [El Busto]",
                 "releases": [],
                 "desor": "DE6624p"
             },
@@ -3124,7 +3190,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3162,7 +3228,7 @@
                 "type": "take",
                 "index": "66-02-17-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6625e"
             },
@@ -3242,7 +3308,7 @@
                 "type": "take",
                 "index": "66-02-17-014",
                 "matrix": null,
-                "title": "Light (Montage)",
+                "title": "Light [Montage]",
                 "releases": [],
                 "desor": "DE6625n"
             },
@@ -3368,7 +3434,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3390,7 +3456,7 @@
                 "type": "take",
                 "index": "66-02-19-003",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6627b"
             },
@@ -3504,7 +3570,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3518,7 +3584,7 @@
                 "type": "take",
                 "index": "66-02-19-016",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6626b"
             },
@@ -3672,7 +3738,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3702,7 +3768,7 @@
                 "type": "take",
                 "index": "66-02-20-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6629d"
             },
@@ -3796,7 +3862,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -3810,7 +3876,7 @@
                 "type": "take",
                 "index": "66-02-20-017",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6630b"
             },
@@ -3942,7 +4008,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632a"
@@ -3958,7 +4025,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); George Webb, Cliff Adams Singers(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); George Webb, Cliff Adams Singers(v)."
             },
             {
                 "type": "take",
@@ -3968,7 +4035,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632b"
@@ -3977,11 +4045,12 @@
                 "type": "take",
                 "index": "66-02-21-004",
                 "matrix": null,
-                "title": "Light (Montage)",
+                "title": "Light [Montage]",
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632c"
@@ -3994,7 +4063,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632d"
@@ -4007,7 +4077,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632e"
@@ -4020,7 +4091,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632f"
@@ -4033,7 +4105,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632g"
@@ -4046,7 +4119,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018448"
+                        "catalog": "1018448",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6632h"
@@ -4061,7 +4135,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4099,7 +4173,7 @@
                 "type": "take",
                 "index": "66-02-22-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6633e"
             },
@@ -4197,7 +4271,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4251,7 +4325,7 @@
                 "type": "take",
                 "index": "66-02-23-007",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6617g"
             },
@@ -4295,7 +4369,7 @@
                 "type": "take",
                 "index": "66-02-23-012",
                 "matrix": null,
-                "title": "C-Jam Blues (Duke's Place) - vEF",
+                "title": "C-Jam Blues [Duke's Place] - vEF",
                 "releases": [],
                 "desor": "DE6617l"
             },
@@ -4331,7 +4405,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4356,7 +4431,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4373,7 +4449,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4390,7 +4467,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4407,7 +4485,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4424,7 +4503,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4441,7 +4521,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4458,7 +4539,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4475,7 +4557,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4492,7 +4575,8 @@
                 "releases": [
                     {
                         "label": "JBP",
-                        "catalog": "91"
+                        "catalog": "91",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -4573,14 +4657,15 @@
                 "releases": [
                     {
                         "label": "DJ",
-                        "catalog": "FW 40359"
+                        "catalog": "FW 40359",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6636e"
             },
             {
                 "type": "artists",
-                "value": "Jerome Richardson out. Add Harry Carney(bar,cl,bcl)."
+                "value": "Jerome Richardson out. Add Harry Carney(cl,bcl,bar)."
             },
             {
                 "type": "take",
@@ -4590,7 +4675,12 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8390"
+                        "catalog": "101 8390",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "108 8617"
                     }
                 ],
                 "desor": "DE6636f"
@@ -4613,6 +4703,11 @@
                         "label": "Sv",
                         "catalog": "101 8390",
                         "flags": "*"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "108 8617",
+                        "flags": "*"
                     }
                 ],
                 "desor": "DE6636h"
@@ -4633,7 +4728,8 @@
                 "releases": [
                     {
                         "label": "DJ",
-                        "catalog": "FW 40359"
+                        "catalog": "FW 40359",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6636j"
@@ -4662,7 +4758,8 @@
                 "releases": [
                     {
                         "label": "DJ",
-                        "catalog": "FW 40359"
+                        "catalog": "FW 40359",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6636m"
@@ -4678,7 +4775,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4722,7 +4819,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -4760,7 +4857,7 @@
                 "type": "take",
                 "index": "66-04-09-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6638e"
             },
@@ -4800,7 +4897,7 @@
                 "type": "take",
                 "index": "66-04-09-010",
                 "matrix": null,
-                "title": "Trombone Buster (El Busto)",
+                "title": "Trombone Buster [El Busto]",
                 "releases": [],
                 "desor": "DE6638j"
             },
@@ -5316,7 +5413,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); June Norton, Jimmy McPhail(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); June Norton, Jimmy McPhail(v)."
             },
             {
                 "type": "take",
@@ -5470,7 +5567,7 @@
                 "type": "take",
                 "index": "66-04-24-016",
                 "matrix": null,
-                "title": "Jail Blues (Workin' Blues) - vJMP",
+                "title": "Workin' Blues - vJMP",
                 "releases": [],
                 "desor": "DE6641p"
             },
@@ -5600,7 +5697,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Tony Bennett(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Tony Bennett(v)."
             },
             {
                 "type": "take",
@@ -5636,7 +5733,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5657,7 +5754,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6643a"
@@ -5681,7 +5779,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6643b"
@@ -5705,7 +5804,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6643c"
@@ -5755,7 +5855,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5776,7 +5876,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6644a"
@@ -5800,7 +5901,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6644b"
@@ -5824,7 +5926,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6644c"
@@ -5848,7 +5951,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6644d"
@@ -5863,7 +5967,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Wilbur Brisbois, Cat Anderson, Mercer Ellington(t); Herbie Jones(t,flh); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Wilbur Brisbois, Cat Anderson, Mercer Ellington(t); Herbie Jones(t,flh); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -5875,6 +5979,7 @@
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "22",
+                        "first_issue": true,
                         "track": 13,
                         "length": 119
                     }
@@ -5891,6 +5996,7 @@
                         "label": "RCA",
                         "catalog": "09026-63386-2",
                         "disc": "22",
+                        "first_issue": true,
                         "track": 14,
                         "length": 118
                     }
@@ -5912,7 +6018,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6645b"
@@ -5936,7 +6043,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6645c"
@@ -5960,7 +6068,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6645d"
@@ -5984,7 +6093,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM-3576"
+                        "catalog": "LPM-3576",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6645e"
@@ -6027,7 +6137,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6065,7 +6175,7 @@
                 "type": "take",
                 "index": "66-05-16-004",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6647d"
             },
@@ -6119,7 +6229,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6157,7 +6267,7 @@
                 "type": "take",
                 "index": "66-05-20-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6648e"
             },
@@ -6451,7 +6561,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6857,7 +6967,8 @@
                 "releases": [
                     {
                         "label": "GRE",
-                        "catalog": "DVCOV-022"
+                        "catalog": "DVCOV-022",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -6870,7 +6981,8 @@
                 "releases": [
                     {
                         "label": "GRE",
-                        "catalog": "DVCOV-022"
+                        "catalog": "DVCOV-022",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -6883,7 +6995,8 @@
                 "releases": [
                     {
                         "label": "GRE",
-                        "catalog": "DVCOV-022"
+                        "catalog": "DVCOV-022",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -6896,7 +7009,8 @@
                 "releases": [
                     {
                         "label": "GRE",
-                        "catalog": "DVCOV-022"
+                        "catalog": "DVCOV-022",
+                        "first_issue": true
                     },
                     {
                         "label": "TLi",
@@ -6913,7 +7027,8 @@
                 "releases": [
                     {
                         "label": "GRE",
-                        "catalog": "DVCOV-022"
+                        "catalog": "DVCOV-022",
+                        "first_issue": true
                     },
                     {
                         "label": "TLi",
@@ -6934,7 +7049,8 @@
                 "releases": [
                     {
                         "label": "TLi",
-                        "catalog": "26410-X"
+                        "catalog": "26410-X",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6650b"
@@ -6969,7 +7085,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -6979,7 +7095,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -6996,7 +7113,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7013,7 +7131,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7030,7 +7149,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-1"
+                        "catalog": "GJ-1",
+                        "first_issue": true
                     },
                     {
                         "label": "IGDJ",
@@ -7047,11 +7167,12 @@
                 "type": "take",
                 "index": "66-07-03-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7068,7 +7189,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7085,7 +7207,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7102,7 +7225,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7127,7 +7251,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-64"
+                        "catalog": "GJ-64",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7144,7 +7269,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-64"
+                        "catalog": "GJ-64",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7161,7 +7287,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7178,7 +7305,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7195,7 +7323,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-12"
+                        "catalog": "GJ-12",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7212,7 +7341,8 @@
                 "releases": [
                     {
                         "label": "IGDJ",
-                        "catalog": "GJ-64"
+                        "catalog": "GJ-64",
+                        "first_issue": true
                     },
                     {
                         "label": "LRC",
@@ -7259,7 +7389,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7297,7 +7427,7 @@
                 "type": "take",
                 "index": "66-07-04-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6653e"
             },
@@ -7483,7 +7613,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7497,7 +7627,7 @@
                 "type": "take",
                 "index": "66-07-06-002",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6654b"
             },
@@ -7651,7 +7781,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7665,7 +7795,7 @@
                 "type": "take",
                 "index": "66-07-08-002",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6655b"
             },
@@ -7835,7 +7965,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -7849,7 +7979,7 @@
                 "type": "take",
                 "index": "66-07-10-002",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6656b"
             },
@@ -8019,7 +8149,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -8057,7 +8187,7 @@
                 "type": "take",
                 "index": "66-07-15-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6657e"
             },
@@ -8257,7 +8387,8 @@
                 "releases": [
                     {
                         "label": "FEEC",
-                        "catalog": "AR-1705"
+                        "catalog": "AR-1705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658b"
@@ -8270,7 +8401,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9462"
+                        "catalog": "F-9462",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658c"
@@ -8283,7 +8415,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9462"
+                        "catalog": "F-9462",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658d"
@@ -8312,7 +8445,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9462"
+                        "catalog": "F-9462",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658g"
@@ -8325,7 +8459,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9462"
+                        "catalog": "F-9462",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658h"
@@ -8338,7 +8473,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9462"
+                        "catalog": "F-9462",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658i"
@@ -8351,7 +8487,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9462"
+                        "catalog": "F-9462",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658j"
@@ -8364,7 +8501,8 @@
                 "releases": [
                     {
                         "label": "Fa",
-                        "catalog": "F-9462"
+                        "catalog": "F-9462",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658k"
@@ -8398,7 +8536,8 @@
                 "releases": [
                     {
                         "label": "FEEC",
-                        "catalog": "AR-1705"
+                        "catalog": "AR-1705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658m"
@@ -8419,7 +8558,8 @@
                 "releases": [
                     {
                         "label": "FEEC",
-                        "catalog": "AR-1705"
+                        "catalog": "AR-1705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658o"
@@ -8448,7 +8588,8 @@
                 "releases": [
                     {
                         "label": "FEEC",
-                        "catalog": "AR-1705"
+                        "catalog": "AR-1705",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6658r"
@@ -8483,7 +8624,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -8497,7 +8638,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660a"
@@ -8510,7 +8652,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660b"
@@ -8523,7 +8666,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660c"
@@ -8536,7 +8680,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660d"
@@ -8549,7 +8694,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660e"
@@ -8558,11 +8704,12 @@
                 "type": "take",
                 "index": "66-07-26-007",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660f"
@@ -8575,7 +8722,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660g"
@@ -8588,7 +8736,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660h"
@@ -8601,7 +8750,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660i"
@@ -8618,7 +8768,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660j"
@@ -8635,7 +8786,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660k"
@@ -8648,7 +8800,8 @@
                 "releases": [
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660l"
@@ -8665,7 +8818,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660m"
@@ -8698,7 +8852,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660n"
@@ -8727,7 +8882,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660o"
@@ -8752,7 +8908,8 @@
                     },
                     {
                         "label": "STJ",
-                        "catalog": "SJ-1018"
+                        "catalog": "SJ-1018",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -8781,7 +8938,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660r"
@@ -8794,7 +8952,8 @@
                 "releases": [
                     {
                         "label": "MJ",
-                        "catalog": "MJCD 1101"
+                        "catalog": "MJCD 1101",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -8811,7 +8970,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660t"
@@ -8824,7 +8984,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -8841,7 +9002,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -8858,7 +9020,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -8871,11 +9034,12 @@
                 "type": "take",
                 "index": "66-07-26-025",
                 "matrix": null,
-                "title": "Star-Crossed Lovers",
+                "title": "The Star-Crossed Lovers",
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660x"
@@ -8888,7 +9052,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660y"
@@ -8901,7 +9066,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660z"
@@ -8914,7 +9080,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660aa"
@@ -8927,7 +9094,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660ab"
@@ -8940,7 +9108,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6660ac"
@@ -8965,7 +9134,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6661a"
@@ -8986,7 +9156,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2308-247"
+                        "catalog": "2308-247",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6661b"
@@ -8999,7 +9170,8 @@
                 "releases": [
                     {
                         "label": "Pb",
-                        "catalog": "2308-247"
+                        "catalog": "2308-247",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6661c"
@@ -9016,7 +9188,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2308-247"
+                        "catalog": "2308-247",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6661d"
@@ -9031,7 +9204,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -9041,7 +9214,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9058,7 +9232,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662b"
@@ -9071,7 +9246,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662c"
@@ -9084,7 +9260,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662d"
@@ -9093,7 +9270,7 @@
                 "type": "take",
                 "index": "66-07-27-009",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6662e"
             },
@@ -9113,7 +9290,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-8701"
+                        "catalog": "V-8701",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662f"
@@ -9134,7 +9312,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662g"
@@ -9147,7 +9326,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9164,7 +9344,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9181,7 +9362,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9202,7 +9384,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662k"
@@ -9219,7 +9402,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9240,7 +9424,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662m"
@@ -9253,7 +9438,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662n"
@@ -9266,7 +9452,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9283,7 +9470,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9300,7 +9488,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9313,11 +9502,12 @@
                 "type": "take",
                 "index": "66-07-27-022",
                 "matrix": null,
-                "title": "Star-Crossed Lovers",
+                "title": "The Star-Crossed Lovers",
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9334,7 +9524,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662s"
@@ -9365,7 +9556,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662u"
@@ -9378,7 +9570,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9399,7 +9592,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9420,7 +9614,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD074-2"
+                        "catalog": "MCD074-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9445,7 +9640,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-8701"
+                        "catalog": "V-8701",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662y"
@@ -9458,7 +9654,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -9487,7 +9684,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-8701"
+                        "catalog": "V-8701",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662aa"
@@ -9500,7 +9698,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6662ab"
@@ -9515,7 +9714,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -9559,7 +9758,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663d"
@@ -9572,7 +9772,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663e"
@@ -9585,7 +9786,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663f"
@@ -9598,7 +9800,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663g"
@@ -9611,7 +9814,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663h"
@@ -9624,7 +9828,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663i"
@@ -9641,7 +9846,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663j"
@@ -9654,7 +9860,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663k"
@@ -9667,7 +9874,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663l"
@@ -9680,7 +9888,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663m"
@@ -9693,7 +9902,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663n"
@@ -9706,7 +9916,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663o"
@@ -9735,7 +9946,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663q"
@@ -9748,7 +9960,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663r"
@@ -9765,7 +9978,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663s"
@@ -9778,7 +9992,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6663t"
@@ -9793,7 +10008,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -9857,7 +10072,7 @@
                 "type": "take",
                 "index": "66-07-28-026",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [
                     {
                         "label": "Ve",
@@ -9869,7 +10084,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-8701"
+                        "catalog": "V-8701",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664f"
@@ -9882,7 +10098,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664g"
@@ -9895,7 +10112,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664h"
@@ -9912,7 +10130,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664i"
@@ -9937,7 +10156,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-8701"
+                        "catalog": "V-8701",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664j"
@@ -9950,7 +10170,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664k"
@@ -9971,7 +10192,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664l"
@@ -9984,7 +10206,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -10001,7 +10224,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664n"
@@ -10014,7 +10238,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -10027,11 +10252,12 @@
                 "type": "take",
                 "index": "66-07-28-036",
                 "matrix": null,
-                "title": "Star-Crossed Lovers",
+                "title": "The Star-Crossed Lovers",
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664p"
@@ -10044,7 +10270,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664q"
@@ -10057,7 +10284,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664r"
@@ -10082,7 +10310,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6664s"
@@ -10143,7 +10372,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -10161,7 +10390,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665b"
@@ -10174,7 +10404,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665c"
@@ -10187,7 +10418,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665d"
@@ -10196,11 +10428,12 @@
                 "type": "take",
                 "index": "66-07-29-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665e"
@@ -10213,7 +10446,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665f"
@@ -10226,7 +10460,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665g"
@@ -10247,7 +10482,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665i"
@@ -10264,7 +10500,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665j"
@@ -10277,7 +10514,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665k"
@@ -10290,7 +10528,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665l"
@@ -10299,11 +10538,12 @@
                 "type": "take",
                 "index": "66-07-29-013",
                 "matrix": null,
-                "title": "Star-Crossed Lovers",
+                "title": "The Star-Crossed Lovers",
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665m"
@@ -10324,7 +10564,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -10341,7 +10582,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665p"
@@ -10358,7 +10600,8 @@
                 "releases": [
                     {
                         "label": "Ve",
-                        "catalog": "314539033-2"
+                        "catalog": "314539033-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665q"
@@ -10447,7 +10690,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665w"
@@ -10468,7 +10712,8 @@
                 "releases": [
                     {
                         "label": "MR",
-                        "catalog": "MCD070-2"
+                        "catalog": "MCD070-2",
+                        "first_issue": true
                     },
                     {
                         "label": "Ve",
@@ -10505,7 +10750,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665aa"
@@ -10530,7 +10776,8 @@
                     },
                     {
                         "label": "Ve",
-                        "catalog": "V-4072-2"
+                        "catalog": "V-4072-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6665ab"
@@ -10545,7 +10792,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -10567,7 +10814,7 @@
                 "type": "take",
                 "index": "66-08-15-003",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6666c"
             },
@@ -10709,7 +10956,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -10723,7 +10970,8 @@
                     },
                     {
                         "label": "Sa",
-                        "catalog": "91234-2"
+                        "catalog": "91234-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6667a"
@@ -10768,7 +11016,8 @@
                 "releases": [
                     {
                         "label": "MM",
-                        "catalog": "5041-2C"
+                        "catalog": "5041-2C",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6667f"
@@ -10813,7 +11062,8 @@
                 "releases": [
                     {
                         "label": "MM",
-                        "catalog": "5041-2C"
+                        "catalog": "5041-2C",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6667k"
@@ -10826,7 +11076,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8390"
+                        "catalog": "101 8390",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -10995,7 +11246,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -11025,7 +11276,7 @@
                 "type": "take",
                 "index": "66-08-25-012",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6668l"
             },
@@ -11274,11 +11525,12 @@
                 "type": "take",
                 "index": "66-09-02-001",
                 "matrix": null,
-                "title": "Meditation (Just One Big Question)",
+                "title": "Meditation [Just One Big Question]",
                 "releases": [
                     {
                         "label": "CS",
-                        "catalog": "MPA-2"
+                        "catalog": "MPA-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6669a"
@@ -11293,7 +11545,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -11331,7 +11583,7 @@
                 "type": "take",
                 "index": "66-09-18-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6670e"
             },
@@ -11399,7 +11651,7 @@
                 "type": "take",
                 "index": "66-09-18-013",
                 "matrix": null,
-                "title": "Come Sunday (David Danced) - vTW",
+                "title": "Come Sunday [David Danced] - vTW",
                 "releases": [],
                 "desor": "DE6670m"
             },
@@ -11461,7 +11713,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Jim Hughart(sb); Ed Thigpen(d); Bunny Briggs(td)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Jim Hughart(sb); Ed Thigpen(d); Bunny Briggs(td)."
             },
             {
                 "type": "take",
@@ -11471,7 +11723,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6671a"
@@ -11484,7 +11737,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6671b"
@@ -11501,7 +11755,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6671c"
@@ -11514,7 +11769,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6671d"
@@ -11529,7 +11785,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -11539,7 +11795,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6672a"
@@ -11552,7 +11809,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6672b"
@@ -11561,11 +11819,12 @@
                 "type": "take",
                 "index": "66-09-24-003",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6672c"
@@ -11578,7 +11837,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6672d"
@@ -11591,7 +11851,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6672e"
@@ -11604,7 +11865,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6672f"
@@ -11617,7 +11879,8 @@
                 "releases": [
                     {
                         "label": "Ss",
-                        "catalog": "DSTS1013"
+                        "catalog": "DSTS1013",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6672g"
@@ -11638,7 +11901,7 @@
                 "type": "take",
                 "index": "66-09-24-009",
                 "matrix": null,
-                "title": "Come Sunday (David Danced)",
+                "title": "Come Sunday [David Danced]",
                 "releases": [],
                 "desor": "DE6672i"
             },
@@ -11728,7 +11991,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Bunny Briggs(td); studio choir(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Bunny Briggs(td); studio choir(v)."
             },
             {
                 "type": "take",
@@ -11742,7 +12005,7 @@
                 "type": "take",
                 "index": "66-10-23-002",
                 "matrix": null,
-                "title": "Come Sunday (David Danced) - vCho",
+                "title": "Come Sunday [David Danced] - vCho",
                 "releases": [],
                 "desor": "DE6673b"
             }
@@ -11756,7 +12019,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -11794,7 +12057,7 @@
                 "type": "take",
                 "index": "66-10-28-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6674e"
             },
@@ -11878,7 +12141,7 @@
                 "type": "take",
                 "index": "66-10-28-015",
                 "matrix": null,
-                "title": "Come Sunday (David Danced)",
+                "title": "Come Sunday [David Danced]",
                 "releases": [],
                 "desor": "DE6674o"
             },
@@ -12132,7 +12395,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -12196,7 +12459,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Esther Marrow, Toney Watkins, Jimmy McPhail, Choir(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Esther Marrow, Toney Watkins, Jimmy McPhail, Choir(v)."
             },
             {
                 "type": "suite",
@@ -12215,7 +12478,7 @@
                 "type": "take",
                 "index": "66-11-15-002",
                 "matrix": null,
-                "title": "Light (Montage)",
+                "title": "Light [Montage]",
                 "releases": [],
                 "desor": "DE9054b",
                 "suite_index": 2
@@ -12233,7 +12496,7 @@
                 "type": "take",
                 "index": "66-11-15-004",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE9054d",
                 "suite_index": 13
@@ -12278,7 +12541,7 @@
                 "type": "take",
                 "index": "66-11-15-009",
                 "matrix": null,
-                "title": "99% Won't Do - vJMP,Cho",
+                "title": "Ninety-Nine Percent - vJMP,Cho",
                 "releases": [],
                 "desor": "DE9054i",
                 "suite_index": 10
@@ -12346,7 +12609,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb)."
             },
             {
                 "type": "take",
@@ -12540,7 +12803,7 @@
                 "type": "take",
                 "index": "66-11-16-023",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6678l"
             },
@@ -12638,7 +12901,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Esther Marrow, Toney Watkins(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d); Esther Marrow, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -12676,7 +12939,7 @@
                 "type": "take",
                 "index": "66-11-19-005",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6680e"
             },
@@ -12910,7 +13173,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -12948,7 +13211,7 @@
                 "type": "take",
                 "index": "66-11-21-005",
                 "matrix": null,
-                "title": "Tutti For Cootie (Fade Up)",
+                "title": "Tutti For Cootie [Fade Up]",
                 "releases": [],
                 "desor": "DE6681e"
             },
@@ -13026,7 +13289,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
                 "type": "take",
@@ -13048,7 +13311,7 @@
                 "type": "take",
                 "index": "66-11-25-003",
                 "matrix": null,
-                "title": "Tutti For Cootie (Fade Up)",
+                "title": "Tutti For Cootie [Fade Up]",
                 "releases": [],
                 "desor": "DE6682c"
             },
@@ -13096,7 +13359,7 @@
                 "type": "take",
                 "index": "66-11-25-009",
                 "matrix": null,
-                "title": "Come Sunday (David Danced).",
+                "title": "Come Sunday [David Danced].",
                 "releases": [],
                 "desor": "DE6682i"
             },
@@ -13114,7 +13377,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Gus Johnson(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Gus Johnson(d)."
             },
             {
                 "type": "take",
@@ -13167,7 +13430,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -13271,7 +13534,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Rufus Jones(d); Esther Marrow, Toney Watkins, Jimmy McPhail, Vox Humana Choir(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Rufus Jones(d); Esther Marrow, Toney Watkins, Jimmy McPhail, Vox Humana Choir(v)."
             },
             {
                 "type": "suite",
@@ -13290,7 +13553,7 @@
                 "type": "take",
                 "index": "66-12-05-002",
                 "matrix": null,
-                "title": "Light (Montage)",
+                "title": "Light [Montage]",
                 "releases": [],
                 "desor": "DE6685b",
                 "suite_index": 2
@@ -13308,7 +13571,7 @@
                 "type": "take",
                 "index": "66-12-05-004",
                 "matrix": null,
-                "title": "Soul Call",
+                "title": "Count Down [Soul Call]",
                 "releases": [],
                 "desor": "DE6685d",
                 "suite_index": 13
@@ -13353,7 +13616,7 @@
                 "type": "take",
                 "index": "66-12-05-009",
                 "matrix": null,
-                "title": "99% Won't Do - vJMP,Cho",
+                "title": "Ninety-Nine Percent - vJMP,Cho",
                 "releases": [],
                 "desor": "DE6685i",
                 "suite_index": 10
@@ -13717,7 +13980,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
             },
             {
                 "type": "suite",
@@ -13731,7 +13994,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "82876 55614 2"
+                        "catalog": "82876 55614 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6687xa",
@@ -13745,7 +14009,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "07863 66551 2"
+                        "catalog": "07863 66551 2",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA",
@@ -13781,7 +14046,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6687b",
@@ -13810,7 +14076,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6687c",
@@ -13824,7 +14091,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "07863 66551 2"
+                        "catalog": "07863 66551 2",
+                        "first_issue": true
                     },
                     {
                         "label": "RCA",
@@ -13845,7 +14113,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "82876 55614 2"
+                        "catalog": "82876 55614 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6687xb",
@@ -13861,7 +14130,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
             },
             {
                 "type": "suite",
@@ -13890,7 +14159,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6688a",
@@ -13909,7 +14179,7 @@
                 "type": "take",
                 "index": "66-12-20-003",
                 "matrix": "¬",
-                "title": "Fugi (Ad Lib On Nippon)",
+                "title": "Fugi [Ad Lib On Nippon]",
                 "releases": [
                     {
                         "label": "Bb",
@@ -13928,7 +14198,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6688c",
@@ -13938,7 +14209,7 @@
                 "type": "take",
                 "index": "66-12-20-004",
                 "matrix": "TPA1-9151-2",
-                "title": "Igoo (Ad Lib On Nippon)",
+                "title": "Igoo [Ad Lib On Nippon]",
                 "releases": [
                     {
                         "label": "Bb",
@@ -13957,7 +14228,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6688d",
@@ -13966,8 +14238,8 @@
             {
                 "type": "take",
                 "index": "66-12-20-005",
-                "matrix": "&nbsp|",
-                "title": "Nagoya (Ad Lib On Nippon)",
+                "matrix": "&nbsp;|",
+                "title": "Nagoya [Ad Lib On Nippon]",
                 "releases": [
                     {
                         "label": "Bb",
@@ -13986,7 +14258,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6688e",
@@ -13996,7 +14269,7 @@
                 "type": "take",
                 "index": "66-12-20-006",
                 "matrix": "_|",
-                "title": "Tokyo (Ad Lib On Nippon)",
+                "title": "Tokyo [Ad Lib On Nippon]",
                 "releases": [
                     {
                         "label": "Bb",
@@ -14015,7 +14288,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6688f",
@@ -14025,7 +14299,7 @@
                 "type": "take",
                 "index": "66-12-20-007",
                 "matrix": "TPA1-9151-4",
-                "title": "Tokyo (Ad Lib On Nippon)",
+                "title": "Tokyo [Ad Lib On Nippon]",
                 "releases": [
                     {
                         "label": "Bb",
@@ -14064,7 +14338,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6688g",
@@ -14078,7 +14353,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "07863 66551 2"
+                        "catalog": "07863 66551 2",
+                        "first_issue": true
                     },
                     {
                         "label": "Bb",
@@ -14094,6 +14370,10 @@
                 ],
                 "desor": "DE6688h",
                 "suite_index": 3
+            },
+            {
+                "type": "note",
+                "content": "On all releases, Fugi, Igoo, Nagoya, Tokyo are presented as a single track, titled \"Ad Lib on Nippon.\" In the Smithsonian collection there are two takes of \"Ad Lib on Nippon:\" take -2 contains all the 4 parts; take -4 only includes Tokyo and was probably made to correct an error in take -2. The released version was take -2 with an insert of take -4. The join was made at the start of Hamilton 16-bar intro to Tokyo, on the original release RCA LPM 3782 and on Bb 82876 55614 2. It was made differently, after the first 8 bars of Hamilton's intro, on \"The Far East Suite - Special Mix\" Bb 07863 66551 2 and on the 24-CD boxset RCA 09026-63386-2. Without gaining access to the original recordings in the Smithsonian Institution, we cannot know how much of take -4 was actually used. More details on [DEMS 07/3-21](https://tdwaw.ellingtonweb.ca/DEMS/DEMS-07-2b-200708-200711,pts10-27.html)"
             }
         ]
     },
@@ -14105,7 +14385,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Rufus Jones(d)."
             },
             {
                 "type": "suite",
@@ -14119,7 +14399,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "82876 55614 2"
+                        "catalog": "82876 55614 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6689xa",
@@ -14148,7 +14429,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6689a",
@@ -14162,7 +14444,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "82876 55614 2"
+                        "catalog": "82876 55614 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6689xb",
@@ -14191,7 +14474,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6689b",
@@ -14205,7 +14489,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "07863 66551 2"
+                        "catalog": "07863 66551 2",
+                        "first_issue": true
                     },
                     {
                         "label": "Bb",
@@ -14230,7 +14515,8 @@
                 "releases": [
                     {
                         "label": "Bb",
-                        "catalog": "82876 55614 2"
+                        "catalog": "82876 55614 2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6689xc",
@@ -14259,7 +14545,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6689d",
@@ -14288,7 +14575,8 @@
                     },
                     {
                         "label": "RCA",
-                        "catalog": "LPM 3782"
+                        "catalog": "LPM 3782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6689e",
@@ -14314,7 +14602,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "101 8399"
+                        "catalog": "101 8399",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -14471,7 +14760,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91232-2"
+                        "catalog": "91232-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6690s"
@@ -14548,7 +14838,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91232-2"
+                        "catalog": "91232-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6690ab"
@@ -14561,7 +14852,8 @@
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91232-2"
+                        "catalog": "91232-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6690ac"
@@ -14592,7 +14884,7 @@
                 "type": "take",
                 "index": "66-12-28-032",
                 "matrix": null,
-                "title": "Last Time Around (The Last Go-Round).",
+                "title": "Last Time Around [The Last Go-Round]",
                 "releases": [],
                 "desor": "DE6690af"
             },
@@ -14600,7 +14892,7 @@
                 "type": "take",
                 "index": "66-12-28-033",
                 "matrix": "-1",
-                "title": "Last Time Around (The Last Go-Round).",
+                "title": "Last Time Around [The Last Go-Round]",
                 "releases": [],
                 "desor": "DE6690ag"
             },
@@ -14608,7 +14900,7 @@
                 "type": "take",
                 "index": "66-12-28-034",
                 "matrix": "-2",
-                "title": "Last Time Around (The Last Go-Round).",
+                "title": "Last Time Around [The Last Go-Round]",
                 "releases": [],
                 "desor": "DE6690ah"
             },
@@ -14616,11 +14908,12 @@
                 "type": "take",
                 "index": "66-12-28-035",
                 "matrix": "-3",
-                "title": "Last Time Around (The Last Go-Round).",
+                "title": "Last Time Around [The Last Go-Round]",
                 "releases": [
                     {
                         "label": "Sa",
-                        "catalog": "91232-2"
+                        "catalog": "91232-2",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE6690ai"
@@ -14632,6 +14925,10 @@
                 "title": "Blues (No. 15 in New DESOR)",
                 "releases": [],
                 "desor": "DE6690aj"
+            },
+            {
+                "type": "note",
+                "content": "On Sa 91232-2 (\"The Private Collection Vol. 8\"), tracks are edited, fading out at the end; on Cotton Head take -2 (DE6690ac), intro is omitted and the coda ending DE6690ae is added at the 16th bar of the 8th chorus."
             }
         ]
     },
@@ -14643,7 +14940,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper, Benny Powell(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); John Lamb(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper, Benny Powell(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
