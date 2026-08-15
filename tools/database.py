@@ -564,8 +564,7 @@ def save_releases_to_json(database, generated):
                 continue
             if not generated:
                 # Only warn once (in the non-generated stage)
-                logging.warning(f"Empty release {release}; discarding")
-                # TODO: Resume purging empty manual releases with "continue"
+                logging.warning(f"Empty release {release}; not referenced by any take yet, keeping")
 
         entries.sort(key=entry_release_sort_key)
 
