@@ -9,6 +9,10 @@ menu:
 ## August 2026
 * 1945: added numerous V-Disc (VD, VD Mar, VD Navy), FDC, ST 110, and HMV first-issue releases across many sessions through the year; added a Jo LP-1053B release for the 25 March "Take The 'A' Train" theme; added an RCA EPAT-435 release; structured the 21 April Black, Brown and Beige performance into its (B) Brown / (C) Beige movements with suite indices; added notes on the doubtful Hillard Brown drum credit (21 April), VD 657/516 side labelling, the Adams Theatre engagement affecting a DETS broadcast date, and the V-Disc 483 Harlem Air Shaft introduction; added alternate titles "[Subtle Slough]", "[Under the Balcony]", and "[Time's A-Wastin']" to several recurring titles.
 * Labels: removed unused label "Go"; clarified descriptions for HMV, VD Mar and VD Navy.
+* 1932: retitled "Fast And Furious (Lot O' Fingers)" to "Lot O' Fingers [Fast And Furious][Harlem Manicurist]".
+* 1934: formatted Symphony in Black as a suite (24-25 October session).
+* 1936: retitled "Blackout" to "Black Out" and expanded the footnote on bass players (29 July session).
+* 1937: added a long note to the 20 September session (input from S. Lasker); corrected catalog number Va 555 to Va 655 on the 29 April session (DemiTasse, Jazz A La Carte); added first-issue flag to Jubilesta (20 September).
 
 ## July 2026
 * 1930: corrected Ro catalog number from 1289 to 1209 (29 January session); added first-issue releases (Pv, Roan) and expanded notes for the August RKO "Check And Double Check" film session, including correcting its index date; added a note on a Ring Dem Bells shellac test; expanded the note on the HARLEM Pathé film short's soundtrack transfer.

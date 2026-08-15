@@ -1467,7 +1467,7 @@
                     },
                     {
                         "label": "Va",
-                        "catalog": "555",
+                        "catalog": "655",
                         "first_issue": true
                     }
                 ],
@@ -1567,7 +1567,7 @@
                     },
                     {
                         "label": "Va",
-                        "catalog": "555",
+                        "catalog": "655",
                         "first_issue": true
                     }
                 ],
@@ -3103,7 +3103,8 @@
                     },
                     {
                         "label": "SE",
-                        "catalog": "5007-S"
+                        "catalog": "5007-S",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE3716b"
@@ -3403,6 +3404,10 @@
                     }
                 ],
                 "desor": "DE3716i"
+            },
+            {
+                "type": "note",
+                "content": "M650- is misidentified as M650-1 on Ra RTE23002, CBS 88210 and NW RP2042. Per a note on the Raretone LP: \"The short silent section at the end of Hodges' first solo in 'Harmony in Harlem' corresponds to the music portion left out due to an unavoidable 'skip' of the original recording.\" The source of this track might be an unprocessed acetate, since the ledger indicates takes one and two of 'Harmony in Harlem' were processed (and both are accounted for), while this take is a third."
             }
         ]
     },
