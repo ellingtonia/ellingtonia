@@ -16,6 +16,8 @@ menu:
 * 1938: retitled "Lost In Meditation (Have A Heart)" to "Lost In Meditation [Have A Heart]" (19 January); added first-issue flag for Dinah In A Jam (24 April); noted a shellac test of M835-2 (7 June session); retitled "Swinging In The Dell" to "Swingin' In The Dell" (1 August); retitled "Sharpie" to "Sharpy" with a note on the discrepancy between the original 78 and the 1938 copyright application (2 August); corrected "Boy Meets Horn [Twits And Therps]" to "[Twits And Twerps]" (22 December).
 * 1940: retitled "Don't Get Around Much Anymore" to "Never No Lament" throughout, with a note on the 1940/1942 copyright history of the two titles.
 * 1942: corrected the first issue of the 8 October "Take The 'A' Train" to KayD KD-8 (not HS 5014); added new label "KayD" (Kaydee Records).
+* 1958/1959: added missing first-issue flags throughout; changed alternate titles from round to square brackets throughout.
+* 1958: renamed the Az 59A release to DEMS 59A, and removed it from the 6 November "Take The 'A' Train" take (not part of that release); added new label "DEMS" (Duke Ellington Music Society).
 
 ## July 2026
 * 1930: corrected Ro catalog number from 1289 to 1209 (29 January session); added first-issue releases (Pv, Roan) and expanded notes for the August RKO "Check And Double Check" film session, including correcting its index date; added a note on a Ring Dem Bells shellac test; expanded the note on the HARLEM Pathé film short's soundtrack transfer.
