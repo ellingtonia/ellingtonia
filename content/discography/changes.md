@@ -19,6 +19,7 @@ menu:
 * 1958/1959: added missing first-issue flags throughout; changed alternate titles from round to square brackets throughout.
 * 1958: renamed the Az 59A release to DEMS 59A, and removed it from the 6 November "Take The 'A' Train" take (not part of that release); added new label "DEMS" (Duke Ellington Music Society).
 * 1928: moved the Sonny Greer vocal indication from the "Gems From 'Blackbirds of 1928'" medley header down to its individual components (20 December session).
+* 1946: added alternate title "[Tell Me, Dream Face]" to "Tulip Or Turnip", with a note on the two copyrighted title variants (18 December session).
 
 ## July 2026
 * 1930: corrected Ro catalog number from 1289 to 1209 (29 January session); added first-issue releases (Pv, Roan) and expanded notes for the August RKO "Check And Double Check" film session, including correcting its index date; added a note on a Ring Dem Bells shellac test; expanded the note on the HARLEM Pathé film short's soundtrack transfer.
