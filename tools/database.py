@@ -636,10 +636,10 @@ def save_releases_to_json(database, generated):
 
                 json_release["entries"].append(json_entry)
 
-        # Skip empty entries
-        if json_release:
-            json_releases.setdefault(release.label.label, {})
-            json_releases[release.label.label][release.catalog] = json_release
+        # Include all releases (we used to filter here)
+
+        json_releases.setdefault(release.label.label, {})
+        json_releases[release.label.label][release.catalog] = json_release
 
     # Consistent sorting
     json_releases = {
