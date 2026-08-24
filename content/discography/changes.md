@@ -9,6 +9,10 @@ menu:
 ## August 2026
 * 1923: revised the footnote on the earliest documented Ellington session per Steven Lasker's input, clarifying that the rejected trial recording doesn't survive in any form and that Snowden's extra saxophone was occasional rather than certain.
 * 1925: corrected the January session's date to "Circa January 1925" and credited it to "FLORENCE BRISTOL WITH DUKE ELLINGTON AND OTTO HARDWICK" rather than Florence Bristol alone.
+* Instruments: corrected "wh" from "washboard" to "whistle" (its actual meaning), and added a new code "wb" for washboard.
+* 1926: retitled "If You Can't Hold The Man You Love" to "If You Can't Hold The Man You Love (Don't Cry When He's Gone)" (30 March session), removing a now-redundant footnote; added Champion 15105 and Buddy 8010 first-issue releases per Steven Lasker; capitalised the "Gussie Alexander" group credit to "GUSSIE ALEXANDER" for consistency (1 December session).
+* 1927: retitled "If You Can't Hold The Man You Love" to "If You Can't Hold The Man You Love (Don't Cry When He's Gone)" (10 January session), matching 1926.
+* 1929: corrected Bruce Johnson's instrument from "wh" (washboard) to "wb" (washboard) following the instrument code fix.
 * 1928: moved the Sonny Greer vocal indication from the "Gems From 'Blackbirds of 1928'" medley header down to its individual components (20 December session).
 * 1928/1930: corrected "Okeh" to "OKeh" throughout session descriptions.
 * 1932: retitled "Fast And Furious (Lot O' Fingers)" to "Lot O' Fingers [Fast And Furious][Harlem Manicurist]".

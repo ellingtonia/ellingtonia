@@ -107,6 +107,16 @@
                 "title": "You've Got Those Wanna Go Back Again Blues - vSG",
                 "releases": [
                     {
+                        "label": "Buddy",
+                        "catalog": "8010",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ch",
+                        "catalog": "15105",
+                        "first_issue": true
+                    },
+                    {
                         "label": "Cl(F)",
                         "catalog": "539"
                     },
@@ -134,8 +144,14 @@
                 "type": "take",
                 "index": "26-03-30-002",
                 "matrix": "X58-A",
-                "title": "If You Can't Hold The Man You Love - vSG",
+                "title": "If You Can't Hold The Man You Love (Don't Cry When He's Gone) - vSG",
                 "releases": [
+                    {
+                        "label": "Buddy",
+                        "catalog": "8010",
+                        "first_issue": true,
+                        "title": "If You Can't Hold the Man You Love"
+                    },
                     {
                         "label": "Cl(F)",
                         "catalog": "539"
@@ -143,7 +159,8 @@
                     {
                         "label": "Ge",
                         "catalog": "3291",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "If You Can't Hold The Man You Love"
                     },
                     {
                         "label": "Hi",
@@ -162,7 +179,7 @@
             },
             {
                 "type": "note",
-                "content": "On \"You've Got Those Wanna Go Back Again Blues,\" Greer plays wooden train whistle at the beginning, in answer to the reeds, and slide whistle at the end.\nThe second selection was copyrighted with the title \"If You Can't Hold The Man You Love, Don't Cry When He's Gone\"."
+                "content": "On \"You've Got Those Wanna Go Back Again Blues,\" Greer plays wooden train whistle at the beginning, in answer to the reeds, and slide whistle at the end."
             }
         ]
     },
@@ -469,7 +486,7 @@
         ]
     },
     {
-        "group": "Gussie Alexander",
+        "group": "GUSSIE ALEXANDER",
         "location": "New York City, NY",
         "date": "01 December 1926",
         "description": "OKeh recording session",
