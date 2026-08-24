@@ -16,12 +16,14 @@ menu:
 * 1928: moved the Sonny Greer vocal indication from the "Gems From 'Blackbirds of 1928'" medley header down to its individual components (20 December session).
 * 1928/1930: corrected "Okeh" to "OKeh" throughout session descriptions.
 * 1932: retitled "Fast And Furious (Lot O' Fingers)" to "Lot O' Fingers [Fast And Furious][Harlem Manicurist]".
+* 1932: removed a note stating "It Don't Mean A Thing (If It Ain't Got That Swing)" was the copyrighted title of the second song, as it wasn't accurate.
 * 1934: formatted Symphony in Black as a suite (24-25 October session).
 * 1936: retitled "Blackout" to "Black Out" and expanded the footnote on bass players (29 July session).
 * 1937: added a long note to the 20 September session (input from S. Lasker); corrected catalog number Va 555 to Va 655 on the 29 April session (DemiTasse, Jazz A La Carte); added first-issue flag to Jubilesta (20 September).
 * 1937: retitled "Diga Diga Doo" to "Diga Diga Doo [Digga Digga Do]" with a footnote on the spelling variant (8 March session); moved an LR X-EIO-7 release (track 31) from "Mexicali Rose" to "Diga Diga Doo", where it belongs.
 * 1938: retitled "Lost In Meditation (Have A Heart)" to "Lost In Meditation [Have A Heart]" (19 January); added first-issue flag for Dinah In A Jam (24 April); noted a shellac test of M835-2 (7 June session); retitled "Swinging In The Dell" to "Swingin' In The Dell" (1 August); retitled "Sharpie" to "Sharpy" with a note on the discrepancy between the original 78 and the 1938 copyright application (2 August); corrected "Boy Meets Horn [Twits And Therps]" to "[Twits And Twerps]" (22 December).
 * 1938: wrote several copyrighted subtitles directly into their titles (e.g. "If You Were In My Place (What Would You Do)", "I'm Slappin' Seventh Avenue (With The Sole Of My Shoe)", "When My Sugar Walks Down The Street (All The Little Birdies Go Tweet-Tweet-Tweet)", "You Gave Me The Gate (And I'm Swingin')"), replacing footnotes that previously spelled out the copyrighted form.
+* 1939: added a note distinguishing "Portrait of the Lion" from the never-recorded "Portrait of a Lion" (copyrighted 1940) and the later "Second Portrait of the Lion".
 * 1940: retitled "The Girl In My Dreams" to "The Girl In My Dreams Tries To Look Like You" (28 December session), matching the correction already applied to 1941 and 1963; also updated the title index (`titles.json`).
 * 1940: retitled "Don't Get Around Much Anymore" to "Never No Lament" throughout, with a note on the 1940/1942 copyright history of the two titles.
 * 1940: removed the erroneous alternate title "(Blue Goose?)" from "Blue Prelude" (18 September session); added a note on a Body And Soul matrix misidentification on FMRS 024, per Steven Lasker.
