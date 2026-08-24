@@ -39,9 +39,12 @@ menu:
 * 1947: added a footnote to the 20 November session noting the piano is silent on "Don't Get Around Much Anymore"; removed an incorrect Co CBS 462985 2 release from "Put Yourself In My Place, Baby" (1 September session), also correcting its title's punctuation.
 * 1947: corrected the Co DZ 722 release label to Co(Sw) (Swiss Columbia); credited Billy Strayhorn on piano alongside Duke Ellington on the first title of the 30 December session, with a note on his accompaniment.
 * 1949: corrected the Co(Sd) DZ 725 release label to Co(Sw) (Swiss Columbia).
+* 1956: retitled "If You Were In My Place" to "If You Were In My Place (What Would You Do)" (23 January session); standardised "30th Street Studio" to "30th Street Columbia Studio" and "7th Avenue Columbia Studio" to "Studio [A/D], 799 Seventh Ave." throughout, per Steven Lasker.
 * 1958/1959/1960/1969: standardised "Walkin' And Singin' The Blues" / "Walking And Singing The Blues" to its copyrighted title "Walking & Singing The Blues" throughout, matching the correction already applied to 1963; also updated the title index (`titles.json`).
 * 1958/1959: added missing first-issue flags throughout; changed alternate titles from round to square brackets throughout.
 * 1958: renamed the Az 59A release to DEMS 59A, and removed it from the 6 November "Take The 'A' Train" take (not part of that release); added new label "DEMS" (Duke Ellington Music Society).
+* 1959: retitled "The Queens Suite" to "The Queen's Suite" throughout, with a note on the differing Pablo/Columbia label credits, per Steven Lasker; credited Russell Procope on whistle in a couple of sessions; corrected Fo catalog number 9003 to 9004 (two occurrences).
+* 1960: credited Russell Procope on whistle and Juan Tizol on tambourine in a couple of sessions, with a note on "Arabesque Cookies".
 * 1961/1962: added missing first-issue flags throughout; changed alternate titles from round to square brackets throughout; sorted Carney's instrument listing from smallest to biggest.
 * 1962: added new session, 18 September (Cat Anderson And His Orchestra, supervised by Duke Ellington, A&R Studio); added MJ MJCD 1345 releases across several takes.
 * 1962: corrected a release flag on the 13 December "Eighth Veil" (DE6254d) from an unsupported symbol, provisionally read as "unconfirmed", to "*" (partial take used); added a note that the issued coda comes from this take rather than DE6254c; added Ms MD5-193 releases to both takes.

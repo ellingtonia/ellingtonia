@@ -251,12 +251,20 @@
                 "desor": null
             },
             {
+                "type": "artists",
+                "value": "Add Russell Procope(wh)."
+            },
+            {
                 "type": "take",
                 "index": "60-02-22-024",
                 "matrix": null,
                 "title": "Jones",
                 "releases": [],
                 "desor": "DE6003n"
+            },
+            {
+                "type": "artists",
+                "value": "As before."
             },
             {
                 "type": "take",
@@ -1856,7 +1864,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
+                "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn); Britt Woodman, Booty Wood, Lawrence Brown(tb); Juan Tizol(vtb,tamb); Jimmy Hamilton(cl,ts); Russell Procope(wh,cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Aaron Bell(sb); Sam Woodyard(d)."
             },
             {
                 "type": "suite",
@@ -1941,6 +1949,10 @@
                     }
                 ],
                 "desor": "DE6015c"
+            },
+            {
+                "type": "note",
+                "content": "On \"Arabesque Cookies\" Procope plays a bamboo whistle and Tizol a tambourine."
             }
         ]
     },
