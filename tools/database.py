@@ -92,6 +92,14 @@ class Entry:
     matrix: str = None
     desor: str = None
 
+    # Only set on type="medley" entries.
+    medley_title: str = None
+    # Only set on constituent take entries: an auto-generated letter
+    # ("a", "b", ...) and a back-reference to the type="medley" entry that
+    # heads this take's medley (None if the take isn't part of a medley).
+    medley_index: str = None
+    medley: "Entry" = None
+
     session: Session = None
 
     # TODO: Add the concept of a rejected entry here
@@ -313,6 +321,17 @@ def fix_date(date_str):
     return f"{d:02d} {m} {y}", (y - 1900) * 10000 + m_numeric * 100 + d
 
 
+def medley_letter(n):
+    """Bijective base-26 letter for position n (1-indexed): 1 -> "a", ...,
+    26 -> "z", 27 -> "aa", 28 -> "ab", ... (the scheme spreadsheet column
+    names use), matching the New DESOR lettering convention."""
+    letters = ""
+    while n > 0:
+        n, rem = divmod(n - 1, 26)
+        letters = chr(ord("a") + rem) + letters
+    return letters
+
+
 def load_from_json():
     database = Database()
 
@@ -339,6 +358,7 @@ def load_from_json():
 
         for jsession in json_sessions:
             suite_title = None
+            current_medley = None
             if not "date" in jsession:
                 raise RuntimeError(f"Missing date, previous session was {old_date}")
 
@@ -405,6 +425,32 @@ def load_from_json():
                     # Note that go templates are very limited and it's hard to
                     # do "is this entry in the same suite".
 
+                elif jentry["type"] == "medley":
+                    medley_title = jentry["medley_title"]
+                    if medley_title is None:
+                        # Ends the medley, following takes are ordinary again.
+                        current_medley = None
+                    else:
+                        index = jentry["index"]
+
+                        if index:
+                            str_date = str(date)
+                            index = f"{str_date[0:2]}-{str_date[2:4]}-{str_date[4:6]}-{idx:03}"
+                            idx += 1
+
+                            assert index not in all_indices, (index, medley_title)
+                            all_indices.add(index)
+
+                        current_medley = Entry(
+                            type="medley",
+                            index=index,
+                            matrix=jentry["matrix"],
+                            desor=jentry["desor"],
+                            medley_title=medley_title,
+                        )
+                        entries.append(current_medley)
+                        medley_position = 0
+
                 elif jentry["type"] == "take":
                     index = jentry["index"]
 
@@ -419,12 +465,16 @@ def load_from_json():
 
                     # If an index is present, we always replace it with an
                     # auto-number, so errors get corrected.
+                    medley_index = None
                     if index:
-                        str_date = str(date)
-                        index = (
-                            f"{str_date[0:2]}-{str_date[2:4]}-{str_date[4:6]}-{idx:03}"
-                        )
-                        idx += 1
+                        if current_medley is not None:
+                            medley_position += 1
+                            medley_index = medley_letter(medley_position)
+                            index = current_medley.index + medley_index
+                        else:
+                            str_date = str(date)
+                            index = f"{str_date[0:2]}-{str_date[2:4]}-{str_date[4:6]}-{idx:03}"
+                            idx += 1
 
                         # Check for duplicates
                         assert index not in all_indices, (index, title)
@@ -441,6 +491,8 @@ def load_from_json():
                         title=title,
                         suite_title=suite_title,
                         suite_index=suite_index,
+                        medley_index=medley_index,
+                        medley=current_medley,
                         desor=jentry["desor"],
                     )
 
@@ -535,6 +587,20 @@ def save_json(path, obj):
 
 
 def save_releases_to_json(database, generated):
+    def page_for_year(year):
+        if year < 1930:
+            return "1923-1929"
+        elif year < 1940:
+            return "1930-1939"
+        elif year < 1950:
+            return "1940-1949"
+        elif year < 1960:
+            return "1950-1959"
+        elif year < 1970:
+            return "1960-1969"
+        else:
+            return "1970-1974"
+
     def entry_release_sort_key(er):
         disc = er.disc
 
@@ -584,12 +650,25 @@ def save_releases_to_json(database, generated):
             json_release["entries"] = []
             json_release["n_takes"] = len(entries)
             suite_title = None
+            medley = None
 
             for er in entries:
                 if er.entry.suite_title != suite_title:
                     suite_title = er.entry.suite_title
                     json_release["entries"].append(
                         {"type": "suite", "suite_title": suite_title}
+                    )
+                if er.entry.medley != medley:
+                    medley = er.entry.medley
+                    json_release["entries"].append(
+                        {
+                            "type": "medley",
+                            "medley_title": medley.medley_title if medley else None,
+                            "desor": medley.desor if medley else None,
+                            "matrix": medley.matrix if medley else None,
+                            "index": medley.index if medley else None,
+                            "page": page_for_year(medley.session.year()) if medley else None,
+                        }
                     )
                 disc_track = None
                 if er.disc and er.track:
@@ -603,19 +682,7 @@ def save_releases_to_json(database, generated):
                 if er.length:
                     length = f"{er.length//60}:{er.length%60:-02}"
 
-                year = er.entry.session.year()
-                if year < 1930:
-                    page = "1923-1929"
-                elif year < 1940:
-                    page = "1930-1939"
-                elif year < 1950:
-                    page = "1940-1949"
-                elif year < 1960:
-                    page = "1950-1959"
-                elif year < 1970:
-                    page = "1960-1969"
-                else:
-                    page = "1970-1974"
+                page = page_for_year(er.entry.session.year())
 
                 json_entry = {
                     "type": "take",
@@ -630,6 +697,7 @@ def save_releases_to_json(database, generated):
                     "length": length,
                     "suite_title": er.entry.suite_title,
                     "suite_index": er.entry.suite_index,
+                    "medley_index": er.entry.medley_index,
                 }
                 for key in ENTRY_LINKS:
                     json_entry[key] = getattr(er.entry, key)
@@ -673,10 +741,16 @@ def save_to_json(database):
         for session in sessions:
             json_entries = []
             suite_title = None
+            medley = None
             for entry in database.get_entries(session):
                 if entry.type == "take" and entry.suite_title != suite_title:
                     suite_title = entry.suite_title
                     json_entries.append({"type": "suite", "suite_title": suite_title})
+                if entry.type == "take" and entry.medley != medley and entry.medley is None:
+                    # A "medley" Entry itself (below) is what marks the start
+                    # of a medley; we only need to synthesize the end marker.
+                    medley = None
+                    json_entries.append({"type": "medley", "medley_title": None})
                 json_entry = {"type": entry.type}
                 if entry.type == "artists":
                     json_entry["value"] = entry.value
@@ -684,6 +758,12 @@ def save_to_json(database):
                     json_entry["content"] = entry.content
                 elif entry.type == "suite":
                     json_entry["suite_title"] = entry.suite_title
+                elif entry.type == "medley":
+                    medley = entry
+                    json_entry["index"] = entry.index
+                    json_entry["matrix"] = entry.matrix
+                    json_entry["desor"] = entry.desor
+                    json_entry["medley_title"] = entry.medley_title
                 elif entry.type == "take":
                     json_entry["index"] = entry.index
                     json_entry["matrix"] = entry.matrix
@@ -693,6 +773,9 @@ def save_to_json(database):
 
                     if entry.suite_index:
                         json_entry["suite_index"] = entry.suite_index
+
+                    if entry.medley_index:
+                        json_entry["medley_index"] = entry.medley_index
 
                     for key in ENTRY_LINKS:
                         if value := getattr(entry, key):

@@ -6228,18 +6228,17 @@
                 "value": "As before."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6439n"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "64-05-20-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Solitude",
+                "desor": "DE6439n",
+                "medley_title": "Medley"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014a",
+                "matrix": null,
+                "title": "Solitude",
                 "releases": [
                     {
                         "label": "Fo",
@@ -6247,147 +6246,156 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
+                "index": "64-05-20-014b",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014d",
+                "matrix": null,
+                "title": "I Got It Bad And That Ain't Good",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014e",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014f",
+                "matrix": null,
+                "title": "Just Squeeze Me (But Don't Tease Me)",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014g",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014h",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014i",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "take",
+                "index": "64-05-20-014j",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Fo",
+                        "catalog": "9001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "medley",
                 "index": "64-05-20-015",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Don't Get Around Much Anymore",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
+                "desor": "DE6439o",
+                "medley_title": "Blues Medley"
             },
             {
                 "type": "take",
-                "index": "64-05-20-016",
+                "index": "64-05-20-015a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I Got It Bad And That Ain't Good",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Just Squeeze Me (But Don't Tease Me)",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-021",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Do Nothin' Till You Hear From Me",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-022",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-023",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "Fo",
-                        "catalog": "9001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Blues Medley",
-                "releases": [],
-                "desor": "DE6439o"
-            },
-            {
-                "type": "take",
-                "index": "64-05-20-024",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Happy Go Lucky Local",
+                "title": "Happy Go Lucky Local",
                 "releases": [
                     {
                         "label": "MM",
@@ -6395,13 +6403,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "64-05-20-025",
+                "index": "64-05-20-015b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. E and D Blues",
+                "title": "E and D Blues",
                 "releases": [
                     {
                         "label": "MM",
@@ -6409,13 +6418,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "64-05-20-026",
+                "index": "64-05-20-015c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Happy Go Lucky Local",
+                "title": "Happy Go Lucky Local",
                 "releases": [
                     {
                         "label": "MM",
@@ -6423,13 +6433,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "64-05-20-027",
+                "index": "64-05-20-015d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. C-Jam Blues",
+                "title": "C-Jam Blues",
                 "releases": [
                     {
                         "label": "MM",
@@ -6437,13 +6448,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "64-05-20-028",
+                "index": "64-05-20-015e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Stevie",
+                "title": "Stevie",
                 "releases": [
                     {
                         "label": "MM",
@@ -6451,13 +6463,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "64-05-20-029",
+                "index": "64-05-20-015f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. E and D Blues",
+                "title": "E and D Blues",
                 "releases": [
                     {
                         "label": "MM",
@@ -6465,15 +6478,20 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "artists",
                 "value": "Add Billy Strayhorn(p)."
             },
             {
+                "type": "medley",
+                "medley_title": null
+            },
+            {
                 "type": "take",
-                "index": "64-05-20-030",
+                "index": "64-05-20-016",
                 "matrix": null,
                 "title": "Tonk",
                 "releases": [
@@ -6500,7 +6518,7 @@
             },
             {
                 "type": "take",
-                "index": "64-05-20-031",
+                "index": "64-05-20-017",
                 "matrix": null,
                 "title": "Lush Life - vBS",
                 "releases": [],
@@ -6521,7 +6539,7 @@
             },
             {
                 "type": "take",
-                "index": "64-05-20-032",
+                "index": "64-05-20-018",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [

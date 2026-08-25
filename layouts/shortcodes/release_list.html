@@ -83,6 +83,22 @@ case tracks are listed in the order in they were recorded.</p>
                 <span class="suite">{{ $entry.suite_title }} </span>
               </td>
           </tr>
+        {{ else if eq .type "medley" }}
+          <tr class="medley">
+            {{ if $entry.medley_title }}
+              {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
+              <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
+              <td>{{ $entry.matrix }}</td>
+              <td>
+                <span class="suite">{{ $.Page.RenderString $entry.medley_title }} </span>
+              </td>
+              <td>{{ $entry.desor }}</td>
+            {{ else }}
+              <td colspan="2"></td>
+              <td></td>
+              <td></td>
+            {{ end }}
+          </tr>
         {{ else if eq .type "take" }}
           <tr class="take">
             {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
@@ -93,7 +109,7 @@ case tracks are listed in the order in they were recorded.</p>
                 <span class="detail">({{ $entry.disc_track }})</span>
               {{ end }}
 
-              <span class="suite_details">{{ $entry.suite_index }} </span>
+              <span class="suite_details">{{ $entry.suite_index }} {{ $entry.medley_index }} </span>
 
               {{ $.Page.RenderString $entry.title -}}
 

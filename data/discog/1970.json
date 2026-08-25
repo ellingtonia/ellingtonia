@@ -3867,18 +3867,17 @@
                 "desor": "DE7027l"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "70-04-02-013",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE7027m"
+                "desor": "DE7027m",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "70-04-02-013",
+                "index": "70-04-02-013a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't You Know I Care (Or Don't You Care To Know)",
+                "title": "Don't You Know I Care (Or Don't You Care To Know)",
                 "releases": [
                     {
                         "label": "TOM",
@@ -3886,179 +3885,196 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013b",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "44",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013c",
+                "matrix": null,
+                "title": "Prelude To A Kiss",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "44",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013d",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "44",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013e",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "44",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013f",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013g",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013h",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013i",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013j",
+                "matrix": null,
+                "title": "I Got It Bad And That Ain't Good",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013k",
+                "matrix": null,
+                "title": "Be Cool And Groovy For Me -TW",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "k"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013l",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "l"
+            },
+            {
+                "type": "take",
+                "index": "70-04-02-013m",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "TOM",
+                        "catalog": "45",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "m"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "70-04-02-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "44",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Prelude To A Kiss",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "44",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Do Nothin' Till You Hear From Me",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "44",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Don't Get Around Much Anymore",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "44",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Solitude",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-021",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-022",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. I Got It Bad And That Ain't Good",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-023",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Be Cool And Groovy For Me -TW",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-024",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-025",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Caravan",
-                "releases": [
-                    {
-                        "label": "TOM",
-                        "catalog": "45",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "70-04-02-026",
                 "matrix": null,
                 "title": "Happy Birthday To You",
                 "releases": [
@@ -4072,7 +4088,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-027",
+                "index": "70-04-02-015",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [
@@ -4090,7 +4106,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-028",
+                "index": "70-04-02-016",
                 "matrix": null,
                 "title": "I Can't Get Started",
                 "releases": [
@@ -4108,7 +4124,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-029",
+                "index": "70-04-02-017",
                 "matrix": null,
                 "title": "Stomp Soul Jump",
                 "releases": [
@@ -4122,7 +4138,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-030",
+                "index": "70-04-02-018",
                 "matrix": null,
                 "title": "April In Paris",
                 "releases": [
@@ -4136,7 +4152,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-031",
+                "index": "70-04-02-019",
                 "matrix": null,
                 "title": "April In Paris",
                 "releases": [
@@ -4150,7 +4166,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-032",
+                "index": "70-04-02-020",
                 "matrix": null,
                 "title": "April In Paris",
                 "releases": [
@@ -4164,7 +4180,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-033",
+                "index": "70-04-02-021",
                 "matrix": null,
                 "title": "April In Paris",
                 "releases": [
@@ -4178,7 +4194,7 @@
             },
             {
                 "type": "take",
-                "index": "70-04-02-034",
+                "index": "70-04-02-022",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [

@@ -12118,96 +12118,103 @@
                 "value": "Duke Ellington(p); John Lamb(sb); Steve Little(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6773b"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "67-08-07-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Take The \"A\" Train",
-                "releases": [],
-                "desor": null
+                "desor": "DE6773b",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "67-08-07-003",
+                "index": "67-08-07-002a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Sophisticated Lady",
+                "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "67-08-07-004",
+                "index": "67-08-07-002b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Satin Doll",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "67-08-07-002c",
+                "matrix": null,
+                "title": "Satin Doll",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "artists",
                 "value": "Add Merv Griffin, Arthur Prysock, John \"Bubbles\" Sublett(v)."
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "67-08-07-003",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6773c"
+                "desor": "DE6773c",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "67-08-07-005",
+                "index": "67-08-07-003a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Mood Indigo - vMGf",
+                "title": "Mood Indigo - vMGf",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "67-08-07-006",
+                "index": "67-08-07-003b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Don't Get Around Much Anymore - vJSu",
+                "title": "Don't Get Around Much Anymore - vJSu",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "67-08-07-007",
+                "index": "67-08-07-003c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solitude - vAPy",
+                "title": "Solitude - vAPy",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "67-08-07-008",
+                "index": "67-08-07-003d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I Got It Bad And That Ain't Good - vMGf",
+                "title": "I Got It Bad And That Ain't Good - vMGf",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "67-08-07-009",
+                "index": "67-08-07-003e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I Let A Song Go Out Of My Heart - vAPy",
+                "title": "I Let A Song Go Out Of My Heart - vAPy",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "67-08-07-010",
+                "index": "67-08-07-003f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Don't Get Around Much Anymore - vJSu",
+                "title": "Don't Get Around Much Anymore - vJSu",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             }
         ]
     },
