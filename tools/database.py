@@ -468,6 +468,12 @@ def load_from_json():
                     medley_index = None
                     if index:
                         if current_medley is not None:
+                            assert current_medley.index, (
+                                "medley header has no index, so its "
+                                "constituents can't derive one",
+                                current_medley.medley_title,
+                                title,
+                            )
                             medley_position += 1
                             medley_index = medley_letter(medley_position)
                             index = current_medley.index + medley_index
