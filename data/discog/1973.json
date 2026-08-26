@@ -21,7 +21,7 @@
                 "type": "take",
                 "index": "73-01-03-002",
                 "matrix": null,
-                "title": "Les Parapluies De Cherbourg",
+                "title": "Les Parapluies de Cherbourg",
                 "releases": [],
                 "desor": "DE7301b"
             },
@@ -356,7 +356,8 @@
                     {
                         "label": "Pb",
                         "catalog": "2310-703",
-                        "flags": "*"
+                        "flags": "*",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE9068k"
@@ -402,7 +403,8 @@
                     {
                         "label": "Pb",
                         "catalog": "2310-703",
-                        "flags": "*"
+                        "flags": "*",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE9068n"
@@ -607,6 +609,10 @@
                 ],
                 "desor": "DE9068z",
                 "suite_index": 4
+            },
+            {
+                "type": "note",
+                "content": "On the Pablo releases, \"Carnegie Hall Blues\" is DE9068j, with 8°-10° choruses from DE9068k; \"The Hawk Talks\" is DE9068m with the intro replaced by DE9068n."
             }
         ]
     },
@@ -784,7 +790,7 @@
                 "type": "take",
                 "index": "73-01-30-011",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7307k"
             },
@@ -996,7 +1002,7 @@
                 "type": "take",
                 "index": "73-01-30-035",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7308q"
             },
@@ -1160,7 +1166,7 @@
                 "type": "take",
                 "index": "73-01-31-015",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7309o"
             },
@@ -1340,7 +1346,7 @@
                 "type": "take",
                 "index": "73-01-31-036",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7310q"
             },
@@ -1504,7 +1510,7 @@
                 "type": "take",
                 "index": "73-02-01-015",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7311o"
             },
@@ -1700,7 +1706,7 @@
                 "type": "take",
                 "index": "73-02-01-037",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7312n"
             },
@@ -1904,7 +1910,7 @@
                 "type": "take",
                 "index": "73-02-02-020",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7313o"
             },
@@ -2140,7 +2146,7 @@
                 "type": "take",
                 "index": "73-02-02-046",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7314q"
             },
@@ -2360,7 +2366,7 @@
                 "type": "take",
                 "index": "73-02-03-021",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7315p"
             },
@@ -2572,7 +2578,7 @@
                 "type": "take",
                 "index": "73-02-03-045",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7316s"
             },
@@ -2796,7 +2802,7 @@
                 "type": "take",
                 "index": "73-02-04-018",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7317o"
             },
@@ -3020,7 +3026,7 @@
                 "type": "take",
                 "index": "73-04-10-009",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7321i",
                 "suite_index": 1
@@ -3029,7 +3035,7 @@
                 "type": "take",
                 "index": "73-04-10-010",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7321j",
                 "suite_index": 4
@@ -3038,7 +3044,7 @@
                 "type": "take",
                 "index": "73-04-10-011",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7321k",
                 "suite_index": 3
@@ -3047,7 +3053,25 @@
                 "type": "take",
                 "index": "73-04-10-012",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7321k",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "73-04-10-013",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7321l",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "73-04-10-014",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7321l",
                 "suite_index": 2
@@ -3058,7 +3082,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-013",
+                "index": "73-04-10-015",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -3066,7 +3090,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-014",
+                "index": "73-04-10-016",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -3074,7 +3098,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-015",
+                "index": "73-04-10-017",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -3082,7 +3106,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-016",
+                "index": "73-04-10-018",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -3090,7 +3114,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-017",
+                "index": "73-04-10-019",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -3106,7 +3130,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-018",
+                "index": "73-04-10-020",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -3114,7 +3138,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-019",
+                "index": "73-04-10-021",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Don't Get Around Much Anymore",
                 "releases": [],
@@ -3122,7 +3146,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-020",
+                "index": "73-04-10-022",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
                 "releases": [],
@@ -3130,7 +3154,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-021",
+                "index": "73-04-10-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
                 "releases": [],
@@ -3138,7 +3162,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-022",
+                "index": "73-04-10-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
                 "releases": [],
@@ -3146,15 +3170,15 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-023",
+                "index": "73-04-10-025",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7321s"
             },
             {
                 "type": "take",
-                "index": "73-04-10-024",
+                "index": "73-04-10-026",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -3162,7 +3186,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-025",
+                "index": "73-04-10-027",
                 "matrix": null,
                 "title": "Mood Indigo - vTW",
                 "releases": [],
@@ -3170,7 +3194,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-026",
+                "index": "73-04-10-028",
                 "matrix": null,
                 "title": "One More Time For The People - vTW",
                 "releases": [],
@@ -3178,7 +3202,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-10-027",
+                "index": "73-04-10-029",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -3268,7 +3292,7 @@
                 "type": "take",
                 "index": "73-04-12-009",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7322i",
                 "suite_index": 1
@@ -3277,7 +3301,7 @@
                 "type": "take",
                 "index": "73-04-12-010",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7322j",
                 "suite_index": 4
@@ -3286,7 +3310,7 @@
                 "type": "take",
                 "index": "73-04-12-011",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7322k",
                 "suite_index": 3
@@ -3295,7 +3319,25 @@
                 "type": "take",
                 "index": "73-04-12-012",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7322k",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "73-04-12-013",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7322l",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "73-04-12-014",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7322l",
                 "suite_index": 2
@@ -3306,7 +3348,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-013",
+                "index": "73-04-12-015",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -3314,7 +3356,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-014",
+                "index": "73-04-12-016",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -3322,7 +3364,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-015",
+                "index": "73-04-12-017",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -3330,7 +3372,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-016",
+                "index": "73-04-12-018",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -3338,7 +3380,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-017",
+                "index": "73-04-12-019",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -3346,7 +3388,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-018",
+                "index": "73-04-12-020",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -3362,7 +3404,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-019",
+                "index": "73-04-12-021",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -3370,7 +3412,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-020",
+                "index": "73-04-12-022",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Don't Get Around Much Anymore",
                 "releases": [],
@@ -3378,7 +3420,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-021",
+                "index": "73-04-12-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
                 "releases": [],
@@ -3386,7 +3428,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-022",
+                "index": "73-04-12-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
                 "releases": [],
@@ -3394,7 +3436,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-023",
+                "index": "73-04-12-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
                 "releases": [],
@@ -3402,15 +3444,15 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-024",
+                "index": "73-04-12-026",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7322t"
             },
             {
                 "type": "take",
-                "index": "73-04-12-025",
+                "index": "73-04-12-027",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -3418,7 +3460,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-026",
+                "index": "73-04-12-028",
                 "matrix": null,
                 "title": "Solitude - vTW",
                 "releases": [],
@@ -3426,7 +3468,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-027",
+                "index": "73-04-12-029",
                 "matrix": null,
                 "title": "Mood Indigo - vTW",
                 "releases": [],
@@ -3434,7 +3476,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-028",
+                "index": "73-04-12-030",
                 "matrix": null,
                 "title": "One More Time For The People - vTW",
                 "releases": [],
@@ -3442,7 +3484,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-029",
+                "index": "73-04-12-031",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -3450,7 +3492,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-030",
+                "index": "73-04-12-032",
                 "matrix": null,
                 "title": "Heaven - vTW",
                 "releases": [],
@@ -3458,7 +3500,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-031",
+                "index": "73-04-12-033",
                 "matrix": null,
                 "title": "The Biggest And Busiest Intersection [Kixx]",
                 "releases": [],
@@ -3470,7 +3512,7 @@
             },
             {
                 "type": "take",
-                "index": "73-04-12-032",
+                "index": "73-04-12-034",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -3997,7 +4039,7 @@
                 "type": "take",
                 "index": "73-05-01-007",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7326g"
             },
@@ -4101,7 +4143,7 @@
                 "type": "take",
                 "index": "73-05-01-019",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7326o"
             },
@@ -4457,7 +4499,8 @@
                 "releases": [
                     {
                         "label": "MP",
-                        "catalog": "Ell-86"
+                        "catalog": "Ell-86",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7327af"
@@ -4650,7 +4693,7 @@
                 "type": "take",
                 "index": "73-05-25-008",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7328xd",
                 "suite_index": 1
@@ -4659,7 +4702,7 @@
                 "type": "take",
                 "index": "73-05-25-009",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7328xe",
                 "suite_index": 4
@@ -4668,7 +4711,7 @@
                 "type": "take",
                 "index": "73-05-25-010",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7328xf",
                 "suite_index": 3
@@ -4677,7 +4720,25 @@
                 "type": "take",
                 "index": "73-05-25-011",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7328xf",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "73-05-25-012",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7328xg",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "73-05-25-013",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7328xg",
                 "suite_index": 2
@@ -4688,7 +4749,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-012",
+                "index": "73-05-25-014",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [
@@ -4702,7 +4763,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-013",
+                "index": "73-05-25-015",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [
@@ -4720,7 +4781,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-014",
+                "index": "73-05-25-016",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -4728,7 +4789,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-015",
+                "index": "73-05-25-017",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [
@@ -4746,7 +4807,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-016",
+                "index": "73-05-25-018",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -4762,7 +4823,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-017",
+                "index": "73-05-25-019",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [],
@@ -4770,7 +4831,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-018",
+                "index": "73-05-25-020",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [],
@@ -4778,7 +4839,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-019",
+                "index": "73-05-25-021",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
                 "releases": [],
@@ -4786,7 +4847,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-020",
+                "index": "73-05-25-022",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
                 "releases": [],
@@ -4794,7 +4855,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-021",
+                "index": "73-05-25-023",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -4806,7 +4867,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-022",
+                "index": "73-05-25-024",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -4818,7 +4879,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-023",
+                "index": "73-05-25-025",
                 "matrix": null,
                 "title": "Tiger Rag",
                 "releases": [],
@@ -4830,7 +4891,7 @@
             },
             {
                 "type": "take",
-                "index": "73-05-25-024",
+                "index": "73-05-25-026",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -5168,7 +5229,7 @@
                 "type": "take",
                 "index": "73-07-16-012",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7331l"
             }
@@ -5720,7 +5781,7 @@
                 "type": "take",
                 "index": "73-07-31-019",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7333s",
                 "suite_index": 1
@@ -5729,7 +5790,7 @@
                 "type": "take",
                 "index": "73-07-31-020",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7333t",
                 "suite_index": 4
@@ -5738,7 +5799,16 @@
                 "type": "take",
                 "index": "73-07-31-021",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
+                "releases": [],
+                "desor": "DE7333u",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "73-07-31-022",
+                "matrix": null,
+                "title": "_|Too Kee [Amour, Amour Part 2]",
                 "releases": [],
                 "desor": "DE7333u",
                 "suite_index": 3
@@ -5749,7 +5819,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-022",
+                "index": "73-07-31-023",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -5757,7 +5827,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-023",
+                "index": "73-07-31-024",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -5765,7 +5835,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-024",
+                "index": "73-07-31-025",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -5773,7 +5843,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-025",
+                "index": "73-07-31-026",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -5781,7 +5851,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-026",
+                "index": "73-07-31-027",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -5789,7 +5859,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-027",
+                "index": "73-07-31-028",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -5797,7 +5867,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-028",
+                "index": "73-07-31-029",
                 "matrix": null,
                 "title": "Basin Street Blues - vMJ",
                 "releases": [],
@@ -5805,7 +5875,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-029",
+                "index": "73-07-31-030",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -5813,7 +5883,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-030",
+                "index": "73-07-31-031",
                 "matrix": null,
                 "title": "Sophisticated Lady",
                 "releases": [],
@@ -5821,15 +5891,15 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-031",
+                "index": "73-07-31-032",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7333ae"
             },
             {
                 "type": "take",
-                "index": "73-07-31-032",
+                "index": "73-07-31-033",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -5837,7 +5907,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-033",
+                "index": "73-07-31-034",
                 "matrix": null,
                 "title": "Mood Indigo - vTW",
                 "releases": [],
@@ -5845,7 +5915,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-034",
+                "index": "73-07-31-035",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -5853,7 +5923,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-035",
+                "index": "73-07-31-036",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -5861,7 +5931,7 @@
             },
             {
                 "type": "take",
-                "index": "73-07-31-036",
+                "index": "73-07-31-037",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -6051,7 +6121,7 @@
                 "type": "take",
                 "index": "73-08-03-020",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7334t"
             },
@@ -7446,7 +7516,7 @@
                 "type": "take",
                 "index": "73-10-03-009",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7343i",
                 "suite_index": 1
@@ -7455,7 +7525,7 @@
                 "type": "take",
                 "index": "73-10-03-010",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7343j",
                 "suite_index": 4
@@ -7464,7 +7534,16 @@
                 "type": "take",
                 "index": "73-10-03-011",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
+                "releases": [],
+                "desor": "DE7343k",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "73-10-03-012",
+                "matrix": null,
+                "title": "_|Too Kee [Amour, Amour Part 2]",
                 "releases": [],
                 "desor": "DE7343k",
                 "suite_index": 3
@@ -7475,7 +7554,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-012",
+                "index": "73-10-03-013",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -7483,7 +7562,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-013",
+                "index": "73-10-03-014",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -7491,7 +7570,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-014",
+                "index": "73-10-03-015",
                 "matrix": null,
                 "title": "Soso",
                 "releases": [],
@@ -7499,7 +7578,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-015",
+                "index": "73-10-03-016",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -7507,7 +7586,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-016",
+                "index": "73-10-03-017",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -7515,7 +7594,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-017",
+                "index": "73-10-03-018",
                 "matrix": null,
                 "title": "New York, New York - vAMo",
                 "releases": [],
@@ -7523,7 +7602,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-018",
+                "index": "73-10-03-019",
                 "matrix": null,
                 "title": "I Got It Bad And That Ain't Good - vAMo",
                 "releases": [],
@@ -7531,7 +7610,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-019",
+                "index": "73-10-03-020",
                 "matrix": null,
                 "title": "Blem - vAMo",
                 "releases": [],
@@ -7539,7 +7618,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-020",
+                "index": "73-10-03-021",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -7547,7 +7626,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-021",
+                "index": "73-10-03-022",
                 "matrix": null,
                 "title": "Basin Street Blues - vMJ",
                 "releases": [],
@@ -7555,7 +7634,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-022",
+                "index": "73-10-03-023",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -7571,7 +7650,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-023",
+                "index": "73-10-03-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [],
@@ -7579,7 +7658,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-024",
+                "index": "73-10-03-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [],
@@ -7587,7 +7666,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-025",
+                "index": "73-10-03-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
                 "releases": [],
@@ -7595,7 +7674,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-026",
+                "index": "73-10-03-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
                 "releases": [],
@@ -7603,7 +7682,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-027",
+                "index": "73-10-03-028",
                 "matrix": null,
                 "title": "Love You Madly - vTW",
                 "releases": [],
@@ -7611,7 +7690,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-028",
+                "index": "73-10-03-029",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -7619,7 +7698,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-029",
+                "index": "73-10-03-030",
                 "matrix": null,
                 "title": "Solitude - vTW",
                 "releases": [],
@@ -7627,7 +7706,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-030",
+                "index": "73-10-03-031",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -7635,7 +7714,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-031",
+                "index": "73-10-03-032",
                 "matrix": null,
                 "title": "I'm Beginning To See The Light - vAMo",
                 "releases": [],
@@ -7643,7 +7722,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-032",
+                "index": "73-10-03-033",
                 "matrix": null,
                 "title": "In The Beginning God - vTW",
                 "releases": [],
@@ -7651,7 +7730,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-033",
+                "index": "73-10-03-034",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -7663,7 +7742,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-034",
+                "index": "73-10-03-035",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -7675,7 +7754,7 @@
             },
             {
                 "type": "take",
-                "index": "73-10-03-035",
+                "index": "73-10-03-036",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -8032,7 +8111,8 @@
                 "releases": [
                     {
                         "label": "CaR",
-                        "catalog": "CAP 21599"
+                        "catalog": "CAP 21599",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7345d"
@@ -8577,7 +8657,8 @@
                 "releases": [
                     {
                         "label": "CaR",
-                        "catalog": "CAP 21599"
+                        "catalog": "CAP 21599",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7345xf"
@@ -9401,7 +9482,7 @@
                 "type": "take",
                 "index": "73-11-05-010",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7350j",
                 "suite_index": 1
@@ -9410,7 +9491,7 @@
                 "type": "take",
                 "index": "73-11-05-011",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7350k",
                 "suite_index": 4
@@ -9419,7 +9500,16 @@
                 "type": "take",
                 "index": "73-11-05-012",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
+                "releases": [],
+                "desor": "DE7350l",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "73-11-05-013",
+                "matrix": null,
+                "title": "_|Too Kee [Amour, Amour Part 2]",
                 "releases": [],
                 "desor": "DE7350l",
                 "suite_index": 3
@@ -9430,7 +9520,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-013",
+                "index": "73-11-05-014",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -9438,7 +9528,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-014",
+                "index": "73-11-05-015",
                 "matrix": null,
                 "title": "I Can't Get Started",
                 "releases": [],
@@ -9446,7 +9536,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-015",
+                "index": "73-11-05-016",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -9454,7 +9544,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-016",
+                "index": "73-11-05-017",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -9462,7 +9552,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-017",
+                "index": "73-11-05-018",
                 "matrix": null,
                 "title": "Metcuria The Lion",
                 "releases": [],
@@ -9470,7 +9560,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-018",
+                "index": "73-11-05-019",
                 "matrix": null,
                 "title": "Tea For Two",
                 "releases": [],
@@ -9478,7 +9568,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-019",
+                "index": "73-11-05-020",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -9486,7 +9576,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-020",
+                "index": "73-11-05-021",
                 "matrix": null,
                 "title": "New York, New York - vAMo",
                 "releases": [],
@@ -9494,7 +9584,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-021",
+                "index": "73-11-05-022",
                 "matrix": null,
                 "title": "I Got It Bad And That Ain't Good - vAMo",
                 "releases": [],
@@ -9502,7 +9592,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-022",
+                "index": "73-11-05-023",
                 "matrix": null,
                 "title": "Blem - vAMo",
                 "releases": [],
@@ -9510,7 +9600,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-023",
+                "index": "73-11-05-024",
                 "matrix": null,
                 "title": "Basin Street Blues - vMJ",
                 "releases": [],
@@ -9518,7 +9608,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-024",
+                "index": "73-11-05-025",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -9534,7 +9624,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-025",
+                "index": "73-11-05-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [],
@@ -9542,7 +9632,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-026",
+                "index": "73-11-05-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [],
@@ -9550,7 +9640,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-027",
+                "index": "73-11-05-028",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
                 "releases": [],
@@ -9558,7 +9648,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-028",
+                "index": "73-11-05-029",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
                 "releases": [],
@@ -9566,7 +9656,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-029",
+                "index": "73-11-05-030",
                 "matrix": null,
                 "title": "Love You Madly - vTW",
                 "releases": [],
@@ -9574,7 +9664,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-030",
+                "index": "73-11-05-031",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -9582,7 +9672,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-031",
+                "index": "73-11-05-032",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -9590,7 +9680,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-032",
+                "index": "73-11-05-033",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -9598,7 +9688,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-033",
+                "index": "73-11-05-034",
                 "matrix": null,
                 "title": "Soso",
                 "releases": [],
@@ -9606,7 +9696,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-034",
+                "index": "73-11-05-035",
                 "matrix": null,
                 "title": "Somebody Cares - vAMo,TW",
                 "releases": [],
@@ -9614,7 +9704,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-035",
+                "index": "73-11-05-036",
                 "matrix": null,
                 "title": "Tiger Rag",
                 "releases": [],
@@ -9626,7 +9716,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-036",
+                "index": "73-11-05-037",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -9638,7 +9728,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-037",
+                "index": "73-11-05-038",
                 "matrix": null,
                 "title": "The Brotherhood",
                 "releases": [],
@@ -9646,7 +9736,7 @@
             },
             {
                 "type": "take",
-                "index": "73-11-05-038",
+                "index": "73-11-05-039",
                 "matrix": null,
                 "title": "Mood Indigo",
                 "releases": [],
@@ -10358,7 +10448,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354b"
@@ -10371,7 +10462,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354c"
@@ -10384,7 +10476,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354d"
@@ -10397,7 +10490,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354e"
@@ -10418,7 +10512,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354g"
@@ -10431,7 +10526,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354h"
@@ -10444,7 +10540,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354i"
@@ -10457,7 +10554,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354j"
@@ -10470,7 +10568,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354k"
@@ -10483,7 +10582,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354l"
@@ -10496,7 +10596,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354m"
@@ -10509,7 +10610,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354n"
@@ -10530,7 +10632,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -10543,7 +10646,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -10556,7 +10660,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -10569,7 +10674,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -10582,7 +10688,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -10595,7 +10702,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -10608,7 +10716,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -10629,7 +10738,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354q"
@@ -10642,7 +10752,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354r"
@@ -10659,7 +10770,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354s"
@@ -10676,7 +10788,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354t"
@@ -10693,7 +10806,8 @@
                 "releases": [
                     {
                         "label": "Sq",
-                        "catalog": "SR-0197"
+                        "catalog": "SR-0197",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7354u"
@@ -10962,7 +11076,8 @@
                 "releases": [
                     {
                         "label": "EA",
-                        "catalog": "2064938"
+                        "catalog": "2064938",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7355n"
@@ -11391,7 +11506,7 @@
                 "type": "take",
                 "index": "73-11-30-010",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE9001j"
             },
@@ -12477,7 +12592,7 @@
                 "type": "take",
                 "index": "73-12-02-010",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7359j"
             },
@@ -12805,7 +12920,7 @@
                 "type": "take",
                 "index": "73-12-03-014",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7360j"
             },

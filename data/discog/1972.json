@@ -28,7 +28,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -150,11 +150,13 @@
                 "type": "take",
                 "index": "72-01-06-014",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [
                     {
                         "label": "MP",
-                        "catalog": "Ell-86"
+                        "catalog": "Ell-86",
+                        "first_issue": true,
+                        "title": "Togo Brava (Soul Soothing Beach)"
                     }
                 ],
                 "desor": "DE7202n",
@@ -164,7 +166,7 @@
                 "type": "take",
                 "index": "72-01-06-015",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "¬ Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7202o",
                 "suite_index": 2
@@ -173,16 +175,34 @@
                 "type": "take",
                 "index": "72-01-06-016",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "_|Yoyo [Naturellement Part 2]",
+                "releases": [],
+                "desor": "DE7202o",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-01-06-017",
+                "matrix": null,
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7202p",
                 "suite_index": 3
             },
             {
                 "type": "take",
-                "index": "72-01-06-017",
+                "index": "72-01-06-018",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7202p",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-01-06-019",
+                "matrix": null,
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7202q",
                 "suite_index": 4
@@ -193,7 +213,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-018",
+                "index": "72-01-06-020",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -201,7 +221,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-019",
+                "index": "72-01-06-021",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -217,7 +237,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-020",
+                "index": "72-01-06-022",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -225,7 +245,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-021",
+                "index": "72-01-06-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -233,7 +253,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-022",
+                "index": "72-01-06-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -241,7 +261,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-023",
+                "index": "72-01-06-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Don't Get Around Much Anymore",
                 "releases": [],
@@ -249,7 +269,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-024",
+                "index": "72-01-06-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Mood Indigo",
                 "releases": [],
@@ -257,7 +277,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-025",
+                "index": "72-01-06-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. I'm Beginning To See The Light",
                 "releases": [],
@@ -265,7 +285,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-026",
+                "index": "72-01-06-028",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude - vTW",
                 "releases": [],
@@ -273,7 +293,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-027",
+                "index": "72-01-06-029",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Heaven - vTW",
                 "releases": [],
@@ -281,7 +301,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-028",
+                "index": "72-01-06-030",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
                 "releases": [],
@@ -289,7 +309,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-029",
+                "index": "72-01-06-031",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. I Got It Bad And That Ain't Good - vNB,CW",
                 "releases": [],
@@ -297,7 +317,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-030",
+                "index": "72-01-06-032",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. I Don't Know What Kind Of Blues I've Got - vNB",
                 "releases": [],
@@ -305,7 +325,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-031",
+                "index": "72-01-06-033",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Everybody Wants To Know - vNB",
                 "releases": [],
@@ -313,7 +333,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-032",
+                "index": "72-01-06-034",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Sophisticated Lady",
                 "releases": [],
@@ -321,7 +341,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-033",
+                "index": "72-01-06-035",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caravan",
                 "releases": [],
@@ -329,7 +349,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-034",
+                "index": "72-01-06-036",
                 "matrix": null,
                 "title": "Goof",
                 "releases": [],
@@ -337,7 +357,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-035",
+                "index": "72-01-06-037",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -345,7 +365,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-036",
+                "index": "72-01-06-038",
                 "matrix": null,
                 "title": "In Triplicate",
                 "releases": [],
@@ -353,7 +373,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-037",
+                "index": "72-01-06-039",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -361,7 +381,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-038",
+                "index": "72-01-06-040",
                 "matrix": null,
                 "title": "One More Time For The People - vNB,TW",
                 "releases": [],
@@ -369,7 +389,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-039",
+                "index": "72-01-06-041",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -381,7 +401,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-040",
+                "index": "72-01-06-042",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -397,11 +417,11 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
-                "index": "72-01-06-041",
+                "index": "72-01-06-043",
                 "matrix": null,
                 "title": "C-Jam Blues",
                 "releases": [],
@@ -409,7 +429,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-042",
+                "index": "72-01-06-044",
                 "matrix": null,
                 "title": "¬ Black And Tan Fantasy",
                 "releases": [],
@@ -417,7 +437,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-043",
+                "index": "72-01-06-045",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;| Creole Love Call",
                 "releases": [],
@@ -425,7 +445,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-044",
+                "index": "72-01-06-046",
                 "matrix": null,
                 "title": "_| The Mooch",
                 "releases": [],
@@ -433,7 +453,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-045",
+                "index": "72-01-06-047",
                 "matrix": null,
                 "title": "¬ Kinda Dukish",
                 "releases": [],
@@ -441,7 +461,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-046",
+                "index": "72-01-06-048",
                 "matrix": null,
                 "title": "_| Rockin' In Rhythm",
                 "releases": [],
@@ -453,7 +473,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-047",
+                "index": "72-01-06-049",
                 "matrix": null,
                 "title": "Happy Reunion",
                 "releases": [],
@@ -465,7 +485,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-048",
+                "index": "72-01-06-050",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -473,7 +493,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-049",
+                "index": "72-01-06-051",
                 "matrix": null,
                 "title": "Fife",
                 "releases": [],
@@ -481,7 +501,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-050",
+                "index": "72-01-06-052",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -489,7 +509,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-051",
+                "index": "72-01-06-053",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -497,7 +517,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-052",
+                "index": "72-01-06-054",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [],
@@ -505,7 +525,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-053",
+                "index": "72-01-06-055",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -517,36 +537,54 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-054",
+                "index": "72-01-06-056",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7203n",
                 "suite_index": 1
             },
             {
                 "type": "take",
-                "index": "72-01-06-055",
+                "index": "72-01-06-057",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "¬ Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7203o",
                 "suite_index": 2
             },
             {
                 "type": "take",
-                "index": "72-01-06-056",
+                "index": "72-01-06-058",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "_|Yoyo [Naturellement Part 2]",
+                "releases": [],
+                "desor": "DE7203o",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-01-06-059",
+                "matrix": null,
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7203p",
                 "suite_index": 3
             },
             {
                 "type": "take",
-                "index": "72-01-06-057",
+                "index": "72-01-06-060",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7203p",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-01-06-061",
+                "matrix": null,
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7203q",
                 "suite_index": 4
@@ -557,7 +595,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-058",
+                "index": "72-01-06-062",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -565,7 +603,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-059",
+                "index": "72-01-06-063",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -581,7 +619,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-060",
+                "index": "72-01-06-064",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -589,7 +627,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-061",
+                "index": "72-01-06-065",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -597,7 +635,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-062",
+                "index": "72-01-06-066",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mellow Ditty",
                 "releases": [],
@@ -605,7 +643,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-063",
+                "index": "72-01-06-067",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -613,7 +651,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-064",
+                "index": "72-01-06-068",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Don't Get Around Much Anymore",
                 "releases": [],
@@ -621,7 +659,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-065",
+                "index": "72-01-06-069",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Mood Indigo",
                 "releases": [],
@@ -629,7 +667,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-066",
+                "index": "72-01-06-070",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. I'm Beginning To See The Light",
                 "releases": [],
@@ -637,7 +675,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-067",
+                "index": "72-01-06-071",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Solitude - vTW",
                 "releases": [],
@@ -645,7 +683,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-068",
+                "index": "72-01-06-072",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
                 "releases": [],
@@ -653,7 +691,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-069",
+                "index": "72-01-06-073",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. I Got It Bad And That Ain't Good - vNB,CW",
                 "releases": [],
@@ -661,7 +699,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-070",
+                "index": "72-01-06-074",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Everybody Wants To Know - vNB,CW",
                 "releases": [],
@@ -669,7 +707,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-071",
+                "index": "72-01-06-075",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. Sophisticated Lady",
                 "releases": [],
@@ -677,7 +715,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-072",
+                "index": "72-01-06-076",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Caravan",
                 "releases": [],
@@ -685,7 +723,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-073",
+                "index": "72-01-06-077",
                 "matrix": null,
                 "title": "Goof",
                 "releases": [],
@@ -693,7 +731,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-074",
+                "index": "72-01-06-078",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -701,7 +739,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-075",
+                "index": "72-01-06-079",
                 "matrix": null,
                 "title": "In Triplicate",
                 "releases": [],
@@ -709,7 +747,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-076",
+                "index": "72-01-06-080",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -717,7 +755,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-077",
+                "index": "72-01-06-081",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -725,7 +763,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-078",
+                "index": "72-01-06-082",
                 "matrix": null,
                 "title": "One More Time For The People - vNB,TW",
                 "releases": [],
@@ -737,7 +775,7 @@
             },
             {
                 "type": "take",
-                "index": "72-01-06-079",
+                "index": "72-01-06-083",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -753,7 +791,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -865,7 +903,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t,v); Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams(t,v); Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -1129,7 +1167,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -1433,7 +1471,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -1733,7 +1771,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams(t,v); Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams(t,v); Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -2017,7 +2055,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -2317,7 +2355,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v); National Symphony Orchestra, Redentor Romero(con,vn)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v); National Symphony Orchestra, Redentor Romero(con,vn)."
             },
             {
                 "type": "suite",
@@ -2404,7 +2442,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -2504,7 +2542,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson(t,v); Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Nell Brookshire, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -2534,7 +2572,7 @@
                 "type": "take",
                 "index": "72-02-11-004",
                 "matrix": null,
-                "title": "Second Line",
+                "title": "Line",
                 "releases": [],
                 "desor": "DE7211d"
             },
@@ -2562,7 +2600,7 @@
                 "type": "take",
                 "index": "72-02-11-007",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7211g",
                 "suite_index": 1
@@ -2571,7 +2609,7 @@
                 "type": "take",
                 "index": "72-02-11-008",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "¬ Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7211h",
                 "suite_index": 2
@@ -2580,16 +2618,34 @@
                 "type": "take",
                 "index": "72-02-11-009",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "_|Yoyo [Naturellement Part 2]",
+                "releases": [],
+                "desor": "DE7211h",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-02-11-010",
+                "matrix": null,
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7211i",
                 "suite_index": 3
             },
             {
                 "type": "take",
-                "index": "72-02-11-010",
+                "index": "72-02-11-011",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7211i",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-02-11-012",
+                "matrix": null,
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7211j",
                 "suite_index": 4
@@ -2600,7 +2656,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-011",
+                "index": "72-02-11-013",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -2608,7 +2664,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-012",
+                "index": "72-02-11-014",
                 "matrix": null,
                 "title": "In A Sentimental Mood",
                 "releases": [],
@@ -2616,7 +2672,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-013",
+                "index": "72-02-11-015",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -2624,7 +2680,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-014",
+                "index": "72-02-11-016",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -2632,7 +2688,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-015",
+                "index": "72-02-11-017",
                 "matrix": null,
                 "title": "I Can't Get Started",
                 "releases": [],
@@ -2640,7 +2696,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-016",
+                "index": "72-02-11-018",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [],
@@ -2648,7 +2704,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-017",
+                "index": "72-02-11-019",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -2656,7 +2712,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-018",
+                "index": "72-02-11-020",
                 "matrix": null,
                 "title": "Goof",
                 "releases": [],
@@ -2664,7 +2720,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-019",
+                "index": "72-02-11-021",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [],
@@ -2672,7 +2728,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-020",
+                "index": "72-02-11-022",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -2680,7 +2736,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-021",
+                "index": "72-02-11-023",
                 "matrix": null,
                 "title": "¬ Kinda Dukish",
                 "releases": [],
@@ -2688,7 +2744,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-022",
+                "index": "72-02-11-024",
                 "matrix": null,
                 "title": "_| Rockin' In Rhythm",
                 "releases": [],
@@ -2696,7 +2752,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-023",
+                "index": "72-02-11-025",
                 "matrix": null,
                 "title": "The Blues - vTW",
                 "releases": [],
@@ -2704,7 +2760,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-024",
+                "index": "72-02-11-026",
                 "matrix": null,
                 "title": "Heaven - vTW",
                 "releases": [],
@@ -2712,7 +2768,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-025",
+                "index": "72-02-11-027",
                 "matrix": null,
                 "title": "In The Beginning God - vTW",
                 "releases": [],
@@ -2720,7 +2776,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-026",
+                "index": "72-02-11-028",
                 "matrix": null,
                 "title": "Solitude - vTW",
                 "releases": [],
@@ -2728,7 +2784,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-027",
+                "index": "72-02-11-029",
                 "matrix": null,
                 "title": "It Don't Mean A thing - vTW",
                 "releases": [],
@@ -2736,7 +2792,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-028",
+                "index": "72-02-11-030",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -2744,7 +2800,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-029",
+                "index": "72-02-11-031",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -2760,7 +2816,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-030",
+                "index": "72-02-11-032",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -2768,7 +2824,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-031",
+                "index": "72-02-11-033",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -2776,7 +2832,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-032",
+                "index": "72-02-11-034",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Don't Get Around Much Anymore",
                 "releases": [],
@@ -2784,7 +2840,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-033",
+                "index": "72-02-11-035",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
                 "releases": [],
@@ -2792,7 +2848,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-034",
+                "index": "72-02-11-036",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning To See The Light",
                 "releases": [],
@@ -2800,7 +2856,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-035",
+                "index": "72-02-11-037",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. I Don't Know What Kind Of Blues I've Got - vNB",
                 "releases": [],
@@ -2808,7 +2864,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-036",
+                "index": "72-02-11-038",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. I Got It Bad And That Ain't Good - vNB,CW",
                 "releases": [],
@@ -2816,7 +2872,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-037",
+                "index": "72-02-11-039",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Everybody Wants To Know - vNB",
                 "releases": [],
@@ -2824,7 +2880,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-038",
+                "index": "72-02-11-040",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Sophisticated Lady",
                 "releases": [],
@@ -2832,7 +2888,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-039",
+                "index": "72-02-11-041",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Caravan",
                 "releases": [],
@@ -2840,7 +2896,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-040",
+                "index": "72-02-11-042",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -2848,7 +2904,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-041",
+                "index": "72-02-11-043",
                 "matrix": null,
                 "title": "One More Time For The People - vNB,TW",
                 "releases": [],
@@ -2860,7 +2916,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-11-042",
+                "index": "72-02-11-044",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -2876,7 +2932,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -3008,7 +3064,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -3084,7 +3140,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -3336,7 +3392,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -3450,7 +3506,7 @@
                 "type": "take",
                 "index": "72-02-21-043",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7215n",
                 "suite_index": 1
@@ -3459,7 +3515,7 @@
                 "type": "take",
                 "index": "72-02-21-044",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "¬ Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7215o",
                 "suite_index": 2
@@ -3468,16 +3524,34 @@
                 "type": "take",
                 "index": "72-02-21-045",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "_|Yoyo [Naturellement Part 2]",
+                "releases": [],
+                "desor": "DE7215o",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-02-21-046",
+                "matrix": null,
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7215p",
                 "suite_index": 3
             },
             {
                 "type": "take",
-                "index": "72-02-21-046",
+                "index": "72-02-21-047",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7215p",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-02-21-048",
+                "matrix": null,
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7215q",
                 "suite_index": 4
@@ -3488,7 +3562,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-21-047",
+                "index": "72-02-21-049",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -3496,7 +3570,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-21-048",
+                "index": "72-02-21-050",
                 "matrix": null,
                 "title": "In Triplicate",
                 "releases": [],
@@ -3512,7 +3586,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harold \"Money\" Johnson(t,v); Cootie Williams, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Harold \"Money\" Johnson(t,v); Cootie Williams, Mercer Ellington(t); Johnny Coles(t,flh); Booty Wood, Malcolm Taylor(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -3586,7 +3660,7 @@
                 "type": "take",
                 "index": "72-02-25-008",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7216h",
                 "suite_index": 1
@@ -3595,7 +3669,7 @@
                 "type": "take",
                 "index": "72-02-25-009",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "¬ Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7216i",
                 "suite_index": 2
@@ -3604,16 +3678,34 @@
                 "type": "take",
                 "index": "72-02-25-010",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "_|Yoyo [Naturellement Part 2]",
+                "releases": [],
+                "desor": "DE7216i",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-02-25-011",
+                "matrix": null,
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7216j",
                 "suite_index": 3
             },
             {
                 "type": "take",
-                "index": "72-02-25-011",
+                "index": "72-02-25-012",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7216j",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-02-25-013",
+                "matrix": null,
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7216k",
                 "suite_index": 4
@@ -3624,7 +3716,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-012",
+                "index": "72-02-25-014",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -3632,7 +3724,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-013",
+                "index": "72-02-25-015",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -3640,7 +3732,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-014",
+                "index": "72-02-25-016",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -3648,7 +3740,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-015",
+                "index": "72-02-25-017",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -3656,7 +3748,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-016",
+                "index": "72-02-25-018",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -3664,7 +3756,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-017",
+                "index": "72-02-25-019",
                 "matrix": null,
                 "title": "I Can't Get Started",
                 "releases": [],
@@ -3672,7 +3764,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-018",
+                "index": "72-02-25-020",
                 "matrix": null,
                 "title": "Goof",
                 "releases": [],
@@ -3680,7 +3772,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-019",
+                "index": "72-02-25-021",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -3688,7 +3780,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-020",
+                "index": "72-02-25-022",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -3696,7 +3788,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-021",
+                "index": "72-02-25-023",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -3704,7 +3796,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-022",
+                "index": "72-02-25-024",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -3720,7 +3812,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-023",
+                "index": "72-02-25-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -3728,7 +3820,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-024",
+                "index": "72-02-25-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -3736,7 +3828,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-025",
+                "index": "72-02-25-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -3744,7 +3836,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-026",
+                "index": "72-02-25-028",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Don't Get Around Much Anymore",
                 "releases": [],
@@ -3752,7 +3844,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-027",
+                "index": "72-02-25-029",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Mood Indigo",
                 "releases": [],
@@ -3760,7 +3852,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-028",
+                "index": "72-02-25-030",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. I'm Beginning To See The Light",
                 "releases": [],
@@ -3768,7 +3860,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-029",
+                "index": "72-02-25-031",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude - vTW",
                 "releases": [],
@@ -3776,7 +3868,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-030",
+                "index": "72-02-25-032",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Heaven - vTW",
                 "releases": [],
@@ -3784,7 +3876,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-031",
+                "index": "72-02-25-033",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. In The Beginngin God - vTW",
                 "releases": [],
@@ -3792,7 +3884,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-032",
+                "index": "72-02-25-034",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. One More Time For The People - vTW",
                 "releases": [],
@@ -3800,7 +3892,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-033",
+                "index": "72-02-25-035",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -3808,7 +3900,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-034",
+                "index": "72-02-25-036",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -3820,7 +3912,7 @@
             },
             {
                 "type": "take",
-                "index": "72-02-25-035",
+                "index": "72-02-25-037",
                 "matrix": null,
                 "title": "Monologue",
                 "releases": [],
@@ -3854,7 +3946,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -3867,7 +3960,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -3880,7 +3974,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -3893,7 +3988,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": null
@@ -3906,7 +4002,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217b"
@@ -3919,7 +4016,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217c"
@@ -3932,7 +4030,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217d"
@@ -3945,7 +4044,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217e"
@@ -3958,7 +4058,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217f"
@@ -3971,7 +4072,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217g"
@@ -3993,11 +4095,13 @@
                 "type": "take",
                 "index": "72-04-10-011",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "Goso [Amour, Amour Part 1]",
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true,
+                        "title": "Amour, Amour"
                     }
                 ],
                 "desor": "DE7217h"
@@ -4006,11 +4110,13 @@
                 "type": "take",
                 "index": "72-04-10-012",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true,
+                        "title": "Soul Soothing Beach"
                     }
                 ],
                 "desor": "DE7217i"
@@ -4027,7 +4133,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217j"
@@ -4056,7 +4163,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217l"
@@ -4069,7 +4177,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217m"
@@ -4098,7 +4207,8 @@
                     },
                     {
                         "label": "MP",
-                        "catalog": "Ell-86"
+                        "catalog": "Ell-86",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217o"
@@ -4111,7 +4221,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217p"
@@ -4124,7 +4235,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217q"
@@ -4137,7 +4249,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217r"
@@ -4150,7 +4263,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217s"
@@ -4171,7 +4285,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217u"
@@ -4184,7 +4299,8 @@
                 "releases": [
                     {
                         "label": "Im",
-                        "catalog": "IMPD-173"
+                        "catalog": "IMPD-173",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7217v"
@@ -4223,7 +4339,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington, Howard McGhee(t); Harold \"Money\" Johnson(t,v); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington, Howard McGhee(t); Harold \"Money\" Johnson(t,v); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -4421,7 +4537,7 @@
                 "type": "take",
                 "index": "72-04-14-024",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7218x"
             },
@@ -4555,7 +4671,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Unk(d)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Unk(d)."
             },
             {
                 "type": "take",
@@ -4819,7 +4935,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -4869,7 +4985,7 @@
                 "type": "take",
                 "index": "72-04-23-006",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7220f",
                 "suite_index": 1
@@ -4878,7 +4994,7 @@
                 "type": "take",
                 "index": "72-04-23-007",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "¬ Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7220g",
                 "suite_index": 2
@@ -4887,16 +5003,34 @@
                 "type": "take",
                 "index": "72-04-23-008",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "_|Yoyo [Naturellement Part 2]",
+                "releases": [],
+                "desor": "DE7220g",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-04-23-009",
+                "matrix": null,
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7220h",
                 "suite_index": 3
             },
             {
                 "type": "take",
-                "index": "72-04-23-009",
+                "index": "72-04-23-010",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7220h",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-04-23-011",
+                "matrix": null,
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7220i",
                 "suite_index": 4
@@ -4911,7 +5045,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-010",
+                "index": "72-04-23-012",
                 "matrix": null,
                 "title": "Flamingo",
                 "releases": [],
@@ -4923,7 +5057,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-011",
+                "index": "72-04-23-013",
                 "matrix": null,
                 "title": "You Are Beautiful",
                 "releases": [],
@@ -4931,7 +5065,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-012",
+                "index": "72-04-23-014",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -4939,7 +5073,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-013",
+                "index": "72-04-23-015",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [],
@@ -4947,7 +5081,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-014",
+                "index": "72-04-23-016",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -4955,7 +5089,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-015",
+                "index": "72-04-23-017",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -4963,7 +5097,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-016",
+                "index": "72-04-23-018",
                 "matrix": null,
                 "title": "Caravan",
                 "releases": [],
@@ -4971,7 +5105,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-017",
+                "index": "72-04-23-019",
                 "matrix": null,
                 "title": "One O'Clock Jump",
                 "releases": [],
@@ -4979,7 +5113,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-23-018",
+                "index": "72-04-23-020",
                 "matrix": null,
                 "title": "In Triplicate",
                 "releases": [],
@@ -4995,7 +5129,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -5053,7 +5187,7 @@
                 "type": "take",
                 "index": "72-04-28-007",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7221g",
                 "suite_index": 1
@@ -5062,7 +5196,7 @@
                 "type": "take",
                 "index": "72-04-28-008",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7221h",
                 "suite_index": 4
@@ -5071,7 +5205,7 @@
                 "type": "take",
                 "index": "72-04-28-009",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7221i",
                 "suite_index": 3
@@ -5080,7 +5214,25 @@
                 "type": "take",
                 "index": "72-04-28-010",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7221i",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-04-28-011",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7221j",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-04-28-012",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7221j",
                 "suite_index": 2
@@ -5091,7 +5243,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-011",
+                "index": "72-04-28-013",
                 "matrix": null,
                 "title": "In A Sentimental Mood",
                 "releases": [],
@@ -5099,7 +5251,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-012",
+                "index": "72-04-28-014",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -5107,7 +5259,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-013",
+                "index": "72-04-28-015",
                 "matrix": null,
                 "title": "Fife",
                 "releases": [],
@@ -5115,7 +5267,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-014",
+                "index": "72-04-28-016",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -5123,7 +5275,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-015",
+                "index": "72-04-28-017",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [],
@@ -5131,7 +5283,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-016",
+                "index": "72-04-28-018",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -5139,7 +5291,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-017",
+                "index": "72-04-28-019",
                 "matrix": null,
                 "title": "Happy Birthday To You",
                 "releases": [],
@@ -5147,7 +5299,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-018",
+                "index": "72-04-28-020",
                 "matrix": null,
                 "title": "Goof",
                 "releases": [],
@@ -5155,7 +5307,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-019",
+                "index": "72-04-28-021",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -5163,7 +5315,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-020",
+                "index": "72-04-28-022",
                 "matrix": null,
                 "title": "In Triplicate",
                 "releases": [],
@@ -5171,7 +5323,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-021",
+                "index": "72-04-28-023",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -5187,7 +5339,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-022",
+                "index": "72-04-28-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. It Don't Mean A Thing (If It Ain't Got That Swing)",
                 "releases": [],
@@ -5195,7 +5347,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-023",
+                "index": "72-04-28-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Prelude To A Kiss",
                 "releases": [],
@@ -5203,7 +5355,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-024",
+                "index": "72-04-28-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -5211,7 +5363,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-025",
+                "index": "72-04-28-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -5219,7 +5371,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-026",
+                "index": "72-04-28-028",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Solitude",
                 "releases": [],
@@ -5227,7 +5379,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-027",
+                "index": "72-04-28-029",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Don't Get Around Much Anymore",
                 "releases": [],
@@ -5235,7 +5387,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-028",
+                "index": "72-04-28-030",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Mood Indigo",
                 "releases": [],
@@ -5243,7 +5395,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-029",
+                "index": "72-04-28-031",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. I'm Beginning To See The Light",
                 "releases": [],
@@ -5251,7 +5403,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-030",
+                "index": "72-04-28-032",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Sophisticated Lady",
                 "releases": [],
@@ -5259,7 +5411,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-031",
+                "index": "72-04-28-033",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Caravan",
                 "releases": [],
@@ -5267,7 +5419,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-032",
+                "index": "72-04-28-034",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -5275,7 +5427,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-033",
+                "index": "72-04-28-035",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -5283,7 +5435,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-034",
+                "index": "72-04-28-036",
                 "matrix": null,
                 "title": "One More Time For The People",
                 "releases": [],
@@ -5295,7 +5447,7 @@
             },
             {
                 "type": "take",
-                "index": "72-04-28-035",
+                "index": "72-04-28-037",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -5311,7 +5463,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -5499,7 +5651,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -5641,7 +5793,7 @@
                 "type": "take",
                 "index": "72-05-09-039",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7223r"
             },
@@ -5743,7 +5895,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams,  Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams,  Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -5761,7 +5913,8 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15782"
+                        "catalog": "15782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7225b"
@@ -5806,7 +5959,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018402"
+                        "catalog": "1018402",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -5847,7 +6001,8 @@
                 "releases": [
                     {
                         "label": "Pb",
-                        "catalog": "2310-815"
+                        "catalog": "2310-815",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7225k"
@@ -5892,7 +6047,8 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15782"
+                        "catalog": "15782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7225p"
@@ -5907,7 +6063,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arnie Chycoski, Cootie Williams(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Arnie Chycoski, Cootie Williams(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -5917,7 +6073,8 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15783(2nd)"
+                        "catalog": "15783(2nd)",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7226a"
@@ -5930,7 +6087,8 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15782"
+                        "catalog": "15782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7226b"
@@ -5947,7 +6105,8 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15782"
+                        "catalog": "15782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7226c"
@@ -5964,7 +6123,8 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15782"
+                        "catalog": "15782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7226d"
@@ -5977,7 +6137,8 @@
                 "releases": [
                     {
                         "label": "La",
-                        "catalog": "15782"
+                        "catalog": "15782",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7226e"
@@ -6000,7 +6161,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -6042,7 +6203,7 @@
                 "type": "take",
                 "index": "72-06-23-005",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7227e",
                 "suite_index": 1
@@ -6051,7 +6212,7 @@
                 "type": "take",
                 "index": "72-06-23-006",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7227f",
                 "suite_index": 4
@@ -6060,7 +6221,7 @@
                 "type": "take",
                 "index": "72-06-23-007",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7227g",
                 "suite_index": 3
@@ -6069,7 +6230,25 @@
                 "type": "take",
                 "index": "72-06-23-008",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7227g",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-06-23-009",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7227h",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-06-23-010",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7227h",
                 "suite_index": 2
@@ -6080,7 +6259,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-009",
+                "index": "72-06-23-011",
                 "matrix": null,
                 "title": "In A Sentimental Mood",
                 "releases": [],
@@ -6088,7 +6267,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-010",
+                "index": "72-06-23-012",
                 "matrix": null,
                 "title": "Up Jump",
                 "releases": [],
@@ -6096,7 +6275,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-011",
+                "index": "72-06-23-013",
                 "matrix": null,
                 "title": "Fife",
                 "releases": [],
@@ -6104,7 +6283,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-012",
+                "index": "72-06-23-014",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -6112,7 +6291,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-013",
+                "index": "72-06-23-015",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -6120,7 +6299,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-014",
+                "index": "72-06-23-016",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [],
@@ -6128,7 +6307,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-015",
+                "index": "72-06-23-017",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -6136,7 +6315,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-016",
+                "index": "72-06-23-018",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -6144,7 +6323,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-017",
+                "index": "72-06-23-019",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -6152,7 +6331,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-018",
+                "index": "72-06-23-020",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -6168,7 +6347,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-019",
+                "index": "72-06-23-021",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -6176,7 +6355,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-020",
+                "index": "72-06-23-022",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -6184,7 +6363,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-021",
+                "index": "72-06-23-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -6192,7 +6371,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-022",
+                "index": "72-06-23-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Don't Get Around Much Anymore",
                 "releases": [],
@@ -6200,7 +6379,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-023",
+                "index": "72-06-23-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Mood Indigo",
                 "releases": [],
@@ -6208,7 +6387,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-024",
+                "index": "72-06-23-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. I'm Beginning To See The Light",
                 "releases": [],
@@ -6216,7 +6395,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-025",
+                "index": "72-06-23-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Sophisticated Lady",
                 "releases": [],
@@ -6224,15 +6403,15 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-026",
+                "index": "72-06-23-028",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7227t"
             },
             {
                 "type": "take",
-                "index": "72-06-23-027",
+                "index": "72-06-23-029",
                 "matrix": null,
                 "title": "Heaven - vTW",
                 "releases": [],
@@ -6240,7 +6419,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-028",
+                "index": "72-06-23-030",
                 "matrix": null,
                 "title": "Love You Madly - vTW",
                 "releases": [],
@@ -6248,7 +6427,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-029",
+                "index": "72-06-23-031",
                 "matrix": null,
                 "title": "I Got It Bad And That Ain't Good - vTW",
                 "releases": [],
@@ -6256,7 +6435,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-030",
+                "index": "72-06-23-032",
                 "matrix": null,
                 "title": "Caravan",
                 "releases": [],
@@ -6264,7 +6443,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-031",
+                "index": "72-06-23-033",
                 "matrix": null,
                 "title": "Addi",
                 "releases": [],
@@ -6272,7 +6451,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-032",
+                "index": "72-06-23-034",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -6280,7 +6459,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-033",
+                "index": "72-06-23-035",
                 "matrix": null,
                 "title": "One More Time For The People - vTW",
                 "releases": [],
@@ -6292,7 +6471,7 @@
             },
             {
                 "type": "take",
-                "index": "72-06-23-034",
+                "index": "72-06-23-036",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -6308,7 +6487,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -6360,7 +6539,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -6402,7 +6581,7 @@
                 "type": "take",
                 "index": "72-07-08-005",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7229e",
                 "suite_index": 1
@@ -6411,7 +6590,7 @@
                 "type": "take",
                 "index": "72-07-08-006",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7229f",
                 "suite_index": 4
@@ -6420,7 +6599,7 @@
                 "type": "take",
                 "index": "72-07-08-007",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7229g",
                 "suite_index": 3
@@ -6429,7 +6608,25 @@
                 "type": "take",
                 "index": "72-07-08-008",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7229g",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-07-08-009",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7229h",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-07-08-010",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7229h",
                 "suite_index": 2
@@ -6444,13 +6641,14 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-009",
+                "index": "72-07-08-011",
                 "matrix": null,
                 "title": "Happy Reunion",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229i"
@@ -6461,46 +6659,49 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-010",
+                "index": "72-07-08-012",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229j"
             },
             {
                 "type": "take",
-                "index": "72-07-08-011",
+                "index": "72-07-08-013",
                 "matrix": null,
                 "title": "Acac",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229k"
             },
             {
                 "type": "take",
-                "index": "72-07-08-012",
+                "index": "72-07-08-014",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229l"
             },
             {
                 "type": "take",
-                "index": "72-07-08-013",
+                "index": "72-07-08-015",
                 "matrix": null,
                 "title": "East St. Louis Toodle-O",
                 "releases": [],
@@ -6512,7 +6713,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-014",
+                "index": "72-07-08-016",
                 "matrix": null,
                 "title": "Soda Fountain Rag",
                 "releases": [],
@@ -6524,39 +6725,42 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-015",
+                "index": "72-07-08-017",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229o"
             },
             {
                 "type": "take",
-                "index": "72-07-08-016",
+                "index": "72-07-08-018",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229p"
             },
             {
                 "type": "take",
-                "index": "72-07-08-017",
+                "index": "72-07-08-019",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229q"
@@ -6567,13 +6771,14 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-018",
+                "index": "72-07-08-020",
                 "matrix": null,
                 "title": "Rose Room",
                 "releases": [
                     {
                         "label": "LS",
-                        "catalog": "LSR-001"
+                        "catalog": "LSR-001",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7229r"
@@ -6584,7 +6789,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-019",
+                "index": "72-07-08-021",
                 "matrix": null,
                 "title": "Me And You - vBSo",
                 "releases": [],
@@ -6592,7 +6797,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-020",
+                "index": "72-07-08-022",
                 "matrix": null,
                 "title": "It Don't Mean A thing - vBSo",
                 "releases": [],
@@ -6604,7 +6809,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-021",
+                "index": "72-07-08-023",
                 "matrix": null,
                 "title": "St. Louis Blues - vBFa",
                 "releases": [],
@@ -6616,7 +6821,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-022",
+                "index": "72-07-08-024",
                 "matrix": null,
                 "title": "I'm Beginning To See The Light - vAMo",
                 "releases": [],
@@ -6628,7 +6833,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-023",
+                "index": "72-07-08-025",
                 "matrix": null,
                 "title": "Mood Indigo - vARu",
                 "releases": [],
@@ -6636,7 +6841,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-024",
+                "index": "72-07-08-026",
                 "matrix": null,
                 "title": "Blem - vARu",
                 "releases": [],
@@ -6648,7 +6853,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-08-025",
+                "index": "72-07-08-027",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW,BFa,ARu",
                 "releases": [],
@@ -6768,7 +6973,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -6834,7 +7039,7 @@
                 "type": "take",
                 "index": "72-07-18-008",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7232h",
                 "suite_index": 1
@@ -6843,7 +7048,7 @@
                 "type": "take",
                 "index": "72-07-18-009",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7232i",
                 "suite_index": 4
@@ -6852,7 +7057,7 @@
                 "type": "take",
                 "index": "72-07-18-010",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7232j",
                 "suite_index": 3
@@ -6861,7 +7066,25 @@
                 "type": "take",
                 "index": "72-07-18-011",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7232j",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-07-18-012",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7232k",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-07-18-013",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7232k",
                 "suite_index": 2
@@ -6872,7 +7095,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-012",
+                "index": "72-07-18-014",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -6880,7 +7103,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-013",
+                "index": "72-07-18-015",
                 "matrix": null,
                 "title": "Fife",
                 "releases": [],
@@ -6888,7 +7111,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-014",
+                "index": "72-07-18-016",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -6896,7 +7119,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-015",
+                "index": "72-07-18-017",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -6904,7 +7127,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-016",
+                "index": "72-07-18-018",
                 "matrix": null,
                 "title": "I'm Beginning To See The Light - vAMo",
                 "releases": [],
@@ -6912,7 +7135,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-017",
+                "index": "72-07-18-019",
                 "matrix": null,
                 "title": "Acac",
                 "releases": [],
@@ -6920,7 +7143,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-018",
+                "index": "72-07-18-020",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -6928,7 +7151,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-019",
+                "index": "72-07-18-021",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -6936,15 +7159,15 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-020",
+                "index": "72-07-18-022",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7232t"
             },
             {
                 "type": "take",
-                "index": "72-07-18-021",
+                "index": "72-07-18-023",
                 "matrix": null,
                 "title": "Solitude - vTW",
                 "releases": [],
@@ -6952,7 +7175,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-022",
+                "index": "72-07-18-024",
                 "matrix": null,
                 "title": "I Got It Bad And That Ain't Good - vTW",
                 "releases": [],
@@ -6960,7 +7183,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-023",
+                "index": "72-07-18-025",
                 "matrix": null,
                 "title": "Love You Madly - vTW",
                 "releases": [],
@@ -6968,7 +7191,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-024",
+                "index": "72-07-18-026",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -6984,7 +7207,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-025",
+                "index": "72-07-18-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Prelude To A Kiss",
                 "releases": [],
@@ -6992,7 +7215,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-026",
+                "index": "72-07-18-028",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -7000,7 +7223,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-027",
+                "index": "72-07-18-029",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -7008,7 +7231,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-028",
+                "index": "72-07-18-030",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Don't Get Around Much Anymore",
                 "releases": [],
@@ -7016,7 +7239,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-029",
+                "index": "72-07-18-031",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Mood Indigo",
                 "releases": [],
@@ -7024,7 +7247,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-030",
+                "index": "72-07-18-032",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. It Don't Mean A thing - vTW",
                 "releases": [],
@@ -7032,7 +7255,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-031",
+                "index": "72-07-18-033",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Sophisticated Lady",
                 "releases": [],
@@ -7040,7 +7263,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-032",
+                "index": "72-07-18-034",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -7048,7 +7271,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-18-033",
+                "index": "72-07-18-035",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -7064,7 +7287,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins, Devonne Gardner, Patricia Hoy, Roscoe Gill, Ellington Festival Choir(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins, Devonne Gardner, Patricia Hoy, Roscoe Gill, Ellington Festival Choir(v)."
             },
             {
                 "type": "suite",
@@ -7306,7 +7529,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -7356,7 +7579,7 @@
                 "type": "take",
                 "index": "72-07-20-011",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7235f",
                 "suite_index": 1
@@ -7365,7 +7588,7 @@
                 "type": "take",
                 "index": "72-07-20-012",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7235g",
                 "suite_index": 4
@@ -7374,7 +7597,7 @@
                 "type": "take",
                 "index": "72-07-20-013",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7235h",
                 "suite_index": 3
@@ -7383,7 +7606,25 @@
                 "type": "take",
                 "index": "72-07-20-014",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7235h",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-07-20-015",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7235i",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-07-20-016",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7235i",
                 "suite_index": 2
@@ -7394,7 +7635,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-015",
+                "index": "72-07-20-017",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -7402,7 +7643,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-016",
+                "index": "72-07-20-018",
                 "matrix": null,
                 "title": "Fife",
                 "releases": [],
@@ -7410,7 +7651,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-017",
+                "index": "72-07-20-019",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -7418,7 +7659,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-018",
+                "index": "72-07-20-020",
                 "matrix": null,
                 "title": "Chinoiserie",
                 "releases": [],
@@ -7426,7 +7667,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-019",
+                "index": "72-07-20-021",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -7434,7 +7675,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-020",
+                "index": "72-07-20-022",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [],
@@ -7442,7 +7683,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-021",
+                "index": "72-07-20-023",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -7454,7 +7695,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-022",
+                "index": "72-07-20-024",
                 "matrix": null,
                 "title": "Goutelas",
                 "releases": [],
@@ -7463,7 +7704,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-023",
+                "index": "72-07-20-025",
                 "matrix": null,
                 "title": "Get-With-Itness",
                 "releases": [],
@@ -7476,7 +7717,7 @@
             },
             {
                 "type": "take",
-                "index": "72-07-20-024",
+                "index": "72-07-20-026",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -7552,7 +7793,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -7896,7 +8137,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
+                "value": "Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -7948,7 +8189,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harold \"Money\" Johnson(t); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore(v)."
+                "value": "Harold \"Money\" Johnson(t); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore(v)."
             },
             {
                 "type": "take",
@@ -8042,7 +8283,8 @@
                 "releases": [
                     {
                         "label": "MM",
-                        "catalog": "5041-2C"
+                        "catalog": "5041-2C",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7239k"
@@ -8058,7 +8300,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harold \"Money\" Johnson(t); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Emmanuel Abdul-Rahim(co); Anita Moore, Toney Watkins(v)."
+                "value": "Harold \"Money\" Johnson(t); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Emmanuel Abdul-Rahim(co); Anita Moore, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -8168,7 +8410,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241b"
@@ -8189,7 +8432,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241d"
@@ -8202,7 +8446,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241e"
@@ -8215,7 +8460,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241f"
@@ -8228,7 +8474,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241g"
@@ -8265,7 +8512,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241k"
@@ -8282,7 +8530,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241l"
@@ -8299,7 +8548,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241m"
@@ -8312,7 +8562,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241n"
@@ -8325,7 +8576,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241o"
@@ -8338,7 +8590,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241p"
@@ -8351,7 +8604,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241q"
@@ -8360,7 +8614,7 @@
                 "type": "take",
                 "index": "72-08-25-018",
                 "matrix": null,
-                "title": "The Blues Ain't",
+                "title": "The Blues [The Blues Ain't]",
                 "releases": [],
                 "desor": "DE7241r"
             },
@@ -8368,11 +8622,12 @@
                 "type": "take",
                 "index": "72-08-25-019",
                 "matrix": null,
-                "title": "The Blues Ain't - vTW",
+                "title": "The Blues [The Blues Ain't] - vTW",
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241s"
@@ -8397,7 +8652,7 @@
                 "type": "take",
                 "index": "72-08-25-022",
                 "matrix": null,
-                "title": "The Blues Ain't",
+                "title": "The Blues [The Blues Ain't]",
                 "releases": [],
                 "desor": "DE7241v"
             },
@@ -8409,7 +8664,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241w"
@@ -8422,7 +8678,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241x"
@@ -8435,7 +8692,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018445"
+                        "catalog": "1018445",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7241y"
@@ -8462,7 +8720,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore(v)."
             },
             {
                 "type": "take",
@@ -8610,7 +8868,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Booty Wood, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Booty Wood, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -8776,7 +9034,7 @@
                 "type": "take",
                 "index": "72-08-31-020",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7243p"
             },
@@ -8814,7 +9072,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Booty Wood, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Booty Wood, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore, Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -8852,7 +9110,7 @@
                 "type": "take",
                 "index": "72-08-31-028",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7244e"
             },
@@ -8860,7 +9118,7 @@
                 "type": "take",
                 "index": "72-08-31-029",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "¬ Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7244f"
             },
@@ -8868,13 +9126,21 @@
                 "type": "take",
                 "index": "72-08-31-030",
                 "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
+                "releases": [],
+                "desor": "DE7244f"
+            },
+            {
+                "type": "take",
+                "index": "72-08-31-031",
+                "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
                 "desor": "DE7244g"
             },
             {
                 "type": "take",
-                "index": "72-08-31-031",
+                "index": "72-08-31-032",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -8882,7 +9148,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-032",
+                "index": "72-08-31-033",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -8890,7 +9156,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-033",
+                "index": "72-08-31-034",
                 "matrix": null,
                 "title": "New York, New York - vAMo",
                 "releases": [],
@@ -8898,7 +9164,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-034",
+                "index": "72-08-31-035",
                 "matrix": null,
                 "title": "I Didn't Know About You - vAMo",
                 "releases": [],
@@ -8906,7 +9172,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-035",
+                "index": "72-08-31-036",
                 "matrix": null,
                 "title": "Blem - vAMo",
                 "releases": [],
@@ -8918,7 +9184,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-036",
+                "index": "72-08-31-037",
                 "matrix": null,
                 "title": "Happy Reunion",
                 "releases": [],
@@ -8930,7 +9196,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-037",
+                "index": "72-08-31-038",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -8938,7 +9204,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-038",
+                "index": "72-08-31-039",
                 "matrix": null,
                 "title": "Sophisticated Lady",
                 "releases": [],
@@ -8946,7 +9212,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-039",
+                "index": "72-08-31-040",
                 "matrix": null,
                 "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
                 "releases": [],
@@ -8954,7 +9220,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-040",
+                "index": "72-08-31-041",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -8962,7 +9228,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-041",
+                "index": "72-08-31-042",
                 "matrix": null,
                 "title": "Mood Indigo - vTW",
                 "releases": [],
@@ -8970,7 +9236,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-042",
+                "index": "72-08-31-043",
                 "matrix": null,
                 "title": "Be Cool And Groovy For Me - vTW",
                 "releases": [],
@@ -8978,7 +9244,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-043",
+                "index": "72-08-31-044",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -8986,7 +9252,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-044",
+                "index": "72-08-31-045",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -9002,7 +9268,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harold \"Money\" Johnson(t); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore(v)."
+                "value": "Harold \"Money\" Johnson(t); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Anita Moore(v)."
             },
             {
                 "type": "take",
@@ -9140,7 +9406,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018402"
+                        "catalog": "1018402",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -9264,7 +9531,8 @@
                 "releases": [
                     {
                         "label": "Sv",
-                        "catalog": "1018402"
+                        "catalog": "1018402",
+                        "first_issue": true
                     },
                     {
                         "label": "Sv",
@@ -9272,6 +9540,10 @@
                     }
                 ],
                 "desor": "DE7245ac"
+            },
+            {
+                "type": "note",
+                "content": "On Storyville (Sv) releases, \"I'm Afraid\" is track (15) and the ending of (22)."
             }
         ]
     },
@@ -9283,7 +9555,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -9357,7 +9629,7 @@
                 "type": "take",
                 "index": "72-09-21-009",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7246i",
                 "suite_index": 1
@@ -9366,7 +9638,7 @@
                 "type": "take",
                 "index": "72-09-21-010",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7246j",
                 "suite_index": 4
@@ -9375,7 +9647,7 @@
                 "type": "take",
                 "index": "72-09-21-011",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7246k",
                 "suite_index": 3
@@ -9384,7 +9656,25 @@
                 "type": "take",
                 "index": "72-09-21-012",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7246k",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-09-21-013",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7246l",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-09-21-014",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7246l",
                 "suite_index": 2
@@ -9395,7 +9685,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-013",
+                "index": "72-09-21-015",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -9403,7 +9693,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-014",
+                "index": "72-09-21-016",
                 "matrix": null,
                 "title": "Satin Doll[",
                 "releases": [],
@@ -9411,7 +9701,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-015",
+                "index": "72-09-21-017",
                 "matrix": null,
                 "title": "In Triplicate [In Duplicate]",
                 "releases": [],
@@ -9419,7 +9709,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-016",
+                "index": "72-09-21-018",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -9427,7 +9717,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-017",
+                "index": "72-09-21-019",
                 "matrix": null,
                 "title": "Acac",
                 "releases": [],
@@ -9435,7 +9725,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-018",
+                "index": "72-09-21-020",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -9451,7 +9741,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-019",
+                "index": "72-09-21-021",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [],
@@ -9459,7 +9749,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-020",
+                "index": "72-09-21-022",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [],
@@ -9467,7 +9757,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-021",
+                "index": "72-09-21-023",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
                 "releases": [],
@@ -9475,7 +9765,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-022",
+                "index": "72-09-21-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
                 "releases": [],
@@ -9483,7 +9773,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-023",
+                "index": "72-09-21-025",
                 "matrix": null,
                 "title": "¬ Making That Scene - vTW",
                 "releases": [],
@@ -9491,7 +9781,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-024",
+                "index": "72-09-21-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;| Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -9499,7 +9789,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-025",
+                "index": "72-09-21-027",
                 "matrix": null,
                 "title": "_| Solitude - vTW",
                 "releases": [],
@@ -9507,7 +9797,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-026",
+                "index": "72-09-21-028",
                 "matrix": null,
                 "title": "One More Time For The People - vTW",
                 "releases": [],
@@ -9515,7 +9805,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-027",
+                "index": "72-09-21-029",
                 "matrix": null,
                 "title": "Heaven - vTW",
                 "releases": [],
@@ -9523,7 +9813,7 @@
             },
             {
                 "type": "take",
-                "index": "72-09-21-028",
+                "index": "72-09-21-030",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -9559,7 +9849,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington, Harold \"Money\" Johnson(t); Johnny Coles(t,flh); Booty Wood, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Russ Andrews(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Mercer Ellington, Harold \"Money\" Johnson(t); Johnny Coles(t,flh); Booty Wood, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Russ Andrews(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -9605,7 +9895,8 @@
                 "releases": [
                     {
                         "label": "OJC20",
-                        "catalog": "888072346147"
+                        "catalog": "888072346147",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7248e"
@@ -9684,7 +9975,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-762"
+                        "catalog": "2310-762",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7248l",
@@ -9738,7 +10030,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-762"
+                        "catalog": "2310-762",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7248q",
@@ -9760,7 +10053,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-762"
+                        "catalog": "2310-762",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7248r",
@@ -9776,7 +10070,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Russ Andrews(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Russ Andrews(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -9858,7 +10152,7 @@
                 "type": "take",
                 "index": "72-10-13-010",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7249j",
                 "suite_index": 1
@@ -9867,7 +10161,7 @@
                 "type": "take",
                 "index": "72-10-13-011",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7249k",
                 "suite_index": 4
@@ -9876,7 +10170,7 @@
                 "type": "take",
                 "index": "72-10-13-012",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7249l",
                 "suite_index": 3
@@ -9885,7 +10179,25 @@
                 "type": "take",
                 "index": "72-10-13-013",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7249l",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-10-13-014",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7249m",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-10-13-015",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7249m",
                 "suite_index": 2
@@ -9900,7 +10212,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Russ Andrews(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Russ Andrews(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
                 "type": "take",
@@ -9990,7 +10302,7 @@
                 "type": "take",
                 "index": "72-10-17-011",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7250k",
                 "suite_index": 1
@@ -9999,7 +10311,7 @@
                 "type": "take",
                 "index": "72-10-17-012",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7250l",
                 "suite_index": 4
@@ -10008,7 +10320,7 @@
                 "type": "take",
                 "index": "72-10-17-013",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7250m",
                 "suite_index": 3
@@ -10017,7 +10329,25 @@
                 "type": "take",
                 "index": "72-10-17-014",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7250m",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-10-17-015",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7250n",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-10-17-016",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7250n",
                 "suite_index": 2
@@ -10028,7 +10358,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-015",
+                "index": "72-10-17-017",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -10036,7 +10366,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-016",
+                "index": "72-10-17-018",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -10044,7 +10374,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-017",
+                "index": "72-10-17-019",
                 "matrix": null,
                 "title": "In triplicate [In Duplicate]",
                 "releases": [],
@@ -10052,7 +10382,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-018",
+                "index": "72-10-17-020",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -10060,7 +10390,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-019",
+                "index": "72-10-17-021",
                 "matrix": null,
                 "title": "Acac",
                 "releases": [],
@@ -10068,7 +10398,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-020",
+                "index": "72-10-17-022",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -10076,7 +10406,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-021",
+                "index": "72-10-17-023",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -10092,7 +10422,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-022",
+                "index": "72-10-17-024",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [],
@@ -10100,7 +10430,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-023",
+                "index": "72-10-17-025",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [],
@@ -10108,7 +10438,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-024",
+                "index": "72-10-17-026",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
                 "releases": [],
@@ -10116,7 +10446,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-025",
+                "index": "72-10-17-027",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
                 "releases": [],
@@ -10124,15 +10454,15 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-026",
+                "index": "72-10-17-028",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7250w"
             },
             {
                 "type": "take",
-                "index": "72-10-17-027",
+                "index": "72-10-17-029",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -10140,7 +10470,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-028",
+                "index": "72-10-17-030",
                 "matrix": null,
                 "title": "Solitude - vTW",
                 "releases": [],
@@ -10148,7 +10478,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-029",
+                "index": "72-10-17-031",
                 "matrix": null,
                 "title": "One More Time For The People - vTW",
                 "releases": [],
@@ -10156,7 +10486,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-030",
+                "index": "72-10-17-032",
                 "matrix": null,
                 "title": "In The Beginning God - vTW",
                 "releases": [],
@@ -10168,7 +10498,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-031",
+                "index": "72-10-17-033",
                 "matrix": null,
                 "title": "Dancers In Love",
                 "releases": [],
@@ -10180,7 +10510,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-032",
+                "index": "72-10-17-034",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -10188,7 +10518,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-033",
+                "index": "72-10-17-035",
                 "matrix": null,
                 "title": "Blueberry Hill - vMJ",
                 "releases": [],
@@ -10196,7 +10526,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-034",
+                "index": "72-10-17-036",
                 "matrix": null,
                 "title": "Tiger Rag",
                 "releases": [],
@@ -10208,7 +10538,7 @@
             },
             {
                 "type": "take",
-                "index": "72-10-17-035",
+                "index": "72-10-17-037",
                 "matrix": null,
                 "title": "Lotus Blossom",
                 "releases": [],
@@ -10224,7 +10554,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Russ Andrews(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Cootie Williams, Harold \"Money\" Johnson, Mercer Ellington(t); Johnny Coles(t,flh); Tyree Glenn, Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Russ Andrews(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
@@ -10234,7 +10564,8 @@
                 "releases": [
                     {
                         "label": "Ti",
-                        "catalog": "TX-1129"
+                        "catalog": "TX-1129",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7251a"
@@ -10251,7 +10582,8 @@
                 "releases": [
                     {
                         "label": "Ti",
-                        "catalog": "TX-1129"
+                        "catalog": "TX-1129",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7251xa"
@@ -10268,7 +10600,8 @@
                 "releases": [
                     {
                         "label": "Ti",
-                        "catalog": "TX-1129"
+                        "catalog": "TX-1129",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7251b"
@@ -10294,7 +10627,8 @@
                 "releases": [
                     {
                         "label": "Ti",
-                        "catalog": "TX-1129"
+                        "catalog": "TX-1129",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7251c"
@@ -10313,7 +10647,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Russ Andrews(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v); The Detroit Symphony Orchestra, Sixten Ehrlingadded(con)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Russ Andrews(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins(v); The Detroit Symphony Orchestra, Sixten Ehrlingadded(con)."
             },
             {
                 "type": "take",
@@ -10411,7 +10745,7 @@
                 "type": "take",
                 "index": "72-10-27-011",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7252h"
             },
@@ -10483,7 +10817,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253b"
@@ -10500,7 +10835,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253c"
@@ -10517,7 +10853,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253d"
@@ -10534,7 +10871,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253e"
@@ -10551,7 +10889,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253f"
@@ -10576,7 +10915,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253g",
@@ -10594,7 +10934,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253h",
@@ -10612,7 +10953,8 @@
                     },
                     {
                         "label": "Pb",
-                        "catalog": "2310-721"
+                        "catalog": "2310-721",
+                        "first_issue": true
                     }
                 ],
                 "desor": "DE7253i",
@@ -10628,7 +10970,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins, Unk(v)."
+                "value": "Cootie Williams, Mercer Ellington(t); Harold \"Money\" Johnson(t,v); Johnny Coles(t,flh); Vince Prudente(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d); Toney Watkins, Unk(v)."
             },
             {
                 "type": "take",
@@ -10722,7 +11064,7 @@
                 "type": "take",
                 "index": "72-12-17-012",
                 "matrix": null,
-                "title": "Hello, Little Boy (Hello, Little Girl) - vUnk",
+                "title": "Hello, Little Boy [Hello, Little Girl] - vUnk",
                 "releases": [],
                 "desor": "DE7254l"
             },
@@ -10734,7 +11076,7 @@
                 "type": "take",
                 "index": "72-12-17-013",
                 "matrix": null,
-                "title": "Soul Soothing Beach",
+                "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
                 "desor": "DE7254m",
                 "suite_index": 1
@@ -10743,7 +11085,7 @@
                 "type": "take",
                 "index": "72-12-17-014",
                 "matrix": null,
-                "title": "Right On Togo",
+                "title": "Buss [Right On Togo]",
                 "releases": [],
                 "desor": "DE7254n",
                 "suite_index": 4
@@ -10752,7 +11094,7 @@
                 "type": "take",
                 "index": "72-12-17-015",
                 "matrix": null,
-                "title": "Amour, Amour",
+                "title": "¬ Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7254o",
                 "suite_index": 3
@@ -10761,7 +11103,25 @@
                 "type": "take",
                 "index": "72-12-17-016",
                 "matrix": null,
-                "title": "Naturellement",
+                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "releases": [],
+                "desor": "DE7254o",
+                "suite_index": 3
+            },
+            {
+                "type": "take",
+                "index": "72-12-17-017",
+                "matrix": null,
+                "title": "¬ Tugo [Naturellement Part 1]",
+                "releases": [],
+                "desor": "DE7254p",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "72-12-17-018",
+                "matrix": null,
+                "title": "_|Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7254p",
                 "suite_index": 2
@@ -10772,7 +11132,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-017",
+                "index": "72-12-17-019",
                 "matrix": null,
                 "title": "La Plus Belle Africaine",
                 "releases": [],
@@ -10780,7 +11140,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-018",
+                "index": "72-12-17-020",
                 "matrix": null,
                 "title": "Acac",
                 "releases": [],
@@ -10788,7 +11148,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-019",
+                "index": "72-12-17-021",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -10796,7 +11156,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-020",
+                "index": "72-12-17-022",
                 "matrix": null,
                 "title": "Summer Samba",
                 "releases": [],
@@ -10808,7 +11168,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-021",
+                "index": "72-12-17-023",
                 "matrix": null,
                 "title": "Duke talking about a prize awarded by the Vice Major",
                 "releases": [],
@@ -10820,7 +11180,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-022",
+                "index": "72-12-17-024",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -10828,7 +11188,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-023",
+                "index": "72-12-17-025",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -10836,7 +11196,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-024",
+                "index": "72-12-17-026",
                 "matrix": null,
                 "title": "Hello, Dolly - vMJ",
                 "releases": [],
@@ -10844,7 +11204,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-025",
+                "index": "72-12-17-027",
                 "matrix": null,
                 "title": "Mack The Knife - vMJ",
                 "releases": [],
@@ -10852,7 +11212,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-026",
+                "index": "72-12-17-028",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -10860,7 +11220,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-027",
+                "index": "72-12-17-029",
                 "matrix": null,
                 "title": "Love You Madly - vTW",
                 "releases": [],
@@ -10868,7 +11228,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-028",
+                "index": "72-12-17-030",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -10876,7 +11236,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-029",
+                "index": "72-12-17-031",
                 "matrix": null,
                 "title": "Solitude - vTW",
                 "releases": [],
@@ -10884,7 +11244,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-030",
+                "index": "72-12-17-032",
                 "matrix": null,
                 "title": "I Don't Want Nobody But You - vTW",
                 "releases": [],
@@ -10892,7 +11252,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-031",
+                "index": "72-12-17-033",
                 "matrix": null,
                 "title": "One More Time For The People - vTW",
                 "releases": [],
@@ -10908,7 +11268,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-032",
+                "index": "72-12-17-034",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
                 "releases": [],
@@ -10916,7 +11276,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-033",
+                "index": "72-12-17-035",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
                 "releases": [],
@@ -10924,7 +11284,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-034",
+                "index": "72-12-17-036",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
                 "releases": [],
@@ -10932,7 +11292,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-035",
+                "index": "72-12-17-037",
                 "matrix": null,
                 "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
                 "releases": [],
@@ -10940,7 +11300,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-036",
+                "index": "72-12-17-038",
                 "matrix": null,
                 "title": "¬ Diminuendo In Blue",
                 "releases": [],
@@ -10948,7 +11308,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-037",
+                "index": "72-12-17-039",
                 "matrix": null,
                 "title": "_| Wailing Interval",
                 "releases": [],
@@ -10960,7 +11320,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-038",
+                "index": "72-12-17-040",
                 "matrix": null,
                 "title": "Happy Reunion",
                 "releases": [],
@@ -10972,7 +11332,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-039",
+                "index": "72-12-17-041",
                 "matrix": null,
                 "title": "What Am I Here For?",
                 "releases": [],
@@ -10984,7 +11344,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-040",
+                "index": "72-12-17-042",
                 "matrix": null,
                 "title": "The Piano Player",
                 "releases": [],
@@ -10992,7 +11352,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-041",
+                "index": "72-12-17-043",
                 "matrix": null,
                 "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
                 "releases": [],
@@ -11000,7 +11360,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-042",
+                "index": "72-12-17-044",
                 "matrix": null,
                 "title": "My Mother, My Father And Love - vTW",
                 "releases": [],
@@ -11008,15 +11368,15 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-043",
+                "index": "72-12-17-045",
                 "matrix": null,
-                "title": "Making That Scene - vTW",
+                "title": "Love Scene - vTW",
                 "releases": [],
                 "desor": "DE7254an"
             },
             {
                 "type": "take",
-                "index": "72-12-17-044",
+                "index": "72-12-17-046",
                 "matrix": null,
                 "title": "¬ I Let A Song Go Out Of My Heart",
                 "releases": [],
@@ -11024,7 +11384,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-045",
+                "index": "72-12-17-047",
                 "matrix": null,
                 "title": "_| Don't Get Around Much Anymore",
                 "releases": [],
@@ -11032,7 +11392,7 @@
             },
             {
                 "type": "take",
-                "index": "72-12-17-046",
+                "index": "72-12-17-048",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -11048,7 +11408,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Harold \"Money\" Johnson(t); Vince Prudente(tb); Norris Turney(cl,as,ts,f); Russell Procope(cl,as); Harold Minerve(cl,as,f,pic); Harold Ashby(ts,cl); Paul Gonsalves(ts); Harry Carney(bar,cl,bcl); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
+                "value": "Harold \"Money\" Johnson(t); Vince Prudente(tb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Harold Minerve(pic,f,cl,as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Joe Benjamin(sb); Rufus Jones(d)."
             },
             {
                 "type": "take",
