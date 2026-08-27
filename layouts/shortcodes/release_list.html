@@ -75,7 +75,8 @@ case tracks are listed in the order in they were recorded.</p>
         <th>Title</th>
         <th>New DESOR</th>
       </tr>
-      {{ range $entry := $release_data.entries }}
+      {{ $entries := $release_data.entries }}
+      {{ range $i, $entry := $entries }}
         {{ if eq .type "suite" }}
           <tr class="suite">
               <td colspan="2"></td>
@@ -99,12 +100,26 @@ case tracks are listed in the order in they were recorded.</p>
               <td></td>
             {{ end }}
           </tr>
+        {{ else if eq .type "begin_anon_medley" }}
+          <tr class="anon_medley_gap">
+            <td colspan="4"></td>
+          </tr>
+        {{ else if eq .type "end_anon_medley" }}
+          {{ $next_type := "" }}
+          {{ if lt (add $i 1) (len $entries) }}
+            {{ $next_type = (index $entries (add $i 1)).type }}
+          {{ end }}
+          {{ if ne $next_type "begin_anon_medley" }}
+            <tr class="anon_medley_gap">
+              <td colspan="4"></td>
+            </tr>
+          {{ end }}
         {{ else if eq .type "take" }}
-          <tr class="take">
+          <tr class="take{{ if $entry.anon_medley }} anon_medley{{ end }}">
             {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
             <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
             <td>{{ $entry.matrix }}</td>
-            <td>
+            <td class="title">
               {{ if $entry.disc_track }}
                 <span class="detail">({{ $entry.disc_track }})</span>
               {{ end }}

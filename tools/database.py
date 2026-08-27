@@ -100,6 +100,13 @@ class Entry:
     medley_index: str = None
     medley: "Entry" = None
 
+    # Only set on constituent take entries: a back-reference identity marker
+    # shared by every take in one begin_anon_medley/end_anon_medley run
+    # (None if the take isn't part of one). Unlike `medley`, this never
+    # points to a real Entry — an anon_medley carries no title/index/matrix/
+    # desor of its own, it's purely a structural grouping.
+    anon_medley: object = None
+
     session: Session = None
 
     # TODO: Add the concept of a rejected entry here
@@ -359,6 +366,7 @@ def load_from_json():
         for jsession in json_sessions:
             suite_title = None
             current_medley = None
+            current_anon_medley = None
             if not "date" in jsession:
                 raise RuntimeError(f"Missing date, previous session was {old_date}")
 
@@ -451,6 +459,12 @@ def load_from_json():
                         entries.append(current_medley)
                         medley_position = 0
 
+                elif jentry["type"] == "begin_anon_medley":
+                    current_anon_medley = object()
+
+                elif jentry["type"] == "end_anon_medley":
+                    current_anon_medley = None
+
                 elif jentry["type"] == "take":
                     index = jentry["index"]
 
@@ -490,6 +504,12 @@ def load_from_json():
                         jentry["suite_index"] if "suite_index" in jentry else None
                     )
 
+                    assert current_medley is None or current_anon_medley is None, (
+                        "take can't be inside both a named medley and an "
+                        "anon_medley",
+                        title,
+                    )
+
                     entry = Entry(
                         type="take",
                         index=index,
@@ -499,6 +519,7 @@ def load_from_json():
                         suite_index=suite_index,
                         medley_index=medley_index,
                         medley=current_medley,
+                        anon_medley=current_anon_medley,
                         desor=jentry["desor"],
                     )
 
@@ -657,6 +678,7 @@ def save_releases_to_json(database, generated):
             json_release["n_takes"] = len(entries)
             suite_title = None
             medley = None
+            anon_medley = None
 
             for er in entries:
                 if er.entry.suite_title != suite_title:
@@ -676,6 +698,12 @@ def save_releases_to_json(database, generated):
                             "page": page_for_year(medley.session.year()) if medley else None,
                         }
                     )
+                if er.entry.anon_medley != anon_medley:
+                    if anon_medley is not None:
+                        json_release["entries"].append({"type": "end_anon_medley"})
+                    if er.entry.anon_medley is not None:
+                        json_release["entries"].append({"type": "begin_anon_medley"})
+                    anon_medley = er.entry.anon_medley
                 disc_track = None
                 if er.disc and er.track:
                     disc_track = f"{er.disc}-{er.track}"
@@ -704,6 +732,7 @@ def save_releases_to_json(database, generated):
                     "suite_title": er.entry.suite_title,
                     "suite_index": er.entry.suite_index,
                     "medley_index": er.entry.medley_index,
+                    "anon_medley": bool(er.entry.anon_medley),
                 }
                 for key in ENTRY_LINKS:
                     json_entry[key] = getattr(er.entry, key)
@@ -748,6 +777,7 @@ def save_to_json(database):
             json_entries = []
             suite_title = None
             medley = None
+            anon_medley = None
             for entry in database.get_entries(session):
                 if entry.type == "take" and entry.suite_title != suite_title:
                     suite_title = entry.suite_title
@@ -757,6 +787,12 @@ def save_to_json(database):
                     # of a medley; we only need to synthesize the end marker.
                     medley = None
                     json_entries.append({"type": "medley", "medley_title": None})
+                if entry.type == "take" and entry.anon_medley != anon_medley:
+                    if anon_medley is not None:
+                        json_entries.append({"type": "end_anon_medley"})
+                    if entry.anon_medley is not None:
+                        json_entries.append({"type": "begin_anon_medley"})
+                    anon_medley = entry.anon_medley
                 json_entry = {"type": entry.type}
                 if entry.type == "artists":
                     json_entry["value"] = entry.value
@@ -782,6 +818,9 @@ def save_to_json(database):
 
                     if entry.medley_index:
                         json_entry["medley_index"] = entry.medley_index
+
+                    if entry.anon_medley:
+                        json_entry["anon_medley"] = True
 
                     for key in ENTRY_LINKS:
                         if value := getattr(entry, key):

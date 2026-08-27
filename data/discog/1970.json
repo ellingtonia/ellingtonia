@@ -3713,10 +3713,13 @@
                 "desor": "DE7027a"
             },
             {
+                "type": "begin_anon_medley"
+            },
+            {
                 "type": "take",
                 "index": "70-04-02-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "TOM",
@@ -3724,13 +3727,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE7027b"
+                "desor": "DE7027b",
+                "anon_medley": true
             },
             {
                 "type": "take",
                 "index": "70-04-02-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "TOM",
@@ -3738,7 +3742,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE7027c"
+                "desor": "DE7027c",
+                "anon_medley": true
+            },
+            {
+                "type": "end_anon_medley"
             },
             {
                 "type": "take",

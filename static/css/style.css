@@ -52,6 +52,43 @@ tr.medley td {
     padding-top: 10px;
 }
 
+tr.anon_medley_gap td {
+    padding-top: 10px;
+}
+
+tr.take.anon_medley td.title {
+    padding-left: 26px;
+    position: relative;
+}
+
+/* Up arrow marks the first take of the run, a bar marks every take in
+   between, and a down arrow marks the last, so a 3+ song run shows its
+   shape at a glance. Rule order matters: each rule below overrides the
+   previous one for the rows it also matches (a "last" row is also a
+   "continuation" row in a multi-take run, and needs the down arrow to win).
+   :not(:has(+ ...)) is what detects "last" - no following sibling in the
+   same run - since CSS selectors otherwise can't look ahead. */
+tr.take.anon_medley td.title::before {
+    content: "\2191";
+    position: absolute;
+    left: 9px;
+    top: 1px;
+    color: #767676;
+    font-size: 11px;
+}
+
+tr.take.anon_medley + tr.take.anon_medley td.title::before {
+    content: "\2502";
+}
+
+tr.take.anon_medley:not(:has(+ tr.take.anon_medley)) td.title::before {
+    content: "\2193";
+}
+
+tr.take.anon_medley:not(tr.take.anon_medley + tr.take.anon_medley):not(:has(+ tr.take.anon_medley)) td.title::before {
+    content: "\2195";
+}
+
 tr.take td {
     vertical-align: top;
 }

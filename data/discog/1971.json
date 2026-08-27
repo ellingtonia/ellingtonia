@@ -5477,10 +5477,13 @@
                 "suite_index": 2
             },
             {
+                "type": "begin_anon_medley"
+            },
+            {
                 "type": "take",
                 "index": "71-06-28-011",
                 "matrix": "(07)",
-                "title": "¬ Tugo [Naturellement Part 1]",
+                "title": "Tugo [Naturellement Part 1]",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5494,13 +5497,14 @@
                     }
                 ],
                 "desor": "DE7135k",
-                "suite_index": 2
+                "suite_index": 2,
+                "anon_medley": true
             },
             {
                 "type": "take",
                 "index": "71-06-28-012",
                 "matrix": "(07)",
-                "title": "_|Yoyo [Naturellement Part 2]",
+                "title": "Yoyo [Naturellement Part 2]",
                 "releases": [
                     {
                         "label": "Sv",
@@ -5514,7 +5518,8 @@
                     }
                 ],
                 "desor": "DE7135k",
-                "suite_index": 2
+                "suite_index": 2,
+                "anon_medley": true
             },
             {
                 "type": "note",
@@ -6020,20 +6025,28 @@
                 "desor": "DE7139a"
             },
             {
+                "type": "begin_anon_medley"
+            },
+            {
                 "type": "take",
                 "index": "71-07-21-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE7139b"
+                "desor": "DE7139b",
+                "anon_medley": true
             },
             {
                 "type": "take",
                 "index": "71-07-21-003",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE7139c"
+                "desor": "DE7139c",
+                "anon_medley": true
+            },
+            {
+                "type": "end_anon_medley"
             },
             {
                 "type": "take",
@@ -6104,24 +6117,32 @@
                 "desor": "DE7139j"
             },
             {
+                "type": "begin_anon_medley"
+            },
+            {
                 "type": "take",
                 "index": "71-07-21-011",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE7139k"
+                "desor": "DE7139k",
+                "anon_medley": true
             },
             {
                 "type": "take",
                 "index": "71-07-21-012",
                 "matrix": null,
-                "title": "_| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE7139l"
+                "desor": "DE7139l",
+                "anon_medley": true
             },
             {
                 "type": "suite",
                 "suite_title": "Togo Brava Suite"
+            },
+            {
+                "type": "end_anon_medley"
             },
             {
                 "type": "take",
@@ -6133,40 +6154,56 @@
                 "suite_index": 1
             },
             {
+                "type": "begin_anon_medley"
+            },
+            {
                 "type": "take",
                 "index": "71-07-21-014",
                 "matrix": null,
-                "title": "¬ Tugo [Naturellement Part 1]",
+                "title": "Tugo [Naturellement Part 1]",
                 "releases": [],
                 "desor": "DE7139n",
-                "suite_index": 2
+                "suite_index": 2,
+                "anon_medley": true
             },
             {
                 "type": "take",
                 "index": "71-07-21-015",
                 "matrix": null,
-                "title": "_|Yoyo [Naturellement Part 2]",
+                "title": "Yoyo [Naturellement Part 2]",
                 "releases": [],
                 "desor": "DE7139n",
-                "suite_index": 2
+                "suite_index": 2,
+                "anon_medley": true
+            },
+            {
+                "type": "end_anon_medley"
+            },
+            {
+                "type": "begin_anon_medley"
             },
             {
                 "type": "take",
                 "index": "71-07-21-016",
                 "matrix": null,
-                "title": "¬ Goso [Amour, Amour Part 1]",
+                "title": "Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7139o",
-                "suite_index": 3
+                "suite_index": 3,
+                "anon_medley": true
             },
             {
                 "type": "take",
                 "index": "71-07-21-017",
                 "matrix": null,
-                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "title": "Too Kee [Amour, Amour Part 2]",
                 "releases": [],
                 "desor": "DE7139o",
-                "suite_index": 3
+                "suite_index": 3,
+                "anon_medley": true
+            },
+            {
+                "type": "end_anon_medley"
             },
             {
                 "type": "take",
@@ -6206,20 +6243,25 @@
                 "desor": "DE7139s"
             },
             {
+                "type": "begin_anon_medley"
+            },
+            {
                 "type": "take",
                 "index": "71-07-21-022",
                 "matrix": null,
-                "title": "¬ Tugo [Naturellement Part 1]",
+                "title": "Tugo [Naturellement Part 1]",
                 "releases": [],
-                "desor": "DE7139t"
+                "desor": "DE7139t",
+                "anon_medley": true
             },
             {
                 "type": "take",
                 "index": "71-07-21-023",
                 "matrix": null,
-                "title": "_|Yoyo [Naturellement Part 2]",
+                "title": "Yoyo [Naturellement Part 2]",
                 "releases": [],
-                "desor": "DE7139t"
+                "desor": "DE7139t",
+                "anon_medley": true
             }
         ]
     },
