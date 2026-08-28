@@ -456,6 +456,8 @@ def load_from_json():
                             desor=jentry["desor"],
                             medley_title=medley_title,
                         )
+                        for key in ENTRY_LINKS:
+                            setattr(current_medley, key, jentry.get(key))
                         entries.append(current_medley)
                         medley_position = 0
 
@@ -688,16 +690,17 @@ def save_releases_to_json(database, generated):
                     )
                 if er.entry.medley != medley:
                     medley = er.entry.medley
-                    json_release["entries"].append(
-                        {
-                            "type": "medley",
-                            "medley_title": medley.medley_title if medley else None,
-                            "desor": medley.desor if medley else None,
-                            "matrix": medley.matrix if medley else None,
-                            "index": medley.index if medley else None,
-                            "page": page_for_year(medley.session.year()) if medley else None,
-                        }
-                    )
+                    medley_json_entry = {
+                        "type": "medley",
+                        "medley_title": medley.medley_title if medley else None,
+                        "desor": medley.desor if medley else None,
+                        "matrix": medley.matrix if medley else None,
+                        "index": medley.index if medley else None,
+                        "page": page_for_year(medley.session.year()) if medley else None,
+                    }
+                    for key in ENTRY_LINKS:
+                        medley_json_entry[key] = getattr(medley, key) if medley else None
+                    json_release["entries"].append(medley_json_entry)
                 if er.entry.attacca != attacca:
                     if attacca is not None:
                         json_release["entries"].append({"type": "end_attacca"})
@@ -806,6 +809,9 @@ def save_to_json(database):
                     json_entry["matrix"] = entry.matrix
                     json_entry["desor"] = entry.desor
                     json_entry["medley_title"] = entry.medley_title
+                    for key in ENTRY_LINKS:
+                        if value := getattr(entry, key):
+                            json_entry[key] = value
                 elif entry.type == "take":
                     json_entry["index"] = entry.index
                     json_entry["matrix"] = entry.matrix
