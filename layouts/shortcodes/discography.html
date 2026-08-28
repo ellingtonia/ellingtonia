@@ -47,7 +47,7 @@
         <tr class="medley" id="take-{{ .index }}">
           <td class="index"> {{ $entry.index }} </td>
           <td> {{ $entry.matrix }} </td>
-          <td colspan="3">
+          <td colspan="2">
             {{ $.Page.RenderString .medley_title }}
             {{ range $link_data := $.Site.Params.entry_links }}
               {{- if index $entry $link_data.key -}}
