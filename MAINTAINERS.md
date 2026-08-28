@@ -126,24 +126,24 @@ This reset is only needed when a medley's songs are followed directly by ordinar
 
 The medley header renders as a non-bold divider row, distinguishing it visually from a (bold) suite divider.
 
-## `anon_medley` entries
+## `attacca` entries
 
 Some runs of takes are performed with no pause between them but were never given a collective name or their own DESOR/matrix (unlike a `medley`) — for example a run through several standards during a concert, with no announced title for the run as a whole. These are marked with a pair of divider entries:
 
 ```json
-{ "type": "begin_anon_medley" }
+{ "type": "begin_attacca" }
 ```
 ```json
-{ "type": "end_anon_medley" }
+{ "type": "end_attacca" }
 ```
 
-Neither entry carries any other fields — there's nothing to store, since an anon_medley has no title, index, matrix, or DESOR of its own. Every take between a `begin_anon_medley` and the matching `end_anon_medley` keeps its `index`/`matrix`/`desor` completely unchanged from an ordinary take — nothing is derived, renumbered, or lettered for these takes. In particular, **`desor` is never touched**: two takes in the same anon_medley may legitimately share one DESOR letter (that's what the source New DESOR reference gives them) or may each have their own consecutive letter — either is valid, and `normalise` will never try to "fix" this (see the note on DESOR ownership in `AGENTS.md`).
+Neither entry carries any other fields — there's nothing to store, since an attacca has no title, index, matrix, or DESOR of its own. Every take between a `begin_attacca` and the matching `end_attacca` keeps its `index`/`matrix`/`desor` completely unchanged from an ordinary take — nothing is derived, renumbered, or lettered for these takes. In particular, **`desor` is never touched**: two takes in the same attacca may legitimately share one DESOR letter (that's what the source New DESOR reference gives them) or may each have their own consecutive letter — either is valid, and `normalise` will never try to "fix" this (see the note on DESOR ownership in `AGENTS.md`).
 
-`end_anon_medley` is only needed when an anon_medley's takes are followed directly by ordinary takes. Going straight from one anon_medley into another needs no separate reset — write `end_anon_medley` then `begin_anon_medley` back to back (or just don't bother nesting them if there's always something else in between in practice).
+`end_attacca` is only needed when an attacca's takes are followed directly by ordinary takes. Going straight from one attacca into another needs no separate reset — write `end_attacca` then `begin_attacca` back to back (or just don't bother nesting them if there's always something else in between in practice).
 
-An anon_medley can appear standalone, nested inside a `suite` (sharing one `suite_index` across its takes), or spanning across a suite boundary (opening inside one suite movement and continuing past it, or running from suite material into unrelated material) — there's no restriction on how the two relate. A take must never be marked as part of both a named `medley` and an anon_medley at the same time; `normalise` rejects this.
+An attacca can appear standalone, nested inside a `suite` (sharing one `suite_index` across its takes), or spanning across a suite boundary (opening inside one suite movement and continuing past it, or running from suite material into unrelated material) — there's no restriction on how the two relate. A take must never be marked as part of both a named `medley` and an attacca at the same time; `normalise` rejects this.
 
-Rendering-wise, `begin_anon_medley`/`end_anon_medley` produce a small blank spacer row before and after the run (collapsed to one shared row when a run ends and another begins with nothing in between), and takes inside the run get an indent and a small up/bar/down-arrow marker against the title showing the run's shape (first/middle/last take) — all driven by an auto-generated `anon_medley` flag on the take (added by `normalise`, like `medley_index` — never something to type by hand) plus plain CSS sibling selectors, not any extra per-take position data.
+Rendering-wise, `begin_attacca`/`end_attacca` produce a small blank spacer row before and after the run (collapsed to one shared row when a run ends and another begins with nothing in between), and takes inside the run get an indent and a small up/bar/down-arrow marker against the title showing the run's shape (first/middle/last take) — all driven by an auto-generated `attacca` flag on the take (added by `normalise`, like `medley_index` — never something to type by hand) plus plain CSS sibling selectors, not any extra per-take position data.
 
 This replaces an older ad hoc convention (still present, unconverted, in most of the JSON files) of prefixing titles with `¬` for the first song of a run and `_|`/`-&nbsp;|` for continuations, baked directly into the `title` string with no schema backing.
 

@@ -52,11 +52,11 @@ tr.medley td {
     padding-top: 10px;
 }
 
-tr.anon_medley_gap td {
+tr.attacca_gap td {
     padding-top: 10px;
 }
 
-tr.take.anon_medley td.title {
+tr.take.attacca td.title {
     padding-left: 26px;
     position: relative;
 }
@@ -68,7 +68,7 @@ tr.take.anon_medley td.title {
    "continuation" row in a multi-take run, and needs the down arrow to win).
    :not(:has(+ ...)) is what detects "last" - no following sibling in the
    same run - since CSS selectors otherwise can't look ahead. */
-tr.take.anon_medley td.title::before {
+tr.take.attacca td.title::before {
     content: "\2191";
     position: absolute;
     left: 9px;
@@ -77,15 +77,15 @@ tr.take.anon_medley td.title::before {
     font-size: 11px;
 }
 
-tr.take.anon_medley + tr.take.anon_medley td.title::before {
+tr.take.attacca + tr.take.attacca td.title::before {
     content: "\2502";
 }
 
-tr.take.anon_medley:not(:has(+ tr.take.anon_medley)) td.title::before {
+tr.take.attacca:not(:has(+ tr.take.attacca)) td.title::before {
     content: "\2193";
 }
 
-tr.take.anon_medley:not(tr.take.anon_medley + tr.take.anon_medley):not(:has(+ tr.take.anon_medley)) td.title::before {
+tr.take.attacca:not(tr.take.attacca + tr.take.attacca):not(:has(+ tr.take.attacca)) td.title::before {
     content: "\2195";
 }
 

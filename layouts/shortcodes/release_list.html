@@ -100,22 +100,22 @@ case tracks are listed in the order in they were recorded.</p>
               <td></td>
             {{ end }}
           </tr>
-        {{ else if eq .type "begin_anon_medley" }}
-          <tr class="anon_medley_gap">
+        {{ else if eq .type "begin_attacca" }}
+          <tr class="attacca_gap">
             <td colspan="4"></td>
           </tr>
-        {{ else if eq .type "end_anon_medley" }}
+        {{ else if eq .type "end_attacca" }}
           {{ $next_type := "" }}
           {{ if lt (add $i 1) (len $entries) }}
             {{ $next_type = (index $entries (add $i 1)).type }}
           {{ end }}
-          {{ if ne $next_type "begin_anon_medley" }}
-            <tr class="anon_medley_gap">
+          {{ if ne $next_type "begin_attacca" }}
+            <tr class="attacca_gap">
               <td colspan="4"></td>
             </tr>
           {{ end }}
         {{ else if eq .type "take" }}
-          <tr class="take{{ if $entry.anon_medley }} anon_medley{{ end }}">
+          <tr class="take{{ if $entry.attacca }} attacca{{ end }}">
             {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
             <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
             <td>{{ $entry.matrix }}</td>
