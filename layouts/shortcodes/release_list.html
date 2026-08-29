@@ -132,7 +132,7 @@ case tracks are listed in the order in they were recorded.</p>
               <span class="suite_details">{{ $entry.suite_index }} {{ $entry.medley_index }} </span>
 
               {{ $.Page.RenderString $entry.title -}}
-              {{ if $entry.vocalists }}<span class="vocalists"> - v{{ $entry.vocalists }}</span>{{ end }}
+              {{ if $entry.vocalists }}<span class="vocalists"> -&nbsp;v{{ $entry.vocalists }}</span>{{ end }}
 
               {{ if $entry.as_title }}
                 <span class="detail">(as {{ $entry.as_title }})</span>
