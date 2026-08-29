@@ -153,8 +153,10 @@ Takes have the following properties, all of which must be present:
 
 * `index`: may be null. Otherwise should be e.g. `"24-11-01-0001"`. But as discussed above, it will be filled-in for you during normalisation.
 * `matrix`: may be null.
-* `title`: this is mainly obvious. The convention for singing is `"I Can't Give You Anything But Love - vIM,BC"`.
+* `title`: this is mainly obvious.
 * `desor`: may be null
+
+They may optionally have a `vocalists` field: a comma-separated list of vocalist initials, e.g. `"IM,BC"`, for a take that features singing. This renders appended to the title as `"<title> - v<vocalists>"` (e.g. `"I Can't Give You Anything But Love - vIM,BC"`). This replaces an older convention of baking the same suffix directly into the `title` string with no schema backing.
 
 They may also have the following links. These are to be used for a single entry only (i.e. not for a whole album):
 

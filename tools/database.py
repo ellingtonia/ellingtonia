@@ -17,6 +17,8 @@ from dataclasses import dataclass
 # Last bit: prevent accidentally including query string
 DISCOGS_REGEX = "https://www.discogs.com/release/([0-9]+)-[^?]*"
 
+VOCALISTS_REGEX = r"^[A-Za-z0-9]+(,[A-Za-z0-9]+)*$"
+
 json_prefix = "data/discog"
 json_labels_path = json_prefix + "/labels.json"
 json_releases_path = json_prefix + "/releases.json"
@@ -85,6 +87,7 @@ class Entry:
     content: str = None
 
     title: str = None
+    vocalists: str = None
     suite: str = None
     suite_title: str = None
     suite_index: int = None
@@ -507,11 +510,16 @@ def load_from_json():
                         jentry["suite_index"] if "suite_index" in jentry else None
                     )
 
+                    vocalists = jentry.get("vocalists")
+                    if vocalists is not None:
+                        assert re.match(VOCALISTS_REGEX, vocalists), (index, vocalists)
+
                     entry = Entry(
                         type="take",
                         index=index,
                         matrix=jentry["matrix"],
                         title=title,
+                        vocalists=vocalists,
                         suite_title=suite_title,
                         suite_index=suite_index,
                         medley_index=medley_index,
@@ -719,6 +727,7 @@ def save_releases_to_json(database, generated):
                 json_entry = {
                     "type": "take",
                     "title": er.entry.title,
+                    "vocalists": er.entry.vocalists,
                     "flags": er.flags,
                     "index": er.entry.index,
                     "matrix": er.entry.matrix,
@@ -811,6 +820,8 @@ def save_to_json(database):
                     json_entry["index"] = entry.index
                     json_entry["matrix"] = entry.matrix
                     json_entry["title"] = entry.title
+                    if entry.vocalists:
+                        json_entry["vocalists"] = entry.vocalists
                     json_entry["releases"] = []
                     json_entry["desor"] = entry.desor
 
