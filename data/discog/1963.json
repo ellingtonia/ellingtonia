@@ -370,18 +370,17 @@
                 "value": "Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Afro-Bossa First Piano Summation",
-                "releases": [],
-                "desor": "DE6304a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "63-01-08-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;a) Silk Lace",
+                "desor": "DE6304a",
+                "medley_title": "Afro-Bossa First Piano Summation"
+            },
+            {
+                "type": "take",
+                "index": "63-01-08-001a",
+                "matrix": null,
+                "title": "Silk Lace",
                 "releases": [
                     {
                         "label": "DETS",
@@ -393,13 +392,116 @@
                         "catalog": "MD5-193"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
+                "index": "63-01-08-001b",
+                "matrix": null,
+                "title": "Tigress",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "63-01-08-001c",
+                "matrix": null,
+                "title": "Pyramid",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "63-01-08-001d",
+                "matrix": null,
+                "title": "Bonga",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "63-01-08-001e",
+                "matrix": null,
+                "title": "Frontin' [Sempre Amore]",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "63-01-08-001f",
+                "matrix": null,
+                "title": "Eighth Veil",
+                "releases": [
+                    {
+                        "label": "DETS",
+                        "catalog": "Souvenir Record 1984",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD5-193"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
                 "index": "63-01-08-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;b) Tigress",
+                "desor": "DE6304b",
+                "medley_title": "Afro-Bossa Second Piano Summation"
+            },
+            {
+                "type": "take",
+                "index": "63-01-08-002a",
+                "matrix": null,
+                "title": "Volupté",
                 "releases": [
                     {
                         "label": "DETS",
@@ -411,13 +513,14 @@
                         "catalog": "MD5-193"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "63-01-08-003",
+                "index": "63-01-08-002b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;c) Pyramid",
+                "title": "Absinthe",
                 "releases": [
                     {
                         "label": "DETS",
@@ -429,13 +532,14 @@
                         "catalog": "MD5-193"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "63-01-08-004",
+                "index": "63-01-08-002c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;d) Bonga",
+                "title": "Moonbow",
                 "releases": [
                     {
                         "label": "DETS",
@@ -447,13 +551,14 @@
                         "catalog": "MD5-193"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "63-01-08-005",
+                "index": "63-01-08-002d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;e) Frontin' [Sempre Amore]",
+                "title": "Purple Gazelle",
                 "releases": [
                     {
                         "label": "DETS",
@@ -465,13 +570,14 @@
                         "catalog": "MD5-193"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "63-01-08-006",
+                "index": "63-01-08-002e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;f) Eighth Veil",
+                "title": "Afro-Bossa",
                 "releases": [
                     {
                         "label": "DETS",
@@ -483,21 +589,14 @@
                         "catalog": "MD5-193"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "63-01-08-002f",
                 "matrix": null,
-                "title": "Afro-Bossa Second Piano Summation",
-                "releases": [],
-                "desor": "DE6304b"
-            },
-            {
-                "type": "take",
-                "index": "63-01-08-007",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;a) Volupté",
+                "title": "Angu",
                 "releases": [
                     {
                         "label": "DETS",
@@ -509,97 +608,8 @@
                         "catalog": "MD5-193"
                     }
                 ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "63-01-08-008",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;b) Absinthe",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "Souvenir Record 1984",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD5-193"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "63-01-08-009",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;c) Moonbow",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "Souvenir Record 1984",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD5-193"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "63-01-08-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;d) Purple Gazelle",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "Souvenir Record 1984",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD5-193"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "63-01-08-011",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;e) Afro-Bossa",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "Souvenir Record 1984",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD5-193"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "63-01-08-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;f) Angu",
-                "releases": [
-                    {
-                        "label": "DETS",
-                        "catalog": "Souvenir Record 1984",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD5-193"
-                    }
-                ],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             }
         ]
     },

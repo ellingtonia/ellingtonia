@@ -5886,24 +5886,17 @@
                 "value": "Johnny Hodges(as); Harry Carney(bar); Duke Ellington(p); Edie Adams(v) with The Peter Matz Orchestra"
             },
             {
-                "type": "take",
+                "type": "medley",
                 "index": "62-09-27-001",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [
-                    {
-                        "label": "MVD",
-                        "catalog": "5920D",
-                        "first_issue": true
-                    }
-                ],
-                "desor": "DE6244a"
+                "desor": "DE6244a",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I Got It Bad And That Ain't Good - vEA",
+                "title": "I Got It Bad And That Ain't Good - vEA",
                 "releases": [
                     {
                         "label": "MVD",
@@ -5917,7 +5910,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. I'm Beginning To See The Light - vEA",
+                "title": "I'm Beginning To See The Light - vEA",
                 "releases": [
                     {
                         "label": "MVD",
@@ -5931,7 +5924,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Sophisticated Lady - vEA",
+                "title": "Sophisticated Lady - vEA",
                 "releases": [
                     {
                         "label": "MVD",
@@ -5945,7 +5938,7 @@
                 "type": "take",
                 "index": null,
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Take The \"A\" Train",
+                "title": "Take The \"A\" Train",
                 "releases": [
                     {
                         "label": "MVD",
@@ -5954,6 +5947,10 @@
                     }
                 ],
                 "desor": null
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
