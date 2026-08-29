@@ -2628,32 +2628,17 @@
                 "value": "Duke Ellington(p); Herb Jeffries, Ivie Anderson, Joe Turner, Choir(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Selections From \"Jump For Joy\"",
-                "releases": [],
-                "desor": "DE4119a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "41-09-01-001",
                 "matrix": null,
-                "title": "1. Brown Skin Gal - vHJ",
-                "releases": [
-                    {
-                        "label": "Kl",
-                        "catalog": "KLON 1†",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
+                "desor": "DE4119a",
+                "medley_title": "Selections From \"Jump For Joy\""
             },
             {
                 "type": "take",
-                "index": "41-09-01-002",
+                "index": "41-09-01-001a",
                 "matrix": null,
-                "title": "2. Jump For Joy - vCho",
+                "title": "Brown Skin Gal - vHJ",
                 "releases": [
                     {
                         "label": "Kl",
@@ -2661,13 +2646,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "41-09-01-003",
+                "index": "41-09-01-001b",
                 "matrix": null,
-                "title": "3. I Got It Bad And That Ain't Good - vIA",
+                "title": "Jump For Joy - vCho",
                 "releases": [
                     {
                         "label": "Kl",
@@ -2675,13 +2661,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "41-09-01-004",
+                "index": "41-09-01-001c",
                 "matrix": null,
-                "title": "4. Rocks In My Bed - vJTu",
+                "title": "I Got It Bad And That Ain't Good - vIA",
                 "releases": [
                     {
                         "label": "Kl",
@@ -2689,13 +2676,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "41-09-01-005",
+                "index": "41-09-01-001d",
                 "matrix": null,
-                "title": "5. Jump For Joy - vCho",
+                "title": "Rocks In My Bed - vJTu",
                 "releases": [
                     {
                         "label": "Kl",
@@ -2703,7 +2691,23 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "41-09-01-001e",
+                "matrix": null,
+                "title": "Jump For Joy - vCho",
+                "releases": [
+                    {
+                        "label": "Kl",
+                        "catalog": "KLON 1†",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
             }
         ]
     },

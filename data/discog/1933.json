@@ -545,18 +545,17 @@
                 "value": "Add Otto Hardwick(as,bsx)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": "B13079-A",
-                "title": "Blackbirds Medley - Part 1",
-                "releases": [],
-                "desor": "DE3304c"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "33-02-17-003",
+                "matrix": "B13079-A",
+                "desor": "DE3304c",
+                "medley_title": "Blackbirds Medley - Part 1"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-003a",
                 "matrix": null,
-                "title": "1. I Can't Give You Anything But Love",
+                "title": "I Can't Give You Anything But Love",
                 "releases": [
                     {
                         "label": "Br",
@@ -582,117 +581,120 @@
                         "catalog": "MD11-248"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
+                "index": "33-02-17-003b",
+                "matrix": null,
+                "title": "Doin' The New Lowdown",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 23,
+                        "title": "Medley Pt 1 (Take A)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-003c",
+                "matrix": null,
+                "title": "I Must Have That Man",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 23,
+                        "title": "Medley Pt 1 (Take A)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-003d",
+                "matrix": null,
+                "title": "Baby!",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 23,
+                        "title": "Medley Pt 1 (Take A)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
                 "index": "33-02-17-004",
-                "matrix": null,
-                "title": "2. Doin' The New Lowdown",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 23,
-                        "title": "Medley Pt 1 (Take A)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-005",
-                "matrix": null,
-                "title": "3. I Must Have That Man",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 23,
-                        "title": "Medley Pt 1 (Take A)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-006",
-                "matrix": null,
-                "title": "4. Baby!",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 23,
-                        "title": "Medley Pt 1 (Take A)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
                 "matrix": "B13079-B",
-                "title": "Blackbirds Medley - Part 1",
-                "releases": [],
-                "desor": "DE3304d"
+                "desor": "DE3304d",
+                "medley_title": "Blackbirds Medley - Part 1"
             },
             {
                 "type": "take",
-                "index": "33-02-17-007",
+                "index": "33-02-17-004a",
                 "matrix": null,
-                "title": "1. I Can't Give You Anything But Love",
+                "title": "I Can't Give You Anything But Love",
                 "releases": [
                     {
                         "label": "CBS",
@@ -718,499 +720,516 @@
                         "catalog": "RP2033"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-004b",
+                "matrix": null,
+                "title": "Doin' The New Lowdown",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL 6770",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 22,
+                        "title": "Medley Pt 1 (Take B)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-004c",
+                "matrix": null,
+                "title": "I Must Have That Man",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL 6770",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 22,
+                        "title": "Medley Pt 1 (Take B)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-004d",
+                "matrix": null,
+                "title": "Baby!",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL 6770",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 22,
+                        "title": "Medley Pt 1 (Take B)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
+                "index": "33-02-17-005",
+                "matrix": "B13080-A",
+                "desor": "DE3304e",
+                "medley_title": "Blackbirds Medley - Part 2"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-005a",
+                "matrix": null,
+                "title": "Dixie",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 26,
+                        "title": "Medley Pt 2 (Take A)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-005b",
+                "matrix": null,
+                "title": "Diga Diga Doo",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 26,
+                        "title": "Medley Pt 2 (Take A)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-005c",
+                "matrix": null,
+                "title": "Porgy",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 26,
+                        "title": "Medley Pt 2 (Take A)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-005d",
+                "matrix": null,
+                "title": "I Can't Give You Anything But Love",
+                "releases": [
+                    {
+                        "label": "Br",
+                        "catalog": "6516",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "637"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 26,
+                        "title": "Medley Pt 2 (Take A)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
+                "index": "33-02-17-006",
+                "matrix": "B13080-B",
+                "desor": "DE3304f",
+                "medley_title": "Blackbirds Medley - Part 2"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-006a",
+                "matrix": null,
+                "title": "Dixie",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL 6770",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 25,
+                        "title": "Medley Pt 2 (Take B)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-006b",
+                "matrix": null,
+                "title": "Diga Diga Doo",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL 6770",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 25,
+                        "title": "Medley Pt 2 (Take B)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-006c",
+                "matrix": null,
+                "title": "Porgy",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL 6770",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 25,
+                        "title": "Medley Pt 2 (Take B)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-006d",
+                "matrix": null,
+                "title": "I Can't Give You Anything But Love",
+                "releases": [
+                    {
+                        "label": "CBS",
+                        "catalog": "88082"
+                    },
+                    {
+                        "label": "Co",
+                        "catalog": "OL 6770",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 25,
+                        "title": "Medley Pt 2 (Take B)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
+                "index": "33-02-17-007",
+                "matrix": "B13080-C",
+                "desor": "DE3304g",
+                "medley_title": "Blackbirds Medley - Part 2"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-007a",
+                "matrix": null,
+                "title": "Dixie",
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 24,
+                        "title": "Medley Pt 2 (Take C)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2009",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-007b",
+                "matrix": null,
+                "title": "Diga Diga Doo",
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 24,
+                        "title": "Medley Pt 2 (Take C)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2009",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-007c",
+                "matrix": null,
+                "title": "Porgy",
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 24,
+                        "title": "Medley Pt 2 (Take C)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2009",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "33-02-17-007d",
+                "matrix": null,
+                "title": "I Can't Give You Anything But Love",
+                "releases": [
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-5",
+                        "track": 24,
+                        "title": "Medley Pt 2 (Take C)"
+                    },
+                    {
+                        "label": "Ms",
+                        "catalog": "MD11-248"
+                    },
+                    {
+                        "label": "Nw",
+                        "catalog": "RP2033"
+                    },
+                    {
+                        "label": "UtD",
+                        "catalog": "2009",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "33-02-17-008",
-                "matrix": null,
-                "title": "2. Doin' The New Lowdown",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "OL 6770",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 22,
-                        "title": "Medley Pt 1 (Take B)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-009",
-                "matrix": null,
-                "title": "3. I Must Have That Man",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "OL 6770",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 22,
-                        "title": "Medley Pt 1 (Take B)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-010",
-                "matrix": null,
-                "title": "4. Baby!",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "OL 6770",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 22,
-                        "title": "Medley Pt 1 (Take B)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": "B13080-A",
-                "title": "Blackbirds Medley - Part 2",
-                "releases": [],
-                "desor": "DE3304e"
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-011",
-                "matrix": null,
-                "title": "5. Dixie",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 26,
-                        "title": "Medley Pt 2 (Take A)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-012",
-                "matrix": null,
-                "title": "6. Diga Diga Doo",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 26,
-                        "title": "Medley Pt 2 (Take A)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-013",
-                "matrix": null,
-                "title": "7. Porgy",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 26,
-                        "title": "Medley Pt 2 (Take A)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-014",
-                "matrix": null,
-                "title": "8. I Can't Give You Anything But Love",
-                "releases": [
-                    {
-                        "label": "Br",
-                        "catalog": "6516",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "637"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 26,
-                        "title": "Medley Pt 2 (Take A)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": "B13080-B",
-                "title": "Blackbirds Medley - Part 2",
-                "releases": [],
-                "desor": "DE3304f"
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-015",
-                "matrix": null,
-                "title": "5. Dixie",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "OL 6770",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 25,
-                        "title": "Medley Pt 2 (Take B)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-016",
-                "matrix": null,
-                "title": "6. Diga Diga Doo",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "OL 6770",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 25,
-                        "title": "Medley Pt 2 (Take B)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-017",
-                "matrix": null,
-                "title": "7. Porgy",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "OL 6770",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 25,
-                        "title": "Medley Pt 2 (Take B)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-018",
-                "matrix": null,
-                "title": "8. I Can't Give You Anything But Love",
-                "releases": [
-                    {
-                        "label": "CBS",
-                        "catalog": "88082"
-                    },
-                    {
-                        "label": "Co",
-                        "catalog": "OL 6770",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 25,
-                        "title": "Medley Pt 2 (Take B)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": "B13080-C",
-                "title": "Blackbirds Medley - Part 2",
-                "releases": [],
-                "desor": "DE3304g"
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-019",
-                "matrix": null,
-                "title": "5. Dixie",
-                "releases": [
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 24,
-                        "title": "Medley Pt 2 (Take C)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    },
-                    {
-                        "label": "UtD",
-                        "catalog": "2009",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-020",
-                "matrix": null,
-                "title": "6. Diga Diga Doo",
-                "releases": [
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 24,
-                        "title": "Medley Pt 2 (Take C)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    },
-                    {
-                        "label": "UtD",
-                        "catalog": "2009",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-021",
-                "matrix": null,
-                "title": "7. Porgy",
-                "releases": [
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 24,
-                        "title": "Medley Pt 2 (Take C)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    },
-                    {
-                        "label": "UtD",
-                        "catalog": "2009",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-022",
-                "matrix": null,
-                "title": "8. I Can't Give You Anything But Love",
-                "releases": [
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-5",
-                        "track": 24,
-                        "title": "Medley Pt 2 (Take C)"
-                    },
-                    {
-                        "label": "Ms",
-                        "catalog": "MD11-248"
-                    },
-                    {
-                        "label": "Nw",
-                        "catalog": "RP2033"
-                    },
-                    {
-                        "label": "UtD",
-                        "catalog": "2009",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "33-02-17-023",
                 "matrix": "B13081-A",
                 "title": "Drop Me Off In Harlem",
                 "releases": [
@@ -1250,7 +1269,7 @@
             },
             {
                 "type": "take",
-                "index": "33-02-17-024",
+                "index": "33-02-17-009",
                 "matrix": "B13081-B",
                 "title": "Drop Me Off In Harlem",
                 "releases": [
