@@ -5456,6 +5456,9 @@
                 "desor": "DE5928i"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "59-09-08-010",
                 "matrix": "¬C063511-",
@@ -5467,7 +5470,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5928j"
+                "desor": "DE5928j",
+                "attacca": true
             },
             {
                 "type": "take",
@@ -5481,7 +5485,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5928k"
+                "desor": "DE5928k",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

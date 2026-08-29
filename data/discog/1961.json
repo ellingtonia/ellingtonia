@@ -4810,6 +4810,9 @@
                 "desor": "DE6126b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "61-10-25-003",
                 "matrix": "¬ CO68441-",
@@ -4825,7 +4828,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6126c"
+                "desor": "DE6126c",
+                "attacca": true
             },
             {
                 "type": "take",
@@ -4843,7 +4847,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6126d"
+                "desor": "DE6126d",
+                "attacca": true
             }
         ]
     },
