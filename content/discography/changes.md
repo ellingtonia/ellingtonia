@@ -61,6 +61,7 @@ menu:
 * 1971-1974: retitled the Togo Brava Suite's movements to their copyrighted forms, per Michael Kilpatrick's comparison of the Smithsonian scores against the recordings (the familiar working titles are kept as alternate titles in brackets); split the combined "Naturellement" and "Amour, Amour" takes into separate Part 1/Part 2 entries; added missing first-issue flags and sorted reed listings from smallest to biggest throughout.
 * Labels: removed unused label "Go"; clarified descriptions for HMV, VD Mar and VD Navy.
 * Release metadata: added release dates, titles, Discogs links and notes for around 25 Columbia LP releases; noted where mono/stereo pressings differ in content, otherwise cross-referencing the stereo edition from the mono entry.
+* Major: restructured medleys and attaccas to be formatted nicely.
 
 ## July 2026
 * 1930: corrected Ro catalog number from 1289 to 1209 (29 January session); added first-issue releases (Pv, Roan) and expanded notes for the August RKO "Check And Double Check" film session, including correcting its index date; added a note on a Ring Dem Bells shellac test; expanded the note on the HARLEM Pathé film short's soundtrack transfer.

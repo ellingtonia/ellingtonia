@@ -3,6 +3,12 @@
 will be to modify these files.
 - The ordering of `take` entries within a session is chronological (recording
 order) and should not be changed without explicit instruction.
+- `desor` (New DESOR) identifiers are assigned by an external authority (the
+New DESOR reference) — we have no authority to mint, renumber, or dedupe
+them ourselves (usually). Unlike `index`, `desor` is never auto-corrected by
+`normalise`; always preserve exactly what's given in source material,
+including cases where two different takes legitimately share one `desor`
+value.
 - `generated.json` is generated and should not be modified directly.
 - After making source changes, always run `tools/database.py normalise` (without a leading `./`).
 - If you need to, read `MAINTAINERS.md` for context on the format of the json

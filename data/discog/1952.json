@@ -186,10 +186,13 @@
                 "desor": "DE5203a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-03-14-002",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Cm",
@@ -197,13 +200,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5203b"
+                "desor": "DE5203b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-03-14-003",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Cm",
@@ -211,7 +215,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5203c"
+                "desor": "DE5203c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -943,10 +951,13 @@
                 "desor": "DE5205l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-03-22-014",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
                         "label": "He",
@@ -954,13 +965,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5205m"
+                "desor": "DE5205m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-03-22-015",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [
                     {
                         "label": "He",
@@ -968,7 +980,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5205n"
+                "desor": "DE5205n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1377,10 +1393,13 @@
                 "desor": "DE5201h"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-03-24-009",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Acr",
@@ -1390,13 +1409,14 @@
                         "track": 9
                     }
                 ],
-                "desor": "DE5201i"
+                "desor": "DE5201i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-03-24-010",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Acr",
@@ -1406,11 +1426,15 @@
                         "track": 9
                     }
                 ],
-                "desor": "DE5201j"
+                "desor": "DE5201j",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl), Harry Carney(bcl)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1481,18 +1505,17 @@
                 "desor": "DE5201p"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "52-03-24-016",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5201q"
+                "desor": "DE5201q",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "52-03-24-016",
+                "index": "52-03-24-016a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "Acr",
@@ -1502,139 +1525,152 @@
                         "track": 13
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016b",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016d",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016e",
+                "matrix": null,
+                "title": "Prelude To A Kiss",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016f",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016g",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016h",
+                "matrix": null,
+                "title": "Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "52-03-24-016i",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "Acr",
+                        "catalog": "ACTRCD9033",
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 13
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "52-03-24-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Prelude To A Kiss",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-021",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.  It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-022",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-023",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-024",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song & Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "Acr",
-                        "catalog": "ACTRCD9033",
-                        "disc": 1,
-                        "first_issue": true,
-                        "track": 13
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-24-025",
                 "matrix": null,
                 "title": "Tulip Or Turnip - vRN",
                 "releases": [
@@ -1650,7 +1686,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-24-026",
+                "index": "52-03-24-018",
                 "matrix": null,
                 "title": "Basin Street Blues - vRN",
                 "releases": [
@@ -1730,18 +1766,17 @@
                 "desor": "DE5206b"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "52-03-25-003",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5206c"
+                "desor": "DE5206c",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "52-03-25-003",
+                "index": "52-03-25-003a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -1772,270 +1807,282 @@
                         "catalog": "07863-66531-2"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "52-03-25-003b",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "1320"
+                    },
+                    {
+                        "label": "JLP",
+                        "catalog": "(un-numbered)",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": 17,
+                        "track": 12,
+                        "length": 415
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LJM 1002"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "PM 42852"
+                    },
+                    {
+                        "label": "RCA-B",
+                        "catalog": "07863-66531-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "52-03-25-003c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "1320"
+                    },
+                    {
+                        "label": "JLP",
+                        "catalog": "(un-numbered)",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": 17,
+                        "track": 12,
+                        "length": 415
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LJM 1002"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "PM 42852"
+                    },
+                    {
+                        "label": "RCA-B",
+                        "catalog": "07863-66531-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "52-03-25-003d",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "1320"
+                    },
+                    {
+                        "label": "JLP",
+                        "catalog": "(un-numbered)",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": 17,
+                        "track": 12,
+                        "length": 415
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LJM 1002"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "PM 42852"
+                    },
+                    {
+                        "label": "RCA-B",
+                        "catalog": "07863-66531-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "52-03-25-003e",
+                "matrix": null,
+                "title": "Prelude To A Kiss",
+                "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "1320"
+                    },
+                    {
+                        "label": "JLP",
+                        "catalog": "(un-numbered)",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": 17,
+                        "track": 12,
+                        "length": 415
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LJM 1002"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "PM 42852"
+                    },
+                    {
+                        "label": "RCA-B",
+                        "catalog": "07863-66531-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "52-03-25-003f",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "1320"
+                    },
+                    {
+                        "label": "JLP",
+                        "catalog": "(un-numbered)",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": 17,
+                        "track": 12,
+                        "length": 415
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LJM 1002"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "PM 42852"
+                    },
+                    {
+                        "label": "RCA-B",
+                        "catalog": "07863-66531-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "52-03-25-003g",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "1320"
+                    },
+                    {
+                        "label": "JLP",
+                        "catalog": "(un-numbered)",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": 17,
+                        "track": 12,
+                        "length": 415
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LJM 1002"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "PM 42852"
+                    },
+                    {
+                        "label": "RCA-B",
+                        "catalog": "07863-66531-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "52-03-25-003h",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "1320"
+                    },
+                    {
+                        "label": "JLP",
+                        "catalog": "(un-numbered)",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": 17,
+                        "track": 12,
+                        "length": 415
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "LJM 1002"
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "PM 42852"
+                    },
+                    {
+                        "label": "RCA-B",
+                        "catalog": "07863-66531-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "52-03-25-004",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "1320"
-                    },
-                    {
-                        "label": "JLP",
-                        "catalog": "(un-numbered)",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": 17,
-                        "track": 12,
-                        "length": 415
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "LJM 1002"
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "PM 42852"
-                    },
-                    {
-                        "label": "RCA-B",
-                        "catalog": "07863-66531-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-25-005",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "1320"
-                    },
-                    {
-                        "label": "JLP",
-                        "catalog": "(un-numbered)",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": 17,
-                        "track": 12,
-                        "length": 415
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "LJM 1002"
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "PM 42852"
-                    },
-                    {
-                        "label": "RCA-B",
-                        "catalog": "07863-66531-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-25-006",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "1320"
-                    },
-                    {
-                        "label": "JLP",
-                        "catalog": "(un-numbered)",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": 17,
-                        "track": 12,
-                        "length": 415
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "LJM 1002"
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "PM 42852"
-                    },
-                    {
-                        "label": "RCA-B",
-                        "catalog": "07863-66531-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-25-007",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Prelude To A Kiss",
-                "releases": [
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "1320"
-                    },
-                    {
-                        "label": "JLP",
-                        "catalog": "(un-numbered)",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": 17,
-                        "track": 12,
-                        "length": 415
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "LJM 1002"
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "PM 42852"
-                    },
-                    {
-                        "label": "RCA-B",
-                        "catalog": "07863-66531-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-25-008",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.  It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "1320"
-                    },
-                    {
-                        "label": "JLP",
-                        "catalog": "(un-numbered)",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": 17,
-                        "track": 12,
-                        "length": 415
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "LJM 1002"
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "PM 42852"
-                    },
-                    {
-                        "label": "RCA-B",
-                        "catalog": "07863-66531-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-25-009",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
-                "releases": [
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "1320"
-                    },
-                    {
-                        "label": "JLP",
-                        "catalog": "(un-numbered)",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": 17,
-                        "track": 12,
-                        "length": 415
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "LJM 1002"
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "PM 42852"
-                    },
-                    {
-                        "label": "RCA-B",
-                        "catalog": "07863-66531-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-25-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. I Let A Song & Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "1320"
-                    },
-                    {
-                        "label": "JLP",
-                        "catalog": "(un-numbered)",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": 17,
-                        "track": 12,
-                        "length": 415
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "LJM 1002"
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "PM 42852"
-                    },
-                    {
-                        "label": "RCA-B",
-                        "catalog": "07863-66531-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "52-03-25-011",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [
@@ -2072,7 +2119,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-012",
+                "index": "52-03-25-005",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -2080,7 +2127,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-013",
+                "index": "52-03-25-006",
                 "matrix": null,
                 "title": "The Tattooed Bride",
                 "releases": [],
@@ -2088,7 +2135,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-014",
+                "index": "52-03-25-007",
                 "matrix": null,
                 "title": "Sophisticated Lady",
                 "releases": [
@@ -2125,7 +2172,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-015",
+                "index": "52-03-25-008",
                 "matrix": null,
                 "title": "Frustration",
                 "releases": [],
@@ -2133,7 +2180,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-016",
+                "index": "52-03-25-009",
                 "matrix": null,
                 "title": "Sultry Serenade",
                 "releases": [
@@ -2170,7 +2217,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-017",
+                "index": "52-03-25-010",
                 "matrix": null,
                 "title": "How High The Moon",
                 "releases": [],
@@ -2178,7 +2225,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-018",
+                "index": "52-03-25-011",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [
@@ -2215,7 +2262,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-019",
+                "index": "52-03-25-012",
                 "matrix": null,
                 "title": "I Got It Bad And That Ain't Good - vBR",
                 "releases": [],
@@ -2223,7 +2270,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-020",
+                "index": "52-03-25-013",
                 "matrix": null,
                 "title": "The Hawk Talks",
                 "releases": [
@@ -2260,7 +2307,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-021",
+                "index": "52-03-25-014",
                 "matrix": null,
                 "title": "Blue Skies",
                 "releases": [],
@@ -2268,7 +2315,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-022",
+                "index": "52-03-25-015",
                 "matrix": null,
                 "title": "Skin Deep",
                 "releases": [
@@ -2305,7 +2352,7 @@
             },
             {
                 "type": "take",
-                "index": "52-03-25-023",
+                "index": "52-03-25-016",
                 "matrix": null,
                 "title": "Jam With Sam",
                 "releases": [
@@ -3105,10 +3152,13 @@
                 "desor": "DE5213f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-07-30-007",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Ai",
@@ -3120,13 +3170,14 @@
                         "catalog": "CCD 79557"
                     }
                 ],
-                "desor": "DE5213g"
+                "desor": "DE5213g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-07-30-008",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Ai",
@@ -3138,7 +3189,11 @@
                         "catalog": "CCD 79557"
                     }
                 ],
-                "desor": "DE5213h"
+                "desor": "DE5213h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3359,10 +3414,13 @@
                 "desor": "DE5215g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-08-06-008",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
                         "label": "CR",
@@ -3370,13 +3428,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5215h"
+                "desor": "DE5215h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-08-06-009",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [
                     {
                         "label": "CR",
@@ -3384,7 +3443,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5215i"
+                "desor": "DE5215i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3702,20 +3765,25 @@
                 "value": "Harry Carney(bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-09-27-002",
                 "matrix": null,
-                "title": "¬ Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": "DE5218b"
+                "desor": "DE5218b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-09-27-003",
                 "matrix": null,
-                "title": "_| Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE5218c"
+                "desor": "DE5218c",
+                "attacca": true
             }
         ]
     },
@@ -3755,20 +3823,28 @@
                 "desor": "DE5219c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-10-00-004",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5219d"
+                "desor": "DE5219d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-10-00-005",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE5219e"
+                "desor": "DE5219e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4110,32 +4186,17 @@
                 "desor": "DE5222m"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5222n"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "52-11-14-022",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
-                "releases": [
-                    {
-                        "label": "FDC",
-                        "catalog": "1006",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
+                "desor": "DE5222n",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "52-11-14-023",
+                "index": "52-11-14-022a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4143,13 +4204,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "52-11-14-024",
+                "index": "52-11-14-022b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4157,13 +4219,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "52-11-14-025",
+                "index": "52-11-14-022c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4171,13 +4234,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "52-11-14-026",
+                "index": "52-11-14-022d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
+                "title": "I'm Beginning To See The Light",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4185,13 +4249,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "52-11-14-027",
+                "index": "52-11-14-022e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4199,13 +4264,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "52-11-14-028",
+                "index": "52-11-14-022f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.  It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "title": "Caravan",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4213,13 +4279,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "take",
-                "index": "52-11-14-029",
+                "index": "52-11-14-022g",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Solitude",
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4227,13 +4294,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "g"
             },
             {
                 "type": "take",
-                "index": "52-11-14-030",
+                "index": "52-11-14-022h",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song & Don't Get Around Much",
+                "title": "Solitude",
                 "releases": [
                     {
                         "label": "FDC",
@@ -4241,7 +4309,23 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "52-11-14-022i",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "FDC",
+                        "catalog": "1006",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
             }
         ]
     },
@@ -5244,20 +5328,28 @@
                 "desor": "DE5231a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-12-31-002",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5231b"
+                "desor": "DE5231b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-12-31-003",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE5231c"
+                "desor": "DE5231c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

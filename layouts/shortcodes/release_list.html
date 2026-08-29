@@ -75,7 +75,8 @@ case tracks are listed in the order in they were recorded.</p>
         <th>Title</th>
         <th>New DESOR</th>
       </tr>
-      {{ range $entry := $release_data.entries }}
+      {{ $entries := $release_data.entries }}
+      {{ range $i, $entry := $entries }}
         {{ if eq .type "suite" }}
           <tr class="suite">
               <td colspan="2"></td>
@@ -83,17 +84,52 @@ case tracks are listed in the order in they were recorded.</p>
                 <span class="suite">{{ $entry.suite_title }} </span>
               </td>
           </tr>
+        {{ else if eq .type "medley" }}
+          <tr class="medley">
+            {{ if $entry.medley_title }}
+              {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
+              <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
+              <td>{{ $entry.matrix }}</td>
+              <td>
+                <span class="suite">{{ $.Page.RenderString $entry.medley_title }} </span>
+                {{ range $link_data := $.Site.Params.entry_links }}
+                  {{- if index $entry $link_data.key -}}
+                    <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+                  {{- end -}}
+                {{- end -}}
+              </td>
+              <td>{{ $entry.desor }}</td>
+            {{ else }}
+              <td colspan="2"></td>
+              <td></td>
+              <td></td>
+            {{ end }}
+          </tr>
+        {{ else if eq .type "begin_attacca" }}
+          <tr class="attacca_gap">
+            <td colspan="4"></td>
+          </tr>
+        {{ else if eq .type "end_attacca" }}
+          {{ $next_type := "" }}
+          {{ if lt (add $i 1) (len $entries) }}
+            {{ $next_type = (index $entries (add $i 1)).type }}
+          {{ end }}
+          {{ if ne $next_type "begin_attacca" }}
+            <tr class="attacca_gap">
+              <td colspan="4"></td>
+            </tr>
+          {{ end }}
         {{ else if eq .type "take" }}
-          <tr class="take">
+          <tr class="take{{ if $entry.attacca }} attacca{{ end }}">
             {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
             <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
             <td>{{ $entry.matrix }}</td>
-            <td>
+            <td class="title">
               {{ if $entry.disc_track }}
                 <span class="detail">({{ $entry.disc_track }})</span>
               {{ end }}
 
-              <span class="suite_details">{{ $entry.suite_index }} </span>
+              <span class="suite_details">{{ $entry.suite_index }} {{ $entry.medley_index }} </span>
 
               {{ $.Page.RenderString $entry.title -}}
 

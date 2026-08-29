@@ -11,20 +11,28 @@
                 "value": "Duke Ellington(p) with Percy Faith and His Orchestra."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-00-00-001",
                 "matrix": null,
-                "title": "¬ Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE9072a"
+                "desor": "DE9072a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-00-00-002",
                 "matrix": null,
-                "title": "_| Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE9072b"
+                "desor": "DE9072b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -261,52 +269,59 @@
                 "desor": "DE4702a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Beggar's Holiday Medley:",
-                "releases": [],
-                "desor": "DE4702b"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "47-02-02-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Take Love Easy",
-                "releases": [],
-                "desor": null
+                "desor": "DE4702b",
+                "medley_title": "Beggar's Holiday Medley:"
             },
             {
                 "type": "take",
-                "index": "47-02-02-003",
+                "index": "47-02-02-002a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. When I Walk With You - vMC",
+                "title": "Take Love Easy",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "47-02-02-004",
+                "index": "47-02-02-002b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Tomorrow Mountain",
+                "title": "When I Walk With You - vMC",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "47-02-02-005",
+                "index": "47-02-02-002c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Brown Penny - vKD",
+                "title": "Tomorrow Mountain",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "47-02-02-002d",
+                "matrix": null,
+                "title": "Brown Penny - vKD",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington out. Add Billy Strayhorn(p)."
             },
             {
+                "type": "medley",
+                "medley_title": null
+            },
+            {
                 "type": "take",
-                "index": "47-02-02-006",
+                "index": "47-02-02-003",
                 "matrix": null,
                 "title": "Triple Play",
                 "releases": [
@@ -324,7 +339,7 @@
             },
             {
                 "type": "take",
-                "index": "47-02-02-007",
+                "index": "47-02-02-004",
                 "matrix": null,
                 "title": "Near Mess",
                 "releases": [],
@@ -336,7 +351,7 @@
             },
             {
                 "type": "take",
-                "index": "47-02-02-008",
+                "index": "47-02-02-005",
                 "matrix": null,
                 "title": "Minnehaha - vKD",
                 "releases": [],
@@ -345,7 +360,7 @@
             },
             {
                 "type": "take",
-                "index": "47-02-02-009",
+                "index": "47-02-02-006",
                 "matrix": null,
                 "title": "Hiawatha",
                 "releases": [],
@@ -448,10 +463,13 @@
                 "desor": "DE4705c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-04-19-004",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "SR",
@@ -459,13 +477,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705d"
+                "desor": "DE4705d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-005",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "SR",
@@ -473,7 +492,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705e"
+                "desor": "DE4705e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -566,10 +589,13 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-04-19-014",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "SR",
@@ -577,13 +603,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705n"
+                "desor": "DE4705n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-015",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "SR",
@@ -591,7 +618,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705o"
+                "desor": "DE4705o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -610,28 +641,37 @@
                 "desor": "DE4705q"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-04-19-018",
                 "matrix": null,
-                "title": "¬ Beale Street Blues",
+                "title": "Beale Street Blues",
                 "releases": [],
-                "desor": "DE4705r"
+                "desor": "DE4705r",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-019",
                 "matrix": null,
-                "title": "-&nbsp;| Memphis Blues",
+                "title": "Memphis Blues",
                 "releases": [],
-                "desor": "DE4705s"
+                "desor": "DE4705s",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-020",
                 "matrix": null,
-                "title": "_| St. Louis Blues - vMC",
+                "title": "St. Louis Blues - vMC",
                 "releases": [],
-                "desor": "DE4705t"
+                "desor": "DE4705t",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -704,72 +744,82 @@
                 "desor": "DE4705ab"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "47-04-19-029",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4705ac"
+                "desor": "DE4705ac",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "47-04-19-029",
+                "index": "47-04-19-029a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "47-04-19-029b",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "47-04-19-029c",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "47-04-19-029d",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "47-04-19-029e",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "47-04-19-029f",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "47-04-19-029g",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "47-04-19-030",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-04-19-031",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-04-19-032",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-04-19-033",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Caravan",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-04-19-034",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Solitude",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-04-19-035",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. I Let A Song & Don't Get Around Much",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-04-19-036",
                 "matrix": null,
                 "title": "Just Squeeze Me (But Don't Tease Me) - vRN",
                 "releases": [
@@ -783,7 +833,7 @@
             },
             {
                 "type": "take",
-                "index": "47-04-19-037",
+                "index": "47-04-19-031",
                 "matrix": null,
                 "title": "Ring Dem Bells - vRN",
                 "releases": [
@@ -1049,32 +1099,17 @@
                 "value": "Duke Ellington(p) acc. by Percy Faith and His Orchestra."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4707a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "47-05-19-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Solitude",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "MHO-192",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
+                "desor": "DE4707a",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "47-05-19-002",
+                "index": "47-05-19-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Caravan",
+                "title": "Solitude",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1082,7 +1117,23 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "47-05-19-001b",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "MHO-192",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
             }
         ]
     },
@@ -2171,10 +2222,13 @@
                 "desor": "DE4714d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-07-25-005",
                 "matrix": null,
-                "title": "¬ Beale Street Blues",
+                "title": "Beale Street Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2198,13 +2252,14 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4714e"
+                "desor": "DE4714e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-07-25-006",
                 "matrix": null,
-                "title": "-&nbsp;| Memphis Blues",
+                "title": "Memphis Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2220,13 +2275,14 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4714f"
+                "desor": "DE4714f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-07-25-007",
                 "matrix": null,
-                "title": "_| St. Louis Blues - vRN",
+                "title": "St. Louis Blues - vRN",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2242,7 +2298,11 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4714g"
+                "desor": "DE4714g",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3231,10 +3291,13 @@
                 "desor": "DE4718e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-08-31-006",
                 "matrix": null,
-                "title": "¬ Beale Street Blues",
+                "title": "Beale Street Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3250,13 +3313,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718f"
+                "desor": "DE4718f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-007",
                 "matrix": null,
-                "title": "-&nbsp;| Memphis Blues",
+                "title": "Memphis Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3272,13 +3336,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718g"
+                "desor": "DE4718g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-008",
                 "matrix": null,
-                "title": "_| St. Louis Blues - vRN",
+                "title": "St. Louis Blues - vRN",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3294,7 +3359,11 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718h"
+                "desor": "DE4718h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3363,10 +3432,13 @@
                 "desor": "DE4718k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-08-31-012",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3382,13 +3454,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718l"
+                "desor": "DE4718l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-013",
                 "matrix": null,
-                "title": "-&nbsp;| Transblucency - vKD",
+                "title": "Transblucency - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3404,13 +3477,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718m"
+                "desor": "DE4718m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-014",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3426,7 +3500,11 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718n"
+                "desor": "DE4718n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3527,10 +3605,13 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-08-31-020",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3542,13 +3623,14 @@
                         "catalog": "003"
                     }
                 ],
-                "desor": "DE4718t"
+                "desor": "DE4718t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-021",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3560,7 +3642,11 @@
                         "catalog": "003"
                     }
                 ],
-                "desor": "DE4718u"
+                "desor": "DE4718u",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3733,32 +3819,17 @@
                 "suite_title": null
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4718af"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "47-08-31-032",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothin' Till You Hear From Me",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "HBS-59(8/10)",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
+                "desor": "DE4718af",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "47-08-31-033",
+                "index": "47-08-31-032a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
+                "title": "Do Nothin' Till You Hear From Me",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3766,13 +3837,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "47-08-31-034",
+                "index": "47-08-31-032b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3780,13 +3852,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "47-08-31-035",
+                "index": "47-08-31-032c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3794,13 +3867,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "47-08-31-036",
+                "index": "47-08-31-032d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
+                "title": "I'm Beginning To See The Light",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3808,13 +3882,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "47-08-31-037",
+                "index": "47-08-31-032e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3822,13 +3897,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "47-08-31-038",
+                "index": "47-08-31-032f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
+                "title": "Caravan",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3836,13 +3912,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "take",
-                "index": "47-08-31-039",
+                "index": "47-08-31-032g",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. I Let A Song & Don't Get Around Much",
+                "title": "Solitude",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3850,7 +3927,23 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "47-08-31-032h",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "HBS-59(8/10)",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
             }
         ]
     },
@@ -6378,64 +6471,73 @@
                 "desor": "DE4736j"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "47-12-26-011",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4736k"
+                "desor": "DE4736k",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "47-12-26-011",
+                "index": "47-12-26-011a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Wanderlust",
+                "title": "Wanderlust",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "47-12-26-011b",
+                "matrix": null,
+                "title": "Junior Hop",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "47-12-26-011c",
+                "matrix": null,
+                "title": "Jeep's Blues",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "47-12-26-011d",
+                "matrix": null,
+                "title": "Dooji Wooji",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "47-12-26-011e",
+                "matrix": null,
+                "title": "Jeep Is Jumpin'",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "47-12-26-011f",
+                "matrix": null,
+                "title": "Mood To Be Wooed",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "47-12-26-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Junior Hop",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-26-013",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Jeep's Blues",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-26-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Dooji Wooji",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-26-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Jeep Is Jumpin'",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-26-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Mood To Be Wooed",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-26-017",
                 "matrix": null,
                 "title": "Boogie Bop Blues",
                 "releases": [],
@@ -6443,7 +6545,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-018",
+                "index": "47-12-26-013",
                 "matrix": null,
                 "title": "New York City Blues",
                 "releases": [],
@@ -6451,7 +6553,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-019",
+                "index": "47-12-26-014",
                 "matrix": null,
                 "title": "The Clothed Woman",
                 "releases": [],
@@ -6463,7 +6565,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-020",
+                "index": "47-12-26-015",
                 "matrix": null,
                 "title": "All Heart",
                 "releases": [],
@@ -6479,7 +6581,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-021",
+                "index": "47-12-26-016",
                 "matrix": null,
                 "title": "I Like The Sunrise - vAH",
                 "releases": [],
@@ -6488,7 +6590,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-022",
+                "index": "47-12-26-017",
                 "matrix": null,
                 "title": "Dance No. 1",
                 "releases": [],
@@ -6497,7 +6599,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-023",
+                "index": "47-12-26-018",
                 "matrix": null,
                 "title": "Dance No. 2",
                 "releases": [],
@@ -6506,7 +6608,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-024",
+                "index": "47-12-26-019",
                 "matrix": null,
                 "title": "Dance No. 3",
                 "releases": [],
@@ -6515,7 +6617,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-025",
+                "index": "47-12-26-020",
                 "matrix": null,
                 "title": "Dance No. 4",
                 "releases": [],
@@ -6524,7 +6626,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-026",
+                "index": "47-12-26-021",
                 "matrix": null,
                 "title": "Dance No. 5",
                 "releases": [],
@@ -6540,40 +6642,46 @@
                 "suite_title": null
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "47-12-26-022",
                 "matrix": null,
-                "title": "Theme Medley:",
-                "releases": [],
-                "desor": "DE4736v"
+                "desor": "DE4736v",
+                "medley_title": "Theme Medley:"
             },
             {
                 "type": "take",
-                "index": "47-12-26-027",
+                "index": "47-12-26-022a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. East St. Louis Toodle-O",
+                "title": "East St. Louis Toodle-O",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "47-12-26-028",
+                "index": "47-12-26-022b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Echoes Of Harlem",
+                "title": "Echoes Of Harlem",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "47-12-26-029",
+                "index": "47-12-26-022c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
-                "index": "47-12-26-030",
+                "index": "47-12-26-023",
                 "matrix": null,
                 "title": "Stomp, Look And Listen",
                 "releases": [],
@@ -6581,7 +6689,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-031",
+                "index": "47-12-26-024",
                 "matrix": null,
                 "title": "Bakiff",
                 "releases": [],
@@ -6589,7 +6697,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-032",
+                "index": "47-12-26-025",
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
                 "releases": [],
@@ -6597,7 +6705,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-033",
+                "index": "47-12-26-026",
                 "matrix": null,
                 "title": "On The Sunny Side Of The Street",
                 "releases": [],
@@ -6605,7 +6713,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-034",
+                "index": "47-12-26-027",
                 "matrix": null,
                 "title": "It's Monday Every Day - vAH",
                 "releases": [],
@@ -6613,7 +6721,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-035",
+                "index": "47-12-26-028",
                 "matrix": null,
                 "title": "Lover Come Back To Me - vAH",
                 "releases": [],
@@ -6621,7 +6729,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-036",
+                "index": "47-12-26-029",
                 "matrix": null,
                 "title": "Don't Take Your Love From Me - vAH",
                 "releases": [],
@@ -6629,83 +6737,90 @@
             },
             {
                 "type": "take",
-                "index": "47-12-26-037",
+                "index": "47-12-26-030",
                 "matrix": null,
                 "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vAH",
                 "releases": [],
                 "desor": "DE4736ad"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "47-12-26-031",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4736ae"
+                "desor": "DE4736ae",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "47-12-26-038",
+                "index": "47-12-26-031a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothin' Till You Hear From Me",
+                "title": "Do Nothin' Till You Hear From Me",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "47-12-26-039",
+                "index": "47-12-26-031b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "47-12-26-040",
+                "index": "47-12-26-031c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "47-12-26-041",
+                "index": "47-12-26-031d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
+                "title": "I'm Beginning To See The Light",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "47-12-26-042",
+                "index": "47-12-26-031e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "47-12-26-043",
+                "index": "47-12-26-031f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "take",
-                "index": "47-12-26-044",
+                "index": "47-12-26-031g",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "g"
             },
             {
                 "type": "take",
-                "index": "47-12-26-045",
+                "index": "47-12-26-031h",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. I Let A Song & Don't Get Around Much",
+                "title": "I Let A Song & Don't Get Around Much",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "h"
             }
         ]
     },
@@ -6870,18 +6985,17 @@
                 "desor": "DE4737j"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "47-12-27-011",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4737k"
+                "desor": "DE4737k",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "47-12-27-011",
+                "index": "47-12-27-011a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Wanderlust",
+                "title": "Wanderlust",
                 "releases": [
                     {
                         "label": "Df",
@@ -6893,101 +7007,111 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "47-12-27-011b",
+                "matrix": null,
+                "title": "Junior Hop",
+                "releases": [
+                    {
+                        "label": "Df",
+                        "catalog": "DRCD 11211"
+                    },
+                    {
+                        "label": "Pr",
+                        "catalog": "P-24075",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "47-12-27-011c",
+                "matrix": null,
+                "title": "Jeep's Blues",
+                "releases": [
+                    {
+                        "label": "Df",
+                        "catalog": "DRCD 11211"
+                    },
+                    {
+                        "label": "Pr",
+                        "catalog": "P-24075",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "47-12-27-011d",
+                "matrix": null,
+                "title": "Dooji Wooji",
+                "releases": [
+                    {
+                        "label": "Df",
+                        "catalog": "DRCD 11211"
+                    },
+                    {
+                        "label": "Pr",
+                        "catalog": "P-24075",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "47-12-27-011e",
+                "matrix": null,
+                "title": "Jeep Is Jumpin'",
+                "releases": [
+                    {
+                        "label": "Df",
+                        "catalog": "DRCD 11211"
+                    },
+                    {
+                        "label": "Pr",
+                        "catalog": "P-24075",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "47-12-27-011f",
+                "matrix": null,
+                "title": "Mood To Be Wooed",
+                "releases": [
+                    {
+                        "label": "Df",
+                        "catalog": "DRCD 11211"
+                    },
+                    {
+                        "label": "Pr",
+                        "catalog": "P-24075",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "47-12-27-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Junior Hop",
-                "releases": [
-                    {
-                        "label": "Df",
-                        "catalog": "DRCD 11211"
-                    },
-                    {
-                        "label": "Pr",
-                        "catalog": "P-24075",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-27-013",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Jeep's Blues",
-                "releases": [
-                    {
-                        "label": "Df",
-                        "catalog": "DRCD 11211"
-                    },
-                    {
-                        "label": "Pr",
-                        "catalog": "P-24075",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-27-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Dooji Wooji",
-                "releases": [
-                    {
-                        "label": "Df",
-                        "catalog": "DRCD 11211"
-                    },
-                    {
-                        "label": "Pr",
-                        "catalog": "P-24075",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-27-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Jeep Is Jumpin'",
-                "releases": [
-                    {
-                        "label": "Df",
-                        "catalog": "DRCD 11211"
-                    },
-                    {
-                        "label": "Pr",
-                        "catalog": "P-24075",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-27-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Mood To Be Wooed",
-                "releases": [
-                    {
-                        "label": "Df",
-                        "catalog": "DRCD 11211"
-                    },
-                    {
-                        "label": "Pr",
-                        "catalog": "P-24075",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "47-12-27-017",
                 "matrix": null,
                 "title": "Boogie Bop Blues",
                 "releases": [
@@ -7005,7 +7129,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-018",
+                "index": "47-12-27-013",
                 "matrix": null,
                 "title": "New York City Blues",
                 "releases": [
@@ -7023,7 +7147,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-019",
+                "index": "47-12-27-014",
                 "matrix": null,
                 "title": "The Clothed Woman",
                 "releases": [
@@ -7045,7 +7169,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-020",
+                "index": "47-12-27-015",
                 "matrix": null,
                 "title": "All Heart",
                 "releases": [
@@ -7067,7 +7191,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-021",
+                "index": "47-12-27-016",
                 "matrix": null,
                 "title": "I Like The Sunrise - vAH",
                 "releases": [
@@ -7086,7 +7210,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-022",
+                "index": "47-12-27-017",
                 "matrix": null,
                 "title": "Dance No. 1",
                 "releases": [
@@ -7105,7 +7229,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-023",
+                "index": "47-12-27-018",
                 "matrix": null,
                 "title": "Dance No. 2",
                 "releases": [
@@ -7124,7 +7248,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-024",
+                "index": "47-12-27-019",
                 "matrix": null,
                 "title": "Dance No. 3",
                 "releases": [
@@ -7143,7 +7267,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-025",
+                "index": "47-12-27-020",
                 "matrix": null,
                 "title": "Dance No. 4",
                 "releases": [
@@ -7162,7 +7286,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-026",
+                "index": "47-12-27-021",
                 "matrix": null,
                 "title": "Dance No. 5",
                 "releases": [
@@ -7188,18 +7312,17 @@
                 "suite_title": null
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "47-12-27-022",
                 "matrix": null,
-                "title": "Theme Medley:",
-                "releases": [],
-                "desor": "DE4737v"
+                "desor": "DE4737v",
+                "medley_title": "Theme Medley:"
             },
             {
                 "type": "take",
-                "index": "47-12-27-027",
+                "index": "47-12-27-022a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. East St. Louis Toodle-O",
+                "title": "East St. Louis Toodle-O",
                 "releases": [
                     {
                         "label": "Df",
@@ -7211,13 +7334,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "47-12-27-028",
+                "index": "47-12-27-022b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "Df",
@@ -7229,13 +7353,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "47-12-27-029",
+                "index": "47-12-27-022c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Echoes Of Harlem",
+                "title": "Echoes Of Harlem",
                 "releases": [
                     {
                         "label": "Df",
@@ -7247,13 +7372,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "47-12-27-030",
+                "index": "47-12-27-022d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be",
                 "releases": [
                     {
                         "label": "Df",
@@ -7265,11 +7391,16 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
-                "index": "47-12-27-031",
+                "index": "47-12-27-023",
                 "matrix": null,
                 "title": "Stomp, Look And Listen",
                 "releases": [],
@@ -7277,7 +7408,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-032",
+                "index": "47-12-27-024",
                 "matrix": null,
                 "title": "Bakiff",
                 "releases": [
@@ -7295,7 +7426,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-033",
+                "index": "47-12-27-025",
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
                 "releases": [],
@@ -7303,7 +7434,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-034",
+                "index": "47-12-27-026",
                 "matrix": null,
                 "title": "On The Sunny Side Of The Street",
                 "releases": [],
@@ -7311,7 +7442,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-035",
+                "index": "47-12-27-027",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
@@ -7329,7 +7460,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-036",
+                "index": "47-12-27-028",
                 "matrix": null,
                 "title": "It's Monday Every Day - vAH",
                 "releases": [],
@@ -7337,7 +7468,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-037",
+                "index": "47-12-27-029",
                 "matrix": null,
                 "title": "Lover Come Back To Me - vAH",
                 "releases": [],
@@ -7345,7 +7476,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-038",
+                "index": "47-12-27-030",
                 "matrix": null,
                 "title": "Don't Take Your Love From Me - vAH",
                 "releases": [],
@@ -7353,87 +7484,98 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-039",
+                "index": "47-12-27-031",
                 "matrix": null,
                 "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vAH",
                 "releases": [],
                 "desor": "DE4737ae"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "47-12-27-032",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4737af"
+                "desor": "DE4737af",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "47-12-27-040",
+                "index": "47-12-27-032a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Do Nothin' Till You Hear From Me",
+                "title": "Do Nothin' Till You Hear From Me",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "47-12-27-041",
+                "index": "47-12-27-032b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "47-12-27-042",
+                "index": "47-12-27-032c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "47-12-27-043",
+                "index": "47-12-27-032d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
+                "title": "I'm Beginning To See The Light",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "47-12-27-044",
+                "index": "47-12-27-032e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "47-12-27-045",
+                "index": "47-12-27-032f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "take",
-                "index": "47-12-27-046",
+                "index": "47-12-27-032g",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "g"
             },
             {
                 "type": "take",
-                "index": "47-12-27-047",
+                "index": "47-12-27-032h",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. I Let A Song & Don't Get Around Much",
+                "title": "I Let A Song & Don't Get Around Much",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
-                "index": "47-12-27-048",
+                "index": "47-12-27-033",
                 "matrix": null,
                 "title": "Tulip Or Turnip - vRN",
                 "releases": [],
@@ -7441,7 +7583,7 @@
             },
             {
                 "type": "take",
-                "index": "47-12-27-049",
+                "index": "47-12-27-034",
                 "matrix": null,
                 "title": "Blue Skies [Trumpet No End]",
                 "releases": [

@@ -1608,10 +1608,13 @@
                 "desor": "DE3708a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "37-05-08-002",
                 "matrix": null,
-                "title": "¬ Solitude",
+                "title": "Solitude",
                 "releases": [
                     {
                         "label": "Ff",
@@ -1623,13 +1626,14 @@
                         "catalog": "103 8415"
                     }
                 ],
-                "desor": "DE3708b"
+                "desor": "DE3708b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "37-05-08-003",
                 "matrix": null,
-                "title": "_| In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "Ff",
@@ -1641,7 +1645,8 @@
                         "catalog": "103 8415"
                     }
                 ],
-                "desor": "DE3708c"
+                "desor": "DE3708c",
+                "attacca": true
             },
             {
                 "type": "note",

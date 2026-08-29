@@ -1716,10 +1716,13 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-01-17-027",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1731,13 +1734,14 @@
                         "catalog": "1003"
                     }
                 ],
-                "desor": "DE4504aa"
+                "desor": "DE4504aa",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-01-17-028",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1749,7 +1753,8 @@
                         "catalog": "1003"
                     }
                 ],
-                "desor": "DE4504ab"
+                "desor": "DE4504ab",
+                "attacca": true
             },
             {
                 "type": "note",
@@ -2177,44 +2182,50 @@
                 "suite_title": null
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4509u"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "45-03-25-021",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Sophisticated Lady",
-                "releases": [],
-                "desor": null
+                "desor": "DE4509u",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "45-03-25-022",
+                "index": "45-03-25-021a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "45-03-25-023",
+                "index": "45-03-25-021b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "45-03-25-021c",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "artists",
                 "value": "As before."
             },
             {
+                "type": "medley",
+                "medley_title": null
+            },
+            {
                 "type": "take",
-                "index": "45-03-25-024",
+                "index": "45-03-25-022",
                 "matrix": null,
                 "title": "Take The \"A\" Train  (theme)",
                 "releases": [
@@ -2232,7 +2243,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-025",
+                "index": "45-03-25-023",
                 "matrix": null,
                 "title": "Blue Cellophane",
                 "releases": [
@@ -2246,7 +2257,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-026",
+                "index": "45-03-25-024",
                 "matrix": null,
                 "title": "Frustration",
                 "releases": [
@@ -2260,7 +2271,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-027",
+                "index": "45-03-25-025",
                 "matrix": null,
                 "title": "I'm Beginning To See The Light - vJS",
                 "releases": [
@@ -2274,7 +2285,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-028",
+                "index": "45-03-25-026",
                 "matrix": null,
                 "title": "Mood To Be Wooed",
                 "releases": [
@@ -2288,7 +2299,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-029",
+                "index": "45-03-25-027",
                 "matrix": null,
                 "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vRN,TJ",
                 "releases": [
@@ -2302,7 +2313,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-030",
+                "index": "45-03-25-028",
                 "matrix": null,
                 "title": "I Ain't Got Nothin' But The Blues - vAH,KD",
                 "releases": [
@@ -2316,7 +2327,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-031",
+                "index": "45-03-25-029",
                 "matrix": null,
                 "title": "Blue Skies",
                 "releases": [
@@ -2330,7 +2341,7 @@
             },
             {
                 "type": "take",
-                "index": "45-03-25-032",
+                "index": "45-03-25-030",
                 "matrix": null,
                 "title": "Take The \"A\" Train  (theme)",
                 "releases": [
@@ -2344,10 +2355,13 @@
                 "desor": "DE4509ad"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
-                "index": "45-03-25-033",
+                "index": "45-03-25-031",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "SD",
@@ -2356,13 +2370,14 @@
                     }
                 ],
                 "desor": "DE4509ae",
+                "attacca": true,
                 "youtube": "https://www.youtube.com/watch?v=KJhyJv8e8C0"
             },
             {
                 "type": "take",
-                "index": "45-03-25-034",
+                "index": "45-03-25-032",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "SD",
@@ -2371,11 +2386,15 @@
                     }
                 ],
                 "desor": "DE4509af",
+                "attacca": true,
                 "youtube": "https://www.youtube.com/watch?v=QGGtqaMl6X8"
             },
             {
+                "type": "end_attacca"
+            },
+            {
                 "type": "take",
-                "index": "45-03-25-035",
+                "index": "45-03-25-033",
                 "matrix": null,
                 "title": "Honeysuckle Rose",
                 "releases": [
@@ -3164,24 +3183,32 @@
                 "value": "Duke Ellington(p)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-04-15-001",
                 "matrix": null,
-                "title": "¬ Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE4514a"
+                "desor": "DE4514a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-04-15-002",
                 "matrix": null,
-                "title": "_| Solitude",
+                "title": "Solitude",
                 "releases": [],
-                "desor": "DE4514b"
+                "desor": "DE4514b",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Martha Tilton, Choir(v); Jeff Alexander's Orchestra."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6502,10 +6529,13 @@
                 "desor": "DE4535l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-05-19-013",
                 "matrix": null,
-                "title": "¬ In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6529,13 +6559,14 @@
                         "catalog": "RR 4"
                     }
                 ],
-                "desor": "DE4535m"
+                "desor": "DE4535m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-05-19-014",
                 "matrix": null,
-                "title": "-&nbsp;| It Don't Mean A Thing (If It Ain't Got That Swing) - vJS,KD,ME",
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vJS,KD,ME",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6563,13 +6594,14 @@
                         "catalog": "RR 4"
                     }
                 ],
-                "desor": "DE4535n"
+                "desor": "DE4535n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-05-19-015",
                 "matrix": null,
-                "title": "_| Solitude - vAH,JS,KD,ME",
+                "title": "Solitude - vAH,JS,KD,ME",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6593,7 +6625,11 @@
                         "catalog": "RR 4"
                     }
                 ],
-                "desor": "DE4535o"
+                "desor": "DE4535o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7082,10 +7118,13 @@
                 "desor": "DE4536l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-05-26-013",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -7113,13 +7152,14 @@
                         "catalog": "626"
                     }
                 ],
-                "desor": "DE4536m"
+                "desor": "DE4536m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-05-26-014",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -7147,7 +7187,11 @@
                         "catalog": "626"
                     }
                 ],
-                "desor": "DE4536n"
+                "desor": "DE4536n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8096,10 +8140,13 @@
                 "desor": "DE4538l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-06-09-013",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -8115,13 +8162,14 @@
                         "catalog": "903 9005"
                     }
                 ],
-                "desor": "DE4538m"
+                "desor": "DE4538m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-06-09-014",
                 "matrix": null,
-                "title": "-&nbsp;| Rocks In My Bed - vME",
+                "title": "Rocks In My Bed - vME",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -8137,13 +8185,14 @@
                         "catalog": "903 9005"
                     }
                 ],
-                "desor": "DE4538n"
+                "desor": "DE4538n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-06-09-015",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -8159,7 +8208,11 @@
                         "catalog": "903 9005"
                     }
                 ],
-                "desor": "DE4538o"
+                "desor": "DE4538o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9664,10 +9717,13 @@
                 "desor": "DE4542k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-06-30-012",
                 "matrix": null,
-                "title": "¬ Chelsea Bridge",
+                "title": "Chelsea Bridge",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -9691,13 +9747,14 @@
                         "catalog": "FA-1009"
                     }
                 ],
-                "desor": "DE4542l"
+                "desor": "DE4542l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-06-30-013",
                 "matrix": null,
-                "title": "-&nbsp;| Something To Live For - vME",
+                "title": "Something To Live For - vME",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -9717,13 +9774,14 @@
                         "catalog": "FA-1009"
                     }
                 ],
-                "desor": "DE4542m"
+                "desor": "DE4542m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-06-30-014",
                 "matrix": null,
-                "title": "-&nbsp;| Clementine and D.E. Bond Promo",
+                "title": "Clementine and D.E. Bond Promo",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -9739,13 +9797,14 @@
                         "catalog": "903 9007"
                     }
                 ],
-                "desor": "DE4542n"
+                "desor": "DE4542n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-06-30-015",
                 "matrix": null,
-                "title": "_| My Little Brown Book - vAH",
+                "title": "My Little Brown Book - vAH",
                 "releases": [
                     {
                         "label": "DETS",
@@ -9761,11 +9820,15 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4542o"
+                "desor": "DE4542o",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Billy Strayhorn out. Add Duke Ellington(p)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10107,10 +10170,13 @@
                 "desor": "DE4545e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-07-07-008",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10138,13 +10204,14 @@
                         "catalog": "534"
                     }
                 ],
-                "desor": "DE4545f"
+                "desor": "DE4545f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-07-07-009",
                 "matrix": null,
-                "title": "-&nbsp;| Carnegie Blues",
+                "title": "Carnegie Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10164,13 +10231,14 @@
                         "catalog": "FA-1010"
                     }
                 ],
-                "desor": "DE4545g"
+                "desor": "DE4545g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-07-07-010",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10198,7 +10266,11 @@
                         "catalog": "534"
                     }
                 ],
-                "desor": "DE4545h"
+                "desor": "DE4545h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10759,10 +10831,13 @@
                 "desor": "DE4546k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-07-14-012",
                 "matrix": null,
-                "title": "¬ Downbeat Shuffle",
+                "title": "Downbeat Shuffle",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10778,13 +10853,14 @@
                         "catalog": "903 9008"
                     }
                 ],
-                "desor": "DE4546l"
+                "desor": "DE4546l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-07-14-013",
                 "matrix": null,
-                "title": "-&nbsp;| Esquire Swank",
+                "title": "Esquire Swank",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10804,13 +10880,14 @@
                         "catalog": "AA 501"
                     }
                 ],
-                "desor": "DE4546m"
+                "desor": "DE4546m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-07-14-014",
                 "matrix": null,
-                "title": "_| Metronome All Out and D.E. Bond Promo",
+                "title": "Metronome All Out and D.E. Bond Promo",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -10826,11 +10903,15 @@
                         "catalog": "903 9008"
                     }
                 ],
-                "desor": "DE4546n"
+                "desor": "DE4546n",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Billy Strayhorn out."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11755,18 +11836,17 @@
                 "desor": "DE4550k"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "45-07-28-012",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4550l"
+                "desor": "DE4550l",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "45-07-28-012",
+                "index": "45-07-28-012a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -11790,161 +11870,171 @@
                         "catalog": "903 9009"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "45-07-28-012b",
+                "matrix": null,
+                "title": "Black Beauty",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-43",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-49"
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-52"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "16"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9009"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "45-07-28-012c",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-43",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-49"
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-52"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "16"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9009"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "45-07-28-012d",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-43",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-49"
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-52"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "16"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9009"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "45-07-28-012e",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-43",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-49"
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-52"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "16"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9009"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "45-07-28-012f",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-43",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-49"
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-52"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "16"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9009"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "45-07-28-013",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Black Beauty",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-43",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-49"
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-52"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "16"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9009"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "45-07-28-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-43",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-49"
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-52"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "16"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9009"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "45-07-28-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Caravan",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-43",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-49"
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-52"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "16"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9009"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "45-07-28-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Solitude",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-43",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-49"
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-52"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "16"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9009"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "45-07-28-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. I Let A Song Go Out Of My Heart",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-43",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-49"
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-52"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "16"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9009"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "45-07-28-018",
                 "matrix": null,
                 "title": "D.E. Bond Promo",
                 "releases": [
@@ -11962,7 +12052,7 @@
             },
             {
                 "type": "take",
-                "index": "45-07-28-019",
+                "index": "45-07-28-014",
                 "matrix": null,
                 "title": "Trumpet In Spades",
                 "releases": [
@@ -11984,7 +12074,7 @@
             },
             {
                 "type": "take",
-                "index": "45-07-28-020",
+                "index": "45-07-28-015",
                 "matrix": null,
                 "title": "Just A-Sittin' And A-Rockin'",
                 "releases": [
@@ -12006,7 +12096,7 @@
             },
             {
                 "type": "take",
-                "index": "45-07-28-021",
+                "index": "45-07-28-016",
                 "matrix": null,
                 "title": "Go Away Blues - vJS",
                 "releases": [
@@ -12032,7 +12122,7 @@
             },
             {
                 "type": "take",
-                "index": "45-07-28-022",
+                "index": "45-07-28-017",
                 "matrix": null,
                 "title": "D.E. Bond Promo",
                 "releases": [
@@ -12050,7 +12140,7 @@
             },
             {
                 "type": "take",
-                "index": "45-07-28-023",
+                "index": "45-07-28-018",
                 "matrix": null,
                 "title": "One O'Clock Jump",
                 "releases": [
@@ -15876,10 +15966,13 @@
                 "desor": "DE4561h"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-09-15-009",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -15895,13 +15988,14 @@
                         "catalog": "903 9012"
                     }
                 ],
-                "desor": "DE4561i"
+                "desor": "DE4561i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-09-15-010",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -15917,7 +16011,11 @@
                         "catalog": "903 9012"
                     }
                 ],
-                "desor": "DE4561j"
+                "desor": "DE4561j",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -16576,10 +16674,13 @@
                 "desor": "DE4582f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-09-21-007",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -16595,13 +16696,14 @@
                         "catalog": "LP-1066"
                     }
                 ],
-                "desor": "DE4582g"
+                "desor": "DE4582g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-09-21-008",
                 "matrix": null,
-                "title": "-&nbsp;| Rocks In My Bed - vJS",
+                "title": "Rocks In My Bed - vJS",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -16617,13 +16719,14 @@
                         "catalog": "LP-1066"
                     }
                 ],
-                "desor": "DE4582h"
+                "desor": "DE4582h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-09-21-009",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -16639,7 +16742,11 @@
                         "catalog": "LP-1066"
                     }
                 ],
-                "desor": "DE4582i"
+                "desor": "DE4582i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -17078,20 +17185,28 @@
                 "desor": "DE4567e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-09-23-008",
                 "matrix": null,
-                "title": "¬ Take The \"A\" Train",
+                "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": "DE4567xa"
+                "desor": "DE4567xa",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-09-23-009",
                 "matrix": null,
-                "title": "_| Otto, Make That Riff Staccato - vRN",
+                "title": "Otto, Make That Riff Staccato - vRN",
                 "releases": [],
-                "desor": "DE4567f"
+                "desor": "DE4567f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -19274,10 +19389,13 @@
                 "desor": "DE4578p"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "45-10-13-017",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -19293,13 +19411,14 @@
                         "catalog": "903 9014"
                     }
                 ],
-                "desor": "DE4578q"
+                "desor": "DE4578q",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-10-13-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| I Got It Bad And That Ain't Good - vAH",
+                "title": "I Got It Bad And That Ain't Good - vAH",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -19319,13 +19438,14 @@
                         "catalog": "903 9014"
                     }
                 ],
-                "desor": "DE4578r"
+                "desor": "DE4578r",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "45-10-13-019",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -19341,7 +19461,11 @@
                         "catalog": "903 9014"
                     }
                 ],
-                "desor": "DE4578s"
+                "desor": "DE4578s",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -22952,32 +23076,17 @@
                 "value": "Duke Ellington(p) acc. by Jay Blackton and His Orchestra & Choir."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4594c"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "45-11-25-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "MALB-77",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
+                "desor": "DE4594c",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "45-11-25-004",
+                "index": "45-11-25-003a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude - vCho",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -22985,13 +23094,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "45-11-25-005",
+                "index": "45-11-25-003b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Caravan",
+                "title": "Solitude - vCho",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -22999,13 +23109,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "45-11-25-006",
+                "index": "45-11-25-003c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo - vCho",
+                "title": "Caravan",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -23013,13 +23124,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "45-11-25-007",
+                "index": "45-11-25-003d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. It Don't Mean A Thing (If It Ain't Got That Swing) - vCho",
+                "title": "Mood Indigo - vCho",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -23027,7 +23139,23 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "45-11-25-003e",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vCho",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "MALB-77",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
             }
         ]
     },

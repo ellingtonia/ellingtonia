@@ -1398,10 +1398,13 @@
                 "value": "Duke Ellington(p)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "36-12-21-004",
                 "matrix": "¯|",
-                "title": "¯| Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1434,13 +1437,14 @@
                         "catalog": "RTE 23001"
                     }
                 ],
-                "desor": "DE3612c"
+                "desor": "DE3612c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "36-12-21-005",
                 "matrix": "  | L0377-1",
-                "title": "-&nbsp;&nbsp;| Solitude",
+                "title": "Solitude",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1473,13 +1477,14 @@
                         "catalog": "RTE 23001"
                     }
                 ],
-                "desor": "DE3612d"
+                "desor": "DE3612d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "36-12-21-006",
                 "matrix": "_|",
-                "title": "_| Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1512,13 +1517,14 @@
                         "catalog": "RTE 23001"
                     }
                 ],
-                "desor": "DE3612e"
+                "desor": "DE3612e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "36-12-21-007",
                 "matrix": "¯| L0378-1",
-                "title": "¯| In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1551,13 +1557,14 @@
                         "catalog": "RTE 23001"
                     }
                 ],
-                "desor": "DE3612f"
+                "desor": "DE3612f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "36-12-21-008",
                 "matrix": "_|",
-                "title": "_| Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "CBS",
@@ -1590,7 +1597,8 @@
                         "catalog": "RTE 23001"
                     }
                 ],
-                "desor": "DE3612g"
+                "desor": "DE3612g",
+                "attacca": true
             }
         ]
     }

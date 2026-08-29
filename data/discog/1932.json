@@ -541,10 +541,13 @@
                 "value": "Arthur Whetsel, Freddie Jenkins(t); Cootie Williams(t,v); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(cl,ss,as); Harry Carney(cl,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "32-02-09-001",
                 "matrix": "¬",
-                "title": "¬ East St. Louis Toodle-O",
+                "title": "East St. Louis Toodle-O",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -581,13 +584,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE3204a"
+                "desor": "DE3204a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "32-02-09-002",
                 "matrix": "  | LBRC-71836-2",
-                "title": "-&nbsp;&nbsp;| Lot O' Fingers",
+                "title": "Lot O' Fingers",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -624,13 +628,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE3204b"
+                "desor": "DE3204b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "32-02-09-003",
                 "matrix": "_|",
-                "title": "_| Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -667,7 +672,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE3204c"
+                "desor": "DE3204c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
