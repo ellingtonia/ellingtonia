@@ -253,28 +253,37 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Elvin Jones, Skeets Marsh(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-01-28-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6605a"
+                "desor": "DE6605a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-01-28-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6605b"
+                "desor": "DE6605b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-01-28-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6605c"
+                "desor": "DE6605c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -377,20 +386,28 @@
                 "desor": "DE6605k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-01-28-013",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6605l"
+                "desor": "DE6605l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-01-28-014",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6605m"
+                "desor": "DE6605m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -549,10 +566,13 @@
                 "desor": "DE6607a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-01-29-009",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "MDD",
@@ -560,13 +580,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6607b"
+                "desor": "DE6607b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-01-29-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "MDD",
@@ -574,13 +595,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6607c"
+                "desor": "DE6607c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-01-29-011",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "MDD",
@@ -588,7 +610,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6607d"
+                "desor": "DE6607d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -779,10 +805,13 @@
                 "desor": "DE6608a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-01-30-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "CCo",
@@ -794,13 +823,14 @@
                         "catalog": "(Unknown-1)"
                     }
                 ],
-                "desor": "DE6608b"
+                "desor": "DE6608b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-01-30-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "CCo",
@@ -812,13 +842,14 @@
                         "catalog": "(Unknown-1)"
                     }
                 ],
-                "desor": "DE6608c"
+                "desor": "DE6608c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-01-30-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "CCo",
@@ -830,7 +861,11 @@
                         "catalog": "(Unknown-1)"
                     }
                 ],
-                "desor": "DE6608d"
+                "desor": "DE6608d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1203,20 +1238,28 @@
                 "desor": "DE6610e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-02-006",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6610f"
+                "desor": "DE6610f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-02-007",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6610g"
+                "desor": "DE6610g",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1283,20 +1326,28 @@
                 "desor": "DE6610n"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-02-015",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6610o"
+                "desor": "DE6610o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-02-016",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6610p"
+                "desor": "DE6610p",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1319,28 +1370,37 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-06-001",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6611a"
+                "desor": "DE6611a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-06-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6611b"
+                "desor": "DE6611b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-06-003",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6611c"
+                "desor": "DE6611c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1519,20 +1579,28 @@
                 "desor": "DE6612h"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-06-023",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6612i"
+                "desor": "DE6612i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-06-024",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6612j"
+                "desor": "DE6612j",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1745,28 +1813,37 @@
                 "desor": "DE6614a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-07-016",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6614b"
+                "desor": "DE6614b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-07-017",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6614c"
+                "desor": "DE6614c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-07-018",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6614d"
+                "desor": "DE6614d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2136,28 +2213,37 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-11-001",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6618a"
+                "desor": "DE6618a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-11-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6618b"
+                "desor": "DE6618b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-11-003",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6618c"
+                "desor": "DE6618c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2244,28 +2330,37 @@
                 "desor": "DE6619a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-11-013",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6619b"
+                "desor": "DE6619b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-11-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6619c"
+                "desor": "DE6619c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-11-015",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6619d"
+                "desor": "DE6619d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2388,28 +2483,37 @@
                 "desor": "DE6620a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-12-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6620b"
+                "desor": "DE6620b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-12-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6620c"
+                "desor": "DE6620c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-12-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6620d"
+                "desor": "DE6620d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2460,20 +2564,28 @@
                 "desor": "DE6620j"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-12-011",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6620k"
+                "desor": "DE6620k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-12-012",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6620l"
+                "desor": "DE6620l",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2532,28 +2644,37 @@
                 "desor": "DE6621a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-13-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6621b"
+                "desor": "DE6621b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-13-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6621c"
+                "desor": "DE6621c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-13-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6621d"
+                "desor": "DE6621d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2668,28 +2789,37 @@
                 "desor": "DE6622a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-13-017",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6622b"
+                "desor": "DE6622b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-13-018",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6622c"
+                "desor": "DE6622c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-13-019",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6622d"
+                "desor": "DE6622d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2784,28 +2914,37 @@
                 "desor": "DE6623a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-14-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6623b"
+                "desor": "DE6623b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-14-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6623c"
+                "desor": "DE6623c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-14-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6623d"
+                "desor": "DE6623d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2864,20 +3003,28 @@
                 "desor": "DE6623k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-14-012",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6623l"
+                "desor": "DE6623l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-14-013",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6623m"
+                "desor": "DE6623m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3018,28 +3165,37 @@
                 "desor": "DE6624a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-14-022",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6624b"
+                "desor": "DE6624b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-14-023",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6624c"
+                "desor": "DE6624c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-14-024",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6624d"
+                "desor": "DE6624d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3098,20 +3254,28 @@
                 "desor": "DE6624k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-14-032",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6624l"
+                "desor": "DE6624l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-14-033",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6624m"
+                "desor": "DE6624m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3162,20 +3326,28 @@
                 "desor": "DE6624s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-14-040",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6624t"
+                "desor": "DE6624t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-14-041",
                 "matrix": null,
-                "title": "_|Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6624u"
+                "desor": "DE6624u",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3214,28 +3386,37 @@
                 "desor": "DE6625a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-17-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6625b"
+                "desor": "DE6625b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-17-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6625c"
+                "desor": "DE6625c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-17-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6625d"
+                "desor": "DE6625d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3653,20 +3834,28 @@
                 "desor": "DE6626g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-19-022",
                 "matrix": null,
-                "title": "¬ Piano Tinkle",
+                "title": "Piano Tinkle",
                 "releases": [],
-                "desor": "DE6626h"
+                "desor": "DE6626h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-19-023",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6626i"
+                "desor": "DE6626i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3837,20 +4026,28 @@
                 "desor": "DE6629i"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-20-011",
                 "matrix": null,
-                "title": "¬ Piano Tinkle",
+                "title": "Piano Tinkle",
                 "releases": [],
-                "desor": "DE6629j"
+                "desor": "DE6629j",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-20-012",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6629k"
+                "desor": "DE6629k",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4170,28 +4367,37 @@
                 "desor": "DE6633a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-02-22-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6633b"
+                "desor": "DE6633b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-22-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6633c"
+                "desor": "DE6633c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-02-22-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6633d"
+                "desor": "DE6633d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4863,28 +5069,37 @@
                 "desor": "DE6638a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-04-09-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6638b"
+                "desor": "DE6638b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-04-09-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6638c"
+                "desor": "DE6638c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-04-09-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6638d"
+                "desor": "DE6638d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5245,20 +5460,28 @@
                 "value": "Duke Ellington(p) solo."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-04-16-002",
                 "matrix": null,
-                "title": "¬ Prelude To A Kiss",
+                "title": "Prelude To A Kiss",
                 "releases": [],
-                "desor": "DE6640b"
+                "desor": "DE6640b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-04-16-003",
                 "matrix": null,
-                "title": "_|In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [],
-                "desor": "DE6640c"
+                "desor": "DE6640c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5639,20 +5862,28 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-04-24-017",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6641q"
+                "desor": "DE6641q",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-04-24-018",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6641r"
+                "desor": "DE6641r",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6303,28 +6534,37 @@
                 "desor": "DE6648a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-05-20-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6648b"
+                "desor": "DE6648b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-05-20-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6648c"
+                "desor": "DE6648c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-05-20-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6648d"
+                "desor": "DE6648d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6568,20 +6808,28 @@
                 "desor": "DE6648u"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-05-20-022",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6648v"
+                "desor": "DE6648v",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-05-20-023",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6648w"
+                "desor": "DE6648w",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6760,20 +7008,28 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-06-02-015",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6649o"
+                "desor": "DE6649o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-06-02-016",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6649p"
+                "desor": "DE6649p",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6880,20 +7136,28 @@
                 "desor": "DE6649ac"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-06-02-030",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6649ad"
+                "desor": "DE6649ad",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-06-02-031",
                 "matrix": null,
-                "title": "_|Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6649ae"
+                "desor": "DE6649ae",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6940,24 +7204,32 @@
                 "value": "Duke Ellington(p); John Lamb(sb) only."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-06-02-037",
                 "matrix": null,
-                "title": "¬ Harlem Air Shaft",
+                "title": "Harlem Air Shaft",
                 "releases": [],
-                "desor": "DE6649ak"
+                "desor": "DE6649ak",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-06-02-038",
                 "matrix": null,
-                "title": "_|It's Freedom",
+                "title": "It's Freedom",
                 "releases": [],
-                "desor": "DE6649al"
+                "desor": "DE6649al",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "As before but add Jules Ross(ts)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7190,10 +7462,13 @@
                 "desor": "DE6652a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-03-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "IGDJ",
@@ -7205,13 +7480,14 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6652b"
+                "desor": "DE6652b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-03-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "IGDJ",
@@ -7223,13 +7499,14 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6652c"
+                "desor": "DE6652c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-03-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "IGDJ",
@@ -7245,7 +7522,11 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6652d"
+                "desor": "DE6652d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7328,10 +7609,13 @@
                 "desor": "DE6652i"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-03-010",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "IGDJ",
@@ -7343,13 +7627,14 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6652j"
+                "desor": "DE6652j",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-03-011",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "IGDJ",
@@ -7361,7 +7646,11 @@
                         "catalog": "CDC 7680"
                     }
                 ],
-                "desor": "DE6652k"
+                "desor": "DE6652k",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7484,28 +7773,37 @@
                 "desor": "DE6653a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-04-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6653b"
+                "desor": "DE6653b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-04-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6653c"
+                "desor": "DE6653c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-04-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6653d"
+                "desor": "DE6653d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8286,28 +8584,37 @@
                 "desor": "DE6657a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-15-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6657b"
+                "desor": "DE6657b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-15-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6657c"
+                "desor": "DE6657c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-15-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6657d"
+                "desor": "DE6657d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8798,10 +9105,13 @@
                 "desor": "DE6660b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-26-004",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "STJ",
@@ -8809,13 +9119,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6660c"
+                "desor": "DE6660c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-26-005",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "STJ",
@@ -8823,13 +9134,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6660d"
+                "desor": "DE6660d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-26-006",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "STJ",
@@ -8837,7 +9149,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6660e"
+                "desor": "DE6660e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8964,10 +9280,13 @@
                 "desor": "DE6660m"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-26-015",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "EV",
@@ -8995,13 +9314,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6660n"
+                "desor": "DE6660n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-26-016",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "LRC",
@@ -9025,7 +9345,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6660o"
+                "desor": "DE6660o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9212,10 +9536,13 @@
                 "desor": "DE6660z"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-26-028",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "Ve",
@@ -9223,13 +9550,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6660aa"
+                "desor": "DE6660aa",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-26-029",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "Ve",
@@ -9237,7 +9565,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6660ab"
+                "desor": "DE6660ab",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9364,10 +9696,13 @@
                 "desor": "DE6662a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-27-006",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "Ve",
@@ -9375,13 +9710,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6662b"
+                "desor": "DE6662b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-27-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "Ve",
@@ -9389,13 +9725,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6662c"
+                "desor": "DE6662c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-27-008",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "Ve",
@@ -9403,7 +9740,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6662d"
+                "desor": "DE6662d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9702,10 +10043,13 @@
                 "desor": "DE6662u"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-27-026",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "MR",
@@ -9721,13 +10065,14 @@
                         "catalog": "314539785-2"
                     }
                 ],
-                "desor": "DE6662v"
+                "desor": "DE6662v",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-27-027",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "MR",
@@ -9743,7 +10088,11 @@
                         "catalog": "314539785-2"
                     }
                 ],
-                "desor": "DE6662w"
+                "desor": "DE6662w",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10166,10 +10515,13 @@
                 "desor": "DE6664b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-28-023",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "EV",
@@ -10177,13 +10529,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6664c"
+                "desor": "DE6664c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-28-024",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "EV",
@@ -10191,13 +10544,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6664d"
+                "desor": "DE6664d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-28-025",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "EV",
@@ -10205,7 +10559,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6664e"
+                "desor": "DE6664e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10522,10 +10880,13 @@
                 "desor": "DE6665a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-07-29-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "Ve",
@@ -10533,13 +10894,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6665b"
+                "desor": "DE6665b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-29-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "Ve",
@@ -10547,13 +10909,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6665c"
+                "desor": "DE6665c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-07-29-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "Ve",
@@ -10561,7 +10924,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6665d"
+                "desor": "DE6665d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11275,43 +11642,52 @@
                 "value": "Duke Ellington(p)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-08-25-002",
                 "matrix": null,
-                "title": "¬Prelude To A Kiss",
+                "title": "Prelude To A Kiss",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "19"
                     }
                 ],
-                "desor": "DE6668b"
+                "desor": "DE6668b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-08-25-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "19"
                     }
                 ],
-                "desor": "DE6668c"
+                "desor": "DE6668c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-08-25-004",
                 "matrix": null,
-                "title": "_|Prelude To A Kiss",
+                "title": "Prelude To A Kiss",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "19"
                     }
                 ],
-                "desor": "DE6668d"
+                "desor": "DE6668d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11399,28 +11775,37 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-08-25-009",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6668i"
+                "desor": "DE6668i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-08-25-010",
                 "matrix": null,
-                "title": "-&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6668j"
+                "desor": "DE6668j",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-08-25-011",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6668k"
+                "desor": "DE6668k",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11710,28 +12095,37 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-09-18-001",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6670a"
+                "desor": "DE6670a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-09-18-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6670b"
+                "desor": "DE6670b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-09-18-003",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6670c"
+                "desor": "DE6670c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11790,24 +12184,32 @@
                 "desor": "DE6670j"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-09-18-011",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6670k"
+                "desor": "DE6670k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-09-18-012",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6670l"
+                "desor": "DE6670l",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Add Bunny Briggs(td); Toney Watkins(v)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12192,28 +12594,37 @@
                 "desor": "DE6674a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-10-28-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6674b"
+                "desor": "DE6674b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-10-28-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6674c"
+                "desor": "DE6674c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-10-28-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6674d"
+                "desor": "DE6674d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12567,30 +12978,38 @@
                 "value": "Cootie Williams, Cat Anderson, Herbie Jones, Mercer Ellington(t); Lawrence Brown, Buster Cooper(tb); Chuck Connors(btb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); John Lamb(sb); Sam Woodyard(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-11-05-001",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "15"
                     }
                 ],
-                "desor": "DE6677a"
+                "desor": "DE6677a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-05-002",
                 "matrix": null,
-                "title": "_|Take The \"A\" Train",
+                "title": "Take The \"A\" Train",
                 "releases": [
                     {
                         "label": "X-YT",
                         "catalog": "15"
                     }
                 ],
-                "desor": "DE6677b"
+                "desor": "DE6677b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12789,28 +13208,37 @@
                 "desor": "DE6678a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-11-16-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6678b"
+                "desor": "DE6678b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-16-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6678c"
+                "desor": "DE6678c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-16-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6678d"
+                "desor": "DE6678d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13016,24 +13444,32 @@
                 "desor": "DE6678o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-11-16-016",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6678p"
+                "desor": "DE6678p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-16-017",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6678q"
+                "desor": "DE6678q",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p) solo."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13096,28 +13532,37 @@
                 "desor": "DE6680a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-11-19-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6680b"
+                "desor": "DE6680b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-19-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6680c"
+                "desor": "DE6680c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-19-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6680d"
+                "desor": "DE6680d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13301,20 +13746,28 @@
                 "desor": "DE6680o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-11-19-016",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6680p"
+                "desor": "DE6680p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-19-017",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6680q"
+                "desor": "DE6680q",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13521,20 +13974,28 @@
                 "desor": "DE6682d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-11-25-005",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6682e"
+                "desor": "DE6682e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-11-25-006",
                 "matrix": null,
-                "title": "_|Don't Get Around Much Any More",
+                "title": "Don't Get Around Much Any More",
                 "releases": [],
-                "desor": "DE6682f"
+                "desor": "DE6682f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13638,44 +14099,61 @@
                 "desor": "DE6684a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-12-00-002",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6684b"
+                "desor": "DE6684b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-12-00-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE6684c"
+                "desor": "DE6684c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-12-00-004",
                 "matrix": null,
-                "title": "_|Do Nothin' Till You Hear From Me",
+                "title": "Do Nothin' Till You Hear From Me",
                 "releases": [],
-                "desor": "DE6684d"
+                "desor": "DE6684d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "66-12-00-005",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6684e"
+                "desor": "DE6684e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-12-00-006",
                 "matrix": null,
-                "title": "_|Don't Get Around Much Any More",
+                "title": "Don't Get Around Much Any More",
                 "releases": [],
-                "desor": "DE6684f"
+                "desor": "DE6684f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13913,36 +14391,46 @@
                 "value": "Duke Ellington(p)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "66-12-17-002",
                 "matrix": null,
-                "title": "¬Prelude To A Kiss",
+                "title": "Prelude To A Kiss",
                 "releases": [],
-                "desor": "DE6686b"
+                "desor": "DE6686b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-12-17-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [],
-                "desor": "DE6686c"
+                "desor": "DE6686c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-12-17-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Don't You Know I Care (Or Don't You Care To Know)",
+                "title": "Don't You Know I Care (Or Don't You Care To Know)",
                 "releases": [],
-                "desor": "DE6686d"
+                "desor": "DE6686d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "66-12-17-005",
                 "matrix": null,
-                "title": "_|Prelude To A Kiss",
+                "title": "Prelude To A Kiss",
                 "releases": [],
-                "desor": "DE6686e"
+                "desor": "DE6686e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

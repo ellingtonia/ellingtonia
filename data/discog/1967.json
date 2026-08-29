@@ -914,20 +914,28 @@
                 "desor": "DE6703be"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-01-14-058",
                 "matrix": null,
-                "title": "¬Johnny Come Lately",
+                "title": "Johnny Come Lately",
                 "releases": [],
-                "desor": "DE6703bf"
+                "desor": "DE6703bf",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-01-14-059",
                 "matrix": null,
-                "title": "_|Johnny Come Lately",
+                "title": "Johnny Come Lately",
                 "releases": [],
-                "desor": "DE6703bg"
+                "desor": "DE6703bg",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1250,20 +1258,28 @@
                 "desor": "DE6703cu"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-01-14-100",
                 "matrix": null,
-                "title": "¬Swamp Goo",
+                "title": "Swamp Goo",
                 "releases": [],
-                "desor": "DE6703cv"
+                "desor": "DE6703cv",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-01-14-101",
                 "matrix": null,
-                "title": "_|Action in Alexandria",
+                "title": "Action in Alexandria",
                 "releases": [],
-                "desor": "DE6703cw"
+                "desor": "DE6703cw",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1886,20 +1902,28 @@
                 "desor": "DE6708c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-01-22-020",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6708d"
+                "desor": "DE6708d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-01-22-021",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6708e"
+                "desor": "DE6708e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2310,20 +2334,28 @@
                 "desor": "DE6711d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-01-24-005",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6711e"
+                "desor": "DE6711e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-01-24-006",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6711f"
+                "desor": "DE6711f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2458,20 +2490,28 @@
                 "desor": "DE9061d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-01-24-020",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE9061e"
+                "desor": "DE9061e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-01-24-021",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE9061f"
+                "desor": "DE9061f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2712,20 +2752,28 @@
                 "desor": "DE6713f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-01-25-015",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6713g"
+                "desor": "DE6713g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-01-25-016",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6713h"
+                "desor": "DE6713h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5022,10 +5070,13 @@
                 "desor": "DE6728u"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-02-22-042",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "NSP",
@@ -5033,13 +5084,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6728v"
+                "desor": "DE6728v",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-02-22-043",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "NSP",
@@ -5047,7 +5099,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6728w"
+                "desor": "DE6728w",
+                "attacca": true
             }
         ]
     },
@@ -5206,20 +5259,25 @@
                 "desor": "DE6729l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-02-24-013",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6729m"
+                "desor": "DE6729m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-02-24-014",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6729n"
+                "desor": "DE6729n",
+                "attacca": true
             }
         ]
     },
@@ -6253,20 +6311,25 @@
                 "desor": "DE6732s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-02-28-020",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6732t"
+                "desor": "DE6732t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-02-28-021",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6732u"
+                "desor": "DE6732u",
+                "attacca": true
             },
             {
                 "type": "medley",
@@ -6274,6 +6337,9 @@
                 "matrix": null,
                 "desor": "DE6732v",
                 "medley_title": "Medley"
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7342,40 +7408,56 @@
                 "value": "Duke Ellington(p) solo."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-03-11-011",
                 "matrix": null,
-                "title": "¬ Le Sucrier Velour",
+                "title": "Le Sucrier Velour",
                 "releases": [],
-                "desor": "DE6740k"
+                "desor": "DE6740k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-03-11-012",
                 "matrix": null,
-                "title": "_| T.G.T.T",
+                "title": "T.G.T.T",
                 "releases": [],
-                "desor": "DE6740l"
+                "desor": "DE6740l",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "As before."
             },
             {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-03-11-013",
                 "matrix": null,
-                "title": "¬ Serenade To Sweden",
+                "title": "Serenade To Sweden",
                 "releases": [],
-                "desor": "DE6740m"
+                "desor": "DE6740m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-03-11-014",
                 "matrix": null,
-                "title": "_| Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6740n"
+                "desor": "DE6740n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7450,20 +7532,28 @@
                 "desor": "DE6740w"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-03-11-024",
                 "matrix": null,
-                "title": "¬ Don Juan",
+                "title": "Don Juan",
                 "releases": [],
-                "desor": "DE6740x"
+                "desor": "DE6740x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-03-11-025",
                 "matrix": null,
-                "title": "_| Hello Dolly!",
+                "title": "Hello Dolly!",
                 "releases": [],
-                "desor": "DE6740y"
+                "desor": "DE6740y",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7534,28 +7624,34 @@
                 "value": "Duke Ellington(p) solo."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-03-11-034",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE6740ah"
+                "desor": "DE6740ah",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-03-11-035",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6740ai"
+                "desor": "DE6740ai",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-03-11-036",
                 "matrix": null,
-                "title": "_| Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6740aj"
+                "desor": "DE6740aj",
+                "attacca": true
             }
         ]
     },
@@ -9986,10 +10082,13 @@
                 "value": "Benny Carter out."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-07-01-013",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "Pb",
@@ -10001,13 +10100,14 @@
                         "catalog": "PACD-2625-704-2"
                     }
                 ],
-                "desor": "DE6762m"
+                "desor": "DE6762m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-07-01-014",
                 "matrix": null,
-                "title": "_| I Got It Bad And That Ain't Good",
+                "title": "I Got It Bad And That Ain't Good",
                 "releases": [
                     {
                         "label": "Pb",
@@ -10019,11 +10119,15 @@
                         "catalog": "PACD-2625-704-2"
                     }
                 ],
-                "desor": "DE6762n"
+                "desor": "DE6762n",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "John Lamb, Chris Columbus out. Add Bob Cranshaw(sb); Sam Woodyard(d); Ella Fitzgerald(v)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11566,20 +11670,28 @@
                 "desor": "DE6766g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-07-22-008",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6766h"
+                "desor": "DE6766h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-07-22-009",
                 "matrix": null,
-                "title": "_| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6766i"
+                "desor": "DE6766i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11598,20 +11710,28 @@
                 "desor": "DE6766k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-07-22-012",
                 "matrix": null,
-                "title": "¬ I Can't Get Started",
+                "title": "I Can't Get Started",
                 "releases": [],
-                "desor": "DE6766l"
+                "desor": "DE6766l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-07-22-013",
                 "matrix": null,
-                "title": "_| Eggo",
+                "title": "Eggo",
                 "releases": [],
-                "desor": "DE6766m"
+                "desor": "DE6766m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12565,20 +12685,25 @@
                 "desor": "DE6775o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-08-10-022",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6775p"
+                "desor": "DE6775p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-08-10-023",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6775q"
+                "desor": "DE6775q",
+                "attacca": true
             },
             {
                 "type": "note",
@@ -13180,20 +13305,28 @@
                 "desor": "DE6780e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-08-24-006",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6780f"
+                "desor": "DE6780f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-08-24-007",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6780g"
+                "desor": "DE6780g",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13268,10 +13401,13 @@
                 "desor": "DE6780l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "67-08-24-013",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "DESS",
@@ -13279,20 +13415,25 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6780m"
+                "desor": "DE6780m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "67-08-24-014",
                 "matrix": null,
-                "title": "_| Do Nothin' Till You Hear From Me",
+                "title": "Do Nothin' Till You Hear From Me",
                 "releases": [
                     {
                         "label": "DESS",
                         "catalog": "CD 2"
                     }
                 ],
-                "desor": "DE6780n"
+                "desor": "DE6780n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

@@ -550,10 +550,13 @@
                 "value": "Billy Strayhorn out. Add Duke Ellington(p)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "50-05-02-009",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "TCB",
@@ -561,13 +564,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE9064i"
+                "desor": "DE9064i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "50-05-02-010",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "TCB",
@@ -575,7 +579,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE9064j"
+                "desor": "DE9064j",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -758,24 +766,32 @@
                 "desor": "DE5007i"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "50-05-29-010",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [],
-                "desor": "DE5007j"
+                "desor": "DE5007j",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "50-05-29-011",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [],
-                "desor": "DE5007k"
+                "desor": "DE5007k",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington out. Add Billy Strayhorn(p)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1064,28 +1080,37 @@
                 "desor": "DE5008g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "50-07-18-008",
                 "matrix": null,
-                "title": "¬ Creole Love Call - vJNo",
+                "title": "Creole Love Call - vJNo",
                 "releases": [],
-                "desor": "DE5008h"
+                "desor": "DE5008h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "50-07-18-009",
                 "matrix": null,
-                "title": "-&nbsp;| Jeep Is Jumpin'",
+                "title": "Jeep Is Jumpin'",
                 "releases": [],
-                "desor": "DE5008i"
+                "desor": "DE5008i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "50-07-18-010",
                 "matrix": null,
-                "title": "_| Creole Love Call - vJNo",
+                "title": "Creole Love Call - vJNo",
                 "releases": [],
-                "desor": "DE5008j"
+                "desor": "DE5008j",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2480,24 +2505,32 @@
                 "desor": "DE5018e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "50-12-26-006",
                 "matrix": null,
-                "title": "¬ Tea For Two",
+                "title": "Tea For Two",
                 "releases": [],
-                "desor": "DE5018f"
+                "desor": "DE5018f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "50-12-26-007",
                 "matrix": null,
-                "title": "_| I Know That You Know",
+                "title": "I Know That You Know",
                 "releases": [],
-                "desor": "DE5018g"
+                "desor": "DE5018g",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "The Three Poms out."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2568,20 +2601,25 @@
                 "value": "Add Bobby Davis(td)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "50-12-26-015",
                 "matrix": null,
-                "title": "¬ Oh! Lady Be Good",
+                "title": "Oh! Lady Be Good",
                 "releases": [],
-                "desor": "DE5018o"
+                "desor": "DE5018o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "50-12-26-016",
                 "matrix": null,
-                "title": "_| Stompy Jones",
+                "title": "Stompy Jones",
                 "releases": [],
-                "desor": "DE5018p"
+                "desor": "DE5018p",
+                "attacca": true
             }
         ]
     }

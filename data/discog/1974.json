@@ -46,20 +46,28 @@
                 "desor": "DE7402b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-02-10-003",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE7402c"
+                "desor": "DE7402c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-02-10-004",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE7402d"
+                "desor": "DE7402d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -78,20 +86,28 @@
                 "desor": "DE7402f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-02-10-007",
                 "matrix": null,
-                "title": "¬ Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": "DE7402g"
+                "desor": "DE7402g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-02-10-008",
                 "matrix": null,
-                "title": "_| How High The Moon",
+                "title": "How High The Moon",
                 "releases": [],
-                "desor": "DE7402h"
+                "desor": "DE7402h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -270,20 +286,28 @@
                 "desor": "DE7403d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-02-10-029",
                 "matrix": null,
-                "title": "¬ Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": "DE7403e"
+                "desor": "DE7403e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-02-10-030",
                 "matrix": null,
-                "title": "_| How High The Moon",
+                "title": "How High The Moon",
                 "releases": [],
-                "desor": "DE7403f"
+                "desor": "DE7403f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -471,20 +495,28 @@
                 "desor": "DE9070d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-02-26-005",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE9070e"
+                "desor": "DE9070e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-02-26-006",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE9070f"
+                "desor": "DE9070f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -549,26 +581,34 @@
                 "suite_index": 4
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-02-26-014",
                 "matrix": null,
-                "title": "¬ Goso [Amour, Amour Part 1]",
+                "title": "Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE9070n",
-                "suite_index": 3
+                "suite_index": 3,
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-02-26-015",
                 "matrix": null,
-                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "title": "Too Kee [Amour, Amour Part 2]",
                 "releases": [],
                 "desor": "DE9070n",
-                "suite_index": 3
+                "suite_index": 3,
+                "attacca": true
             },
             {
                 "type": "suite",
                 "suite_title": null
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -806,20 +846,28 @@
                 "desor": "DE7404b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-03-05-003",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE7404c"
+                "desor": "DE7404c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-03-05-004",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE7404d"
+                "desor": "DE7404d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -846,24 +894,32 @@
                 "desor": "DE7404g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-03-05-008",
                 "matrix": null,
-                "title": "¬ Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": "DE7404h"
+                "desor": "DE7404h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-03-05-009",
                 "matrix": null,
-                "title": "_| How High The Moon",
+                "title": "How High The Moon",
                 "releases": [],
-                "desor": "DE7404i"
+                "desor": "DE7404i",
+                "attacca": true
             },
             {
                 "type": "suite",
                 "suite_title": "Togo Brava Suite"
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -884,26 +940,34 @@
                 "suite_index": 4
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-03-05-012",
                 "matrix": null,
-                "title": "¬ Goso [Amour, Amour Part 1]",
+                "title": "Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7404l",
-                "suite_index": 3
+                "suite_index": 3,
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-03-05-013",
                 "matrix": null,
-                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "title": "Too Kee [Amour, Amour Part 2]",
                 "releases": [],
                 "desor": "DE7404l",
-                "suite_index": 3
+                "suite_index": 3,
+                "attacca": true
             },
             {
                 "type": "suite",
                 "suite_title": null
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1129,20 +1193,28 @@
                 "desor": "DE7405a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-03-08-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE7405b"
+                "desor": "DE7405b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-03-08-003",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE7405c"
+                "desor": "DE7405c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1207,26 +1279,34 @@
                 "suite_index": 4
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-03-08-010",
                 "matrix": null,
-                "title": "¬ Goso [Amour, Amour Part 1]",
+                "title": "Goso [Amour, Amour Part 1]",
                 "releases": [],
                 "desor": "DE7405k",
-                "suite_index": 3
+                "suite_index": 3,
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-03-08-011",
                 "matrix": null,
-                "title": "_|Too Kee [Amour, Amour Part 2]",
+                "title": "Too Kee [Amour, Amour Part 2]",
                 "releases": [],
                 "desor": "DE7405k",
-                "suite_index": 3
+                "suite_index": 3,
+                "attacca": true
             },
             {
                 "type": "suite",
                 "suite_title": null
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1245,20 +1325,28 @@
                 "desor": "DE7405m"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "74-03-08-014",
                 "matrix": null,
-                "title": "¬ Piano Interlude",
+                "title": "Piano Interlude",
                 "releases": [],
-                "desor": "DE7405n"
+                "desor": "DE7405n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "74-03-08-015",
                 "matrix": null,
-                "title": "_| Take The \"A\" Train",
+                "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": "DE7405o"
+                "desor": "DE7405o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

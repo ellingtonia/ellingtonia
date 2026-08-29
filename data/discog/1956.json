@@ -1850,10 +1850,13 @@
                 "desor": "DE5609c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "56-04-14-004",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1861,13 +1864,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5609d"
+                "desor": "DE5609d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "56-04-14-005",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1875,7 +1879,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5609e"
+                "desor": "DE5609e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2778,10 +2786,13 @@
                 "desor": "DE5613i"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "56-07-07-010",
                 "matrix": "¬",
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "Co",
@@ -2797,13 +2808,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5613j"
+                "desor": "DE5613j",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "56-07-07-011",
                 "matrix": " | CO56806",
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "Co",
@@ -2819,13 +2831,14 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5613k"
+                "desor": "DE5613k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "56-07-07-012",
                 "matrix": "_|",
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "Co",
@@ -2841,7 +2854,11 @@
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE5613l"
+                "desor": "DE5613l",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4724,10 +4741,13 @@
                 "desor": "DE5622f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "56-07-28-007",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "MoJ",
@@ -4739,13 +4759,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5622g"
+                "desor": "DE5622g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "56-07-28-008",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "MoJ",
@@ -4757,13 +4778,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5622h"
+                "desor": "DE5622h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "56-07-28-009",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "MoJ",
@@ -4775,7 +4797,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5622i"
+                "desor": "DE5622i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7941,20 +7967,25 @@
                 "desor": "DE5639f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "56-12-08-007",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE5639g"
+                "desor": "DE5639g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "56-12-08-008",
                 "matrix": null,
-                "title": "_| Blues To Be There",
+                "title": "Blues To Be There",
                 "releases": [],
-                "desor": "DE5639h"
+                "desor": "DE5639h",
+                "attacca": true
             }
         ]
     },
@@ -8045,20 +8076,25 @@
                 "desor": "DE5643a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "56-12-23-002",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE5643b"
+                "desor": "DE5643b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "56-12-23-003",
                 "matrix": null,
-                "title": "_| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE5643c"
+                "desor": "DE5643c",
+                "attacca": true
             }
         ]
     },

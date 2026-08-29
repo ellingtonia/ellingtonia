@@ -1427,20 +1427,28 @@
                 "desor": "DE5509w"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "55-06-11-024",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5509x"
+                "desor": "DE5509x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "55-06-11-025",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE5509y"
+                "desor": "DE5509y",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1690,10 +1698,13 @@
                 "value": "Duke Ellington(ep); Jimmy Woode(sb)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "55-07-09-003",
                 "matrix": null,
-                "title": "¬ Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "MDD",
@@ -1701,7 +1712,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5511c"
+                "desor": "DE5511c",
+                "attacca": true
             },
             {
                 "type": "artists",
@@ -1711,7 +1723,7 @@
                 "type": "take",
                 "index": "55-07-09-004",
                 "matrix": null,
-                "title": "_| I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
                         "label": "MDD",
@@ -1719,11 +1731,15 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5511d"
+                "desor": "DE5511d",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Jimmy Spear, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Ward Silloway, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts);\nRussell Procope(cl,ss,as); Virgil Davis(as); John Kulp(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1848,10 +1864,13 @@
                 "value": "Duke Ellington(p,tk) acc. by Stan Kenton(p) and his \"Television Band:\" Ernie Royal, Jimmy Nottingham, Nick Travis, Al DeRisi, John Bello(t); Eddie Bert, Sonny Russo, Harry DeVito, Bob Asher(tb); Bart Vasalona(btb); Vinnie Dean, Dave Schildkraut(as); Al Cohn, Bunny Bardach(ts); Danny Bank(bar); Sal Salvador(g); Chet Amsterdam(sb); Sol Gubin(d); Willie Rodriguez(co); Johnny Richards(con)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "55-07-26-001",
                 "matrix": null,
-                "title": "¬ Artistry In Rhythm",
+                "title": "Artistry In Rhythm",
                 "releases": [
                     {
                         "label": "Dy",
@@ -1864,13 +1883,14 @@
                     }
                 ],
                 "desor": "DE5513a",
+                "attacca": true,
                 "youtube": "https://www.youtube.com/watch?v=p_7xguaCHQ0"
             },
             {
                 "type": "take",
                 "index": "55-07-26-002",
                 "matrix": null,
-                "title": "_| Take The \"A\" Train",
+                "title": "Take The \"A\" Train",
                 "releases": [
                     {
                         "label": "Dy",
@@ -1883,7 +1903,11 @@
                     }
                 ],
                 "desor": "DE5513b",
+                "attacca": true,
                 "youtube": "https://www.youtube.com/watch?v=p_7xguaCHQ0"
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

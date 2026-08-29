@@ -67,28 +67,37 @@
                 "desor": "DE6003a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-02-22-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6003b"
+                "desor": "DE6003b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-02-22-003",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6003c"
+                "desor": "DE6003c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-02-22-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6003d"
+                "desor": "DE6003d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -396,20 +405,28 @@
                 "desor": "DE6003z"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-02-22-028",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6003aa"
+                "desor": "DE6003aa",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-02-22-029",
                 "matrix": null,
-                "title": "_| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6003ab"
+                "desor": "DE6003ab",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -432,28 +449,37 @@
                 "value": "Andres Marenguito, Willie Cook, Edward Mullens(t); Ray Nance(t,vn,v); Britt Woodman, Booty Wood, Matthew Gee(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Jimmy Woode(sb);Jimmy Johnson(d); Lil Greenwood(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-02-26-001",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6004a"
+                "desor": "DE6004a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-02-26-002",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6004b"
+                "desor": "DE6004b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-02-26-003",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6004c"
+                "desor": "DE6004c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -770,20 +796,28 @@
                 "medley_title": null
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-02-26-028",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6004ab"
+                "desor": "DE6004ab",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-02-26-029",
                 "matrix": null,
-                "title": "_| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6004ac"
+                "desor": "DE6004ac",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1287,10 +1321,13 @@
                 "desor": "DE6007s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-05-27-020",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "Hs",
@@ -1302,13 +1339,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6007t"
+                "desor": "DE6007t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-05-27-021",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "Hs",
@@ -1320,13 +1358,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6007u"
+                "desor": "DE6007u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-05-27-022",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "Hs",
@@ -1338,7 +1377,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6007v"
+                "desor": "DE6007v",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1757,10 +1800,13 @@
                 "desor": "DE6013c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-06-20-004",
                 "matrix": "¬ RHCO46681-1",
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "Co",
@@ -1776,13 +1822,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6013d"
+                "desor": "DE6013d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-06-20-005",
                 "matrix": "_|",
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "Co",
@@ -1798,7 +1845,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6013e"
+                "desor": "DE6013e",
+                "attacca": true
             },
             {
                 "type": "note",
@@ -3211,10 +3259,13 @@
                 "desor": "DE6025f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-07-22-007",
                 "matrix": null,
-                "title": "¬ Portrait of Louis Armstrong",
+                "title": "Portrait of Louis Armstrong",
                 "releases": [
                     {
                         "label": "Ko",
@@ -3226,13 +3277,14 @@
                         "catalog": "27"
                     }
                 ],
-                "desor": "DE6025g"
+                "desor": "DE6025g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-22-008",
                 "matrix": null,
-                "title": "_|Big Bash",
+                "title": "Big Bash",
                 "releases": [
                     {
                         "label": "Ko",
@@ -3244,7 +3296,11 @@
                         "catalog": "27"
                     }
                 ],
-                "desor": "DE6025xa"
+                "desor": "DE6025xa",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3309,10 +3365,13 @@
                 "desor": "DE6025j"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-07-22-012",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "Ko",
@@ -3328,13 +3387,14 @@
                         "catalog": "27"
                     }
                 ],
-                "desor": "DE6025k"
+                "desor": "DE6025k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-22-013",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [
                     {
                         "label": "Ko",
@@ -3350,13 +3410,14 @@
                         "catalog": "27"
                     }
                 ],
-                "desor": "DE6025l"
+                "desor": "DE6025l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-22-014",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [
                     {
                         "label": "Ko",
@@ -3372,7 +3433,11 @@
                         "catalog": "27"
                     }
                 ],
-                "desor": "DE6025m"
+                "desor": "DE6025m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3419,20 +3484,28 @@
                 "desor": "DE6025o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-07-22-019",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6025p"
+                "desor": "DE6025p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-22-020",
                 "matrix": null,
-                "title": "_|Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE6025q"
+                "desor": "DE6025q",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3716,10 +3789,13 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-07-22-033",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "RB",
@@ -3727,13 +3803,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6025ab"
+                "desor": "DE6025ab",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-22-034",
                 "matrix": null,
-                "title": "_| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "RB",
@@ -3741,7 +3818,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6025ac"
+                "desor": "DE6025ac",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3788,28 +3869,37 @@
                 "desor": "DE6026a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-07-28-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6026b"
+                "desor": "DE6026b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-28-003",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6026c"
+                "desor": "DE6026c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-28-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6026d"
+                "desor": "DE6026d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3997,20 +4087,28 @@
                 "medley_title": null
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "60-07-28-012",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6026l"
+                "desor": "DE6026l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "60-07-28-013",
                 "matrix": null,
-                "title": "_| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6026m"
+                "desor": "DE6026m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

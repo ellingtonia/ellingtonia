@@ -1170,10 +1170,13 @@
                 "desor": "DE3806f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "38-03-24-007",
                 "matrix": null,
-                "title": "¬ Dinah's In A Jam - vCW,HC, HA",
+                "title": "Dinah's In A Jam - vCW,HC, HA",
                 "releases": [
                     {
                         "label": "JA",
@@ -1185,13 +1188,14 @@
                         "catalog": "103 8415"
                     }
                 ],
-                "desor": "DE3806g"
+                "desor": "DE3806g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "38-03-24-008",
                 "matrix": null,
-                "title": "_| If Dreams Come True - vIA",
+                "title": "If Dreams Come True - vIA",
                 "releases": [
                     {
                         "label": "JA",
@@ -1203,7 +1207,11 @@
                         "catalog": "103 8415"
                     }
                 ],
-                "desor": "DE3806h"
+                "desor": "DE3806h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1975,10 +1983,13 @@
                 "desor": "DE3813c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "38-05-01-004",
                 "matrix": null,
-                "title": "¬ The Gal From Joe's",
+                "title": "The Gal From Joe's",
                 "releases": [
                     {
                         "label": "BFR",
@@ -1994,13 +2005,14 @@
                         "catalog": "103 8415"
                     }
                 ],
-                "desor": "DE3813d"
+                "desor": "DE3813d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "38-05-01-005",
                 "matrix": null,
-                "title": "_| Riding On A Blue Note",
+                "title": "Riding On A Blue Note",
                 "releases": [
                     {
                         "label": "BFR",
@@ -2016,7 +2028,11 @@
                         "catalog": "103 8415"
                     }
                 ],
-                "desor": "DE3813e"
+                "desor": "DE3813e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

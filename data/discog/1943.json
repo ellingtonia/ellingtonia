@@ -1796,10 +1796,13 @@
                 "value": "Harold Baker(t); Ray Nance(t,vn); Lawrence Brown, Joe Nanton(tb); Sax Mallard, Harry Carney(cl); Duke Ellington(p); Junior Raglin(sb) acc. by CBS house band, Morton Gould(con)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "43-04-21-001",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "Rt",
@@ -1807,13 +1810,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4310a"
+                "desor": "DE4310a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "43-04-21-002",
                 "matrix": null,
-                "title": "_| Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "Rt",
@@ -1821,7 +1825,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4310b"
+                "desor": "DE4310b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2754,10 +2762,13 @@
                 "value": "Wallace Jones, Harold Baker(t); Taft Jordan(t,v); Ray Nance(t,vn,v); Sandy Williams, Joe Nanton(tb); Juan Tizol(vtb); Jimmy Hamilton(cl,ts); Johnny Hodges(as); Nat Jones(cl,as); Ben Webster(ts); Harry Carney(cl,bcl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "43-06-17-001",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "Bb",
@@ -2765,13 +2776,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4324a"
+                "desor": "DE4324a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "43-06-17-002",
                 "matrix": null,
-                "title": "_| Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "Bb",
@@ -2779,7 +2791,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4324b"
+                "desor": "DE4324b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4911,10 +4927,13 @@
                 "desor": "DE4347f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "43-09-05-008",
                 "matrix": null,
-                "title": "¬ Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "DETS",
@@ -4922,13 +4941,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4347g"
+                "desor": "DE4347g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "43-09-05-009",
                 "matrix": null,
-                "title": "_| Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be",
                 "releases": [
                     {
                         "label": "DETS",
@@ -4936,7 +4956,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4347h"
+                "desor": "DE4347h",
+                "attacca": true
             }
         ]
     },
@@ -4967,20 +4988,25 @@
                 "desor": "DE4348b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "43-09-07-003",
                 "matrix": null,
-                "title": "¬ Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE4348c"
+                "desor": "DE4348c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "43-09-07-004",
                 "matrix": null,
-                "title": "_| Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be",
                 "releases": [],
-                "desor": "DE4348d"
+                "desor": "DE4348d",
+                "attacca": true
             }
         ]
     },
@@ -5037,10 +5063,13 @@
                 "desor": "DE4349c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "43-09-07-008",
                 "matrix": null,
-                "title": "¬ Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "DETS",
@@ -5048,13 +5077,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4349d"
+                "desor": "DE4349d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "43-09-07-009",
                 "matrix": null,
-                "title": "_| Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be",
                 "releases": [
                     {
                         "label": "DETS",
@@ -5062,7 +5092,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4349e"
+                "desor": "DE4349e",
+                "attacca": true
             }
         ]
     },
@@ -8199,10 +8230,13 @@
                 "desor": "DE4364s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "43-12-11-020",
                 "matrix": null,
-                "title": "¬ Suddenly It Jumped",
+                "title": "Suddenly It Jumped",
                 "releases": [
                     {
                         "label": "Em",
@@ -8218,13 +8252,14 @@
                         "catalog": "108 8600"
                     }
                 ],
-                "desor": "DE4364t"
+                "desor": "DE4364t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "43-12-11-021",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "Em",
@@ -8240,7 +8275,11 @@
                         "catalog": "108 8600"
                     }
                 ],
-                "desor": "DE4364u"
+                "desor": "DE4364u",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

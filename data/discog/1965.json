@@ -1010,10 +1010,13 @@
                 "desor": "DE6507n"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-01-30-015",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [
                     {
                         "label": "JCl",
@@ -1021,13 +1024,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6507o"
+                "desor": "DE6507o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-01-30-016",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "JCl",
@@ -1035,7 +1039,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6507p"
+                "desor": "DE6507p",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1136,10 +1144,13 @@
                 "desor": "DE6507w"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-01-30-024",
                 "matrix": null,
-                "title": "¬ Carolina Shout",
+                "title": "Carolina Shout",
                 "releases": [
                     {
                         "label": "JCl",
@@ -1155,13 +1166,14 @@
                         "catalog": "710434"
                     }
                 ],
-                "desor": "DE6507x"
+                "desor": "DE6507x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-01-30-025",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "JCl",
@@ -1177,7 +1189,11 @@
                         "catalog": "710434"
                     }
                 ],
-                "desor": "DE6507y"
+                "desor": "DE6507y",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1655,20 +1671,28 @@
                 "desor": "DE6508v"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-01-30-051",
                 "matrix": null,
-                "title": "¬ Soda Fountain Rag",
+                "title": "Soda Fountain Rag",
                 "releases": [],
-                "desor": "DE6508w"
+                "desor": "DE6508w",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-01-30-052",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6508x"
+                "desor": "DE6508x",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1942,10 +1966,13 @@
                 "desor": "DE6509n"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-01-31-015",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [
                     {
                         "label": "QL",
@@ -1953,13 +1980,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6509o"
+                "desor": "DE6509o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-01-31-016",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "QL",
@@ -1967,7 +1995,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6509p"
+                "desor": "DE6509p",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2068,10 +2100,13 @@
                 "desor": "DE6509w"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-01-31-024",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "QL",
@@ -2079,13 +2114,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6509x"
+                "desor": "DE6509x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-01-31-025",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "QL",
@@ -2093,11 +2129,15 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6509y"
+                "desor": "DE6509y",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington out. Add Billy Strayhorn(p)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2445,20 +2485,28 @@
                 "desor": "DE6511j"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-03-011",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6511k"
+                "desor": "DE6511k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-03-012",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6511l"
+                "desor": "DE6511l",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2509,20 +2557,28 @@
                 "desor": "DE6511r"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-03-019",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6511s"
+                "desor": "DE6511s",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-03-020",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6511t"
+                "desor": "DE6511t",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2696,20 +2752,28 @@
                 "desor": "DE6512l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-09-015",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6512m"
+                "desor": "DE6512m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-09-016",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6512n"
+                "desor": "DE6512n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2776,20 +2840,28 @@
                 "desor": "DE6512v"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-09-025",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6512w"
+                "desor": "DE6512w",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-09-026",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6512x"
+                "desor": "DE6512x",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3035,20 +3107,28 @@
                 "desor": "DE6515m"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-12-015",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6515n"
+                "desor": "DE6515n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-12-016",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6515o"
+                "desor": "DE6515o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3091,20 +3171,28 @@
                 "desor": "DE6515t"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-12-022",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6515u"
+                "desor": "DE6515u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-12-023",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6515v"
+                "desor": "DE6515v",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3266,20 +3354,28 @@
                 "desor": "DE6516l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-13-013",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6516m"
+                "desor": "DE6516m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-13-014",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6516n"
+                "desor": "DE6516n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3314,20 +3410,28 @@
                 "desor": "DE6516r"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-13-019",
                 "matrix": null,
-                "title": "¬ Blues (No. 11 in NDESOR)",
+                "title": "Blues (No. 11 in NDESOR)",
                 "releases": [],
-                "desor": "DE6516s"
+                "desor": "DE6516s",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-13-020",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6516t"
+                "desor": "DE6516t",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3521,20 +3625,28 @@
                 "desor": "DE6517n"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-13-040",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6517o"
+                "desor": "DE6517o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-13-041",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6517p"
+                "desor": "DE6517p",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3585,28 +3697,37 @@
                 "desor": "DE6517v"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-13-048",
                 "matrix": null,
-                "title": "¬ Blues (No. 11 in NDESOR)",
+                "title": "Blues (No. 11 in NDESOR)",
                 "releases": [],
-                "desor": "DE6517w"
+                "desor": "DE6517w",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-13-049",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Carolina Shout",
+                "title": "Carolina Shout",
                 "releases": [],
-                "desor": "DE6517x"
+                "desor": "DE6517x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-13-050",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6517y"
+                "desor": "DE6517y",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3800,20 +3921,28 @@
                 "desor": "DE6518n"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-14-015",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6518o"
+                "desor": "DE6518o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-14-016",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6518p"
+                "desor": "DE6518p",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3848,20 +3977,28 @@
                 "desor": "DE6518t"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-14-021",
                 "matrix": null,
-                "title": "¬ Blues (No. 11 in NDESOR)",
+                "title": "Blues (No. 11 in NDESOR)",
                 "releases": [],
-                "desor": "DE6518u"
+                "desor": "DE6518u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-14-022",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6518v"
+                "desor": "DE6518v",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4047,20 +4184,28 @@
                 "desor": "DE6519o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-14-041",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6519p"
+                "desor": "DE6519p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-14-042",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6519q"
+                "desor": "DE6519q",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4111,20 +4256,28 @@
                 "desor": "DE6519w"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-14-049",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6519x"
+                "desor": "DE6519x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-14-050",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6519y"
+                "desor": "DE6519y",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4370,24 +4523,32 @@
                 "value": "Duke Ellington(p)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-16-024",
                 "matrix": null,
-                "title": "¬ Jump For Joy",
+                "title": "Jump For Joy",
                 "releases": [],
-                "desor": "DE9035x"
+                "desor": "DE9035x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-16-025",
                 "matrix": null,
-                "title": "_| Bird Of Paradise",
+                "title": "Bird Of Paradise",
                 "releases": [],
-                "desor": "DE9035y"
+                "desor": "DE9035y",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "As before."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4695,20 +4856,25 @@
                 "value": "Duke Ellington(p)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-17-002",
                 "matrix": null,
-                "title": "¬ Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6521b"
+                "desor": "DE6521b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-17-003",
                 "matrix": null,
-                "title": "_|Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6521c"
+                "desor": "DE6521c",
+                "attacca": true
             }
         ]
     },
@@ -4979,20 +5145,28 @@
                 "desor": "DE9067m"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-27-014",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE9067n"
+                "desor": "DE9067n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-27-015",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE9067o"
+                "desor": "DE9067o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5027,20 +5201,28 @@
                 "desor": "DE9067s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-27-020",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE9067t"
+                "desor": "DE9067t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-27-021",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE9067u"
+                "desor": "DE9067u",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5210,20 +5392,28 @@
                 "desor": "DE6524m"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-27-038",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6524n"
+                "desor": "DE6524n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-27-039",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6524o"
+                "desor": "DE6524o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5274,20 +5464,28 @@
                 "desor": "DE6524u"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-27-046",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6524v"
+                "desor": "DE6524v",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-27-047",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6524w"
+                "desor": "DE6524w",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5465,20 +5663,28 @@
                 "desor": "DE6525m"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-28-014",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6525n"
+                "desor": "DE6525n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-28-015",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6525o"
+                "desor": "DE6525o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5513,20 +5719,28 @@
                 "desor": "DE6525s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-28-020",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6525t"
+                "desor": "DE6525t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-28-021",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6525u"
+                "desor": "DE6525u",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5688,20 +5902,28 @@
                 "desor": "DE6526l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-28-037",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6526m"
+                "desor": "DE6526m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-28-038",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6526n"
+                "desor": "DE6526n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5744,20 +5966,28 @@
                 "desor": "DE6526s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-02-28-044",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6526t"
+                "desor": "DE6526t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-02-28-045",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6526u"
+                "desor": "DE6526u",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8718,20 +8948,28 @@
                 "desor": "DE6548g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-08-25-008",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6548h"
+                "desor": "DE6548h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-08-25-009",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6548i"
+                "desor": "DE6548i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8850,24 +9088,32 @@
                 "value": "Duke Ellington(p) solo."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-08-26-006",
                 "matrix": null,
-                "title": "¬ Unidentified (\"L\" in NDESOR)",
+                "title": "Unidentified (\"L\" in NDESOR)",
                 "releases": [],
-                "desor": "DE6549f"
+                "desor": "DE6549f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-08-26-007",
                 "matrix": null,
-                "title": "_|As Time Goes By",
+                "title": "As Time Goes By",
                 "releases": [],
-                "desor": "DE6549g"
+                "desor": "DE6549g",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "As before."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9874,20 +10120,28 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-09-18-021",
                 "matrix": null,
-                "title": "¬ Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6552u"
+                "desor": "DE6552u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-09-18-022",
                 "matrix": null,
-                "title": "_|Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE6552v"
+                "desor": "DE6552v",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9898,20 +10152,25 @@
                 "desor": "DE6552w"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-09-18-024",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6552x"
+                "desor": "DE6552x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-09-18-025",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6552y"
+                "desor": "DE6552y",
+                "attacca": true
             },
             {
                 "type": "note",
@@ -9950,28 +10209,37 @@
                 "desor": "DE6553b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "65-09-20-003",
                 "matrix": null,
-                "title": "¬ Blue Too",
+                "title": "Blue Too",
                 "releases": [],
-                "desor": "DE6553c"
+                "desor": "DE6553c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-09-20-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;|Take It Slow",
+                "title": "Take It Slow",
                 "releases": [],
-                "desor": "DE6553d"
+                "desor": "DE6553d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "65-09-20-005",
                 "matrix": null,
-                "title": "_|Tune Up",
+                "title": "Tune Up",
                 "releases": [],
-                "desor": "DE6553e"
+                "desor": "DE6553e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

@@ -24,10 +24,13 @@
                 "desor": "DE5701a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-01-01-002",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "MDD",
@@ -35,13 +38,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5701b"
+                "desor": "DE5701b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-01-01-003",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "MDD",
@@ -49,13 +53,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5701c"
+                "desor": "DE5701c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-01-01-004",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "MDD",
@@ -63,7 +68,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5701d"
+                "desor": "DE5701d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1987,76 +1996,103 @@
                 "value": "Willie Cook, Cat Anderson, Clark Terry(t); Ray Nance(t,vn,v); Britt Woodman, Quentin Jackson, John Sanders(tb); Jimmy Hamilton(cl,ts); Russell Procope(cl,as); Johnny Hodges(as); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Jimmy Woode(sb); Sam Woodyard(d); Jimmy Grissom(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-04-03-001",
                 "matrix": null,
-                "title": "¬ East St. Louis Toodle-O",
+                "title": "East St. Louis Toodle-O",
                 "releases": [],
-                "desor": "DE5714a"
+                "desor": "DE5714a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-002",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE5714b"
+                "desor": "DE5714b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "57-04-03-003",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE5714c"
+                "desor": "DE5714c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-004",
                 "matrix": null,
-                "title": "-&nbsp;| It Don't Mean A Thing (If It Ain't Got That Swing) - vRN",
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vRN",
                 "releases": [],
-                "desor": "DE5714d"
+                "desor": "DE5714d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-005",
                 "matrix": null,
-                "title": "-&nbsp;| Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE5714e"
+                "desor": "DE5714e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-006",
                 "matrix": null,
-                "title": "-&nbsp;| In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [],
-                "desor": "DE5714f"
+                "desor": "DE5714f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-007",
                 "matrix": null,
-                "title": "_| Solitude - vJG",
+                "title": "Solitude - vJG",
                 "releases": [],
-                "desor": "DE5714g"
+                "desor": "DE5714g",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "57-04-03-008",
                 "matrix": null,
-                "title": "¬ Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": "DE5714h"
+                "desor": "DE5714h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-009",
                 "matrix": null,
-                "title": "_| I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5714i"
+                "desor": "DE5714i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2067,60 +2103,76 @@
                 "desor": "DE5714j"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-04-03-011",
                 "matrix": null,
-                "title": "¬ Take The \"A\" Train",
+                "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": "DE5714k"
+                "desor": "DE5714k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-012",
                 "matrix": null,
-                "title": "-&nbsp;| I Got It Bad And That Ain't Good",
+                "title": "I Got It Bad And That Ain't Good",
                 "releases": [],
-                "desor": "DE5714l"
+                "desor": "DE5714l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-013",
                 "matrix": null,
-                "title": "_| Perdido",
+                "title": "Perdido",
                 "releases": [],
-                "desor": "DE5714m"
+                "desor": "DE5714m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "57-04-03-014",
                 "matrix": null,
-                "title": "¬ Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE5714n"
+                "desor": "DE5714n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-015",
                 "matrix": null,
-                "title": "-&nbsp;| Do Nothin' Till You Hear From Me - vJG",
+                "title": "Do Nothin' Till You Hear From Me - vJG",
                 "releases": [],
-                "desor": "DE5714o"
+                "desor": "DE5714o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-016",
                 "matrix": null,
-                "title": "-&nbsp;| I'm Beginning To See The Light",
+                "title": "I'm Beginning To See The Light",
                 "releases": [],
-                "desor": "DE5714p"
+                "desor": "DE5714p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-03-017",
                 "matrix": null,
-                "title": "_| Things Ain't What They Used To Be",
+                "title": "Things Ain't What They Used To Be",
                 "releases": [],
-                "desor": "DE5714q"
+                "desor": "DE5714q",
+                "attacca": true
             }
         ]
     },
@@ -2662,20 +2714,28 @@
                 "desor": "DE9009d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-04-27-005",
                 "matrix": null,
-                "title": "¬ Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE9009e"
+                "desor": "DE9009e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-04-27-006",
                 "matrix": null,
-                "title": "_| Solitude - vJG",
+                "title": "Solitude - vJG",
                 "releases": [],
-                "desor": "DE9009f"
+                "desor": "DE9009f",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3435,10 +3495,13 @@
                 "desor": "DE5722v"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-06-22-023",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "COL",
@@ -3450,13 +3513,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5722w"
+                "desor": "DE5722w",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-06-22-024",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "COL",
@@ -3468,13 +3532,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5722x"
+                "desor": "DE5722x",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-06-22-025",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "COL",
@@ -3486,7 +3551,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5722y"
+                "desor": "DE5722y",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3533,20 +3602,25 @@
                 "desor": "DE5722ab"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-06-22-029",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5722ac"
+                "desor": "DE5722ac",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-06-22-030",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE5722ad"
+                "desor": "DE5722ad",
+                "attacca": true
             }
         ]
     },
@@ -6637,10 +6711,13 @@
                 "desor": "DE5743ab"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-11-10-029",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "DESS",
@@ -6648,13 +6725,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5743ac"
+                "desor": "DE5743ac",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-11-10-030",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "DESS",
@@ -6662,13 +6740,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5743ad"
+                "desor": "DE5743ad",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-11-10-031",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "DESS",
@@ -6676,7 +6755,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5743ae"
+                "desor": "DE5743ae",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7413,28 +7496,37 @@
                 "desor": "DE5748i"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "57-12-31-010",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE5748j"
+                "desor": "DE5748j",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-12-31-011",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE5748k"
+                "desor": "DE5748k",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "57-12-31-012",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [],
-                "desor": "DE5748l"
+                "desor": "DE5748l",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

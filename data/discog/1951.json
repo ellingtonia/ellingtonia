@@ -426,10 +426,13 @@
                 "desor": "DE5102l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "51-01-21-014",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "RRe",
@@ -441,13 +444,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5102m"
+                "desor": "DE5102m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-01-21-015",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "RRe",
@@ -459,7 +463,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5102n"
+                "desor": "DE5102n",
+                "attacca": true
             },
             {
                 "type": "medley",
@@ -467,6 +472,9 @@
                 "matrix": null,
                 "desor": "DE5102o",
                 "medley_title": "Medley:"
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1189,10 +1197,13 @@
                 "desor": "DE5105f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "51-05-02-007",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "SDi",
@@ -1200,13 +1211,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5105g"
+                "desor": "DE5105g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-05-02-008",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "SDi",
@@ -1214,7 +1226,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5105h"
+                "desor": "DE5105h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1249,10 +1265,13 @@
                 "desor": "DE5121a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "51-05-04-002",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Al",
@@ -1260,13 +1279,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5121b"
+                "desor": "DE5121b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-05-04-003",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Al",
@@ -1274,7 +1294,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5121c"
+                "desor": "DE5121c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2742,20 +2766,28 @@
                 "desor": "DE5117a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "51-06-11-002",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [],
-                "desor": "DE5117b"
+                "desor": "DE5117b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-06-11-003",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [],
-                "desor": "DE5117c"
+                "desor": "DE5117c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3539,10 +3571,13 @@
                 "desor": "DE5124k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "51-06-28-012",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Gt",
@@ -3554,13 +3589,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5124l"
+                "desor": "DE5124l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-06-28-013",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Gt",
@@ -3572,7 +3608,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5124m"
+                "desor": "DE5124m",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3747,10 +3787,13 @@
                 "desor": "DE5122l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "51-06-30-013",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "SR",
@@ -3758,13 +3801,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5122m"
+                "desor": "DE5122m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-06-30-014",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "SR",
@@ -3772,13 +3816,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5122n"
+                "desor": "DE5122n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-06-30-015",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "SR",
@@ -3786,13 +3831,20 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5122o"
+                "desor": "DE5122o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "51-06-30-016",
                 "matrix": null,
-                "title": "¬ Take The \"A\" Train (theme)",
+                "title": "Take The \"A\" Train (theme)",
                 "releases": [
                     {
                         "label": "SR",
@@ -3800,15 +3852,17 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5122p"
+                "desor": "DE5122p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "51-06-30-017",
                 "matrix": null,
-                "title": "_| Jumpin' With Symphony Sid",
+                "title": "Jumpin' With Symphony Sid",
                 "releases": [],
-                "desor": "DE5122q"
+                "desor": "DE5122q",
+                "attacca": true
             }
         ]
     },

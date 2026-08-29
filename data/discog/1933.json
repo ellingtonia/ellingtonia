@@ -1302,20 +1302,25 @@
                 "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(ts); Johnny Hodges, Otto Hardwick(, Harry Carney(as); Duke Ellington(p); Fred Guy(g); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "33-03-04-001",
                 "matrix": null,
-                "title": "¬ Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE3305a"
+                "desor": "DE3305a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "33-03-04-002",
                 "matrix": null,
-                "title": "_| Creole Rhapsody",
+                "title": "Creole Rhapsody",
                 "releases": [],
-                "desor": "DE3305b"
+                "desor": "DE3305b",
+                "attacca": true
             },
             {
                 "type": "note",

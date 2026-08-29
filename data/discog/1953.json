@@ -974,20 +974,28 @@
                 "desor": "DE5311l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "53-03-22-013",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5311m"
+                "desor": "DE5311m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "53-03-22-014",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE5311n"
+                "desor": "DE5311n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1233,10 +1241,13 @@
                 "desor": "DE5312a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "53-03-30-002",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "Cr",
@@ -1253,13 +1264,14 @@
                         "catalog": "600105"
                     }
                 ],
-                "desor": "DE5312b"
+                "desor": "DE5312b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "53-03-30-003",
                 "matrix": null,
-                "title": "-&nbsp;| Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "Cr",
@@ -1276,13 +1288,14 @@
                         "catalog": "600105"
                     }
                 ],
-                "desor": "DE5312c"
+                "desor": "DE5312c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "53-03-30-004",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "Cr",
@@ -1299,7 +1312,11 @@
                         "catalog": "600105"
                     }
                 ],
-                "desor": "DE5312d"
+                "desor": "DE5312d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2942,10 +2959,13 @@
                 "desor": "DE5318r"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "53-04-30-019",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
                         "label": "JBi",
@@ -2957,13 +2977,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5318s"
+                "desor": "DE5318s",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "53-04-30-020",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [
                     {
                         "label": "JBi",
@@ -2975,7 +2996,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5318t"
+                "desor": "DE5318t",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3593,10 +3618,13 @@
                 "desor": "DE5320b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "53-06-15-003",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
                         "label": "DETS",
@@ -3608,13 +3636,14 @@
                         "catalog": "903 9024"
                     }
                 ],
-                "desor": "DE5320c"
+                "desor": "DE5320c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "53-06-15-004",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [
                     {
                         "label": "DETS",
@@ -3626,7 +3655,11 @@
                         "catalog": "903 9024"
                     }
                 ],
-                "desor": "DE5320d"
+                "desor": "DE5320d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5289,20 +5322,28 @@
                 "desor": "DE5331a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "53-10-32-002",
                 "matrix": null,
-                "title": "¬ Deep Purple",
+                "title": "Deep Purple",
                 "releases": [],
-                "desor": "DE5331b"
+                "desor": "DE5331b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "53-10-32-003",
                 "matrix": null,
-                "title": "_| Falling Like A Raindrop",
+                "title": "Falling Like A Raindrop",
                 "releases": [],
-                "desor": "DE5331c"
+                "desor": "DE5331c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

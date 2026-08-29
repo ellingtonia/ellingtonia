@@ -10,10 +10,13 @@
                 "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "41-01-15-001",
                 "matrix": null,
-                "title": "¬ Take The \"A\" Train",
+                "title": "Take The \"A\" Train",
                 "releases": [
                     {
                         "label": "DJD",
@@ -37,13 +40,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101a"
+                "desor": "DE4101a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| I Hear A Rhapsody - vHJ",
+                "title": "I Hear A Rhapsody - vHJ",
                 "releases": [
                     {
                         "label": "DJD",
@@ -67,13 +71,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101b"
+                "desor": "DE4101b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-003",
                 "matrix": "PMS055250",
-                "title": "-&nbsp;&nbsp;| Bounce",
+                "title": "Bounce",
                 "releases": [
                     {
                         "label": "DJD",
@@ -93,13 +98,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4101c"
+                "desor": "DE4101c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| It's Sad But True",
+                "title": "It's Sad But True",
                 "releases": [
                     {
                         "label": "RCA(F)",
@@ -119,13 +125,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101d"
+                "desor": "DE4101d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-005",
                 "matrix": null,
-                "title": "_| Madame Will Drop Her Shawl",
+                "title": "Madame Will Drop Her Shawl",
                 "releases": [
                     {
                         "label": "DJD",
@@ -149,13 +156,20 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101e"
+                "desor": "DE4101e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "41-01-15-006",
                 "matrix": null,
-                "title": "¬ Frenesi",
+                "title": "Frenesi",
                 "releases": [
                     {
                         "label": "DJD",
@@ -179,13 +193,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101f"
+                "desor": "DE4101f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Until Tonight",
+                "title": "Until Tonight",
                 "releases": [
                     {
                         "label": "DJD",
@@ -209,13 +224,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101g"
+                "desor": "DE4101g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-008",
                 "matrix": "PMS055251",
-                "title": "-&nbsp;&nbsp;| West Indian Stomp",
+                "title": "West Indian Stomp",
                 "releases": [
                     {
                         "label": "DJD",
@@ -239,13 +255,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101h"
+                "desor": "DE4101h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Love And I",
+                "title": "Love And I",
                 "releases": [
                     {
                         "label": "DJD",
@@ -269,13 +286,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101i"
+                "desor": "DE4101i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-01-15-010",
                 "matrix": null,
-                "title": "_| John Hardy's Wife",
+                "title": "John Hardy's Wife",
                 "releases": [
                     {
                         "label": "DJD",
@@ -299,7 +317,8 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4101j"
+                "desor": "DE4101j",
+                "attacca": true
             }
         ]
     },
@@ -1626,20 +1645,25 @@
                 "desor": "DE4112e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "41-06-05-011",
                 "matrix": null,
-                "title": "¬ The Second Portrait Of The Lion",
+                "title": "The Second Portrait Of The Lion",
                 "releases": [],
-                "desor": "DE4112f"
+                "desor": "DE4112f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-06-05-012",
                 "matrix": null,
-                "title": "_| Raincheck",
+                "title": "Raincheck",
                 "releases": [],
-                "desor": "DE4112g"
+                "desor": "DE4112g",
+                "attacca": true
             },
             {
                 "type": "note",
@@ -1706,10 +1730,13 @@
                 "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "41-06-12-001",
                 "matrix": null,
-                "title": "¬ The Second Portrait Of The Lion",
+                "title": "The Second Portrait Of The Lion",
                 "releases": [
                     {
                         "label": "JA",
@@ -1721,13 +1748,14 @@
                         "catalog": "FXM1 7274 Ie"
                     }
                 ],
-                "desor": "DE4113a"
+                "desor": "DE4113a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-06-12-002",
                 "matrix": null,
-                "title": "_| Raincheck",
+                "title": "Raincheck",
                 "releases": [
                     {
                         "label": "JA",
@@ -1743,7 +1771,11 @@
                         "catalog": "FXM1 7274 Ie"
                     }
                 ],
-                "desor": "DE4113b"
+                "desor": "DE4113b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2686,10 +2718,13 @@
                 "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d); Herb Jeffries, Ivie Anderson(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "41-09-17-001",
                 "matrix": null,
-                "title": "¬ Clementine",
+                "title": "Clementine",
                 "releases": [
                     {
                         "label": "DJD",
@@ -2717,13 +2752,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120a"
+                "desor": "DE4120a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-09-17-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Chelsea Bridge",
+                "title": "Chelsea Bridge",
                 "releases": [
                     {
                         "label": "MDD",
@@ -2748,13 +2784,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120b"
+                "desor": "DE4120b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-09-17-003",
                 "matrix": "PMS061661",
-                "title": "-&nbsp;&nbsp;| Love Like This Can't Last",
+                "title": "Love Like This Can't Last",
                 "releases": [
                     {
                         "label": "DJD",
@@ -2778,13 +2815,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120c"
+                "desor": "DE4120c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-09-17-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| After All",
+                "title": "After All",
                 "releases": [
                     {
                         "label": "DJD",
@@ -2808,13 +2846,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120d"
+                "desor": "DE4120d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-09-17-005",
                 "matrix": null,
-                "title": "_| The Girl In My Dreams Tries To Look Like You - vHJ",
+                "title": "The Girl In My Dreams Tries To Look Like You - vHJ",
                 "releases": [
                     {
                         "label": "DJD",
@@ -2834,13 +2873,20 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4120e"
+                "desor": "DE4120e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "41-09-17-006",
                 "matrix": null,
-                "title": "¬ Jumpin' Punkins",
+                "title": "Jumpin' Punkins",
                 "releases": [
                     {
                         "label": "DJD",
@@ -2864,13 +2910,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120f"
+                "desor": "DE4120f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-09-17-007",
                 "matrix": "PMS061662",
-                "title": "-&nbsp;&nbsp;| Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "DJD",
@@ -2899,13 +2946,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120g"
+                "desor": "DE4120g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-09-17-008",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Flamingo - vHJ",
+                "title": "Flamingo - vHJ",
                 "releases": [
                     {
                         "label": "DJD",
@@ -2929,13 +2977,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120h"
+                "desor": "DE4120h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-09-17-009",
                 "matrix": null,
-                "title": "_| Bakiff",
+                "title": "Bakiff",
                 "releases": [
                     {
                         "label": "RCA(F)",
@@ -2955,7 +3004,8 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4120i"
+                "desor": "DE4120i",
+                "attacca": true
             }
         ]
     },
@@ -3623,10 +3673,13 @@
                 "value": "Wallace Jones, Rex Stewart(t); Ray Nance(t,vn,v); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Junior Raglin(sb); Sonny Greer(d); Herb Jeffries(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "41-12-03-001",
                 "matrix": null,
-                "title": "¬ Stomp Caprice",
+                "title": "Stomp Caprice",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3646,13 +3699,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126a"
+                "desor": "DE4126a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Bugle Breaks",
+                "title": "Bugle Breaks",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3672,13 +3726,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126b"
+                "desor": "DE4126b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-003",
                 "matrix": "PMS061946",
-                "title": "-&nbsp;&nbsp;| You And I - vHJ",
+                "title": "You And I - vHJ",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3694,13 +3749,14 @@
                         "catalog": "M-550"
                     }
                 ],
-                "desor": "DE4126c"
+                "desor": "DE4126c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-004",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Have You Changed?",
+                "title": "Have You Changed?",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3720,13 +3776,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126d"
+                "desor": "DE4126d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-005",
                 "matrix": null,
-                "title": "_| Raincheck",
+                "title": "Raincheck",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3746,13 +3803,20 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126e"
+                "desor": "DE4126e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "41-12-03-006",
                 "matrix": null,
-                "title": "¬ Blue Serge",
+                "title": "Blue Serge",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3772,13 +3836,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126f"
+                "desor": "DE4126f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-007",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Moon Mist",
+                "title": "Moon Mist",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3798,13 +3863,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126g"
+                "desor": "DE4126g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-008",
                 "matrix": "PMS061947",
-                "title": "-&nbsp;&nbsp;| I Don't Want To Set The World On Fire - vHJ",
+                "title": "I Don't Want To Set The World On Fire - vHJ",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3824,13 +3890,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126h"
+                "desor": "DE4126h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-009",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;| Easy Street",
+                "title": "Easy Street",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3850,13 +3917,14 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126i"
+                "desor": "DE4126i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "41-12-03-010",
                 "matrix": null,
-                "title": "_| Perdido",
+                "title": "Perdido",
                 "releases": [
                     {
                         "label": "Sd",
@@ -3876,7 +3944,8 @@
                         "catalog": "1003-2"
                     }
                 ],
-                "desor": "DE4126j"
+                "desor": "DE4126j",
+                "attacca": true
             }
         ]
     }

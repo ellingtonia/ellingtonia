@@ -186,10 +186,13 @@
                 "desor": "DE5203a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-03-14-002",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Cm",
@@ -197,13 +200,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5203b"
+                "desor": "DE5203b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-03-14-003",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Cm",
@@ -211,7 +215,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5203c"
+                "desor": "DE5203c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -943,10 +951,13 @@
                 "desor": "DE5205l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-03-22-014",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
                         "label": "He",
@@ -954,13 +965,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5205m"
+                "desor": "DE5205m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-03-22-015",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [
                     {
                         "label": "He",
@@ -968,7 +980,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5205n"
+                "desor": "DE5205n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1377,10 +1393,13 @@
                 "desor": "DE5201h"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-03-24-009",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Acr",
@@ -1390,13 +1409,14 @@
                         "track": 9
                     }
                 ],
-                "desor": "DE5201i"
+                "desor": "DE5201i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-03-24-010",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Acr",
@@ -1406,11 +1426,15 @@
                         "track": 9
                     }
                 ],
-                "desor": "DE5201j"
+                "desor": "DE5201j",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(tk) acc. by Jimmy Hamilton, Russell Procope(cl), Harry Carney(bcl)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3128,10 +3152,13 @@
                 "desor": "DE5213f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-07-30-007",
                 "matrix": null,
-                "title": "¬ V.I.P.'s Boogie",
+                "title": "V.I.P.'s Boogie",
                 "releases": [
                     {
                         "label": "Ai",
@@ -3143,13 +3170,14 @@
                         "catalog": "CCD 79557"
                     }
                 ],
-                "desor": "DE5213g"
+                "desor": "DE5213g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-07-30-008",
                 "matrix": null,
-                "title": "_| Jam With Sam",
+                "title": "Jam With Sam",
                 "releases": [
                     {
                         "label": "Ai",
@@ -3161,7 +3189,11 @@
                         "catalog": "CCD 79557"
                     }
                 ],
-                "desor": "DE5213h"
+                "desor": "DE5213h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3382,10 +3414,13 @@
                 "desor": "DE5215g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-08-06-008",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [
                     {
                         "label": "CR",
@@ -3393,13 +3428,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5215h"
+                "desor": "DE5215h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-08-06-009",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [
                     {
                         "label": "CR",
@@ -3407,7 +3443,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE5215i"
+                "desor": "DE5215i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3725,20 +3765,25 @@
                 "value": "Harry Carney(bar); Duke Ellington(p); Wendell Marshall(sb); Louie Bellson(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-09-27-002",
                 "matrix": null,
-                "title": "¬ Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": "DE5218b"
+                "desor": "DE5218b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-09-27-003",
                 "matrix": null,
-                "title": "_| Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE5218c"
+                "desor": "DE5218c",
+                "attacca": true
             }
         ]
     },
@@ -3778,20 +3823,28 @@
                 "desor": "DE5219c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-10-00-004",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5219d"
+                "desor": "DE5219d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-10-00-005",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE5219e"
+                "desor": "DE5219e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5275,20 +5328,28 @@
                 "desor": "DE5231a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "52-12-31-002",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE5231b"
+                "desor": "DE5231b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "52-12-31-003",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore - vRN",
+                "title": "Don't Get Around Much Anymore - vRN",
                 "releases": [],
-                "desor": "DE5231c"
+                "desor": "DE5231c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

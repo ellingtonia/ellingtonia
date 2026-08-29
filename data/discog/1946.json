@@ -204,20 +204,28 @@
                 "desor": "DE4601l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-01-04-013",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [],
-                "desor": "DE4601m"
+                "desor": "DE4601m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-04-014",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [],
-                "desor": "DE4601n"
+                "desor": "DE4601n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -329,10 +337,13 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-01-04-020",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "Df",
@@ -344,13 +355,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4601t"
+                "desor": "DE4601t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-04-021",
                 "matrix": null,
-                "title": "-&nbsp;| Transblucency - vKD",
+                "title": "Transblucency - vKD",
                 "releases": [
                     {
                         "label": "Df",
@@ -362,13 +374,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4601u"
+                "desor": "DE4601u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-04-022",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "Df",
@@ -380,7 +393,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4601v"
+                "desor": "DE4601v",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1064,10 +1081,13 @@
                 "desor": "DE4606l"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-01-20-013",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "MM",
@@ -1075,13 +1095,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4606m"
+                "desor": "DE4606m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-20-014",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "MM",
@@ -1089,7 +1110,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4606n"
+                "desor": "DE4606n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1185,32 +1210,41 @@
                 "desor": "DE4606s"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-01-20-020",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE4606t"
+                "desor": "DE4606t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-20-021",
                 "matrix": null,
-                "title": "-&nbsp;| Transblucency - vKD",
+                "title": "Transblucency - vKD",
                 "releases": [],
-                "desor": "DE4606u"
+                "desor": "DE4606u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-20-022",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [],
-                "desor": "DE4606v"
+                "desor": "DE4606v",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Oscar Pettiford(sb); Sonny Greer(d)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1317,10 +1351,13 @@
                 "desor": "DE4607c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-01-20-028",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1336,13 +1373,14 @@
                         "catalog": "903 9017"
                     }
                 ],
-                "desor": "DE4607d"
+                "desor": "DE4607d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-20-029",
                 "matrix": null,
-                "title": "-&nbsp;| Transblucency - vKD",
+                "title": "Transblucency - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1358,13 +1396,14 @@
                         "catalog": "903 9017"
                     }
                 ],
-                "desor": "DE4607e"
+                "desor": "DE4607e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-01-20-030",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -1380,11 +1419,15 @@
                         "catalog": "903 9017"
                     }
                 ],
-                "desor": "DE4607f"
+                "desor": "DE4607f",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Oscar Pettiford(sb); Sonny Greer(d)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2814,10 +2857,13 @@
                 "desor": "DE4613g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-05-04-008",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2837,13 +2883,14 @@
                         "catalog": "RM-297/298†"
                     }
                 ],
-                "desor": "DE4613h"
+                "desor": "DE4613h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-05-04-009",
                 "matrix": null,
-                "title": "-&nbsp;| Transblucency - vKD",
+                "title": "Transblucency - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2863,13 +2910,14 @@
                         "catalog": "RM-297/298†"
                     }
                 ],
-                "desor": "DE4613i"
+                "desor": "DE4613i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-05-04-010",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2889,11 +2937,15 @@
                         "catalog": "RM-297/298†"
                     }
                 ],
-                "desor": "DE4613j"
+                "desor": "DE4613j",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Add  Billy Strayhorn(p)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3354,10 +3406,13 @@
                 "desor": "DE4615f"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-05-25-007",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3373,13 +3428,14 @@
                         "catalog": "903 9019"
                     }
                 ],
-                "desor": "DE4615g"
+                "desor": "DE4615g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-05-25-008",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3395,7 +3451,11 @@
                         "catalog": "903 9019"
                     }
                 ],
-                "desor": "DE4615h"
+                "desor": "DE4615h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6228,10 +6288,13 @@
                 "desor": "DE4625g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-08-03-008",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6247,13 +6310,14 @@
                         "catalog": "903 9022"
                     }
                 ],
-                "desor": "DE4625h"
+                "desor": "DE4625h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-08-03-009",
                 "matrix": null,
-                "title": "-&nbsp;| Transblucency - vKD",
+                "title": "Transblucency - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6269,13 +6333,14 @@
                         "catalog": "903 9022"
                     }
                 ],
-                "desor": "DE4625i"
+                "desor": "DE4625i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-08-03-010",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -6291,7 +6356,11 @@
                         "catalog": "903 9022"
                     }
                 ],
-                "desor": "DE4625j"
+                "desor": "DE4625j",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9310,10 +9379,13 @@
                 "desor": "DE4647d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "46-11-10-005",
                 "matrix": null,
-                "title": "¬ Beale Street Blues",
+                "title": "Beale Street Blues",
                 "releases": [
                     {
                         "label": "MM",
@@ -9325,13 +9397,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4647e"
+                "desor": "DE4647e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-11-10-006",
                 "matrix": null,
-                "title": "-&nbsp;| Memphis Blues",
+                "title": "Memphis Blues",
                 "releases": [
                     {
                         "label": "MM",
@@ -9343,13 +9416,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4647f"
+                "desor": "DE4647f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "46-11-10-007",
                 "matrix": null,
-                "title": "_| St. Louis Blues - vMC",
+                "title": "St. Louis Blues - vMC",
                 "releases": [
                     {
                         "label": "Pri",
@@ -9357,7 +9431,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4647g"
+                "desor": "DE4647g",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

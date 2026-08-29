@@ -11,20 +11,28 @@
                 "value": "Duke Ellington(p) with Percy Faith and His Orchestra."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-00-00-001",
                 "matrix": null,
-                "title": "¬ Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": "DE9072a"
+                "desor": "DE9072a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-00-00-002",
                 "matrix": null,
-                "title": "_| Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": "DE9072b"
+                "desor": "DE9072b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -455,10 +463,13 @@
                 "desor": "DE4705c"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-04-19-004",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "SR",
@@ -466,13 +477,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705d"
+                "desor": "DE4705d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-005",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "SR",
@@ -480,7 +492,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705e"
+                "desor": "DE4705e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -573,10 +589,13 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-04-19-014",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "SR",
@@ -584,13 +603,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705n"
+                "desor": "DE4705n",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-015",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "SR",
@@ -598,7 +618,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4705o"
+                "desor": "DE4705o",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -617,28 +641,37 @@
                 "desor": "DE4705q"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-04-19-018",
                 "matrix": null,
-                "title": "¬ Beale Street Blues",
+                "title": "Beale Street Blues",
                 "releases": [],
-                "desor": "DE4705r"
+                "desor": "DE4705r",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-019",
                 "matrix": null,
-                "title": "-&nbsp;| Memphis Blues",
+                "title": "Memphis Blues",
                 "releases": [],
-                "desor": "DE4705s"
+                "desor": "DE4705s",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-04-19-020",
                 "matrix": null,
-                "title": "_| St. Louis Blues - vMC",
+                "title": "St. Louis Blues - vMC",
                 "releases": [],
-                "desor": "DE4705t"
+                "desor": "DE4705t",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -2189,10 +2222,13 @@
                 "desor": "DE4714d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-07-25-005",
                 "matrix": null,
-                "title": "¬ Beale Street Blues",
+                "title": "Beale Street Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2216,13 +2252,14 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4714e"
+                "desor": "DE4714e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-07-25-006",
                 "matrix": null,
-                "title": "-&nbsp;| Memphis Blues",
+                "title": "Memphis Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2238,13 +2275,14 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4714f"
+                "desor": "DE4714f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-07-25-007",
                 "matrix": null,
-                "title": "_| St. Louis Blues - vRN",
+                "title": "St. Louis Blues - vRN",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -2260,7 +2298,11 @@
                         "catalog": "DSOD-2100"
                     }
                 ],
-                "desor": "DE4714g"
+                "desor": "DE4714g",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3249,10 +3291,13 @@
                 "desor": "DE4718e"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-08-31-006",
                 "matrix": null,
-                "title": "¬ Beale Street Blues",
+                "title": "Beale Street Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3268,13 +3313,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718f"
+                "desor": "DE4718f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-007",
                 "matrix": null,
-                "title": "-&nbsp;| Memphis Blues",
+                "title": "Memphis Blues",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3290,13 +3336,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718g"
+                "desor": "DE4718g",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-008",
                 "matrix": null,
-                "title": "_| St. Louis Blues - vRN",
+                "title": "St. Louis Blues - vRN",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3312,7 +3359,11 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718h"
+                "desor": "DE4718h",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3381,10 +3432,13 @@
                 "desor": "DE4718k"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-08-31-012",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3400,13 +3454,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718l"
+                "desor": "DE4718l",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-013",
                 "matrix": null,
-                "title": "-&nbsp;| Transblucency - vKD",
+                "title": "Transblucency - vKD",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3422,13 +3477,14 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718m"
+                "desor": "DE4718m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-014",
                 "matrix": null,
-                "title": "_| Crescendo In Blue",
+                "title": "Crescendo In Blue",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3444,7 +3500,11 @@
                         "catalog": "RKO1033"
                     }
                 ],
-                "desor": "DE4718n"
+                "desor": "DE4718n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3545,10 +3605,13 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "47-08-31-020",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3560,13 +3623,14 @@
                         "catalog": "003"
                     }
                 ],
-                "desor": "DE4718t"
+                "desor": "DE4718t",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "47-08-31-021",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3578,7 +3642,11 @@
                         "catalog": "003"
                     }
                 ],
-                "desor": "DE4718u"
+                "desor": "DE4718u",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

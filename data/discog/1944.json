@@ -4621,10 +4621,13 @@
                 "desor": "DE4438ad"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "44-12-19-031",
                 "matrix": null,
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [
                     {
                         "label": "Df",
@@ -4640,13 +4643,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4438ae"
+                "desor": "DE4438ae",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "44-12-19-032",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [
                     {
                         "label": "Df",
@@ -4662,7 +4666,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE4438af"
+                "desor": "DE4438af",
+                "attacca": true
             },
             {
                 "type": "note",

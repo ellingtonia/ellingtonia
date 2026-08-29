@@ -414,20 +414,28 @@
                 "desor": "DE6903p"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-01-20-017",
                 "matrix": null,
-                "title": "¬ I Let A Song go Out Of My Heart",
+                "title": "I Let A Song go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6903q"
+                "desor": "DE6903q",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-01-20-018",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6903r"
+                "desor": "DE6903r",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -566,28 +574,37 @@
                 "desor": "DE6905a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-02-18-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6905b"
+                "desor": "DE6905b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-02-18-003",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6905c"
+                "desor": "DE6905c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-02-18-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6905d"
+                "desor": "DE6905d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1342,20 +1359,25 @@
                 "desor": "DE6909h"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-04-03-010",
                 "matrix": "(11)",
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6909i"
+                "desor": "DE6909i",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-04-03-011",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6909j"
+                "desor": "DE6909j",
+                "attacca": true
             }
         ]
     },
@@ -1402,24 +1424,32 @@
                 "desor": "DE6910d"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-04-04-005",
                 "matrix": "(04)",
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6910e"
+                "desor": "DE6910e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-04-04-006",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6910f"
+                "desor": "DE6910f",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington out. Add Jimmy Jones(p)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -1934,20 +1964,28 @@
                 "desor": "DE6915a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-05-16-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6915b"
+                "desor": "DE6915b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-16-003",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6915c"
+                "desor": "DE6915c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3164,52 +3202,76 @@
                 "desor": "DE6917bg"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-05-26-060",
                 "matrix": "(137)",
-                "title": "¬ What Good Am I Without You?",
+                "title": "What Good Am I Without You?",
                 "releases": [],
-                "desor": "DE6917bh"
+                "desor": "DE6917bh",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-26-061",
                 "matrix": " ",
-                "title": "_| Neo Creole (Reel 12, Cue 14&15)",
+                "title": "Neo Creole (Reel 12, Cue 14&15)",
                 "releases": [],
-                "desor": "DE6917bi"
+                "desor": "DE6917bi",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "69-05-26-062",
                 "matrix": "(138)",
-                "title": "¬ What Good Am I Without You?",
+                "title": "What Good Am I Without You?",
                 "releases": [],
-                "desor": "DE6917bj"
+                "desor": "DE6917bj",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-26-063",
                 "matrix": " ",
-                "title": "_| Neo Creole (Reel 12, Cue 14&15)",
+                "title": "Neo Creole (Reel 12, Cue 14&15)",
                 "releases": [],
-                "desor": "DE6917bk"
+                "desor": "DE6917bk",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "69-05-26-064",
                 "matrix": "(139)",
-                "title": "¬ What Good Am I Without You?",
+                "title": "What Good Am I Without You?",
                 "releases": [],
-                "desor": "DE6917bl"
+                "desor": "DE6917bl",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-26-065",
                 "matrix": " ",
-                "title": "_| Neo Creole (Reel 12, Cue 14&15)",
+                "title": "Neo Creole (Reel 12, Cue 14&15)",
                 "releases": [],
-                "desor": "DE6917bm"
+                "desor": "DE6917bm",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3220,56 +3282,80 @@
                 "desor": "DE6917bn"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-05-26-067",
                 "matrix": "(143)",
-                "title": "¬ What Good Am I Without You?",
+                "title": "What Good Am I Without You?",
                 "releases": [],
-                "desor": "DE6917bo"
+                "desor": "DE6917bo",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-26-068",
                 "matrix": null,
-                "title": "_| Neo Creole (Reel 12, Cue 14&15)",
+                "title": "Neo Creole (Reel 12, Cue 14&15)",
                 "releases": [],
-                "desor": "DE6917bp"
+                "desor": "DE6917bp",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "69-05-26-069",
                 "matrix": "(145)",
-                "title": "¬ What Good Am I Without You?",
+                "title": "What Good Am I Without You?",
                 "releases": [],
-                "desor": "DE6917bq"
+                "desor": "DE6917bq",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-26-070",
                 "matrix": null,
-                "title": "_| Neo Creole (Reel 12, Cue 14&15)",
+                "title": "Neo Creole (Reel 12, Cue 14&15)",
                 "releases": [],
-                "desor": "DE6917br"
+                "desor": "DE6917br",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "69-05-26-071",
                 "matrix": "(146)",
-                "title": "¬ What Good Am I Without You?",
+                "title": "What Good Am I Without You?",
                 "releases": [],
-                "desor": "DE6917bs"
+                "desor": "DE6917bs",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-26-072",
                 "matrix": null,
-                "title": "_| Neo Creole (Reel 12, Cue 14&15)",
+                "title": "Neo Creole (Reel 12, Cue 14&15)",
                 "releases": [],
-                "desor": "DE6917bt"
+                "desor": "DE6917bt",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3468,20 +3554,28 @@
                 "desor": "DE6918u"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-05-30-022",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6918v"
+                "desor": "DE6918v",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-30-023",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6918w"
+                "desor": "DE6918w",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3540,20 +3634,28 @@
                 "desor": "DE6918ad"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-05-30-031",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6918ae"
+                "desor": "DE6918ae",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-30-032",
                 "matrix": null,
-                "title": "_| Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6918af"
+                "desor": "DE6918af",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -3572,20 +3674,25 @@
                 "desor": "DE6918ah"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-05-30-035",
                 "matrix": null,
-                "title": "¬ Stardust",
+                "title": "Stardust",
                 "releases": [],
-                "desor": "DE6918ai"
+                "desor": "DE6918ai",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-05-30-036",
                 "matrix": null,
-                "title": "_| Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": "DE6918aj"
+                "desor": "DE6918aj",
+                "attacca": true
             }
         ]
     },
@@ -3902,28 +4009,37 @@
                 "desor": "DE6923a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-06-23-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6923b"
+                "desor": "DE6923b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-06-23-003",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6923c"
+                "desor": "DE6923c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-06-23-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6923d"
+                "desor": "DE6923d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4275,20 +4391,28 @@
                 "desor": "DE6927g"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-07-21-008",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6927h"
+                "desor": "DE6927h",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-07-21-009",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6927i"
+                "desor": "DE6927i",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4467,20 +4591,28 @@
                 "desor": "DE6927ae"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-07-21-032",
                 "matrix": null,
-                "title": "¬ I Let A Song Go Out Of My Heart",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": "DE6927af"
+                "desor": "DE6927af",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-07-21-033",
                 "matrix": null,
-                "title": "_| Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": "DE6927ag"
+                "desor": "DE6927ag",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -4909,28 +5041,37 @@
                 "value": "Cootie Williams, Cat Anderson, Willie Cook, Lloyd Michaels(t); Lawrence Brown, Bennie Green(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Paul Kondziela(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-08-31-001",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6931a"
+                "desor": "DE6931a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-08-31-002",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6931b"
+                "desor": "DE6931b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-08-31-003",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6931c"
+                "desor": "DE6931c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -5897,28 +6038,37 @@
                 "desor": "DE6936b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-09-18-003",
                 "matrix": null,
-                "title": "¬ Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": "DE6936c"
+                "desor": "DE6936c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-09-18-004",
                 "matrix": null,
-                "title": "-&nbsp;| Black Beauty",
+                "title": "Black Beauty",
                 "releases": [],
-                "desor": "DE6936d"
+                "desor": "DE6936d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-09-18-005",
                 "matrix": null,
-                "title": "_|West Indian Dance",
+                "title": "West Indian Dance",
                 "releases": [],
-                "desor": "DE6936e"
+                "desor": "DE6936e",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6280,20 +6430,28 @@
                 "desor": "DE6940a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-10-28-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6940b"
+                "desor": "DE6940b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-10-28-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6940c"
+                "desor": "DE6940c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6444,20 +6602,28 @@
                 "desor": "DE6940u"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-10-28-022",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6940v"
+                "desor": "DE6940v",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-10-28-023",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6940w"
+                "desor": "DE6940w",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6488,28 +6654,37 @@
                 "desor": "DE6941a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-10-30-002",
                 "matrix": null,
-                "title": "¬ Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [],
-                "desor": "DE6941b"
+                "desor": "DE6941b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-10-30-003",
                 "matrix": null,
-                "title": "-&nbsp;| Creole Love Call",
+                "title": "Creole Love Call",
                 "releases": [],
-                "desor": "DE6941c"
+                "desor": "DE6941c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-10-30-004",
                 "matrix": null,
-                "title": "_|The Mooch",
+                "title": "The Mooch",
                 "releases": [],
-                "desor": "DE6941d"
+                "desor": "DE6941d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6717,36 +6892,52 @@
                 "desor": "DE6941r"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-10-30-019",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6941s"
+                "desor": "DE6941s",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-10-30-020",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6941t"
+                "desor": "DE6941t",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "69-10-30-021",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6941u"
+                "desor": "DE6941u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-10-30-022",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6941v"
+                "desor": "DE6941v",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -6921,20 +7112,28 @@
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington(t); Lawrence Brown(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Victor Gaskin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-01-001",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6944a"
+                "desor": "DE6944a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-01-002",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6944b"
+                "desor": "DE6944b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7159,10 +7358,13 @@
                 "desor": "DE6945a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-01-017",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "Sq",
@@ -7170,13 +7372,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6945b"
+                "desor": "DE6945b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-01-018",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "Sq",
@@ -7184,7 +7387,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6945c"
+                "desor": "DE6945c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7401,10 +7608,13 @@
                 "value": "Add Don Byas(ts)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-01-033",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "By",
@@ -7412,13 +7622,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6945r"
+                "desor": "DE6945r",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-01-034",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "By",
@@ -7426,11 +7637,15 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6945s"
+                "desor": "DE6945s",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Don Byas out."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7533,10 +7748,13 @@
                 "desor": "DE6946a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-02-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "QL",
@@ -7544,13 +7762,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6946b"
+                "desor": "DE6946b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-02-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "QL",
@@ -7558,7 +7777,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6946c"
+                "desor": "DE6946c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7759,10 +7982,13 @@
                 "desor": "DE6946q"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-02-018",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "QL",
@@ -7770,13 +7996,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6946r"
+                "desor": "DE6946r",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-02-019",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "QL",
@@ -7784,7 +8011,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6946s"
+                "desor": "DE6946s",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -7939,24 +8170,32 @@
                 "desor": "DE6948xa"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-04-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6948a"
+                "desor": "DE6948a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-04-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6948b"
+                "desor": "DE6948b",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Lawrence Brown(tb); Duke Ellington(p); Victor Gaskin(sb); Rufus Jones(d)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8324,20 +8563,25 @@
                 "desor": "DE6949o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-04-032",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6949p"
+                "desor": "DE6949p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-04-033",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6949q"
+                "desor": "DE6949q",
+                "attacca": true
             }
         ]
     },
@@ -8578,20 +8822,28 @@
                 "desor": "DE6952a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-07-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6952b"
+                "desor": "DE6952b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-07-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6952c"
+                "desor": "DE6952c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8739,20 +8991,28 @@
                 "desor": "DE6952n"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-07-015",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6952o"
+                "desor": "DE6952o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-07-016",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6952p"
+                "desor": "DE6952p",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -8803,10 +9063,13 @@
                 "desor": "DE6953b"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-07-020",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "Sv",
@@ -8814,13 +9077,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6953c"
+                "desor": "DE6953c",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-07-021",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "Sv",
@@ -8828,7 +9092,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6953d"
+                "desor": "DE6953d",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9191,20 +9459,28 @@
                 "desor": "DE6954a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-08-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6954b"
+                "desor": "DE6954b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-08-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6954c"
+                "desor": "DE6954c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9455,24 +9731,32 @@
                 "desor": "DE6954o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-08-016",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6954p"
+                "desor": "DE6954p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-08-017",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6954q"
+                "desor": "DE6954q",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Victor Gaskin(sb); Rufus Jones(d)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9563,20 +9847,28 @@
                 "desor": "DE6955a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-09-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6955b"
+                "desor": "DE6955b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-09-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6955c"
+                "desor": "DE6955c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -9776,20 +10068,25 @@
                 "desor": "DE6955p"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-09-017",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6955q"
+                "desor": "DE6955q",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-09-018",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6955r"
+                "desor": "DE6955r",
+                "attacca": true
             }
         ]
     },
@@ -9812,20 +10109,28 @@
                 "desor": "DE6956a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-09-020",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6956b"
+                "desor": "DE6956b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-09-021",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6956c"
+                "desor": "DE6956c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10034,10 +10339,13 @@
                 "desor": "DE6957a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-10-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "JL",
@@ -10049,13 +10357,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6957b"
+                "desor": "DE6957b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-10-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "JL",
@@ -10067,7 +10376,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6957c"
+                "desor": "DE6957c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10308,10 +10621,13 @@
                 "desor": null
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-10-018",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "JL",
@@ -10323,13 +10639,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6957o"
+                "desor": "DE6957o",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-10-019",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "JL",
@@ -10341,7 +10658,8 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6957p"
+                "desor": "DE6957p",
+                "attacca": true
             }
         ]
     },
@@ -10513,20 +10831,28 @@
                 "desor": "DE6959a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-12-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6959b"
+                "desor": "DE6959b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-12-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6959c"
+                "desor": "DE6959c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10758,20 +11084,28 @@
                 "desor": "DE6959t"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-12-021",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6959u"
+                "desor": "DE6959u",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-12-022",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6959v"
+                "desor": "DE6959v",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -10854,20 +11188,28 @@
                 "desor": "DE6960a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-13-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6960b"
+                "desor": "DE6960b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-13-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6960c"
+                "desor": "DE6960c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11080,20 +11422,28 @@
                 "medley_title": null
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-13-013",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6960m"
+                "desor": "DE6960m",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-13-014",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6960n"
+                "desor": "DE6960n",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11228,20 +11578,28 @@
                 "desor": "DE6962a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-15-013",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6962b"
+                "desor": "DE6962b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-15-014",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6962c"
+                "desor": "DE6962c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -11495,24 +11853,32 @@
                 "desor": "DE6962p"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-15-028",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [],
-                "desor": "DE6962q"
+                "desor": "DE6962q",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-15-029",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [],
-                "desor": "DE6962r"
+                "desor": "DE6962r",
+                "attacca": true
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Victor Gaskin(sb)."
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12053,10 +12419,13 @@
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington(t); Rolf Ericson(t,flh); Lawrence Brown, Åke Persson(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wild Bill Davis(o); Victor Gaskin(sb); Rufus Jones(d); Toney Watkins(v)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-20-001",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "STJ",
@@ -12064,13 +12433,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6965a"
+                "desor": "DE6965a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-20-002",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "STJ",
@@ -12078,7 +12448,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6965b"
+                "desor": "DE6965b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12261,10 +12635,13 @@
                 "desor": "DE6965o"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-20-016",
                 "matrix": null,
-                "title": "¬ Diminuendo In Blue",
+                "title": "Diminuendo In Blue",
                 "releases": [
                     {
                         "label": "STJ",
@@ -12272,13 +12649,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6965p"
+                "desor": "DE6965p",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-20-017",
                 "matrix": null,
-                "title": "_|Wailing Interval",
+                "title": "Wailing Interval",
                 "releases": [
                     {
                         "label": "STJ",
@@ -12286,7 +12664,11 @@
                         "first_issue": true
                     }
                 ],
-                "desor": "DE6965q"
+                "desor": "DE6965q",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12609,20 +12991,28 @@
                 "desor": "DE6968a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-25-008",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6968b"
+                "desor": "DE6968b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-25-009",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6968c"
+                "desor": "DE6968c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -12836,10 +13226,13 @@
                 "value": "Cootie Williams, Cat Anderson, Mercer Ellington(t); Rolf Ericson(t,flh); Lawrence Brown(tb); Chuck Connors(btb); Norris Turney(f,cl,as,ts); Russell Procope(cl,as); Johnny Hodges(as); Harold Ashby(cl,ts); Paul Gonsalves(ts); Harry Carney(cl,bcl,bar); Duke Ellington(p); Wild Bill Davis(o); Victor Gaskin(sb); Rufus Jones(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-26-001",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [
                     {
                         "label": "SdS",
@@ -12855,13 +13248,14 @@
                         "catalog": "1"
                     }
                 ],
-                "desor": "DE6969a"
+                "desor": "DE6969a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-26-002",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [
                     {
                         "label": "SdS",
@@ -12877,7 +13271,11 @@
                         "catalog": "1"
                     }
                 ],
-                "desor": "DE6969b"
+                "desor": "DE6969b",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -13744,20 +14142,28 @@
                 "desor": "DE6971a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-11-30-002",
                 "matrix": null,
-                "title": "¬ Kinda Dukish",
+                "title": "Kinda Dukish",
                 "releases": [],
-                "desor": "DE6971b"
+                "desor": "DE6971b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-11-30-003",
                 "matrix": null,
-                "title": "_|Rockin' In Rhythm",
+                "title": "Rockin' In Rhythm",
                 "releases": [],
-                "desor": "DE6971c"
+                "desor": "DE6971c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",
@@ -14266,20 +14672,28 @@
                 "desor": "DE6975a"
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "69-12-31-002",
                 "matrix": null,
-                "title": "¬ Stardust",
+                "title": "Stardust",
                 "releases": [],
-                "desor": "DE6975b"
+                "desor": "DE6975b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "69-12-31-003",
                 "matrix": null,
-                "title": "_| Misty",
+                "title": "Misty",
                 "releases": [],
-                "desor": "DE6975c"
+                "desor": "DE6975c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
             },
             {
                 "type": "take",

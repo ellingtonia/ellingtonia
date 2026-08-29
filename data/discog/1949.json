@@ -1156,20 +1156,25 @@
                 "value": "As before."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "49-02-16-006",
                 "matrix": "SM 573-",
-                "title": "¬ Frankie And Johnny",
+                "title": "Frankie And Johnny",
                 "releases": [],
-                "desor": "DE4910f"
+                "desor": "DE4910f",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "49-02-16-007",
                 "matrix": null,
-                "title": "_| Metronome All Out",
+                "title": "Metronome All Out",
                 "releases": [],
-                "desor": "DE4910g"
+                "desor": "DE4910g",
+                "attacca": true
             },
             {
                 "type": "note",
