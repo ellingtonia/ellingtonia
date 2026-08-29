@@ -1430,108 +1430,122 @@
                 "desor": "DE6411h"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6411i"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "64-02-21-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Satin Doll",
-                "releases": [],
-                "desor": null
+                "desor": "DE6411i",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "64-02-21-011",
+                "index": "64-02-21-010a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "64-02-21-012",
+                "index": "64-02-21-010b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Don't Get Around Much Anymore",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "64-02-21-013",
+                "index": "64-02-21-010c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "64-02-21-014",
+                "index": "64-02-21-010d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning To See The Light",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "64-02-21-015",
+                "index": "64-02-21-010e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Sophisticated Lady",
+                "title": "I'm Beginning To See The Light",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "64-02-21-016",
+                "index": "64-02-21-010f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Caravan",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "take",
-                "index": "64-02-21-017",
+                "index": "64-02-21-010g",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Do Nothin' Till You Hear From Me",
+                "title": "Caravan",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "g"
             },
             {
                 "type": "take",
-                "index": "64-02-21-018",
+                "index": "64-02-21-010h",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Got It Bad And That Ain't Good",
+                "title": "Do Nothin' Till You Hear From Me",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "h"
             },
             {
                 "type": "take",
-                "index": "64-02-21-019",
+                "index": "64-02-21-010i",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Just Squeeze Me (But Don't Tease Me) - vES",
+                "title": "I Got It Bad And That Ain't Good",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "i"
             },
             {
                 "type": "take",
-                "index": "64-02-21-020",
+                "index": "64-02-21-010j",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. I Let A Song Go & Don't Get Around Much",
+                "title": "Just Squeeze Me (But Don't Tease Me) - vES",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "take",
+                "index": "64-02-21-010k",
+                "matrix": null,
+                "title": "I Let A Song Go & Don't Get Around Much",
+                "releases": [],
+                "desor": null,
+                "medley_index": "k"
             },
             {
                 "type": "artists",
                 "value": "Duke Ellington(p); Ernie Shepard(sb); Sam Woodyard(d)."
             },
             {
+                "type": "medley",
+                "medley_title": null
+            },
+            {
                 "type": "take",
-                "index": "64-02-21-021",
+                "index": "64-02-21-011",
                 "matrix": null,
                 "title": "Dancers In Love",
                 "releases": [],
@@ -1543,7 +1557,7 @@
             },
             {
                 "type": "take",
-                "index": "64-02-21-022",
+                "index": "64-02-21-012",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -4733,64 +4747,73 @@
                 "value": "Duke Ellington(p); Major Holley(sb); Johnny Hodges Jr.(d)."
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "64-04-06-007",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6430a"
+                "desor": "DE6430a",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "64-04-06-007",
+                "index": "64-04-06-007a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Solitude",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "64-04-06-007b",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "64-04-06-007c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "64-04-06-007d",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "64-04-06-007e",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "64-04-06-007f",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "64-04-06-008",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Don't Get Around Much Anymore",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-06-009",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-06-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-06-011",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-06-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-06-013",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -4798,7 +4821,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-014",
+                "index": "64-04-06-009",
                 "matrix": null,
                 "title": "Single Petal Of A Rose",
                 "releases": [],
@@ -4806,7 +4829,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-015",
+                "index": "64-04-06-010",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -4818,7 +4841,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-016",
+                "index": "64-04-06-011",
                 "matrix": null,
                 "title": "Rose Of The Rio Grande",
                 "releases": [],
@@ -4826,7 +4849,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-017",
+                "index": "64-04-06-012",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me",
                 "releases": [],
@@ -4838,7 +4861,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-018",
+                "index": "64-04-06-013",
                 "matrix": null,
                 "title": "I Got It Bad And That Ain't Good",
                 "releases": [],
@@ -4846,7 +4869,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-019",
+                "index": "64-04-06-014",
                 "matrix": null,
                 "title": "On The Sunny Side Of The Street",
                 "releases": [],
@@ -4854,7 +4877,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-020",
+                "index": "64-04-06-015",
                 "matrix": null,
                 "title": "Passion Flower",
                 "releases": [],
@@ -4866,7 +4889,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-021",
+                "index": "64-04-06-016",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -4874,7 +4897,7 @@
             },
             {
                 "type": "take",
-                "index": "64-04-06-022",
+                "index": "64-04-06-017",
                 "matrix": null,
                 "title": "The Drum And The Blues",
                 "releases": [],
@@ -5429,18 +5452,17 @@
                 "desor": "DE6433k"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "64-04-20-013",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6433l"
+                "desor": "DE6433l",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "64-04-20-013",
+                "index": "64-04-20-013a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Satin Doll",
+                "title": "Satin Doll",
                 "releases": [
                     {
                         "label": "VAI",
@@ -5448,117 +5470,130 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013b",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD 4358",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013c",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD 4358",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013d",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD 4358",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013e",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD 4358",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013f",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD 4358",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013g",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013h",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD 4358",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "64-04-20-013i",
+                "matrix": null,
+                "title": "I Let A Song Go & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "VAI",
+                        "catalog": "DVD 4358",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "64-04-20-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude",
-                "releases": [
-                    {
-                        "label": "VAI",
-                        "catalog": "DVD 4358",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Don't Get Around Much Anymore",
-                "releases": [
-                    {
-                        "label": "VAI",
-                        "catalog": "DVD 4358",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "VAI",
-                        "catalog": "DVD 4358",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "VAI",
-                        "catalog": "DVD 4358",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "VAI",
-                        "catalog": "DVD 4358",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Do Nothin' Till You Hear From Me",
-                "releases": [
-                    {
-                        "label": "VAI",
-                        "catalog": "DVD 4358",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-021",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song Go & Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "VAI",
-                        "catalog": "DVD 4358",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-04-20-022",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [
@@ -7607,48 +7642,55 @@
                 "desor": "DE6450h"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "64-06-24-021",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6450i"
+                "desor": "DE6450i",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "64-06-24-021",
+                "index": "64-06-24-021a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "64-06-24-021b",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "64-06-24-021c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "64-06-24-021d",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "64-06-24-022",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-24-023",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-24-024",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-24-025",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -7827,88 +7869,100 @@
                 "desor": "DE6447e"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "64-06-28-006",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6447f"
+                "desor": "DE6447f",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "64-06-28-006",
+                "index": "64-06-28-006a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006b",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006c",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006d",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006e",
+                "matrix": null,
+                "title": "I'm Beginning to See The Light",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006f",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006g",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006h",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "64-06-28-006i",
+                "matrix": null,
+                "title": "I Let A Song and Don't Get Around Much",
+                "releases": [],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "64-06-28-007",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-008",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Don't Get Around Much Anymore",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-009",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning to See The Light",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-011",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Caravan",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-013",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Do Nothin' Till You Hear From Me",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song and Don't Get Around Much",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-06-28-015",
                 "matrix": null,
                 "title": "Harlem",
                 "releases": [],
@@ -7916,7 +7970,7 @@
             },
             {
                 "type": "take",
-                "index": "64-06-28-016",
+                "index": "64-06-28-008",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
@@ -9879,88 +9933,100 @@
                 "desor": "DE6460k"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "64-09-30-012",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6460l"
+                "desor": "DE6460l",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "64-09-30-012",
+                "index": "64-09-30-012a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Satin Doll",
+                "title": "Satin Doll",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012b",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012c",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012d",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012e",
+                "matrix": null,
+                "title": "I'm Beginning to See The Light",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012f",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012g",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012h",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "64-09-30-012i",
+                "matrix": null,
+                "title": "I Let A Song and Don't Get Around Much",
+                "releases": [],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "64-09-30-013",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Don't Get Around Much Anymore",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning to See The Light",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Caravan",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Do Nothin' Till You Hear From Me",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song and Don't Get Around Much",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "64-09-30-021",
                 "matrix": null,
                 "title": "C-Jam Blues",
                 "releases": [],
@@ -9968,7 +10034,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-022",
+                "index": "64-09-30-014",
                 "matrix": null,
                 "title": "Never On A Sunday",
                 "releases": [],
@@ -9976,7 +10042,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-023",
+                "index": "64-09-30-015",
                 "matrix": null,
                 "title": "I Left My Heart In San Francisco",
                 "releases": [],
@@ -9984,7 +10050,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-024",
+                "index": "64-09-30-016",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -9992,7 +10058,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-025",
+                "index": "64-09-30-017",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],
@@ -10000,7 +10066,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-026",
+                "index": "64-09-30-018",
                 "matrix": null,
                 "title": "Tutti For Cootie",
                 "releases": [],
@@ -10008,7 +10074,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-027",
+                "index": "64-09-30-019",
                 "matrix": null,
                 "title": "Skilipoop",
                 "releases": [],
@@ -10016,7 +10082,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-028",
+                "index": "64-09-30-020",
                 "matrix": null,
                 "title": "The Prowling Cat",
                 "releases": [],
@@ -10024,7 +10090,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-029",
+                "index": "64-09-30-021",
                 "matrix": null,
                 "title": "¬ Kinda Dukish",
                 "releases": [],
@@ -10032,7 +10098,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-030",
+                "index": "64-09-30-022",
                 "matrix": null,
                 "title": "_|Rockin' In Rhythm",
                 "releases": [],
@@ -10044,7 +10110,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-031",
+                "index": "64-09-30-023",
                 "matrix": null,
                 "title": "Monologue",
                 "releases": [],
@@ -10056,7 +10122,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-032",
+                "index": "64-09-30-024",
                 "matrix": null,
                 "title": "Fly Me To The Moon",
                 "releases": [],
@@ -10064,7 +10130,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-033",
+                "index": "64-09-30-025",
                 "matrix": null,
                 "title": "Happy Go Lucky Local",
                 "releases": [],
@@ -10072,7 +10138,7 @@
             },
             {
                 "type": "take",
-                "index": "64-09-30-034",
+                "index": "64-09-30-026",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],

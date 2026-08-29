@@ -7904,18 +7904,17 @@
                 "desor": "DE4364m"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "43-12-11-014",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4364n"
+                "desor": "DE4364n",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "43-12-11-014",
+                "index": "43-12-11-014a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "Em",
@@ -7935,141 +7934,151 @@
                         "catalog": "108 8600"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "43-12-11-014b",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Em",
+                        "catalog": "EMBD2001"
+                    },
+                    {
+                        "label": "JP",
+                        "catalog": "LP 1",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "103 8341"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "108 8600"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "43-12-11-014c",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "Em",
+                        "catalog": "EMBD2001"
+                    },
+                    {
+                        "label": "JP",
+                        "catalog": "LP 1",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "103 8341"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "108 8600"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "43-12-11-014d",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "Em",
+                        "catalog": "EMBD2001"
+                    },
+                    {
+                        "label": "JP",
+                        "catalog": "LP 1",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "103 8341"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "108 8600"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "43-12-11-014e",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "Em",
+                        "catalog": "EMBD2001"
+                    },
+                    {
+                        "label": "JP",
+                        "catalog": "LP 1",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "103 8341"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "108 8600"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "43-12-11-014f",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [
+                    {
+                        "label": "Em",
+                        "catalog": "EMBD2001"
+                    },
+                    {
+                        "label": "JP",
+                        "catalog": "LP 1",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "103 8341"
+                    },
+                    {
+                        "label": "Sv",
+                        "catalog": "108 8600"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "43-12-11-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "Em",
-                        "catalog": "EMBD2001"
-                    },
-                    {
-                        "label": "JP",
-                        "catalog": "LP 1",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "103 8341"
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "108 8600"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-12-11-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "Em",
-                        "catalog": "EMBD2001"
-                    },
-                    {
-                        "label": "JP",
-                        "catalog": "LP 1",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "103 8341"
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "108 8600"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-12-11-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Caravan",
-                "releases": [
-                    {
-                        "label": "Em",
-                        "catalog": "EMBD2001"
-                    },
-                    {
-                        "label": "JP",
-                        "catalog": "LP 1",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "103 8341"
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "108 8600"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-12-11-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;5. Solitude",
-                "releases": [
-                    {
-                        "label": "Em",
-                        "catalog": "EMBD2001"
-                    },
-                    {
-                        "label": "JP",
-                        "catalog": "LP 1",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "103 8341"
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "108 8600"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-12-11-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;6. I Let A Song Go Out Of My Heart",
-                "releases": [
-                    {
-                        "label": "Em",
-                        "catalog": "EMBD2001"
-                    },
-                    {
-                        "label": "JP",
-                        "catalog": "LP 1",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "103 8341"
-                    },
-                    {
-                        "label": "Sv",
-                        "catalog": "108 8600"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "43-12-11-020",
                 "matrix": null,
                 "title": "Jack The Bear",
                 "releases": [
@@ -8095,7 +8104,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-021",
+                "index": "43-12-11-016",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vAH",
                 "releases": [
@@ -8121,7 +8130,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-022",
+                "index": "43-12-11-017",
                 "matrix": null,
                 "title": "Summertime - vAH",
                 "releases": [
@@ -8143,7 +8152,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-023",
+                "index": "43-12-11-018",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
@@ -8165,7 +8174,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-024",
+                "index": "43-12-11-019",
                 "matrix": null,
                 "title": "Black And Tan Fantasy",
                 "releases": [
@@ -8191,7 +8200,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-025",
+                "index": "43-12-11-020",
                 "matrix": null,
                 "title": "¬ Suddenly It Jumped",
                 "releases": [
@@ -8213,7 +8222,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-026",
+                "index": "43-12-11-021",
                 "matrix": null,
                 "title": "_| Rockin' In Rhythm",
                 "releases": [
@@ -8235,7 +8244,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-027",
+                "index": "43-12-11-022",
                 "matrix": null,
                 "title": "I Didn't Know About You [Sentimental Lady]",
                 "releases": [
@@ -8257,7 +8266,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-028",
+                "index": "43-12-11-023",
                 "matrix": null,
                 "title": "Trumpet In Spades",
                 "releases": [
@@ -8279,7 +8288,7 @@
             },
             {
                 "type": "take",
-                "index": "43-12-11-029",
+                "index": "43-12-11-024",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [

@@ -1107,18 +1107,17 @@
                 "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges(cl,as); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d,v); Unk(v); Irving Mills (mc,v); \"applauding by three men and members of orchestra.\""
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": "CVE51158-1",
-                "title": "A Night At The Cotton Club - Part 1",
-                "releases": [],
-                "desor": "DE2908a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "29-04-12-001",
+                "matrix": "CVE51158-1",
+                "desor": "DE2908a",
+                "medley_title": "A Night At The Cotton Club - Part 1"
+            },
+            {
+                "type": "take",
+                "index": "29-04-12-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;1. Cotton Club Stomp",
+                "title": "Cotton Club Stomp",
                 "releases": [
                     {
                         "label": "BFR",
@@ -1154,63 +1153,64 @@
                         "catalog": "741029"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
+                "index": "29-04-12-001b",
+                "matrix": null,
+                "title": "Misty Mornin'",
+                "releases": [
+                    {
+                        "label": "BFR",
+                        "catalog": "BCD-16340"
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "569"
+                    },
+                    {
+                        "label": "LR",
+                        "catalog": "X-EIO-2",
+                        "title": "24"
+                    },
+                    {
+                        "label": "MoJ",
+                        "catalog": "MJCD 88"
+                    },
+                    {
+                        "label": "Pi",
+                        "catalog": "MPC-524",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "RCA",
+                        "catalog": "09026-63386-2",
+                        "disc": "3",
+                        "track": 7,
+                        "length": 229
+                    },
+                    {
+                        "label": "RCA(F)",
+                        "catalog": "741029"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "medley",
                 "index": "29-04-12-002",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;2. Misty Mornin'",
-                "releases": [
-                    {
-                        "label": "BFR",
-                        "catalog": "BCD-16340"
-                    },
-                    {
-                        "label": "Cl(F)",
-                        "catalog": "569"
-                    },
-                    {
-                        "label": "LR",
-                        "catalog": "X-EIO-2",
-                        "title": "24"
-                    },
-                    {
-                        "label": "MoJ",
-                        "catalog": "MJCD 88"
-                    },
-                    {
-                        "label": "Pi",
-                        "catalog": "MPC-524",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "RCA",
-                        "catalog": "09026-63386-2",
-                        "disc": "3",
-                        "track": 7,
-                        "length": 229
-                    },
-                    {
-                        "label": "RCA(F)",
-                        "catalog": "741029"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
                 "matrix": "CVE51159-1",
-                "title": "A Night At The Cotton Club - Part 2",
-                "releases": [],
-                "desor": "DE2908b"
+                "desor": "DE2908b",
+                "medley_title": "A Night At The Cotton Club - Part 2"
             },
             {
                 "type": "take",
-                "index": "29-04-12-003",
+                "index": "29-04-12-002a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;1. Goin' To Town",
+                "title": "Goin' To Town",
                 "releases": [
                     {
                         "label": "BFR",
@@ -1246,13 +1246,14 @@
                         "catalog": "741029"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "29-04-12-004",
+                "index": "29-04-12-002b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;2. Freeze And Melt - vSG,IM,Unk",
+                "title": "Freeze And Melt - vSG,IM,Unk",
                 "releases": [
                     {
                         "label": "BFR",
@@ -1288,7 +1289,8 @@
                         "catalog": "741029"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "note",

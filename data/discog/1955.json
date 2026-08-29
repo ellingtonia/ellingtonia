@@ -31,18 +31,17 @@
                 "value": "Duke Ellington(p); Lee Castle(t); Tommy Dorsey(tb); Jimmy Dorsey(cl,as); Buddy Rich(d); Johnny Ray(v) and the Dorsey Brothers Orchestra."
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "55-01-01-001",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5501a"
+                "desor": "DE5501a",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "55-01-01-001",
+                "index": "55-01-01-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "GoJ",
@@ -58,209 +57,223 @@
                         "catalog": "DAWE 37"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001b",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001d",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001e",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001f",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001g",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001h",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001i",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "take",
+                "index": "55-01-01-001j",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [
+                    {
+                        "label": "GoJ",
+                        "catalog": "1008",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "JB",
+                        "catalog": "EBCD 2123-2"
+                    },
+                    {
+                        "label": "Mg",
+                        "catalog": "DAWE 37"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "55-01-01-002",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-003",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-004",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.  I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-005",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-006",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-007",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-008",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Do Nothin' Till You Hear From Me",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-009",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song & Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [
-                    {
-                        "label": "GoJ",
-                        "catalog": "1008",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "JB",
-                        "catalog": "EBCD 2123-2"
-                    },
-                    {
-                        "label": "Mg",
-                        "catalog": "DAWE 37"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-01-01-011",
                 "matrix": null,
                 "title": "When The Saints Go Marchin' In - vJRy",
                 "releases": [
@@ -664,104 +677,118 @@
                 "desor": "DE5505l"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "55-04-20-013",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5505m"
+                "desor": "DE5505m",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "55-04-20-013",
+                "index": "55-04-20-013a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013b",
+                "matrix": null,
+                "title": "I Got It Bad And That Ain't Good",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013c",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013d",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013e",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013f",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013g",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013h",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013i",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013j",
+                "matrix": null,
+                "title": "C-Jam Blues",
+                "releases": [],
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "take",
+                "index": "55-04-20-013k",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [],
+                "desor": null,
+                "medley_index": "k"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "55-04-20-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. I Got It Bad And That Ain't Good",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. In A Sentimental Mood",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning To See The Light",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Caravan",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-021",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Solitude",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-022",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. C-Jam Blues",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-023",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. I Let A Song & Don't Get Around Much",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-04-20-024",
                 "matrix": null,
                 "title": "Just Squeeze Me (But Don't Tease Me)",
                 "releases": [
@@ -775,7 +802,7 @@
             },
             {
                 "type": "take",
-                "index": "55-04-20-025",
+                "index": "55-04-20-015",
                 "matrix": null,
                 "title": "Twelfth Street Rag",
                 "releases": [],
@@ -1763,40 +1790,46 @@
                 "desor": "DE5512c"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "55-07-20-004",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5512d"
+                "desor": "DE5512d",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "55-07-20-004",
+                "index": "55-07-20-004a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore - vFL",
+                "title": "Don't Get Around Much Anymore - vFL",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "55-07-20-004b",
+                "matrix": null,
+                "title": "Solitude - vFL",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "55-07-20-004c",
+                "matrix": null,
+                "title": "I'm Just A Lucky So-And-So - vFL",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "55-07-20-005",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude - vFL",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-07-20-006",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Just A Lucky So-And-So - vFL",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "55-07-20-007",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [],

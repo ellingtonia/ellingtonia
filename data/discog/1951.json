@@ -462,18 +462,17 @@
                 "desor": "DE5102n"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "51-01-21-016",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5102o"
+                "desor": "DE5102o",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "51-01-21-016",
+                "index": "51-01-21-016a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "RRe",
@@ -485,137 +484,149 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "51-01-21-016b",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "RRe",
+                        "catalog": "RR 4"
+                    },
+                    {
+                        "label": "VoA",
+                        "catalog": "J-13/14",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "51-01-21-016c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "RRe",
+                        "catalog": "RR 4"
+                    },
+                    {
+                        "label": "VoA",
+                        "catalog": "J-13/14",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "51-01-21-016d",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "RRe",
+                        "catalog": "RR 4"
+                    },
+                    {
+                        "label": "VoA",
+                        "catalog": "J-13/14",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "51-01-21-016e",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "RRe",
+                        "catalog": "RR 4"
+                    },
+                    {
+                        "label": "VoA",
+                        "catalog": "J-13/14",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "51-01-21-016f",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "RRe",
+                        "catalog": "RR 4"
+                    },
+                    {
+                        "label": "VoA",
+                        "catalog": "J-13/14",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "51-01-21-016g",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "RRe",
+                        "catalog": "RR 4"
+                    },
+                    {
+                        "label": "VoA",
+                        "catalog": "J-13/14",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "51-01-21-016h",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "RRe",
+                        "catalog": "RR 4"
+                    },
+                    {
+                        "label": "VoA",
+                        "catalog": "J-13/14",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "51-01-21-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "RRe",
-                        "catalog": "RR 4"
-                    },
-                    {
-                        "label": "VoA",
-                        "catalog": "J-13/14",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-01-21-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "RRe",
-                        "catalog": "RR 4"
-                    },
-                    {
-                        "label": "VoA",
-                        "catalog": "J-13/14",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-01-21-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "RRe",
-                        "catalog": "RR 4"
-                    },
-                    {
-                        "label": "VoA",
-                        "catalog": "J-13/14",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-01-21-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "RRe",
-                        "catalog": "RR 4"
-                    },
-                    {
-                        "label": "VoA",
-                        "catalog": "J-13/14",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-01-21-021",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
-                "releases": [
-                    {
-                        "label": "RRe",
-                        "catalog": "RR 4"
-                    },
-                    {
-                        "label": "VoA",
-                        "catalog": "J-13/14",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-01-21-022",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
-                "releases": [
-                    {
-                        "label": "RRe",
-                        "catalog": "RR 4"
-                    },
-                    {
-                        "label": "VoA",
-                        "catalog": "J-13/14",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-01-21-023",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.  I Let A Song & Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "RRe",
-                        "catalog": "RR 4"
-                    },
-                    {
-                        "label": "VoA",
-                        "catalog": "J-13/14",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-01-21-024",
                 "matrix": null,
                 "title": "St. Louis Blues - vRN",
                 "releases": [
@@ -629,7 +640,7 @@
             },
             {
                 "type": "take",
-                "index": "51-01-21-025",
+                "index": "51-01-21-018",
                 "matrix": null,
                 "title": "Blue Skies [Trumpet No End]",
                 "releases": [
@@ -666,100 +677,110 @@
                 "value": "Duke Ellington(p)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5103a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "51-01-23-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Mood Indigo",
-                "releases": [],
-                "desor": null
+                "desor": "DE5103a",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "51-01-23-002",
+                "index": "51-01-23-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "51-01-23-003",
+                "index": "51-01-23-001b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Sophisticated Lady",
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "51-01-23-004",
+                "index": "51-01-23-001c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. In A Sentimental Mood",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "51-01-23-005",
+                "index": "51-01-23-001d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Solitude",
+                "title": "In A Sentimental Mood",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "51-01-23-006",
+                "index": "51-01-23-001e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "51-01-23-007",
+                "index": "51-01-23-001f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. I Let A Song Go Out Of My Heart",
+                "title": "Caravan",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "take",
-                "index": "51-01-23-008",
+                "index": "51-01-23-001g",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.  Take The \"A\" Train",
+                "title": "I Let A Song Go Out Of My Heart",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "g"
             },
             {
                 "type": "take",
-                "index": "51-01-23-009",
+                "index": "51-01-23-001h",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.  I Got It Bad And That Ain't Good",
+                "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "h"
             },
             {
                 "type": "take",
-                "index": "51-01-23-010",
+                "index": "51-01-23-001i",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. Don't Get Around Much Anymore",
+                "title": "I Got It Bad And That Ain't Good",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "i"
             },
             {
                 "type": "take",
-                "index": "51-01-23-011",
+                "index": "51-01-23-001j",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. Do Nothin' Till You Hear From Me",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "take",
+                "index": "51-01-23-001k",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [],
+                "desor": null,
+                "medley_index": "k"
             }
         ]
     },
@@ -1761,72 +1782,82 @@
                 "value": "Duke Ellington(p); Ken Murray, unknown male, unknown female, choir(v) with David Brockman and His Orchestra."
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "51-05-19-001",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5108a"
+                "desor": "DE5108a",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "51-05-19-001",
+                "index": "51-05-19-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Caravan",
+                "title": "Caravan",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "51-05-19-001b",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "51-05-19-001c",
+                "matrix": null,
+                "title": "Mood Indigo - vCho",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "51-05-19-001d",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "51-05-19-001e",
+                "matrix": null,
+                "title": "I Got It Bad And That Ain't Good - vUF,Cho",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "51-05-19-001f",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart - vUM",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "51-05-19-001g",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore - vUM,UF,Cho",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "51-05-19-002",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-05-19-003",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo - vCho",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-05-19-004",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-05-19-005",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.  I Got It Bad And That Ain't Good - vUF,Cho",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-05-19-006",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. I Let A Song Go Out Of My Heart - vUM",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-05-19-007",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Don't Get Around Much Anymore - vUM,UF,Cho",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "51-05-19-008",
                 "matrix": null,
                 "title": "I Like The Wild Open Spaces - vKM,UF,Cho",
                 "releases": [],

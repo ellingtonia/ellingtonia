@@ -3787,18 +3787,17 @@
                 "value": "Duke Ellington(p): Gertrude Niesen, Choir(v) acc. by Jay Blackston and his Orchestra."
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "44-12-17-001",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4437a"
+                "desor": "DE4437a",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "44-12-17-001",
+                "index": "44-12-17-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -3806,67 +3805,76 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "44-12-17-001b",
+                "matrix": null,
+                "title": "Solitude - vCho",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "MALB-1",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "44-12-17-001c",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "MALB-1",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "44-12-17-001d",
+                "matrix": null,
+                "title": "Mood Indigo - vCho",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "MALB-1",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "44-12-17-001e",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vCho",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "MALB-1",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "44-12-17-002",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Solitude - vCho",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "MALB-1",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-17-003",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Caravan",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "MALB-1",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-17-004",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Mood Indigo - vCho",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "MALB-1",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-17-005",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;5. It Don't Mean A Thing (If It Ain't Got That Swing) - vCho",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "MALB-1",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-17-006",
                 "matrix": null,
                 "title": "Main Stem",
                 "releases": [
@@ -3880,7 +3888,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-17-007",
+                "index": "44-12-17-003",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vGN",
                 "releases": [
@@ -3894,7 +3902,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-17-008",
+                "index": "44-12-17-004",
                 "matrix": null,
                 "title": "Somebody Loves Me",
                 "releases": [],
@@ -4418,18 +4426,17 @@
                 "suite_title": null
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "44-12-19-025",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4438y"
+                "desor": "DE4438y",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "44-12-19-025",
+                "index": "44-12-19-025a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "Rt",
@@ -4437,81 +4444,91 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "44-12-19-025b",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Rt",
+                        "catalog": "59",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "44-12-19-025c",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "Rt",
+                        "catalog": "59",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "44-12-19-025d",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "Rt",
+                        "catalog": "59",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "44-12-19-025e",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "Rt",
+                        "catalog": "59",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "44-12-19-025f",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [
+                    {
+                        "label": "Rt",
+                        "catalog": "59",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "44-12-19-026",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "Rt",
-                        "catalog": "59",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-19-027",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "Rt",
-                        "catalog": "59",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-19-028",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Caravan",
-                "releases": [
-                    {
-                        "label": "Rt",
-                        "catalog": "59",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-19-029",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;5. Solitude",
-                "releases": [
-                    {
-                        "label": "Rt",
-                        "catalog": "59",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-19-030",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;6. I Let A Song Go Out Of My Heart",
-                "releases": [
-                    {
-                        "label": "Rt",
-                        "catalog": "59",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "44-12-19-031",
                 "matrix": null,
                 "title": "Mood To Be Wooed",
                 "releases": [
@@ -4533,7 +4550,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-19-032",
+                "index": "44-12-19-027",
                 "matrix": null,
                 "title": "Blue Cellophane",
                 "releases": [
@@ -4555,7 +4572,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-19-033",
+                "index": "44-12-19-028",
                 "matrix": null,
                 "title": "Air Conditioned Jungle",
                 "releases": [
@@ -4569,7 +4586,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-19-034",
+                "index": "44-12-19-029",
                 "matrix": null,
                 "title": "Frantic Fantasy",
                 "releases": [
@@ -4583,7 +4600,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-19-035",
+                "index": "44-12-19-030",
                 "matrix": null,
                 "title": "Blue Skies",
                 "releases": [
@@ -4605,7 +4622,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-19-036",
+                "index": "44-12-19-031",
                 "matrix": null,
                 "title": "¬ Frankie And Johnny",
                 "releases": [
@@ -4627,7 +4644,7 @@
             },
             {
                 "type": "take",
-                "index": "44-12-19-037",
+                "index": "44-12-19-032",
                 "matrix": null,
                 "title": "_| Metronome All Out",
                 "releases": [

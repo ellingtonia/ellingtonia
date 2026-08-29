@@ -354,18 +354,17 @@
                 "desor": "DE5404i"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE5404j"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "54-02-08-010",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "desor": "DE5404j",
+                "medley_title": "Medley:"
+            },
+            {
+                "type": "take",
+                "index": "54-02-08-010a",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "M&A",
@@ -377,13 +376,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "54-02-08-011",
+                "index": "54-02-08-010b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "M&A",
@@ -395,13 +395,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "54-02-08-012",
+                "index": "54-02-08-010c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "M&A",
@@ -413,13 +414,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "54-02-08-013",
+                "index": "54-02-08-010d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
+                "title": "I'm Beginning To See The Light",
                 "releases": [
                     {
                         "label": "M&A",
@@ -430,13 +432,14 @@
                         "catalog": "RDX-1000"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "54-02-08-014",
+                "index": "54-02-08-010e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "M&A",
@@ -448,13 +451,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "54-02-08-015",
+                "index": "54-02-08-010f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
+                "title": "Caravan",
                 "releases": [
                     {
                         "label": "M&A",
@@ -466,13 +470,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
             },
             {
                 "type": "take",
-                "index": "54-02-08-016",
+                "index": "54-02-08-010g",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
                 "releases": [
                     {
                         "label": "M&A",
@@ -484,13 +489,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "g"
             },
             {
                 "type": "take",
-                "index": "54-02-08-017",
+                "index": "54-02-08-010h",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Solitude",
+                "title": "Solitude",
                 "releases": [
                     {
                         "label": "M&A",
@@ -502,13 +508,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "h"
             },
             {
                 "type": "take",
-                "index": "54-02-08-018",
+                "index": "54-02-08-010i",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. C-Jam Blues",
+                "title": "C-Jam Blues",
                 "releases": [
                     {
                         "label": "M&A",
@@ -520,13 +527,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "i"
             },
             {
                 "type": "take",
-                "index": "54-02-08-019",
+                "index": "54-02-08-010j",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. I Let A Song & Don't Get Around Much",
+                "title": "I Let A Song & Don't Get Around Much",
                 "releases": [
                     {
                         "label": "M&A",
@@ -538,11 +546,16 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
-                "index": "54-02-08-020",
+                "index": "54-02-08-011",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [
@@ -560,7 +573,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-021",
+                "index": "54-02-08-012",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [
@@ -578,7 +591,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-022",
+                "index": "54-02-08-013",
                 "matrix": null,
                 "title": "Stompin' At The Savoy",
                 "releases": [
@@ -596,7 +609,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-023",
+                "index": "54-02-08-014",
                 "matrix": null,
                 "title": "¬ I Let A Song Go Out Of My Heart",
                 "releases": [
@@ -614,7 +627,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-024",
+                "index": "54-02-08-015",
                 "matrix": null,
                 "title": "_| Don't Get Around Much Anymore - vRN",
                 "releases": [
@@ -632,7 +645,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-025",
+                "index": "54-02-08-016",
                 "matrix": null,
                 "title": "Caravan",
                 "releases": [
@@ -650,7 +663,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-026",
+                "index": "54-02-08-017",
                 "matrix": null,
                 "title": "Bunny Hop Mambo",
                 "releases": [
@@ -668,7 +681,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-027",
+                "index": "54-02-08-018",
                 "matrix": null,
                 "title": "Isle Of Capri",
                 "releases": [
@@ -686,7 +699,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-028",
+                "index": "54-02-08-019",
                 "matrix": null,
                 "title": "The Hawk Talks",
                 "releases": [
@@ -704,7 +717,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-029",
+                "index": "54-02-08-020",
                 "matrix": null,
                 "title": "All The things You Are",
                 "releases": [
@@ -722,7 +735,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-030",
+                "index": "54-02-08-021",
                 "matrix": null,
                 "title": "Duet",
                 "releases": [
@@ -740,7 +753,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-031",
+                "index": "54-02-08-022",
                 "matrix": null,
                 "title": "Bluejean Beguine",
                 "releases": [
@@ -758,7 +771,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-032",
+                "index": "54-02-08-023",
                 "matrix": null,
                 "title": "Take The \"A\" Train - vRN",
                 "releases": [
@@ -776,7 +789,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-033",
+                "index": "54-02-08-024",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [
@@ -794,7 +807,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-034",
+                "index": "54-02-08-025",
                 "matrix": null,
                 "title": "Warm Valley",
                 "releases": [
@@ -812,7 +825,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-035",
+                "index": "54-02-08-026",
                 "matrix": null,
                 "title": "Jam With Sam",
                 "releases": [
@@ -830,7 +843,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-036",
+                "index": "54-02-08-027",
                 "matrix": null,
                 "title": "Take The \"A\" Train (theme)",
                 "releases": [
@@ -848,7 +861,7 @@
             },
             {
                 "type": "take",
-                "index": "54-02-08-037",
+                "index": "54-02-08-028",
                 "matrix": null,
                 "title": "God Save The Queen",
                 "releases": [
@@ -2759,44 +2772,47 @@
                 "value": "NBC television\nUnk(cl); Muzzy Marcellino(ac); Duke Ellington(p); Unk(sb)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE5414b"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "54-07-26-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Take The \"A\" Train",
-                "releases": [],
-                "desor": null
+                "desor": "DE5414b",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "54-07-26-003",
+                "index": "54-07-26-002a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
+                "title": "Take The \"A\" Train",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "54-07-26-004",
+                "index": "54-07-26-002b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Sophisticated Lady",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "54-07-26-005",
+                "index": "54-07-26-002c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Don't Get Around Much Anymore",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "54-07-26-002d",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
             }
         ]
     },

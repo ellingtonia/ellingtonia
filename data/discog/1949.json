@@ -1405,40 +1405,46 @@
                 "value": "Duke Ellington(p) with Raymond Scott and His Orchestra."
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "49-05-02-001",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4913a"
+                "desor": "DE4913a",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "49-05-02-001",
+                "index": "49-05-02-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "49-05-02-001b",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "49-05-02-001c",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "49-05-02-002",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "49-05-02-003",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "49-05-02-004",
                 "matrix": null,
                 "title": "Caravan",
                 "releases": [],
@@ -2056,68 +2062,74 @@
                 "value": "Duke Ellington(p) with studio orchestra cond. by Alan Roth."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4918a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "49-09-20-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
-                "releases": [],
-                "desor": null
+                "desor": "DE4918a",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "49-09-20-002",
+                "index": "49-09-20-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "49-09-20-003",
+                "index": "49-09-20-001b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "49-09-20-004",
+                "index": "49-09-20-001c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Solitude",
+                "title": "I'm Beginning To See The Light",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "49-09-20-005",
+                "index": "49-09-20-001d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Caravan",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "49-09-20-006",
+                "index": "49-09-20-001e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "title": "Caravan",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "49-09-20-007",
+                "index": "49-09-20-001f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Sophisticated Lady",
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "49-09-20-001g",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
             }
         ]
     },
@@ -2463,36 +2475,38 @@
                 "value": "Duke Ellington(p) with studio orchestra."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE9074a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "49-12-01-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Solitude",
-                "releases": [],
-                "desor": null
+                "desor": "DE9074a",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "49-12-01-002",
+                "index": "49-12-01-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Don't Get Around Much Anymore",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "49-12-01-003",
+                "index": "49-12-01-001b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Sophisticated Lady",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "49-12-01-001c",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
             }
         ]
     }

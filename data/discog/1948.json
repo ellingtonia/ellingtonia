@@ -706,18 +706,17 @@
                 "desor": "DE4802aa"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "48-11-13-028",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4802ab"
+                "desor": "DE4802ab",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "48-11-13-028",
+                "index": "48-11-13-028a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "AFRS",
@@ -737,245 +736,259 @@
                         "catalog": "1025-2"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028b",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028c",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028d",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028e",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028f",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028g",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028h",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028i",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "take",
+                "index": "48-11-13-028j",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-320",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "AFRS",
+                        "catalog": "J-342"
+                    },
+                    {
+                        "label": "Jo",
+                        "catalog": "5013"
+                    },
+                    {
+                        "label": "VJC",
+                        "catalog": "1025-2"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "48-11-13-029",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-030",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-031",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-032",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-033",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-034",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Caravan",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-035",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-036",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. Solitude",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-037",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. I Let A Song & Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-320",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "AFRS",
-                        "catalog": "J-342"
-                    },
-                    {
-                        "label": "Jo",
-                        "catalog": "5013"
-                    },
-                    {
-                        "label": "VJC",
-                        "catalog": "1025-2"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-11-13-038",
                 "matrix": null,
                 "title": "Limehouse Blues",
                 "releases": [
@@ -1001,7 +1014,7 @@
             },
             {
                 "type": "take",
-                "index": "48-11-13-039",
+                "index": "48-11-13-030",
                 "matrix": null,
                 "title": "Just A-Sittin' And A-Rockin' - vRN",
                 "releases": [
@@ -1023,7 +1036,7 @@
             },
             {
                 "type": "take",
-                "index": "48-11-13-040",
+                "index": "48-11-13-031",
                 "matrix": null,
                 "title": "Blue Skies",
                 "releases": [
@@ -1045,7 +1058,7 @@
             },
             {
                 "type": "take",
-                "index": "48-11-13-041",
+                "index": "48-11-13-032",
                 "matrix": null,
                 "title": "Things Ain't What They Used to Be",
                 "releases": [
@@ -2036,18 +2049,17 @@
                 "desor": "DE4808y"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "48-12-10-026",
                 "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": "DE4808z"
+                "desor": "DE4808z",
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
-                "index": "48-12-10-026",
+                "index": "48-12-10-026a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [
                     {
                         "label": "MM",
@@ -2059,155 +2071,168 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026b",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026c",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026d",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026e",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026f",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026g",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026h",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "48-12-10-026i",
+                "matrix": null,
+                "title": "I Let A Song & Don't Get Around Much",
+                "releases": [
+                    {
+                        "label": "MM",
+                        "catalog": "65162-2"
+                    },
+                    {
+                        "label": "WRC",
+                        "catalog": "T. 195",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "48-12-10-027",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Do Nothin' Till You Hear From Me",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-028",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-029",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-030",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-031",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-032",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Caravan",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-033",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. It Don't Mean A Thing (If It Ain't Got That Swing)",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-034",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I Let A Song & Don't Get Around Much",
-                "releases": [
-                    {
-                        "label": "MM",
-                        "catalog": "65162-2"
-                    },
-                    {
-                        "label": "WRC",
-                        "catalog": "T. 195",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "48-12-10-035",
                 "matrix": null,
                 "title": "Limehouse Blues",
                 "releases": [
@@ -2225,7 +2250,7 @@
             },
             {
                 "type": "take",
-                "index": "48-12-10-036",
+                "index": "48-12-10-028",
                 "matrix": null,
                 "title": "Blue Skies",
                 "releases": [
@@ -2239,7 +2264,7 @@
             },
             {
                 "type": "take",
-                "index": "48-12-10-037",
+                "index": "48-12-10-029",
                 "matrix": null,
                 "title": "Just A-Sittin' And A-Rockin' - vRN",
                 "releases": [
@@ -2257,7 +2282,7 @@
             },
             {
                 "type": "take",
-                "index": "48-12-10-038",
+                "index": "48-12-10-030",
                 "matrix": null,
                 "title": "Dancers In Love",
                 "releases": [

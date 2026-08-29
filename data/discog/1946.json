@@ -5733,18 +5733,17 @@
                 "desor": "DE4624g"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "46-07-27-008",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4624h"
+                "desor": "DE4624h",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "46-07-27-008",
+                "index": "46-07-27-008a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Black And Tan Fantasy",
+                "title": "Black And Tan Fantasy",
                 "releases": [
                     {
                         "label": "DETS",
@@ -5756,165 +5755,177 @@
                         "catalog": "903 9021"
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "46-07-27-008b",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-70",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "41"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9021"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "46-07-27-008c",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-70",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "41"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9021"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "46-07-27-008d",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-70",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "41"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9021"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "46-07-27-008e",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-70",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "41"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9021"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "46-07-27-008f",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-70",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "41"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9021"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "46-07-27-008g",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-70",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "41"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9021"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "46-07-27-008h",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart & Don't Get Around Much Anymore",
+                "releases": [
+                    {
+                        "label": "AFRS",
+                        "catalog": "DWTD-70",
+                        "first_issue": true
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "41"
+                    },
+                    {
+                        "label": "DETS",
+                        "catalog": "903 9021"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "46-07-27-009",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-70",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "41"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9021"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-07-27-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-70",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "41"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9021"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-07-27-011",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-70",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "41"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9021"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-07-27-012",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-70",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "41"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9021"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-07-27-013",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Caravan",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-70",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "41"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9021"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-07-27-014",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Solitude",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-70",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "41"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9021"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-07-27-015",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. I Let A Song Go Out Of My Heart & Don't Get Around Much Anymore",
-                "releases": [
-                    {
-                        "label": "AFRS",
-                        "catalog": "DWTD-70",
-                        "first_issue": true
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "41"
-                    },
-                    {
-                        "label": "DETS",
-                        "catalog": "903 9021"
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-07-27-016",
                 "matrix": null,
                 "title": "D.E. Bond Promo",
                 "releases": [
@@ -5932,7 +5943,7 @@
             },
             {
                 "type": "take",
-                "index": "46-07-27-017",
+                "index": "46-07-27-010",
                 "matrix": null,
                 "title": "Passion Flower",
                 "releases": [
@@ -5954,7 +5965,7 @@
             },
             {
                 "type": "take",
-                "index": "46-07-27-018",
+                "index": "46-07-27-011",
                 "matrix": null,
                 "title": "Just You, Just Me",
                 "releases": [
@@ -5980,7 +5991,7 @@
             },
             {
                 "type": "take",
-                "index": "46-07-27-019",
+                "index": "46-07-27-012",
                 "matrix": null,
                 "title": "You Don't Love Me No More - vAH",
                 "releases": [
@@ -6002,7 +6013,7 @@
             },
             {
                 "type": "take",
-                "index": "46-07-27-020",
+                "index": "46-07-27-013",
                 "matrix": null,
                 "title": "Unbooted Character",
                 "releases": [
@@ -6024,7 +6035,7 @@
             },
             {
                 "type": "take",
-                "index": "46-07-27-021",
+                "index": "46-07-27-014",
                 "matrix": null,
                 "title": "D.E. Bond Promo",
                 "releases": [
@@ -6042,7 +6053,7 @@
             },
             {
                 "type": "take",
-                "index": "46-07-27-022",
+                "index": "46-07-27-015",
                 "matrix": null,
                 "title": "Cotton Tail",
                 "releases": [
@@ -8887,32 +8898,17 @@
                 "desor": "DE4643a"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4643b"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "46-10-07-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "UtD",
-                        "catalog": "2001",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
+                "desor": "DE4643b",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "46-10-07-003",
+                "index": "46-10-07-002a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.Do Nothin' Till You Hear From Me",
+                "title": "I'm Beginning To See The Light",
                 "releases": [
                     {
                         "label": "UtD",
@@ -8920,13 +8916,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "46-10-07-004",
+                "index": "46-10-07-002b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Don't Get Around Much Anymore",
+                "title": "Do Nothin' Till You Hear From Me",
                 "releases": [
                     {
                         "label": "UtD",
@@ -8934,7 +8931,23 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "46-10-07-002c",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [
+                    {
+                        "label": "UtD",
+                        "catalog": "2001",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
             }
         ]
     },
@@ -9707,18 +9720,17 @@
                 "desor": "DE4647ab"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "46-11-10-029",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE4647ac"
+                "desor": "DE4647ac",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "46-11-10-029",
+                "index": "46-11-10-029a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. In A Sentimental Mood",
+                "title": "In A Sentimental Mood",
                 "releases": [
                     {
                         "label": "Pri",
@@ -9726,95 +9738,106 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "46-11-10-029b",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [
+                    {
+                        "label": "Pri",
+                        "catalog": "DC-02",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "46-11-10-029c",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [
+                    {
+                        "label": "Pri",
+                        "catalog": "DC-02",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "46-11-10-029d",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [
+                    {
+                        "label": "Pri",
+                        "catalog": "DC-02",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "46-11-10-029e",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [
+                    {
+                        "label": "Pri",
+                        "catalog": "DC-02",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "46-11-10-029f",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [
+                    {
+                        "label": "Pri",
+                        "catalog": "DC-02",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "46-11-10-029g",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart & Don't Get Around Much Anymore",
+                "releases": [
+                    {
+                        "label": "Pri",
+                        "catalog": "DC-02",
+                        "first_issue": true
+                    }
+                ],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "46-11-10-030",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
-                "releases": [
-                    {
-                        "label": "Pri",
-                        "catalog": "DC-02",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-11-10-031",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
-                "releases": [
-                    {
-                        "label": "Pri",
-                        "catalog": "DC-02",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-11-10-032",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
-                "releases": [
-                    {
-                        "label": "Pri",
-                        "catalog": "DC-02",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-11-10-033",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Caravan",
-                "releases": [
-                    {
-                        "label": "Pri",
-                        "catalog": "DC-02",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-11-10-034",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Solitude",
-                "releases": [
-                    {
-                        "label": "Pri",
-                        "catalog": "DC-02",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-11-10-035",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. I Let A Song Go Out Of My Heart & Don't Get Around Much Anymore",
-                "releases": [
-                    {
-                        "label": "Pri",
-                        "catalog": "DC-02",
-                        "first_issue": true
-                    }
-                ],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "46-11-10-036",
                 "matrix": null,
                 "title": "Just Squeeze Me (But Don't Tease Me) - vRN",
                 "releases": [],
@@ -9822,7 +9845,7 @@
             },
             {
                 "type": "take",
-                "index": "46-11-10-037",
+                "index": "46-11-10-031",
                 "matrix": null,
                 "title": "Blue Skies [Trumpet No End]",
                 "releases": [

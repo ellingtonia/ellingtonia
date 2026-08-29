@@ -2557,36 +2557,38 @@
                 "value": "Duke Ellington(p); acc. by Peter Van Steeden's Orchestra on \"I Let A Song Go Out Of My Heart.\""
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley:-",
-                "releases": [],
-                "desor": "DE3919a"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "39-09-20-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Sophisticated Lady",
-                "releases": [],
-                "desor": null
+                "desor": "DE3919a",
+                "medley_title": "Medley:-"
             },
             {
                 "type": "take",
-                "index": "39-09-20-002",
+                "index": "39-09-20-001a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Solitude",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "39-09-20-003",
+                "index": "39-09-20-001b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;3. I Let A Song Go Out Of My Heart",
+                "title": "Solitude",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "39-09-20-001c",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
             }
         ]
     },
@@ -3421,104 +3423,116 @@
                 "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Otto Hardwick(as); Harry Carney(bar); Duke Ellington(p); Fred Guy(g); Billy Taylor, Jimmie Blanton(sb); Sonny Greer(d,ch); Ivie Anderson(v)."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley:",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "39-11-24-001",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;1. Mood Indigo",
-                "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_title": "Medley:"
             },
             {
                 "type": "take",
+                "index": "39-11-24-001a",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-001b",
+                "matrix": null,
+                "title": "Liza",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-001c",
+                "matrix": null,
+                "title": "Black And Tan Fantasy",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-001d",
+                "matrix": null,
+                "title": "Ring Dem Bells",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
                 "index": "39-11-24-002",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Liza",
+                "desor": "DE3924a",
+                "medley_title": "Cavalcade of Hits :-"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-002a",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vIA",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-002b",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-002c",
+                "matrix": null,
+                "title": "Solitude",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-002d",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-002e",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "39-11-24-002f",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "39-11-24-003",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Black And Tan Fantasy",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-004",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;4. Ring Dem Bells",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Cavalcade of Hits :-",
-                "releases": [],
-                "desor": "DE3924a"
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-005",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;1. It Don't Mean A Thing (If It Ain't Got That Swing) - vIA",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-006",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;2. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-007",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;3. Solitude",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-008",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;4. In A Sentimental Mood",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-009",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;5. Caravan",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-010",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;6. I Let A Song Go Out Of My Heart",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "39-11-24-011",
                 "matrix": null,
                 "title": "I'm Checking Out - Goom Bye - vIA",
                 "releases": [
@@ -3544,7 +3558,7 @@
             },
             {
                 "type": "take",
-                "index": "39-11-24-012",
+                "index": "39-11-24-004",
                 "matrix": null,
                 "title": "Boy Meets Horn",
                 "releases": [],
@@ -3556,7 +3570,7 @@
             },
             {
                 "type": "take",
-                "index": "39-11-24-013",
+                "index": "39-11-24-005",
                 "matrix": null,
                 "title": "Beer Barrel Polka - vRF",
                 "releases": [],
@@ -3568,7 +3582,7 @@
             },
             {
                 "type": "take",
-                "index": "39-11-24-014",
+                "index": "39-11-24-006",
                 "matrix": null,
                 "title": "Tootin' Through The Roof",
                 "releases": [
@@ -3594,7 +3608,7 @@
             },
             {
                 "type": "take",
-                "index": "39-11-24-015",
+                "index": "39-11-24-007",
                 "matrix": null,
                 "title": "I'd Rather Lead A Band",
                 "releases": [],
