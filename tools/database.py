@@ -507,12 +507,6 @@ def load_from_json():
                         jentry["suite_index"] if "suite_index" in jentry else None
                     )
 
-                    assert current_medley is None or current_attacca is None, (
-                        "take can't be inside both a named medley and an "
-                        "attacca",
-                        title,
-                    )
-
                     entry = Entry(
                         type="take",
                         index=index,
