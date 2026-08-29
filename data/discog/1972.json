@@ -9742,56 +9742,64 @@
                 "desor": "DE7243n"
             },
             {
-                "type": "take",
+                "type": "medley",
                 "index": "72-08-31-015",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE7243o"
+                "desor": "DE7243o",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": null,
+                "index": "72-08-31-015a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't Get Around Much Anymore",
+                "title": "Don't Get Around Much Anymore",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "72-08-31-015b",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "72-08-31-015c",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "72-08-31-015d",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "72-08-31-015e",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "72-08-31-016",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "72-08-31-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I'm Beginning To See The Light",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "72-08-31-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I Let A Song Go Out Of My Heart",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "72-08-31-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "72-08-31-020",
                 "matrix": null,
                 "title": "Love Scene - vTW",
                 "releases": [],
@@ -9799,7 +9807,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-021",
+                "index": "72-08-31-017",
                 "matrix": null,
                 "title": "Mood Indigo - vTW",
                 "releases": [],
@@ -9807,7 +9815,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-022",
+                "index": "72-08-31-018",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -9815,7 +9823,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-023",
+                "index": "72-08-31-019",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -9835,7 +9843,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-024",
+                "index": "72-08-31-020",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -9846,7 +9854,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-025",
+                "index": "72-08-31-021",
                 "matrix": null,
                 "title": "Kinda Dukish",
                 "releases": [],
@@ -9855,7 +9863,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-026",
+                "index": "72-08-31-022",
                 "matrix": null,
                 "title": "Rockin' In Rhythm",
                 "releases": [],
@@ -9867,7 +9875,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-027",
+                "index": "72-08-31-023",
                 "matrix": null,
                 "title": "Goof",
                 "releases": [],
@@ -9875,7 +9883,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-028",
+                "index": "72-08-31-024",
                 "matrix": null,
                 "title": "Mris [Soul Soothing Beach]",
                 "releases": [],
@@ -9886,7 +9894,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-029",
+                "index": "72-08-31-025",
                 "matrix": null,
                 "title": "Tugo [Naturellement Part 1]",
                 "releases": [],
@@ -9895,7 +9903,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-030",
+                "index": "72-08-31-026",
                 "matrix": null,
                 "title": "Yoyo [Naturellement Part 2]",
                 "releases": [],
@@ -9907,7 +9915,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-031",
+                "index": "72-08-31-027",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -9915,7 +9923,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-032",
+                "index": "72-08-31-028",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -9923,7 +9931,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-033",
+                "index": "72-08-31-029",
                 "matrix": null,
                 "title": "Come Off The Veldt",
                 "releases": [],
@@ -9931,7 +9939,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-034",
+                "index": "72-08-31-030",
                 "matrix": null,
                 "title": "New York, New York - vAMo",
                 "releases": [],
@@ -9939,7 +9947,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-035",
+                "index": "72-08-31-031",
                 "matrix": null,
                 "title": "I Didn't Know About You - vAMo",
                 "releases": [],
@@ -9947,7 +9955,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-036",
+                "index": "72-08-31-032",
                 "matrix": null,
                 "title": "Blem - vAMo",
                 "releases": [],
@@ -9959,7 +9967,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-037",
+                "index": "72-08-31-033",
                 "matrix": null,
                 "title": "Happy Reunion",
                 "releases": [],
@@ -9971,7 +9979,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-038",
+                "index": "72-08-31-034",
                 "matrix": null,
                 "title": "Hello, Dolly! - vMJ",
                 "releases": [],
@@ -9979,7 +9987,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-039",
+                "index": "72-08-31-035",
                 "matrix": null,
                 "title": "Sophisticated Lady",
                 "releases": [],
@@ -9987,7 +9995,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-040",
+                "index": "72-08-31-036",
                 "matrix": null,
                 "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
                 "releases": [],
@@ -9995,7 +10003,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-041",
+                "index": "72-08-31-037",
                 "matrix": null,
                 "title": "Do Nothin' Till You Hear From Me - vTW",
                 "releases": [],
@@ -10003,7 +10011,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-042",
+                "index": "72-08-31-038",
                 "matrix": null,
                 "title": "Mood Indigo - vTW",
                 "releases": [],
@@ -10011,7 +10019,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-043",
+                "index": "72-08-31-039",
                 "matrix": null,
                 "title": "Be Cool And Groovy For Me - vTW",
                 "releases": [],
@@ -10019,7 +10027,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-044",
+                "index": "72-08-31-040",
                 "matrix": null,
                 "title": "One More Time For The People - vAMo,TW",
                 "releases": [],
@@ -10027,7 +10035,7 @@
             },
             {
                 "type": "take",
-                "index": "72-08-31-045",
+                "index": "72-08-31-041",
                 "matrix": null,
                 "title": "Things Ain't What They Used To Be",
                 "releases": [],
