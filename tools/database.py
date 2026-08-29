@@ -455,6 +455,7 @@ def load_from_json():
                             matrix=jentry["matrix"],
                             desor=jentry["desor"],
                             medley_title=medley_title,
+                            suite_title=suite_title,
                         )
                         for key in ENTRY_LINKS:
                             setattr(current_medley, key, jentry.get(key))
@@ -782,7 +783,7 @@ def save_to_json(database):
             medley = None
             attacca = None
             for entry in database.get_entries(session):
-                if entry.type == "take" and entry.suite_title != suite_title:
+                if entry.type in ("take", "medley") and entry.suite_title != suite_title:
                     suite_title = entry.suite_title
                     json_entries.append({"type": "suite", "suite_title": suite_title})
                 if entry.type == "take" and entry.medley != medley and entry.medley is None:

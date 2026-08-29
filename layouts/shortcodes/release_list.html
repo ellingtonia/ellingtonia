@@ -92,6 +92,11 @@ case tracks are listed in the order in they were recorded.</p>
               <td>{{ $entry.matrix }}</td>
               <td>
                 <span class="suite">{{ $.Page.RenderString $entry.medley_title }} </span>
+                {{ range $link_data := $.Site.Params.entry_links }}
+                  {{- if index $entry $link_data.key -}}
+                    <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>
+                  {{- end -}}
+                {{- end -}}
               </td>
               <td>{{ $entry.desor }}</td>
             {{ else }}
