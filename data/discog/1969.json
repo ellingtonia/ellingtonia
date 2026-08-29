@@ -10549,18 +10549,17 @@
                 "desor": "DE6957m"
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6957n"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "69-11-10-014",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Caravan",
+                "desor": "DE6957n",
+                "medley_title": "Medley"
+            },
+            {
+                "type": "take",
+                "index": "69-11-10-014a",
+                "matrix": null,
+                "title": "Caravan",
                 "releases": [
                     {
                         "label": "JL",
@@ -10572,13 +10571,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "69-11-10-015",
+                "index": "69-11-10-014b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [
                     {
                         "label": "JL",
@@ -10590,13 +10590,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "69-11-10-016",
+                "index": "69-11-10-014c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light",
+                "title": "I'm Beginning To See The Light",
                 "releases": [
                     {
                         "label": "JL",
@@ -10604,13 +10605,14 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "69-11-10-017",
+                "index": "69-11-10-014d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Sophisticated Lady",
+                "title": "Sophisticated Lady",
                 "releases": [
                     {
                         "label": "JL",
@@ -10618,14 +10620,19 @@
                         "first_issue": true
                     }
                 ],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "begin_attacca"
             },
             {
                 "type": "take",
-                "index": "69-11-10-018",
+                "index": "69-11-10-015",
                 "matrix": null,
                 "title": "Diminuendo In Blue",
                 "releases": [
@@ -10644,7 +10651,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-019",
+                "index": "69-11-10-016",
                 "matrix": null,
                 "title": "Wailing Interval",
                 "releases": [
@@ -10675,7 +10682,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-020",
+                "index": "69-11-10-017",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
@@ -10683,7 +10690,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-021",
+                "index": "69-11-10-018",
                 "matrix": null,
                 "title": "The Biggest And Busiest Intersection [Kixx]",
                 "releases": [],
@@ -10691,7 +10698,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-022",
+                "index": "69-11-10-019",
                 "matrix": null,
                 "title": "Black Power",
                 "releases": [],
@@ -10699,7 +10706,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-023",
+                "index": "69-11-10-020",
                 "matrix": null,
                 "title": "Fife",
                 "releases": [],
@@ -10707,7 +10714,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-024",
+                "index": "69-11-10-021",
                 "matrix": null,
                 "title": "Passion Flower",
                 "releases": [
@@ -10721,7 +10728,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-025",
+                "index": "69-11-10-022",
                 "matrix": null,
                 "title": "Drag",
                 "releases": [
@@ -10735,7 +10742,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-026",
+                "index": "69-11-10-023",
                 "matrix": null,
                 "title": "Laying On Mellow",
                 "releases": [],
@@ -10743,7 +10750,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-027",
+                "index": "69-11-10-024",
                 "matrix": null,
                 "title": "The Blues - vTW",
                 "releases": [],
@@ -10751,7 +10758,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-028",
+                "index": "69-11-10-025",
                 "matrix": null,
                 "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
                 "releases": [],
@@ -10759,7 +10766,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-029",
+                "index": "69-11-10-026",
                 "matrix": null,
                 "title": "Be Cool And Groovy For Me - vTW",
                 "releases": [],
@@ -10767,7 +10774,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-030",
+                "index": "69-11-10-027",
                 "matrix": null,
                 "title": "Birth Of The Blues",
                 "releases": [],
@@ -10775,7 +10782,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-031",
+                "index": "69-11-10-028",
                 "matrix": null,
                 "title": "R.T.M.",
                 "releases": [],
@@ -10783,7 +10790,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-10-032",
+                "index": "69-11-10-029",
                 "matrix": null,
                 "title": "Satin Doll",
                 "releases": [],
@@ -13926,136 +13933,154 @@
                 "desor": "DE6970o"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "69-11-29-016",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6970p"
+                "desor": "DE6970p",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "69-11-29-016",
+                "index": "69-11-29-016a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Don't You Know I Care (Or Don't You Care To Know)",
+                "title": "Don't You Know I Care (Or Don't You Care To Know)",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016b",
+                "matrix": null,
+                "title": "In A Sentimental Mood",
+                "releases": [],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016c",
+                "matrix": null,
+                "title": "Prelude To A Kiss",
+                "releases": [],
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016d",
+                "matrix": null,
+                "title": "I Let A Song Go Out Of My Heart",
+                "releases": [],
+                "desor": null,
+                "medley_index": "d"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016e",
+                "matrix": null,
+                "title": "Do Nothin' Till You Hear From Me",
+                "releases": [],
+                "desor": null,
+                "medley_index": "e"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016f",
+                "matrix": null,
+                "title": "Just Squeeze Me (But Don't Tease Me)",
+                "releases": [],
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016g",
+                "matrix": null,
+                "title": "Don't Get Around Much Anymore",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016h",
+                "matrix": null,
+                "title": "Mood Indigo",
+                "releases": [],
+                "desor": null,
+                "medley_index": "h"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016i",
+                "matrix": null,
+                "title": "I'm Beginning To See The Light",
+                "releases": [],
+                "desor": null,
+                "medley_index": "i"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016j",
+                "matrix": null,
+                "title": "The Blues - vTW",
+                "releases": [],
+                "desor": null,
+                "medley_index": "j"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016k",
+                "matrix": null,
+                "title": "It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
+                "releases": [],
+                "desor": null,
+                "medley_index": "k"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016l",
+                "matrix": null,
+                "title": "I Got It Bad And That Ain't Good",
+                "releases": [],
+                "desor": null,
+                "medley_index": "l"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016m",
+                "matrix": null,
+                "title": "Be Cool And Groovy For Me - vTW",
+                "releases": [],
+                "desor": null,
+                "medley_index": "m"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016n",
+                "matrix": null,
+                "title": "Sophisticated Lady",
+                "releases": [],
+                "desor": null,
+                "medley_index": "n"
+            },
+            {
+                "type": "take",
+                "index": "69-11-29-016o",
+                "matrix": null,
+                "title": "Caravan",
+                "releases": [],
+                "desor": null,
+                "medley_index": "o"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
                 "index": "69-11-29-017",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. In A Sentimental Mood",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-018",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Prelude To A Kiss",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-019",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I Let A Song Go Out Of My Heart",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-020",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5. Do Nothin' Till You Hear From Me",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-021",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Just Squeeze Me (But Don't Tease Me)",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-022",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Don't Get Around Much Anymore",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-023",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8. Mood Indigo",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-024",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9. I'm Beginning To See The Light",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-025",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;10. The Blues - vTW",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-026",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;11. It Don't Mean A Thing (If It Ain't Got That Swing) - vTW",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-027",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;12. I Got It Bad And That Ain't Good",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-028",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;13. Be Cool And Groovy For Me - vTW",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-029",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Sophisticated Lady",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-030",
-                "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;14. Caravan",
-                "releases": [],
-                "desor": null
-            },
-            {
-                "type": "take",
-                "index": "69-11-29-031",
                 "matrix": null,
                 "title": "In Triplicate",
                 "releases": [],
@@ -14063,7 +14088,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-29-032",
+                "index": "69-11-29-018",
                 "matrix": null,
                 "title": "Perdido",
                 "releases": [],
@@ -14071,7 +14096,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-29-033",
+                "index": "69-11-29-019",
                 "matrix": null,
                 "title": "R.T.M.",
                 "releases": [],
@@ -14083,7 +14108,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-29-034",
+                "index": "69-11-29-020",
                 "matrix": null,
                 "title": "Meditation",
                 "releases": [],
@@ -14115,7 +14140,7 @@
             },
             {
                 "type": "take",
-                "index": "69-11-29-035",
+                "index": "69-11-29-021",
                 "matrix": null,
                 "title": "Black Swan",
                 "releases": [],

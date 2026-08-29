@@ -2513,68 +2513,74 @@
                 "value": "Duke Ellington(p); Marion Lorne, Dorothy Loudon, Ron Martin, studio choir(v) acc by Irwin Costal Orchestra."
             },
             {
-                "type": "take",
-                "index": null,
-                "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6219c"
-            },
-            {
-                "type": "take",
+                "type": "medley",
                 "index": "62-05-04-003",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Sophisticated Lady",
-                "releases": [],
-                "desor": null
+                "desor": "DE6219c",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "62-05-04-004",
+                "index": "62-05-04-003a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solitude - vMLo",
+                "title": "Sophisticated Lady",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
             },
             {
                 "type": "take",
-                "index": "62-05-04-005",
+                "index": "62-05-04-003b",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. I Got It Bad And That Ain't Good - vDL",
+                "title": "Solitude - vMLo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "b"
             },
             {
                 "type": "take",
-                "index": "62-05-04-006",
+                "index": "62-05-04-003c",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I let A Song and Don't Get Around Much - vRMa",
+                "title": "I Got It Bad And That Ain't Good - vDL",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "c"
             },
             {
                 "type": "take",
-                "index": "62-05-04-007",
+                "index": "62-05-04-003d",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. I'm Beginning To See The Light - vRMa",
+                "title": "I let A Song and Don't Get Around Much - vRMa",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "d"
             },
             {
                 "type": "take",
-                "index": "62-05-04-008",
+                "index": "62-05-04-003e",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. Mood Indigo - vCho",
+                "title": "I'm Beginning To See The Light - vRMa",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "e"
             },
             {
                 "type": "take",
-                "index": "62-05-04-009",
+                "index": "62-05-04-003f",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7. Sophisticated Lady - vRMa,Cho",
+                "title": "Mood Indigo - vCho",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "f"
+            },
+            {
+                "type": "take",
+                "index": "62-05-04-003g",
+                "matrix": null,
+                "title": "Sophisticated Lady - vRMa,Cho",
+                "releases": [],
+                "desor": null,
+                "medley_index": "g"
             }
         ]
     },
@@ -2591,7 +2597,7 @@
             },
             {
                 "type": "take",
-                "index": "62-05-04-010",
+                "index": "62-05-04-004",
                 "matrix": null,
                 "title": "Take The \"A\" Train",
                 "releases": [],
