@@ -48,6 +48,47 @@ tr.suite td {
     padding-top: 10px;
 }
 
+tr.medley td {
+    padding-top: 10px;
+}
+
+tr.attacca_gap td {
+    padding-top: 10px;
+}
+
+/* A down arrow marks the first take of the run and an up arrow marks the
+   last, pointing inward to bracket the run together; takes in between get
+   an invisible placeholder of the same size instead, so every title in the
+   run still starts at the same indent. The marker sits inline right before
+   the title, the same way a medley's suite_details letter does, so attacca
+   titles line up with medley titles rather than getting their own indent.
+   Rule order matters: later rules override earlier ones for rows they also
+   match (a "last" row is also a "middle" row by the base rule, and a
+   single-take run is both "first" and "last"). :not(:has(+ ...)) is what
+   detects "last" - no following sibling in the same run - since CSS
+   selectors otherwise can't look ahead. */
+tr.take.attacca td.title::before {
+    content: "\2193";
+    color: transparent;
+    font-size: 66%;
+    margin-right: 4px;
+}
+
+tr.take.attacca:not(tr.take.attacca + tr.take.attacca) td.title::before {
+    content: "\2193";
+    color: #767676;
+}
+
+tr.take.attacca:not(:has(+ tr.take.attacca)) td.title::before {
+    content: "\2191";
+    color: #767676;
+}
+
+tr.take.attacca:not(tr.take.attacca + tr.take.attacca):not(:has(+ tr.take.attacca)) td.title::before {
+    content: "\2195";
+    color: #767676;
+}
+
 tr.take td {
     vertical-align: top;
 }
