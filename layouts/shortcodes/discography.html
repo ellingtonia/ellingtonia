@@ -78,6 +78,7 @@
           <td class="title">
             <span class="suite_details">{{ $entry.suite }} {{ $entry.suite_index }} {{ $entry.medley_index }}</span>
             {{ htmlUnescape $entry.title | safeHTML }}
+            {{ if $entry.vocalists }}<span class="vocalists"> - v{{ $entry.vocalists }}</span>{{ end }}
             {{ range $link_data := $.Site.Params.entry_links }}
               {{- if index $entry $link_data.key -}}
               <a href="{{ index $entry $link_data.key }}" class="discog_link">{{ $link_data.text }}</a>

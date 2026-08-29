@@ -38,6 +38,10 @@ table.discog_table .detail {
     font-size: 75%;
 }
 
+table.discog_table .vocalists {
+    font-style: italic;
+}
+
 tr.artists td {
     padding-top: 10px;
     padding-bottom: 10px;
