@@ -8884,20 +8884,24 @@
                 "desor": "DE6851g"
             },
             {
-                "type": "take",
-                "index": null,
+                "type": "medley",
+                "index": "68-09-23-008",
                 "matrix": null,
-                "title": "Medley",
-                "releases": [],
-                "desor": "DE6851h"
+                "desor": "DE6851h",
+                "medley_title": "Medley"
             },
             {
                 "type": "take",
-                "index": "68-09-23-008",
+                "index": "68-09-23-008a",
                 "matrix": null,
-                "title": "-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Mood Indigo",
+                "title": "Mood Indigo",
                 "releases": [],
-                "desor": null
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
