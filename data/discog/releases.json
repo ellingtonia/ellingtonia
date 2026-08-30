@@ -249,11 +249,30 @@
     },
     "BD": {
         "BDCD 1509": {},
-        "T-1001": {},
-        "T-1003": {},
-        "T1002": {},
-        "T1003": {},
-        "T1007": {}
+        "T-1001": {
+            "discogs": "https://www.discogs.com/release/6981840-Duke-Ellington-The-Unheard-And-Seldom-Heard-Ellington-Vol-1",
+            "title": "The Unheard And Seldom Heard Ellington - Vol. 1",
+            "format": "Vinyl",
+            "release_date": "1979-00-00"
+        },
+        "T-1003": {
+            "discogs": "https://www.discogs.com/release/6981852-Various-The-Unheard-And-Seldom-Heard-Ellington-Vol-2",
+            "title": "The Unheard And Seldom Heard Ellington - Vol. 2",
+            "format": "Vinyl",
+            "release_date": "1979-00-00"
+        },
+        "T1002": {
+            "format": "78rpm",
+            "release_date": "1924-12-00"
+        },
+        "T1003": {
+            "format": "78rpm",
+            "release_date": "1924-12-00"
+        },
+        "T1007": {
+            "format": "78rpm",
+            "release_date": "1924-12-00"
+        }
     },
     "BFR": {
         "BCD-16340": {}
@@ -285,18 +304,36 @@
         "BS-7128": {}
     },
     "Ba": {
-        "0594": {},
-        "0598": {},
-        "0607": {},
-        "32070": {},
-        "32518": {}
+        "0594": {
+            "format": "78rpm",
+            "release_date": "1930-02-00"
+        },
+        "0598": {
+            "format": "78rpm",
+            "release_date": "1930-02-00"
+        },
+        "0607": {
+            "format": "78rpm",
+            "release_date": "1930-03-00"
+        },
+        "32070": {
+            "format": "78rpm",
+            "release_date": "1931-01-00"
+        },
+        "32518": {
+            "format": "78rpm",
+            "release_date": "1932-00-00"
+        }
     },
     "Bb": {
         "07863 66551 2": {},
         "09026-63953-2": {},
         "2178-2-RB": {},
         "2499-2-RB": {},
-        "30-0817": {},
+        "30-0817": {
+            "format": "78rpm",
+            "release_date": "1944-08-18"
+        },
         "5659-2-RB": {
             "discogs": "https://www.discogs.com/release/4311421-Duke-Ellington-The-Blanton-Webster-Band",
             "title": "The Blanton-Webster Band",
@@ -320,15 +357,42 @@
         "82876-60091-2-2": {
             "note": "DVD accompanying 82876-60091-2-1"
         },
-        "B-10946": {},
-        "B-10981": {},
-        "B-11021": {},
-        "B-11057": {},
-        "B-11098": {},
-        "B-11117": {},
-        "B-11258": {},
-        "B-11447": {},
-        "B-11581": {},
+        "B-10946": {
+            "format": "78rpm",
+            "release_date": "1940-11-29"
+        },
+        "B-10981": {
+            "format": "78rpm",
+            "release_date": "1940-12-20"
+        },
+        "B-11021": {
+            "format": "78rpm",
+            "release_date": "1941-01-24"
+        },
+        "B-11057": {
+            "format": "78rpm",
+            "release_date": "1941-02-21"
+        },
+        "B-11098": {
+            "format": "78rpm",
+            "release_date": "1941-03-28"
+        },
+        "B-11117": {
+            "format": "78rpm",
+            "release_date": "1941-04-18"
+        },
+        "B-11258": {
+            "format": "78rpm",
+            "release_date": "1941-08-15"
+        },
+        "B-11447": {
+            "format": "78rpm",
+            "release_date": "1942-02-06"
+        },
+        "B-11581": {
+            "format": "78rpm",
+            "release_date": "1941-09-18"
+        },
         "ND86287": {}
     },
     "Bbe": {
@@ -342,115 +406,397 @@
         "601": {}
     },
     "Br": {
-        "20105": {},
-        "3480": {},
-        "3526": {},
+        "20105": {
+            "format": "78rpm, 12\"",
+            "release_date": "1932"
+        },
+        "3480": {
+            "format": "78rpm",
+            "release_date": "1927-03-26"
+        },
+        "3526": {
+            "format": "78rpm",
+            "release_date": "1927-05-28"
+        },
         "3987(Canada)": {
+            "format": "78rpm",
             "note": "All copies of US Brunswick 3987 contain Tishomingo Blues -A. All copies of Canadian Brunswick 3987 contain Tishomingo Blues take B."
         },
-        "3987(U.S.)": {},
-        "4009": {},
-        "4044": {},
-        "4110": {},
-        "4122": {},
-        "4238": {},
-        "4309": {},
-        "4345": {},
-        "4492": {},
-        "4535": {},
-        "4705": {},
-        "4723(Canada)": {},
-        "4760": {},
-        "4776": {},
-        "4783": {},
-        "4887": {},
-        "4952": {},
-        "6003": {},
-        "6038": {},
-        "6093": {},
-        "6265": {},
-        "6288": {},
-        "6317": {},
-        "6336": {},
-        "6355": {},
-        "6374": {},
-        "6404": {},
-        "6432": {},
-        "6467": {},
-        "6516": {},
-        "6517": {},
-        "6518": {},
-        "6519": {},
-        "6521": {},
-        "6527": {},
-        "6571": {},
-        "6600": {},
-        "6607": {},
-        "6638": {},
-        "6646": {},
-        "6987": {},
-        "7310": {},
-        "7440": {},
-        "7461": {},
-        "7514": {},
-        "7526": {},
-        "7546": {},
-        "7547": {},
-        "7625": {},
-        "7627": {},
-        "7650": {},
-        "7667": {},
-        "7710": {},
-        "7734": {},
-        "7752": {},
-        "80047": {},
-        "BL 54036": {},
-        "m8004": {},
-        "m8029": {},
-        "m8044": {},
-        "m8063": {},
-        "m8083": {},
-        "m8093": {},
-        "m8099": {},
-        "m8108": {},
-        "m8131": {},
-        "m8168": {},
-        "m8169": {},
-        "m8174": {},
-        "m8186": {},
-        "m8200": {},
-        "m8204": {},
-        "m8221": {},
-        "m8231": {},
-        "m8256": {},
-        "m8293": {},
-        "m8297": {},
-        "m8306": {},
-        "m8344": {},
-        "m8365": {},
-        "m8380": {},
-        "m8405": {},
-        "m8411": {}
+        "3987(U.S.)": {
+            "format": "78rpm",
+            "release_date": "1928-09-06"
+        },
+        "4009": {
+            "format": "78rpm",
+            "release_date": "1928-08-06"
+        },
+        "4044": {
+            "format": "78rpm",
+            "release_date": "1928-10-25"
+        },
+        "4110": {
+            "format": "78rpm",
+            "release_date": "1928-12-20"
+        },
+        "4122": {
+            "format": "78rpm",
+            "release_date": "1929-01-03"
+        },
+        "4238": {
+            "format": "78rpm",
+            "release_date": "1929-01-03"
+        },
+        "4309": {
+            "format": "78rpm",
+            "release_date": "1929-05-16"
+        },
+        "4345": {
+            "format": "78rpm",
+            "release_date": "1929-06-20"
+        },
+        "4492": {
+            "format": "78rpm",
+            "release_date": "1929-10-10"
+        },
+        "4535": {
+            "format": "78rpm",
+            "release_date": "1929-10-03"
+        },
+        "4705": {
+            "format": "78rpm",
+            "release_date": "1930-03-13"
+        },
+        "4723(Canada)": {
+            "format": "78rpm",
+            "release_date": "1930-04-00"
+        },
+        "4760": {
+            "format": "78rpm",
+            "release_date": "1930-05-30"
+        },
+        "4776": {
+            "format": "78rpm",
+            "release_date": "1930-05-22"
+        },
+        "4783": {
+            "format": "78rpm",
+            "release_date": "1930-05-10"
+        },
+        "4887": {
+            "format": "78rpm",
+            "release_date": "1930-09-18"
+        },
+        "4952": {
+            "format": "78rpm",
+            "release_date": "1930-12-11"
+        },
+        "6003": {
+            "format": "78rpm",
+            "release_date": "1931-01-29"
+        },
+        "6038": {
+            "format": "78rpm",
+            "release_date": "1931-03-12"
+        },
+        "6093": {
+            "format": "78rpm",
+            "release_date": "1931-05-14"
+        },
+        "6265": {
+            "format": "78rpm",
+            "release_date": "1932-02-18"
+        },
+        "6288": {
+            "format": "78rpm",
+            "release_date": "1932-05-05"
+        },
+        "6317": {
+            "format": "78rpm",
+            "release_date": "1932-06-02"
+        },
+        "6336": {
+            "format": "78rpm",
+            "release_date": "1932-07-09"
+        },
+        "6355": {
+            "format": "78rpm",
+            "release_date": "1932-08-13"
+        },
+        "6374": {
+            "format": "78rpm",
+            "release_date": "1932-09-17"
+        },
+        "6404": {
+            "format": "78rpm",
+            "release_date": "1932-10-22"
+        },
+        "6432": {
+            "format": "78rpm",
+            "release_date": "1932-12-03"
+        },
+        "6467": {
+            "format": "78rpm",
+            "release_date": "1933-01-21"
+        },
+        "6516": {
+            "format": "78rpm",
+            "release_date": "1933-03-00"
+        },
+        "6517": {
+            "format": "78rpm",
+            "release_date": "1933-03-00"
+        },
+        "6518": {
+            "format": "78rpm",
+            "release_date": "1933-03-00"
+        },
+        "6519": {
+            "format": "78rpm",
+            "release_date": "1933-03-00"
+        },
+        "6521": {
+            "format": "78rpm",
+            "release_date": "1933-03-00"
+        },
+        "6527": {
+            "format": "78rpm",
+            "release_date": "1933-03-14"
+        },
+        "6571": {
+            "format": "78rpm",
+            "release_date": "1933-05-20"
+        },
+        "6600": {
+            "format": "78rpm",
+            "release_date": "1933-06-03"
+        },
+        "6607": {
+            "format": "78rpm",
+            "release_date": "1933-07-15"
+        },
+        "6638": {
+            "format": "78rpm",
+            "release_date": "1933-09-02"
+        },
+        "6646": {
+            "format": "78rpm",
+            "release_date": "1933-09-16"
+        },
+        "6987": {
+            "format": "78rpm",
+            "release_date": "1934-10-13"
+        },
+        "7310": {
+            "format": "78rpm",
+            "release_date": "1934-11-17"
+        },
+        "7440": {
+            "format": "78rpm",
+            "release_date": "1935-06-01"
+        },
+        "7461": {
+            "format": "78rpm",
+            "release_date": "1935-06-29"
+        },
+        "7514": {
+            "format": "78rpm",
+            "release_date": "1935-09-07"
+        },
+        "7526": {
+            "format": "78rpm",
+            "release_date": "1935-09-28"
+        },
+        "7546": {
+            "format": "78rpm",
+            "release_date": "1935-11-02"
+        },
+        "7547": {
+            "format": "78rpm",
+            "release_date": "1935-11-02"
+        },
+        "7625": {
+            "format": "78rpm",
+            "release_date": "1936-03-14"
+        },
+        "7627": {
+            "format": "78rpm",
+            "release_date": "1936-03-21"
+        },
+        "7650": {
+            "format": "78rpm",
+            "release_date": "1936-04-22"
+        },
+        "7667": {
+            "format": "78rpm",
+            "release_date": "1936-05-23"
+        },
+        "7710": {
+            "format": "78rpm",
+            "release_date": "1936-08-08"
+        },
+        "7734": {
+            "format": "78rpm",
+            "release_date": "1936-09-19"
+        },
+        "7752": {
+            "format": "78rpm",
+            "release_date": "1936-10-17"
+        },
+        "80047": {
+            "format": "78rpm",
+            "release_date": "1944-06-08"
+        },
+        "BL 54036": {
+            "discogs": "https://www.discogs.com/release/36756118-Al-Hibbler-With-The-Ellingtonians-Al-Hibbler-With-The-Ellingtonians",
+            "title": "Al Hibbler With The Ellingtonians",
+            "format": "Vinyl",
+            "release_date": "1957-00-00"
+        },
+        "m8004": {
+            "format": "78rpm",
+            "release_date": "1937-11-13"
+        },
+        "m8029": {
+            "format": "78rpm",
+            "release_date": "1937-12-18"
+        },
+        "m8044": {
+            "format": "78rpm",
+            "release_date": "1938-01-08"
+        },
+        "m8063": {
+            "format": "78rpm",
+            "release_date": "1938-02-05"
+        },
+        "m8083": {
+            "format": "78rpm",
+            "release_date": "1938-03-05"
+        },
+        "m8093": {
+            "format": "78rpm",
+            "release_date": "1938-03-19"
+        },
+        "m8099": {
+            "format": "78rpm",
+            "release_date": "1938-03-26"
+        },
+        "m8108": {
+            "format": "78rpm",
+            "release_date": "1938-04-08"
+        },
+        "m8131": {
+            "format": "78rpm",
+            "release_date": "1938-05-12"
+        },
+        "m8168": {
+            "format": "78rpm",
+            "release_date": "1938-06-30"
+        },
+        "m8169": {
+            "format": "78rpm",
+            "release_date": "1938-07-07"
+        },
+        "m8174": {
+            "format": "78rpm",
+            "release_date": "1938-07-14"
+        },
+        "m8186": {
+            "format": "78rpm",
+            "release_date": "1938-07-28"
+        },
+        "m8200": {
+            "format": "78rpm",
+            "release_date": "1938-08-25"
+        },
+        "m8204": {
+            "format": "78rpm",
+            "release_date": "1938-09-01"
+        },
+        "m8221": {
+            "format": "78rpm",
+            "release_date": "1938-09-22"
+        },
+        "m8231": {
+            "format": "78rpm",
+            "release_date": "1938-10-06"
+        },
+        "m8256": {
+            "format": "78rpm",
+            "release_date": "1938-11-10"
+        },
+        "m8293": {
+            "format": "78rpm",
+            "release_date": "1939-01-12"
+        },
+        "m8297": {
+            "format": "78rpm",
+            "release_date": "1939-01-19"
+        },
+        "m8306": {
+            "format": "78rpm",
+            "release_date": "1939-02-02"
+        },
+        "m8344": {
+            "format": "78rpm",
+            "release_date": "1939-04-06"
+        },
+        "m8365": {
+            "format": "78rpm",
+            "release_date": "1939-05-04"
+        },
+        "m8380": {
+            "format": "78rpm",
+            "release_date": "1939-05-25"
+        },
+        "m8405": {
+            "format": "78rpm",
+            "release_date": "1939-06-06"
+        },
+        "m8411": {
+            "format": "78rpm",
+            "release_date": "1939-07-13"
+        }
     },
     "Br(E)": {
-        "01527": {},
-        "1338": {}
+        "01527": {
+            "format": "78rpm",
+            "release_date": "1933-06-00"
+        },
+        "1338": {
+            "format": "78rpm",
+            "release_date": "1932-06-00"
+        }
     },
     "Br(F)": {
-        "500158": {}
+        "500158": {
+            "format": "78rpm",
+            "release_date": "1933-03-00"
+        }
     },
     "Br(F,G)": {
-        "A 9331": {}
+        "A 9331": {
+            "format": "78rpm",
+            "release_date": "1933-00-00"
+        }
     },
     "Br/ARC": {
-        "4238": {}
+        "4238": {
+            "format": "78rpm",
+            "release_date": "1932-00-00"
+        }
     },
     "Bu": {
         "74465 99629 2": {}
     },
     "Buddy": {
-        "8010": {},
-        "8063": {}
+        "8010": {
+            "format": "78rpm",
+            "release_date": "1926-06-00"
+        },
+        "8063": {
+            "format": "78rpm",
+            "release_date": "1926-07-00"
+        }
     },
     "By": {
         "YX-2035": {

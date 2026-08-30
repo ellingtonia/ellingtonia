@@ -7,6 +7,7 @@ menu:
 ---
 
 ## August 2026
+* Releases: added 78rpm format and release dates to many entries, plus a couple of missing Discogs links, per Ezio Chiarelli's ongoing review.
 * 1923: revised the footnote on the earliest documented Ellington session per Steven Lasker's input, clarifying that the rejected trial recording doesn't survive in any form and that Snowden's extra saxophone was occasional rather than certain.
 * 1925: corrected the January session's date to "Circa January 1925" and credited it to "FLORENCE BRISTOL WITH DUKE ELLINGTON AND OTTO HARDWICK" rather than Florence Bristol alone.
 * Instruments: corrected "wh" from "washboard" to "whistle" (its actual meaning), and added a new code "wb" for washboard.
