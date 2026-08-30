@@ -97,6 +97,10 @@ tr.take td {
     vertical-align: top;
 }
 
+.ditto {
+    color: #767676;
+}
+
 tr.take td.index {
     white-space: nowrap; /* Prevent indices wrapping at "-" in Chrome, Safari */
 }
