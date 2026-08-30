@@ -37,6 +37,7 @@
     </tr>
 
     {{ $entries := .entries }}
+    {{ $prevMatrix := "" }}
     {{ range $i, $entry := $entries }}
       {{ if eq .type "suite" }}
         <tr class="suite">
@@ -44,9 +45,11 @@
           <td colspan="4"> {{ $.Page.RenderString .suite_title }} </td>
         </td>
       {{ else if eq .type "medley" }}
+        {{ $isDitto := and $entry.matrix (eq $entry.matrix $prevMatrix) }}
+        {{ $prevMatrix = $entry.matrix }}
         <tr class="medley" id="take-{{ .index }}">
           <td class="index"> {{ $entry.index }} </td>
-          <td> {{ $entry.matrix }} </td>
+          <td>{{ if $isDitto }}<span class="ditto" title="Same matrix number as the row above">&#34;</span>{{ else }}{{ $entry.matrix }}{{ end }}</td>
           <td colspan="2">
             {{ $.Page.RenderString .medley_title }}
             {{ range $link_data := $.Site.Params.entry_links }}
@@ -72,9 +75,11 @@
           </tr>
         {{ end }}
       {{ else if eq .type "take" }}
+        {{ $isDitto := and $entry.matrix (eq $entry.matrix $prevMatrix) }}
+        {{ $prevMatrix = $entry.matrix }}
         <tr class="take{{ if $entry.attacca }} attacca{{ end }}" id="take-{{ .index }}">
           <td class="index"> {{ $entry.index }} </td>
-          <td> {{ $entry.matrix }} </td>
+          <td>{{ if $isDitto }}<span class="ditto" title="Same matrix number as the row above">&#34;</span>{{ else }}{{ $entry.matrix }}{{ end }}</td>
           <td class="title">
             <span class="suite_details">{{ $entry.suite }} {{ $entry.suite_index }} {{ $entry.medley_index }}</span>
             {{ htmlUnescape $entry.title | safeHTML }}

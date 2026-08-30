@@ -156,6 +156,8 @@ Takes have the following properties, all of which must be present:
 * `title`: this is mainly obvious.
 * `desor`: may be null
 
+Where two or more takes genuinely share one physical matrix (e.g. an attacca run cut without lifting the needle, or several takes of the same title cut on one master), every take carries the same, full `matrix` value in the JSON — nothing is left blank or abbreviated to imply "same as before". Suppressing the repeat is purely a rendering concern, handled independently by `discography.html` and `release_list.html`: a take whose `matrix` exactly matches whatever rendered immediately above it in that page's own table renders as a ditto mark (`"`) instead of repeating the string. A ditto only ever asserts that the two shown values are equal — not that nothing else was recorded in between (the Releases page in particular only shows the subset of takes actually issued on a given catalog number, so its "row above" may not be the true immediately-preceding take).
+
 They may optionally have a `vocalists` field: a comma-separated list of vocalist initials, e.g. `"IM,BC"`, for a take that features singing. This renders appended to the title as `"<title> - v<vocalists>"` (e.g. `"I Can't Give You Anything But Love - vIM,BC"`). This replaces an older convention of baking the same suffix directly into the `title` string with no schema backing.
 
 They may also have the following links. These are to be used for a single entry only (i.e. not for a whole album):

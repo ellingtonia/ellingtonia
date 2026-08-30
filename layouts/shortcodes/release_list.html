@@ -76,6 +76,7 @@ case tracks are listed in the order in they were recorded.</p>
         <th>New DESOR</th>
       </tr>
       {{ $entries := $release_data.entries }}
+      {{ $prevMatrix := "" }}
       {{ range $i, $entry := $entries }}
         {{ if eq .type "suite" }}
           <tr class="suite">
@@ -85,11 +86,13 @@ case tracks are listed in the order in they were recorded.</p>
               </td>
           </tr>
         {{ else if eq .type "medley" }}
+          {{ $isDitto := and $entry.matrix (eq $entry.matrix $prevMatrix) }}
+          {{ $prevMatrix = $entry.matrix }}
           <tr class="medley">
             {{ if $entry.medley_title }}
               {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
               <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
-              <td>{{ $entry.matrix }}</td>
+              <td>{{ if $isDitto }}<span class="ditto" title="Same matrix number as the row above">&#34;</span>{{ else }}{{ $entry.matrix }}{{ end }}</td>
               <td>
                 <span class="suite">{{ $.Page.RenderString $entry.medley_title }} </span>
                 {{ range $link_data := $.Site.Params.entry_links }}
@@ -120,10 +123,12 @@ case tracks are listed in the order in they were recorded.</p>
             </tr>
           {{ end }}
         {{ else if eq .type "take" }}
+          {{ $isDitto := and $entry.matrix (eq $entry.matrix $prevMatrix) }}
+          {{ $prevMatrix = $entry.matrix }}
           <tr class="take{{ if $entry.attacca }} attacca{{ end }}">
             {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
             <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
-            <td>{{ $entry.matrix }}</td>
+            <td>{{ if $isDitto }}<span class="ditto" title="Same matrix number as the row above">&#34;</span>{{ else }}{{ $entry.matrix }}{{ end }}</td>
             <td class="title">
               {{ if $entry.disc_track }}
                 <span class="detail">({{ $entry.disc_track }})</span>
