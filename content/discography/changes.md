@@ -7,6 +7,8 @@ menu:
 ---
 
 ## August 2026
+* 1942: added a note to the April/May broadcasts that these titles are likely from different 1942 broadcasts; corrected a stray "Mainstem" to "Main Stem" (08 August session), per Steven Lasker.
+* 1943: retitled "Tonight I Shall Sleep" to "Tonight I Shall Sleep (With A Smile On My Face)" throughout, matching the subtitle also used in 1945, per Steven Lasker.
 * 1937: added a note to the 07 July session that Tea and Trumpets mx. M552-3 is misidentified as M552-2 on CBS(E) Realm M 52628 and CBS 88210, per Steven Lasker.
 * 1938: corrected the title "If You Were in My Place" to "If You Were In My Place (What Would You Do)" (28 March session); corrected the 25 June note to say Ellington was hospitalised for a hernia operation, not a minor operation, per Steven Lasker.
 * 1932: added a note on the 19 September session clarifying that Blue Mood mx. B12332-B and B12332-C are misidentified as each other on Ra RTE 23001, CBS 88035 and Gp 040, per Steven Lasker.
