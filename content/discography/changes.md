@@ -7,6 +7,7 @@ menu:
 ---
 
 ## August 2026
+* 1971: corrected the title "Gal From Joe's" to "The Gal From Joe's" (21 July session).
 * 1968, 1969: reformatted the Second Sacred Concert sessions to use the standard suite header/`suite_index` markup instead of numeric prefixes baked into the track titles; corrected two mistranscribed movement numbers found along the way (19 Jan 1968 "Supreme Being" and 22 Jan 1968 "Heaven").
 * 1967: corrected reed order for Gary Morgan from (bar,bcl) to (bcl,bar) on the two Nameless Hour sessions.
 * 1958, 1959: corrected the mislabelled Bandstand (Italy) CD BDCD 1509 from "BD" (Blu-Disc) to "BS" (Bandstand), and added it as a release to the other tracks on that CD.
