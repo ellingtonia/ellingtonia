@@ -7,6 +7,7 @@ menu:
 ---
 
 ## August 2026
+* 1958, 1959: corrected the mislabelled Bandstand (Italy) CD BDCD 1509 from "BD" (Blu-Disc) to "BS" (Bandstand), and added it as a release to the other tracks on that CD.
 * 1929: corrected catalog number Ace of Hearts AH-47 to AH.47, per Steven Lasker.
 * 1944: corrected the alternate title bracketing on "Rockabye River (Hop, Skip, Jump)" to "Rockabye River [Hop, Skip, Jump]" (May/June session).
 * 1942: added a note to the April/May broadcasts that these titles are likely from different 1942 broadcasts; corrected a stray "Mainstem" to "Main Stem" (08 August session), per Steven Lasker.
