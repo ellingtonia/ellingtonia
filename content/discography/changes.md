@@ -7,6 +7,7 @@ menu:
 ---
 
 ## August 2026
+* 1944: corrected the alternate title bracketing on "Rockabye River (Hop, Skip, Jump)" to "Rockabye River [Hop, Skip, Jump]" (May/June session).
 * 1942: added a note to the April/May broadcasts that these titles are likely from different 1942 broadcasts; corrected a stray "Mainstem" to "Main Stem" (08 August session), per Steven Lasker.
 * 1943: retitled "Tonight I Shall Sleep" to "Tonight I Shall Sleep (With A Smile On My Face)" throughout, matching the subtitle also used in 1945, per Steven Lasker.
 * 1937: added a note to the 07 July session that Tea and Trumpets mx. M552-3 is misidentified as M552-2 on CBS(E) Realm M 52628 and CBS 88210, per Steven Lasker.
