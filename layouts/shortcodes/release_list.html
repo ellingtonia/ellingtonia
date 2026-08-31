@@ -77,6 +77,7 @@ case tracks are listed in the order in they were recorded.</p>
       </tr>
       {{ $entries := $release_data.entries }}
       {{ $prevMatrix := "" }}
+      {{ $inAttacca := false }}
       {{ range $i, $entry := $entries }}
         {{ if eq .type "suite" }}
           <tr class="suite">
@@ -86,7 +87,7 @@ case tracks are listed in the order in they were recorded.</p>
               </td>
           </tr>
         {{ else if eq .type "medley" }}
-          {{ $isDitto := and $entry.matrix (eq $entry.matrix $prevMatrix) }}
+          {{ $isDitto := and $inAttacca $entry.matrix (eq $entry.matrix $prevMatrix) }}
           {{ $prevMatrix = $entry.matrix }}
           <tr class="medley">
             {{ if $entry.medley_title }}
@@ -109,10 +110,13 @@ case tracks are listed in the order in they were recorded.</p>
             {{ end }}
           </tr>
         {{ else if eq .type "begin_attacca" }}
+          {{ $inAttacca = true }}
+          {{ $prevMatrix = "" }}
           <tr class="attacca_gap">
             <td colspan="4"></td>
           </tr>
         {{ else if eq .type "end_attacca" }}
+          {{ $inAttacca = false }}
           {{ $next_type := "" }}
           {{ if lt (add $i 1) (len $entries) }}
             {{ $next_type = (index $entries (add $i 1)).type }}
@@ -123,7 +127,7 @@ case tracks are listed in the order in they were recorded.</p>
             </tr>
           {{ end }}
         {{ else if eq .type "take" }}
-          {{ $isDitto := and $entry.matrix (eq $entry.matrix $prevMatrix) }}
+          {{ $isDitto := and $inAttacca $entry.matrix (eq $entry.matrix $prevMatrix) }}
           {{ $prevMatrix = $entry.matrix }}
           <tr class="take{{ if $entry.attacca }} attacca{{ end }}">
             {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
