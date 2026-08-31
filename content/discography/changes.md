@@ -7,6 +7,8 @@ menu:
 ---
 
 ## August 2026
+* 1932: added a note on the 19 September session clarifying that Blue Mood mx. B12332-B and B12332-C are misidentified as each other on Ra RTE 23001, CBS 88035 and Gp 040, per Steven Lasker.
+* 1933: corrected catalog numbers Decca M-438 & M-439 to Decca M. 438 & M. 439; added first-issue flag to the 23 May session, per Steven Lasker.
 * Releases: added 78rpm format and release dates to many entries, plus a couple of missing Discogs links, per Ezio Chiarelli's ongoing review.
 * 1923: revised the footnote on the earliest documented Ellington session per Steven Lasker's input, clarifying that the rejected trial recording doesn't survive in any form and that Snowden's extra saxophone was occasional rather than certain.
 * 1925: corrected the January session's date to "Circa January 1925" and credited it to "FLORENCE BRISTOL WITH DUKE ELLINGTON AND OTTO HARDWICK" rather than Florence Bristol alone.
