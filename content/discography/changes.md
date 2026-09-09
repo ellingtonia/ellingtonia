@@ -6,6 +6,9 @@ menu:
     weight: 10
 ---
 
+## September 2026
+* 1936: split the two "attaccas" in the 21 December session (Mood Indigo/Solitude/Mood Indigo, then In A Sentimental Mood/Sophisticated Lady) into separate attacca runs.
+
 ## August 2026
 * 1970: reformatted the three remaining old-style suite sessions (09, 14 and 15 March) to use the standard suite header/`suite_index` markup; also completed the 26 July Second Sacred Concert conversion for its closing "Praise God And Dance" reprise, which sits after a "Come Sunday" interlude and needed the suite marker reopened for that one track (pending Ezio's confirmation).
 * 1971: corrected the title "Gal From Joe's" to "The Gal From Joe's" (21 July session).
