@@ -7,6 +7,7 @@ menu:
 ---
 
 ## September 2026
+* 1937: corrected the Republic film session location from "North Hollywood" to "Studio City" (18-25 February); added the subtitle "(If You Break My Heart)" to "You'll Never Go To Heaven" (20 May), noting it was issued as "You'll Never Get To Heaven" on C2K 46995; added release titles "The New Birmingham Breakdown" and "The New East St. Louis Toodle-O" (05 March), and noted "Dusk In The Desert" issued as such on several releases and on Br m8029 (20 September), per Ezio Chiarelli.
 * 1936: split the two "attaccas" in the 21 December session (Mood Indigo/Solitude/Mood Indigo, then In A Sentimental Mood/Sophisticated Lady) into separate attacca runs.
 
 ## August 2026

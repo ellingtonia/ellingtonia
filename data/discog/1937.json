@@ -4,7 +4,7 @@
         "location": "Los Angeles, CA",
         "date": "18-25 February 1937",
         "index_date": 370222,
-        "description": "Republic film recording session. Republic studios, North Hollywood.",
+        "description": "Republic film recording session. Republic studio, Studio City.",
         "entries": [
             {
                 "type": "artists",
@@ -102,7 +102,8 @@
                     {
                         "label": "Ma",
                         "catalog": "123",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The New Birmingham Breakdown"
                     },
                     {
                         "label": "Ms",
@@ -308,7 +309,8 @@
                     {
                         "label": "Ma",
                         "catalog": "101",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The New East St. Louis Toodle-O"
                     },
                     {
                         "label": "MoJ",
@@ -1913,7 +1915,7 @@
                 "type": "take",
                 "index": "37-05-20-005",
                 "matrix": "21188-1",
-                "title": "You'll Never Go To Heaven",
+                "title": "You'll Never Go To Heaven (If You Break My Heart)",
                 "vocalists": "BCk",
                 "releases": [
                     {
@@ -1938,7 +1940,7 @@
                 "type": "take",
                 "index": "37-05-20-006",
                 "matrix": "21188-2",
-                "title": "You'll Never Go To Heaven",
+                "title": "You'll Never Go To Heaven (If You Break My Heart)",
                 "vocalists": "BCk",
                 "releases": [
                     {
@@ -1951,7 +1953,8 @@
                     },
                     {
                         "label": "Co",
-                        "catalog": "C2K 46995"
+                        "catalog": "C2K 46995",
+                        "title": "You'll Never Get To Heaven"
                     },
                     {
                         "label": "LR",
@@ -1966,7 +1969,8 @@
                     {
                         "label": "Va",
                         "catalog": "576",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "You'll Never Go To Heaven (If You Break My Heart)"
                     }
                 ],
                 "desor": "DE3710e"
@@ -3421,15 +3425,18 @@
                     {
                         "label": "Br",
                         "catalog": "m8029",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Dusk In The Desert"
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": "Dusk In The Desert"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": "Dusk In The Desert"
                     },
                     {
                         "label": "LR",
@@ -3445,7 +3452,7 @@
             },
             {
                 "type": "note",
-                "content": "M650- is misidentified as M650-1 on Ra RTE23002, CBS 88210 and NW RP2042. Per a note on the Raretone LP: \"The short silent section at the end of Hodges' first solo in 'Harmony in Harlem' corresponds to the music portion left out due to an unavoidable 'skip' of the original recording.\" The source of this track might be an unprocessed acetate, since the ledger indicates takes one and two of 'Harmony in Harlem' were processed (and both are accounted for), while this take is a third."
+                "content": "M650- is misidentified as M650-1 on Ra RTE23002, CBS 88210 and NW RP2042. Per a note on the Raretone LP: \"The short silent section at the end of Hodges' first solo in 'Harmony in Harlem' corresponds to the music portion left out due to an unavoidable 'skip' of the original recording.\" The source of this track might be an unprocessed acetate, since the ledger indicates takes one and two of 'Harmony in Harlem' were processed (and both are accounted for), while this take is a third.\n\nThe last title was issued as Dusk In The Desert on Br m8029."
             }
         ]
     },
