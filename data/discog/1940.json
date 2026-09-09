@@ -157,7 +157,7 @@
                 "type": "take",
                 "index": "40-01-09-006",
                 "matrix": null,
-                "title": "Gal From Joe's",
+                "title": "The Gal From Joe's",
                 "releases": [
                     {
                         "label": "CC",
@@ -1228,6 +1228,27 @@
                     }
                 ],
                 "desor": "DE4006c"
+            }
+        ]
+    },
+    {
+        "group": "DUKE ELLINGTON AND HIS FAMOUS ORCHESTRA",
+        "location": "Unknown location, USA",
+        "date": "Circa Spring 1940",
+        "index_date": 400400,
+        "description": "Broadcast",
+        "entries": [
+            {
+                "type": "artists",
+                "value": "Wallace Jones, Cootie Williams, Rex Stewart(t); Lawrence Brown, Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges(ss,as); Otto Hardwick(cl,as); Ben Webster(ts); Harry Carney(cl,as,bar); Duke Ellington(p); Fred Guy(g); Jimmie Blanton(sb); Sonny Greer(d)."
+            },
+            {
+                "type": "take",
+                "index": "40-04-00-001",
+                "matrix": null,
+                "title": "Never No Lament",
+                "releases": [],
+                "desor": null
             }
         ]
     },
@@ -2609,7 +2630,7 @@
                 "type": "take",
                 "index": "40-09-05-002",
                 "matrix": "BS053428-1",
-                "title": "In A Mellow Tone",
+                "title": "In A Mellotone [In A Mellow Tone]",
                 "releases": [
                     {
                         "label": "AMSC",
@@ -2785,7 +2806,7 @@
                 "type": "take",
                 "index": "40-09-06-003",
                 "matrix": null,
-                "title": "Gal From Joe's",
+                "title": "The Gal From Joe's",
                 "releases": [
                     {
                         "label": "DESS",
@@ -6259,6 +6280,10 @@
                     }
                 ],
                 "desor": "DE4033f"
+            },
+            {
+                "type": "note",
+                "content": "NB. Two variants of Bbi B-11117 are known, one labelled as \"Queen Bess,\" the other as \"Good Queen Bess.\" The song, titled in honor of Katie Swan Hodges (Johnny's mother), was copyrighted as \"Good Queen Bess.\""
             }
         ]
     },
@@ -8391,7 +8416,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27380",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The Sidewalks of New York (East Side, West Side)"
                     }
                 ],
                 "desor": "DE4036a"
