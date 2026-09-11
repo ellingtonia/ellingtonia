@@ -7,6 +7,7 @@ menu:
 ---
 
 ## September 2026
+* 1945: added a note to the 14 May session on Ray Nance's possible absence from "Tonight I Shall Sleep"; added the subtitles "(With A Smile On My Face)" to "Tonight I Shall Sleep" and "(I Fall In Love With You)" to "Ev'ry Hour On The Hour" throughout; added the release title "Time's A-Wastin'" to the Victor 78 (30 July session), per Ezio Chiarelli.
 * 1943: corrected the title "Tonight I shall Sleep" (missing its subtitle due to a stray lowercase "shall") to "Tonight I Shall Sleep (With A Smile On My Face)" (06 June session), per Ezio Chiarelli.
 * 1940: added a new "Circa Spring 1940" broadcast session ("Never No Lament"); retitled "In A Mellow Tone" to "In A Mellotone [In A Mellow Tone]" (05 September session); corrected "Gal From Joe's" to "The Gal From Joe's" throughout; added a note to the 02 November session on the "Queen Bess"/"Good Queen Bess" label variants, per Ezio Chiarelli.
 * 1938: retitled "Blues In B Flat" to "Untitled Blues In B Flat" (24 February session), as the former reads as an official title; retitled "You Gave Me The Gate" to "You Gave Me The Gate (And I'm Swingin')" (06 October session), per S. Lasker.
