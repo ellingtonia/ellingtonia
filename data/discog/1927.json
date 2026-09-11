@@ -1,6 +1,6 @@
 [
     {
-        "group": "EVELYN  PREER",
+        "group": "MISS EVELYN PREER WITH DUKE ELLINGTON's ORCH.",
         "location": "New York City, NY",
         "date": "10 January 1927",
         "description": "Victor recording session",
@@ -13,7 +13,7 @@
                 "type": "take",
                 "index": "27-01-10-001",
                 "matrix": "BVE37527-3",
-                "title": "Make Me love You",
+                "title": "Make Me Love You",
                 "vocalists": "EPr",
                 "releases": [],
                 "desor": "DE2701a"
@@ -140,7 +140,8 @@
                     {
                         "label": "Vo",
                         "catalog": "1086",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Song Of The Cotton Field / New Orleans Low-Down"
                     }
                 ],
                 "desor": "DE2702a"
@@ -178,7 +179,8 @@
                     {
                         "label": "Vo",
                         "catalog": "1086",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Song Of The Cotton Field"
                     }
                 ],
                 "desor": "DE2702b"
@@ -216,7 +218,8 @@
                     {
                         "label": "Br",
                         "catalog": "3480",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Birmingham Breakdown"
                     },
                     {
                         "label": "Cl(F)",
@@ -266,7 +269,8 @@
                     {
                         "label": "Br",
                         "catalog": "3480",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "East St. Louis Toodle-O"
                     },
                     {
                         "label": "Cl(F)",
@@ -324,7 +328,8 @@
                     {
                         "label": "Co",
                         "catalog": "953-D",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "East St. Louis Toodle-O"
                     },
                     {
                         "label": "Co",
@@ -373,7 +378,8 @@
                     {
                         "label": "Co",
                         "catalog": "953-D",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Hop Head"
                     },
                     {
                         "label": "Co",
@@ -414,7 +420,8 @@
                     {
                         "label": "Co",
                         "catalog": "1076-D",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Down In Our Alley Blues"
                     },
                     {
                         "label": "Co",
@@ -459,7 +466,8 @@
                     {
                         "label": "Br",
                         "catalog": "3526",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy"
                     },
                     {
                         "label": "Cl(F)",
@@ -508,7 +516,8 @@
                 "releases": [
                     {
                         "label": "Br",
-                        "catalog": "3526"
+                        "catalog": "3526",
+                        "title": "Soliloquy"
                     },
                     {
                         "label": "Cl(F)",
@@ -537,10 +546,15 @@
                     {
                         "label": "Vo",
                         "catalog": "15555",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Soliloquy"
                     }
                 ],
                 "desor": "DE2707a"
+            },
+            {
+                "type": "note",
+                "content": "On Vocalion 15555 as by \"Traymore Orchestra.\""
             }
         ]
     },
@@ -703,7 +717,8 @@
                     {
                         "label": "Vi",
                         "catalog": "21137",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasie"
                     }
                 ],
                 "desor": "DE2709a"
@@ -745,7 +760,8 @@
                     {
                         "label": "Vi",
                         "catalog": "21284",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Washington Wabble"
                     }
                 ],
                 "desor": "DE2709b"
@@ -754,7 +770,7 @@
                 "type": "take",
                 "index": "27-10-26-003",
                 "matrix": "BVE39370-1",
-                "title": "Creole Love Call",
+                "title": "The Creole Love Call",
                 "vocalists": "AHa",
                 "releases": [
                     {
@@ -792,7 +808,8 @@
                     {
                         "label": "Vi",
                         "catalog": "21137",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Creole Love Call"
                     }
                 ],
                 "desor": "DE2709c"
@@ -839,7 +856,8 @@
                     {
                         "label": "Vi",
                         "catalog": "21490",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Blues I Love To Sing"
                     }
                 ],
                 "desor": "DE2709d"
@@ -886,6 +904,10 @@
                     }
                 ],
                 "desor": "DE2709e"
+            },
+            {
+                "type": "note",
+                "content": "\"The Creole Love Call\" was the title copyrighted on 16 August 1928. The track was released on Vi 21137 as \"Creole Love Call\", and has been known by that name ever since."
             }
         ]
     },
@@ -935,7 +957,8 @@
                     {
                         "label": "OK",
                         "catalog": "8521",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "What Can A Poor Fellow Do?"
                     }
                 ],
                 "desor": "DE2710a"
@@ -984,7 +1007,8 @@
                     {
                         "label": "OK",
                         "catalog": "40955",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy"
                     }
                 ],
                 "desor": "DE2710b"
@@ -1014,7 +1038,8 @@
                     {
                         "label": "OK",
                         "catalog": "8521",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy"
                     }
                 ],
                 "desor": "DE2710c"
@@ -1069,7 +1094,8 @@
                     {
                         "label": "OK",
                         "catalog": "8675",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Chicago Stomp Down"
                     }
                 ],
                 "desor": "DE2710d"
@@ -1192,7 +1218,13 @@
                     {
                         "label": "Vi",
                         "catalog": "21284",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Harlem River Quiver"
+                    },
+                    {
+                        "label": "Vi",
+                        "catalog": "22791",
+                        "title": "Brown Berries"
                     }
                 ],
                 "desor": "DE2712a"
@@ -1318,7 +1350,8 @@
                     {
                         "label": "Vi",
                         "catalog": "21703",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "East Saint Louis Toddle-Oo"
                     }
                 ],
                 "desor": "DE2712d"
@@ -1360,7 +1393,8 @@
                     {
                         "label": "Vi",
                         "catalog": "21490",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Blue Bubbles"
                     }
                 ],
                 "desor": "DE2712e"
@@ -1409,7 +1443,7 @@
             },
             {
                 "type": "note",
-                "content": "Blue Bubbles Take 2 is the only recording of Carney on soprano sax."
+                "content": "Harlem River Quiver take -1 was reissued on Victor 22791 (1932) under the title Brown Berries.\n\nBlue Bubbles Take 2 is the only recording of Carney on soprano sax."
             }
         ]
     },
@@ -1456,7 +1490,8 @@
                     {
                         "label": "Vo",
                         "catalog": "1153",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Red Hot Band"
                     }
                 ],
                 "desor": "DE2713a"
@@ -1494,7 +1529,8 @@
                     {
                         "label": "Vo",
                         "catalog": "1153",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Doin' the Frog"
                     }
                 ],
                 "desor": "DE2713b"
