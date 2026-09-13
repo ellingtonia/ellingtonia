@@ -151,6 +151,11 @@ class Release:
     label: Label
     catalog: str
 
+    # May also be the literal `True`, meaning the release is known to use
+    # the take's official title (as opposed to `None`/absent, meaning this
+    # hasn't been checked either way). `True` needs no special handling
+    # here since it round-trips through JSON load/save untouched like any
+    # other value; the Hugo templates are what treat it as absent.
     title: str = None
     format: str = None
     note: str = None

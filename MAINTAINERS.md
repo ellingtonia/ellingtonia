@@ -226,7 +226,7 @@ If `discogs` is provided, `title` and `format` are updated automatically.
 Supported fields include:
 
 * `discogs`, `musicbrainz`, `amazon`, `allmusic`, `archive`, `spotify`, `tidal`, `youtube`, `file`, `other`
-* `title`
+* `title`: may also be `true` instead of a string, meaning the release is known to use the official title, as opposed to omitting `title` entirely (not yet checked either way). The site treats `true` exactly like an absent title.
 * `format`
 * `note`
 * `release_date`
