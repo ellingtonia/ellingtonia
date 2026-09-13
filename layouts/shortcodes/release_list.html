@@ -143,7 +143,7 @@ case tracks are listed in the order in they were recorded.</p>
               {{ $.Page.RenderString $entry.title -}}
               {{ if $entry.vocalists }}<span class="vocalists"> -&nbsp;v{{ $entry.vocalists }}</span>{{ end }}
 
-              {{ if $entry.as_title }}
+              {{ if eq (printf "%T" $entry.as_title) "string" }}
                 <span class="detail">(as {{ $entry.as_title }})</span>
               {{ end }}
 
