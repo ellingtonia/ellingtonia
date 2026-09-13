@@ -107,7 +107,7 @@
               {{- $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
 
               {{- $title_str := "" -}}
-              {{- if eq (printf "%T" $release_info.title) "string" -}}
+              {{- if $release_info.title -}}
                 {{ $title_str = printf "%s (%s)" ($.Page.RenderString $release_info.title) $release_info.format }}
               {{- end -}}
 

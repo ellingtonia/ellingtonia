@@ -43,7 +43,7 @@ case tracks are listed in the order in they were recorded.</p>
     <h3 id="release-{{ $escaped_release_name }}">
       {{ $label }} {{ $catalog }}
 
-      {{ if eq (printf "%T" $release_data.title) "string" }}
+      {{ if $release_data.title }}
         "{{ $release_data.title }}" ({{ $release_data.format }})
       {{ end }}
 
