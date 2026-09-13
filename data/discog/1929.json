@@ -18,7 +18,8 @@
                     {
                         "label": "Br",
                         "catalog": "4345",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -51,12 +52,14 @@
                 "releases": [
                     {
                         "label": "Br(E)",
-                        "catalog": "1338"
+                        "catalog": "1338",
+                        "title": "Tiger Rag - Part 1"
                     },
                     {
                         "label": "Br/ARC",
                         "catalog": "4238",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -90,7 +93,13 @@
                     {
                         "label": "Br",
                         "catalog": "4238",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
+                    },
+                    {
+                        "label": "Br(E)",
+                        "catalog": "1338",
+                        "title": "Tiger Rag - Part 2"
                     },
                     {
                         "label": "COPS",
@@ -124,7 +133,13 @@
                     {
                         "label": "Br",
                         "catalog": "4238",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
+                    },
+                    {
+                        "label": "Br/ARC",
+                        "catalog": "4238",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -236,7 +251,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38035",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2902b"
@@ -278,7 +294,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38036",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2902c"
@@ -316,7 +333,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38036",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2902d"
@@ -380,7 +398,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38035",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2902f"
@@ -434,7 +453,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38045",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Japanese Dream"
                     }
                 ],
                 "desor": "DE2903a"
@@ -476,7 +496,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38045",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2903b"
@@ -502,7 +523,8 @@
                     {
                         "label": "Br",
                         "catalog": "4345",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -536,7 +558,8 @@
                     {
                         "label": "Br",
                         "catalog": "4309",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -570,7 +593,8 @@
                     {
                         "label": "Br",
                         "catalog": "4309",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -621,7 +645,8 @@
                     {
                         "label": "Cam",
                         "catalog": "9175",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -634,7 +659,8 @@
                     {
                         "label": "Lin",
                         "catalog": "3202",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -643,7 +669,8 @@
                     {
                         "label": "Ro",
                         "catalog": "977",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2906a"
@@ -662,7 +689,8 @@
                     {
                         "label": "Cam",
                         "catalog": "9195",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Who Said \"It's Tight Like That\""
                     },
                     {
                         "label": "CBS",
@@ -675,7 +703,8 @@
                     {
                         "label": "Lin",
                         "catalog": "3222",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Who Said \"It's Tight Like That\""
                     },
                     {
                         "label": "MoJ",
@@ -684,7 +713,8 @@
                     {
                         "label": "Ro",
                         "catalog": "997",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Who Said \"It's Tight Like That\""
                     }
                 ],
                 "desor": "DE2906b"
@@ -712,7 +742,8 @@
                     {
                         "label": "Cam",
                         "catalog": "9240",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -725,7 +756,8 @@
                     {
                         "label": "Lin",
                         "catalog": "3267",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -734,7 +766,8 @@
                     {
                         "label": "Ro",
                         "catalog": "1042",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2906c"
@@ -818,7 +851,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38053",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The Dicty Glide"
                     }
                 ],
                 "desor": "DE2905b"
@@ -857,7 +891,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38065",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2905c"
@@ -939,7 +974,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38065",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2905e"
@@ -977,7 +1013,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38053",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2905f"
@@ -1021,7 +1058,8 @@
                     {
                         "label": "Co(E)",
                         "catalog": "5486",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -1047,7 +1085,8 @@
                     {
                         "label": "Co",
                         "catalog": "1813-D",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1079,7 +1118,8 @@
                     {
                         "label": "Co",
                         "catalog": "1813-D",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1346,7 +1386,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38079",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2909a"
@@ -1384,7 +1425,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38058",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2909b"
@@ -1422,7 +1464,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38079",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2909c"
@@ -1468,7 +1511,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38058",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2909d"
@@ -1503,7 +1547,8 @@
                     {
                         "label": "Co",
                         "catalog": "36157",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1548,7 +1593,8 @@
                     {
                         "label": "Co",
                         "catalog": "1868-D",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1588,7 +1634,8 @@
                     {
                         "label": "Co",
                         "catalog": "1868-D",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1619,12 +1666,13 @@
                 "type": "take",
                 "index": "29-07-29-001",
                 "matrix": "E30585-B",
-                "title": "(What Did I Do To Be So) Black And Blue",
+                "title": "What Did I Do To Be So Black And Blue",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "4492",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "(What Did I Do To Be So) Black And Blue"
                     },
                     {
                         "label": "Cl(F)",
@@ -1658,7 +1706,8 @@
                     {
                         "label": "Br",
                         "catalog": "4492",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Jungle Jamboree"
                     },
                     {
                         "label": "Cl(F)",
@@ -1754,7 +1803,8 @@
                     {
                         "label": "OK",
                         "catalog": "8720",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Jungle Jamboree"
                     }
                 ],
                 "desor": "DE2912a"
@@ -1799,7 +1849,8 @@
                     {
                         "label": "OK",
                         "catalog": "8720",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2912c"
@@ -1900,7 +1951,8 @@
                     {
                         "label": "AdJ",
                         "catalog": "AFG 8",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy Part 1"
                     },
                     {
                         "label": "FR",
@@ -1944,7 +1996,8 @@
                     {
                         "label": "AdJ",
                         "catalog": "AFG 8",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy Part 1"
                     },
                     {
                         "label": "FR",
@@ -1974,7 +2027,8 @@
                     {
                         "label": "AdJ",
                         "catalog": "AFG 8",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy Part 1"
                     },
                     {
                         "label": "FR",
@@ -2113,7 +2167,8 @@
                     {
                         "label": "AdJ",
                         "catalog": "AFG 8",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy Part 2"
                     },
                     {
                         "label": "FR",
@@ -2149,7 +2204,8 @@
                         "label": "AdJ",
                         "catalog": "AFG 8",
                         "flags": "*",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Black And Tan Fantasy Part 2"
                     },
                     {
                         "label": "FR",
@@ -2194,7 +2250,8 @@
                 "releases": [
                     {
                         "label": "Cam",
-                        "catalog": "9306"
+                        "catalog": "9306",
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -2205,18 +2262,30 @@
                         "catalog": "577"
                     },
                     {
+                        "label": "Lin",
+                        "catalog": "3330",
+                        "title": true
+                    },
+                    {
                         "label": "MoJ",
                         "catalog": "MJCD 101"
                     },
                     {
                         "label": "PA",
                         "catalog": "37059",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "15240",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1101",
+                        "title": true
                     }
                 ],
                 "desor": "DE2914a"
@@ -2242,12 +2311,14 @@
                     {
                         "label": "PA",
                         "catalog": "37059",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "15240",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2914b"
@@ -2261,7 +2332,8 @@
                     {
                         "label": "Cam",
                         "catalog": "9306",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -2274,7 +2346,8 @@
                     {
                         "label": "Lin",
                         "catalog": "3330",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -2283,7 +2356,8 @@
                     {
                         "label": "Ro",
                         "catalog": "1101",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2914c"
@@ -2314,7 +2388,8 @@
                     {
                         "label": "Br",
                         "catalog": "4535",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "De",
@@ -2345,7 +2420,8 @@
                     {
                         "label": "Br",
                         "catalog": "4535",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "De",
@@ -2383,7 +2459,8 @@
                     {
                         "label": "Br",
                         "catalog": "4705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -2417,7 +2494,8 @@
                     {
                         "label": "Br",
                         "catalog": "4705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -2499,7 +2577,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38089",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Mississippi"
                     }
                 ],
                 "desor": "DE2916a"
@@ -2541,7 +2620,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38092",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2916b"
@@ -2587,7 +2667,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38092",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2916c"
@@ -2625,7 +2706,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38089",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2916d"
@@ -2676,7 +2758,8 @@
                     {
                         "label": "Vo",
                         "catalog": "15843",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2917a"
@@ -2711,7 +2794,8 @@
                     {
                         "label": "Vo",
                         "catalog": "15843",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2917b"
@@ -2762,7 +2846,8 @@
                     {
                         "label": "Vo",
                         "catalog": "15843",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2918a"
@@ -2800,7 +2885,8 @@
                     {
                         "label": "Vo",
                         "catalog": "1449",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2918b"
@@ -2896,7 +2982,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38115",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Breakfast Dance"
                     }
                 ],
                 "desor": "DE2919a"
@@ -2934,7 +3021,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38129",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2919b"
@@ -2972,7 +3060,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38115",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2919c"
@@ -3016,7 +3105,8 @@
                     {
                         "label": "OK",
                         "catalog": "8760",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Lazy Duke"
                     }
                 ],
                 "desor": "DE2920a"
@@ -3052,7 +3142,8 @@
                     {
                         "label": "OK",
                         "catalog": "8746",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2920b"
@@ -3084,7 +3175,8 @@
                     {
                         "label": "OK",
                         "catalog": "8746",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2920c"
@@ -3110,7 +3202,8 @@
                     {
                         "label": "Br",
                         "catalog": "4760",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -3148,7 +3241,8 @@
                     {
                         "label": "Br",
                         "catalog": "4887",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
