@@ -949,6 +949,13 @@ def cmd_normalise(args):
         if release.discogs:
             assert re.match(DISCOGS_REGEX, release.discogs), release.discogs
 
+        for er in database.entry_releases_from_release(release):
+            if isinstance(er.title, str) and er.title.strip().lower() == "true":
+                raise RuntimeError(
+                    f"Release title is the string \"true\" (did you mean the "
+                    f"JSON boolean true?): {er.entry.index} on {release}"
+                )
+
         # Checks very roughly that URLs etc look reasonable
         for key in [
             "discogs",
