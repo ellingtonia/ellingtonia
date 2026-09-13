@@ -14,13 +14,14 @@
                 "type": "take",
                 "index": "24-11-02-001",
                 "matrix": "T2001-1",
-                "title": "It's Gonna Be A Cold, Cold Winter",
+                "title": "It's Gonna Be A Cold, Cold Winter, So Get Another Place To Stay",
                 "vocalists": "APr",
                 "releases": [
                     {
                         "label": "BD",
                         "catalog": "T1007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "It's Gonna Be A Cold Cold Winter (So Get Another Place To Stay)"
                     },
                     {
                         "label": "HnS",
@@ -57,7 +58,8 @@
                     {
                         "label": "BD",
                         "catalog": "T1007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "HnS",
@@ -87,12 +89,13 @@
                 "type": "take",
                 "index": "24-11-05-001",
                 "matrix": "T2005-2",
-                "title": "Choo Choo (I Gotta Hurry Home)",
+                "title": "Choo Choo, I Gotta Hurry Home",
                 "releases": [
                     {
                         "label": "BD",
                         "catalog": "T1002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Choo Choo"
                     },
                     {
                         "label": "Cl(F)",
@@ -122,7 +125,8 @@
                     {
                         "label": "BD",
                         "catalog": "T1002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -145,7 +149,7 @@
             },
             {
                 "type": "note",
-                "content": "The banjo player was reported as George Francis in the NDESOR. Piano is tacet in Rainy Nights."
+                "content": "The banjo player was reported as George Francis in the NDESOR. Piano is tacet in Rainy Nights.\n\nThe first song was copyrighted as \"Choo Choo, I Gotta Hurry Home\"; it was published as \"Choo Choo (I Gotta Hurry Home)\" on music sheets and as \"Choo Choo\" on record, BD T1002."
             }
         ]
     },
@@ -200,19 +204,20 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Otto Hardwick(bar, cms); Duke Ellington(p); Fred Guy(bj); Sonny Greer(v)."
+                "value": "Otto Hardwick(bar,cms); Duke Ellington(p); Fred Guy(bj); Sonny Greer(v)."
             },
             {
                 "type": "take",
                 "index": "24-11-05-004",
                 "matrix": "T2008-1",
-                "title": "Oh, How I Love My Darling",
+                "title": "Oh How I Love My Darling",
                 "vocalists": "SG",
                 "releases": [
                     {
                         "label": "BD",
                         "catalog": "T1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "HnS",
