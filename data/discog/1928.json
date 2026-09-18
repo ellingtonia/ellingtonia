@@ -13,7 +13,7 @@
                 "type": "take",
                 "index": "28-01-09-001",
                 "matrix": "145488-3",
-                "title": "Sweet Mamma, Papa's Getting Mad",
+                "title": "Sweet Mamma (Papa's Getting Mad)",
                 "releases": [
                     {
                         "label": "CBS",
@@ -37,7 +37,7 @@
                         "label": "Har",
                         "catalog": "577-H",
                         "first_issue": true,
-                        "title": "Sweet Mamma (Papa's Getting Mad)"
+                        "title": true
                     },
                     {
                         "label": "HnS",
@@ -79,7 +79,7 @@
                         "label": "Har",
                         "catalog": "601-H",
                         "first_issue": true,
-                        "title": "Stack O'Lee Blues"
+                        "title": true
                     },
                     {
                         "label": "HnS",
@@ -121,7 +121,7 @@
                         "label": "Har",
                         "catalog": "577-H",
                         "first_issue": true,
-                        "title": "Bugle Call Rag"
+                        "title": true
                     },
                     {
                         "label": "HnS",
@@ -192,7 +192,7 @@
                         "label": "OK",
                         "catalog": "41013",
                         "first_issue": true,
-                        "title": "Take It Easy"
+                        "title": true
                     }
                 ],
                 "desor": "DE2802a"
@@ -234,7 +234,7 @@
                         "label": "OK",
                         "catalog": "41013",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     }
                 ],
                 "desor": "DE2802b"
@@ -400,13 +400,13 @@
                         "label": "PA",
                         "catalog": "36781",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "14962",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     }
                 ],
                 "desor": "DE2803c"
@@ -421,7 +421,7 @@
                         "label": "Cam",
                         "catalog": "8182",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -435,7 +435,7 @@
                         "label": "Lin",
                         "catalog": "2837",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -449,7 +449,7 @@
                         "label": "Ro",
                         "catalog": "612",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     }
                 ],
                 "desor": "DE2803d"
@@ -480,13 +480,13 @@
                         "label": "PA",
                         "catalog": "36787",
                         "first_issue": true,
-                        "title": "Take It Easy"
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "14968",
                         "first_issue": true,
-                        "title": "Take It Easy"
+                        "title": true
                     }
                 ],
                 "desor": "DE2803e"
@@ -501,7 +501,7 @@
                         "label": "Cam",
                         "catalog": "8188",
                         "first_issue": true,
-                        "title": "Take It Easy"
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -519,7 +519,7 @@
                         "label": "Lin",
                         "catalog": "2843",
                         "first_issue": true,
-                        "title": "Take It Easy"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -529,7 +529,7 @@
                         "label": "Ro",
                         "catalog": "618",
                         "first_issue": true,
-                        "title": "Take It Easy"
+                        "title": true
                     }
                 ],
                 "desor": "DE2803f"
@@ -560,7 +560,7 @@
                         "label": "Br",
                         "catalog": "4009",
                         "first_issue": true,
-                        "title": "Take It Easy"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -623,7 +623,7 @@
                         "label": "Vo",
                         "catalog": "15710",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     }
                 ],
                 "desor": "DE2804b"
@@ -673,7 +673,7 @@
                         "label": "Br",
                         "catalog": "4009",
                         "first_issue": true,
-                        "title": "Black Beauty"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -704,7 +704,7 @@
             },
             {
                 "type": "note",
-                "content": "Vo 15710 was released as by Duke Ellington and His Cotton Club Orchestra. Black Beauty E27093 was mistakenly  released on the Los Angeles pressings of Br 4044 instead of Don't Mess Around With Me by The Hotsy Totsy Gang (mx E27903), obviously without changing the title on the label."
+                "content": "Vo 15710 was released as by Duke Ellington and His Cotton Club Orchestra. Black Beauty E27093 was mistakenly released on the Los Angeles pressings of Br 4044 instead of Don't Mess Around With Me by The Hotsy Totsy Gang (mx E27903), obviously without changing the title on the label."
             }
         ]
     },
@@ -748,9 +748,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 15,
-                        "length": 173
+                        "length": 173,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -760,7 +761,7 @@
                         "label": "Vi",
                         "catalog": "21580",
                         "first_issue": true,
-                        "title": "Black Beauty"
+                        "title": true
                     }
                 ],
                 "desor": "DE2805a"
@@ -791,9 +792,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 16,
-                        "length": 155
+                        "length": 155,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -803,7 +805,7 @@
                         "label": "Vi",
                         "catalog": "21580",
                         "first_issue": true,
-                        "title": "Jubilee Stomp"
+                        "title": true
                     }
                 ],
                 "desor": "DE2805b"
@@ -812,7 +814,7 @@
                 "type": "take",
                 "index": "28-03-26-003",
                 "matrix": "BVE43504-2",
-                "title": "Got Everything But You",
+                "title": "Got Everything [Got Everything But You]",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -834,9 +836,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 17,
-                        "length": 180
+                        "length": 180,
+                        "title": "(Got) Everything But You"
                     },
                     {
                         "label": "RCA(F)",
@@ -850,6 +853,10 @@
                     }
                 ],
                 "desor": "DE2805c"
+            },
+            {
+                "type": "note",
+                "content": "\"Got Everything\" is the title registered for copyright in 1927 by its authors Jack Palmer and Andy Razaf. Vi 21703 label shows \"Got Everything But You.\" The title is also known as \"Got Everything (Don't Want Anything But You),\" as on Br 4028, by King Oliver and His Dixie Syncopators."
             }
         ]
     },
@@ -885,7 +892,7 @@
                         "label": "Br",
                         "catalog": "3987(U.S.)",
                         "first_issue": true,
-                        "title": "Yellow Dog Blues"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -928,7 +935,7 @@
                         "label": "Br",
                         "catalog": "3987(U.S.)",
                         "first_issue": true,
-                        "title": "Tishomingo Blues"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -967,7 +974,7 @@
                         "label": "Br",
                         "catalog": "3987(Canada)",
                         "first_issue": true,
-                        "title": "Tishomingo Blues"
+                        "title": true
                     },
                     {
                         "label": "JO",
@@ -1022,7 +1029,7 @@
                         "label": "OK",
                         "catalog": "8602",
                         "first_issue": true,
-                        "title": "Diga Diga Doo"
+                        "title": true
                     }
                 ],
                 "desor": "DE2807a"
@@ -1061,7 +1068,7 @@
                         "label": "OK",
                         "catalog": "8602",
                         "first_issue": true,
-                        "title": "Doin' The New Low Down"
+                        "title": true
                     }
                 ],
                 "desor": "DE2807b"
@@ -1104,7 +1111,7 @@
                         "disc": 1,
                         "track": 4,
                         "length": 181,
-                        "title": "Black Beauty"
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1123,7 +1130,7 @@
                         "label": "OK",
                         "catalog": "8636",
                         "first_issue": true,
-                        "title": "Black Beauty"
+                        "title": true
                     }
                 ],
                 "desor": "DE2808a"
@@ -1165,7 +1172,7 @@
                         "label": "OK",
                         "catalog": "8636",
                         "first_issue": true,
-                        "title": "Swampy River"
+                        "title": true
                     }
                 ],
                 "desor": "DE2808b"
@@ -1271,7 +1278,7 @@
                         "label": "OK",
                         "catalog": "8638",
                         "first_issue": true,
-                        "title": "Move Over"
+                        "title": true
                     }
                 ],
                 "desor": "DE2808d"
@@ -1309,14 +1316,14 @@
                         "label": "OK",
                         "catalog": "8623",
                         "first_issue": true,
-                        "title": "Hot And Bothered"
+                        "title": true
                     }
                 ],
                 "desor": "DE2808e"
             },
             {
                 "type": "note",
-                "content": "Note: Move Over was released as LONNIE JOHNSON'S HARLEM FOOTWARMERS"
+                "content": "Note: Move Over was released as Lonnie Johnson's Harlem Footwarmers."
             }
         ]
     },
@@ -1340,7 +1347,7 @@
                         "label": "Br",
                         "catalog": "4110",
                         "first_issue": true,
-                        "title": "Awful Sad"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -1418,7 +1425,7 @@
                         "label": "Br",
                         "catalog": "4110",
                         "first_issue": true,
-                        "title": "Louisiana"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -1573,7 +1580,7 @@
                         "label": "Cam",
                         "catalog": "9023",
                         "first_issue": true,
-                        "title": "Hot And Bothered"
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1586,7 +1593,8 @@
                     {
                         "label": "Lin",
                         "catalog": "3052",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -1595,18 +1603,20 @@
                     {
                         "label": "PA",
                         "catalog": "36915",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "15096",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ro",
                         "catalog": "827",
                         "first_issue": true,
-                        "title": "Hot And Bothered"
+                        "title": true
                     }
                 ],
                 "desor": "DE2811c"
@@ -1621,7 +1631,7 @@
                         "label": "Cam",
                         "catalog": "9025",
                         "first_issue": true,
-                        "title": "Move Over"
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1635,7 +1645,7 @@
                         "label": "Lin",
                         "catalog": "3054",
                         "first_issue": true,
-                        "title": "The Mooche"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -1644,17 +1654,20 @@
                     {
                         "label": "PA",
                         "catalog": "36899",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "15080",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ro",
                         "catalog": "829",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE2811d"
@@ -1698,9 +1711,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 18,
-                        "length": 181
+                        "length": 181,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1710,7 +1724,7 @@
                         "label": "Vi",
                         "catalog": "21777",
                         "first_issue": true,
-                        "title": "Santa Claus, Bring My Man Back To Me"
+                        "title": true
                     }
                 ],
                 "desor": "DE2812a"
@@ -1738,9 +1752,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 19,
-                        "length": 177
+                        "length": 177,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1750,7 +1765,7 @@
                         "label": "Vi",
                         "catalog": "21777",
                         "first_issue": true,
-                        "title": "I Done Caught You Blues"
+                        "title": true
                     }
                 ],
                 "desor": "DE2812b"
@@ -1770,7 +1785,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sous); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Gertrude \"Baby\" Cox, Ozie Ware(v)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sous); Sonny Greer(d); Irving Mills, Gertrude \"Baby\" Cox, Ozie Ware(v)."
             },
             {
                 "type": "take",
@@ -1798,7 +1813,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 20,
                         "length": 212
                     },
@@ -1843,9 +1858,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 1,
-                        "length": 199
+                        "length": 199,
+                        "title": true
                     }
                 ],
                 "desor": "DE2812d"
@@ -1854,7 +1870,7 @@
                 "type": "take",
                 "index": "28-10-30-005",
                 "matrix": "BVE48103-1",
-                "title": "No Papa No",
+                "title": "No, Papa, No",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -1872,9 +1888,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 2,
-                        "length": 201
+                        "length": 201,
+                        "title": "No Papa No"
                     },
                     {
                         "label": "RCA(F)",
@@ -1893,7 +1910,7 @@
                 "type": "take",
                 "index": "28-10-30-006",
                 "matrix": "BVE48103-2",
-                "title": "No Papa No",
+                "title": "No, Papa, No",
                 "vocalists": "OW",
                 "releases": [
                     {
@@ -1912,14 +1929,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 3,
-                        "length": 201
+                        "length": 201,
+                        "title": "No Papa No"
                     },
                     {
                         "label": "RCA",
                         "catalog": "LPV-568",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "No Papa No"
                     },
                     {
                         "label": "RCA(F)",
@@ -1938,7 +1957,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills (as \"Goodie Goodwin\"), Gertrude \"Baby\" Cox(v)."
+                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, Gertrude \"Baby\" Cox(v)."
             },
             {
                 "type": "take",
@@ -1963,9 +1982,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 4,
-                        "length": 186
+                        "length": 186,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1975,7 +1995,7 @@
                         "label": "Vi",
                         "catalog": "V-38008",
                         "first_issue": true,
-                        "title": "I Can't Give You Anything But Love"
+                        "title": true
                     }
                 ],
                 "desor": "DE2813a"
@@ -2015,7 +2035,7 @@
         "entries": [
             {
                 "type": "artists",
-                "value": "Arthur Whetsel, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, Ozie Ware(v)."
+                "value": "Arthur Whetsel, Bubber Miley, Freddie Jenkins(t); Joe Nanton(tb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d); Irving Mills, Ozie Ware(v)."
             },
             {
                 "type": "take",
@@ -2044,9 +2064,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 5,
-                        "length": 198
+                        "length": 198,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2056,7 +2077,7 @@
                         "label": "Vi",
                         "catalog": "V-38007",
                         "first_issue": true,
-                        "title": "Bandanna Babies"
+                        "title": true
                     }
                 ],
                 "desor": "DE2814a"
@@ -2084,9 +2105,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 6,
-                        "length": 179
+                        "length": 179,
+                        "title": "Diga Diga Do"
                     },
                     {
                         "label": "RCA(F)",
@@ -2127,9 +2149,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 7,
-                        "length": 202
+                        "length": 202,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2139,7 +2162,7 @@
                         "label": "Vi",
                         "catalog": "V-38007",
                         "first_issue": true,
-                        "title": "I Must Have That Man"
+                        "title": true
                     }
                 ],
                 "desor": "DE2814c"
@@ -2267,14 +2290,14 @@
                         "label": "OK",
                         "catalog": "8675",
                         "first_issue": true,
-                        "title": "Goin' To Town"
+                        "title": true
                     }
                 ],
                 "desor": "DE2816b"
             },
             {
                 "type": "artists",
-                "value": "Add Lonnie Johnson(g)."
+                "value": "Add Lonnie Johnson(12s-g)."
             },
             {
                 "type": "take",
@@ -2309,7 +2332,7 @@
                         "label": "OK",
                         "catalog": "8662",
                         "first_issue": true,
-                        "title": "Misty Mornin'"
+                        "title": true
                     }
                 ],
                 "desor": "DE2816c"
@@ -2394,7 +2417,7 @@
                         "label": "Cam",
                         "catalog": "9037",
                         "first_issue": true,
-                        "title": "Misty Mornin'"
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -2408,7 +2431,7 @@
                         "label": "Lin",
                         "catalog": "3066",
                         "first_issue": true,
-                        "title": "Misty Mornin'"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -2418,19 +2441,19 @@
                         "label": "PA",
                         "catalog": "36923",
                         "first_issue": true,
-                        "title": "Misty Mornin'"
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "15104",
                         "first_issue": true,
-                        "title": "Misty Mornin'"
+                        "title": true
                     },
                     {
                         "label": "Ro",
                         "catalog": "841",
                         "first_issue": true,
-                        "title": "Misty Mornin'"
+                        "title": true
                     }
                 ],
                 "desor": "DE2817b"
@@ -2463,7 +2486,7 @@
                         "label": "Cam",
                         "catalog": "9039",
                         "first_issue": true,
-                        "title": "Hit Me In The Nose Blues"
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -2477,7 +2500,7 @@
                         "label": "Lin",
                         "catalog": "3068",
                         "first_issue": true,
-                        "title": "Hit Me In The Nose Blues"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -2487,7 +2510,7 @@
                         "label": "Ro",
                         "catalog": "843",
                         "first_issue": true,
-                        "title": "Hit Me In The Nose Blues"
+                        "title": true
                     }
                 ],
                 "desor": "DE2818a",
@@ -2508,7 +2531,7 @@
                         "label": "Cam",
                         "catalog": "9039",
                         "first_issue": true,
-                        "title": "It's All Comin' Home To You"
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -2522,7 +2545,7 @@
                         "label": "Lin",
                         "catalog": "3068",
                         "first_issue": true,
-                        "title": "It's All Comin' Home To You"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -2532,7 +2555,7 @@
                         "label": "Ro",
                         "catalog": "843",
                         "first_issue": true,
-                        "title": "It's All Comin' Home To You"
+                        "title": true
                     }
                 ],
                 "desor": "DE2818b",
@@ -2554,13 +2577,14 @@
                 "type": "take",
                 "index": "28-12-20-001",
                 "matrix": "CVE49007-1",
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "Cho",
                 "releases": [
                     {
                         "label": "JA",
                         "catalog": "21",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "St. Louis Blues"
                     },
                     {
                         "label": "LR",
@@ -2574,9 +2598,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 8,
-                        "length": 252
+                        "length": 252,
+                        "title": "St. Louis Blues"
                     }
                 ],
                 "desor": "DE2819a"
@@ -2585,7 +2610,7 @@
                 "type": "take",
                 "index": "28-12-20-002",
                 "matrix": "CVE49007-2",
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "Cho",
                 "releases": [
                     {
@@ -2604,9 +2629,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 9,
-                        "length": 256
+                        "length": 256,
+                        "title": "St. Louis Blues"
                     },
                     {
                         "label": "RCA(F)",
@@ -2625,7 +2651,7 @@
                 "type": "take",
                 "index": "28-12-20-003",
                 "matrix": "CVE49007-3",
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "Cho",
                 "releases": [
                     {
@@ -2636,10 +2662,11 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "first_issue": true,
                         "track": 10,
-                        "length": 261
+                        "length": 261,
+                        "title": "St. Louis Blues"
                     }
                 ],
                 "desor": "DE2819c"
@@ -2660,7 +2687,6 @@
                 "index": "28-12-20-004a",
                 "matrix": null,
                 "title": "I Can't Give You Anything But Love",
-                "vocalists": "SG",
                 "releases": [],
                 "desor": null,
                 "medley_index": "a"
@@ -2669,8 +2695,7 @@
                 "type": "take",
                 "index": "28-12-20-004b",
                 "matrix": null,
-                "title": "Doin' The New Lowdown",
-                "vocalists": "SG",
+                "title": "Doin' The New Low Down",
                 "releases": [],
                 "desor": null,
                 "medley_index": "b"
@@ -2696,7 +2721,6 @@
                 "index": "28-12-20-005a",
                 "matrix": null,
                 "title": "I Can't Give You Anything But Love",
-                "vocalists": "SG",
                 "releases": [],
                 "desor": null,
                 "medley_index": "a"
@@ -2705,8 +2729,7 @@
                 "type": "take",
                 "index": "28-12-20-005b",
                 "matrix": null,
-                "title": "Doin' The New Lowdown",
-                "vocalists": "SG",
+                "title": "Doin' The New Low Down",
                 "releases": [],
                 "desor": null,
                 "medley_index": "b"
@@ -2740,7 +2763,7 @@
                 "type": "take",
                 "index": "28-12-20-006b",
                 "matrix": null,
-                "title": "Doin' The New Lowdown",
+                "title": "Doin' The New Low Down",
                 "releases": [],
                 "desor": null,
                 "medley_index": "b"
@@ -2756,7 +2779,7 @@
             },
             {
                 "type": "note",
-                "content": "Warren Mills was Irving's five year old son. According to Victor's files, the vocal on St. Louis Blues was sung by \"Chorus of 10 Mixed Voices (Colored)\"; they are not identified. Take 3 of Gems From \"Blackbirds of 1928\" is instrumental only."
+                "content": "Warren Mills was Irving's five year old son. According to Victor's files, the vocal on St. Louis Blues was sung by \"Chorus of 10 Mixed Voices (Colored)\"; they are not identified. Sonny Greer is the vocalist on takes 1 and 2 of Gems From \"Blackbirds of 1928\", but files don't indicate on which of the three songs; take 3 is instrumental only."
             }
         ]
     }
