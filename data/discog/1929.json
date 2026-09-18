@@ -97,11 +97,6 @@
                         "title": true
                     },
                     {
-                        "label": "Br(E)",
-                        "catalog": "1338",
-                        "title": "Tiger Rag - Part 2"
-                    },
-                    {
                         "label": "COPS",
                         "catalog": "7394-D/2"
                     },
@@ -135,6 +130,11 @@
                         "catalog": "4238",
                         "first_issue": true,
                         "title": true
+                    },
+                    {
+                        "label": "Br(E)",
+                        "catalog": "1338",
+                        "title": "Tiger Rag - Part 2"
                     },
                     {
                         "label": "Br/ARC",
@@ -206,9 +206,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 11,
-                        "length": 195
+                        "length": 195,
+                        "title": true
                     },
                     {
                         "label": "UtD",
@@ -240,9 +241,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 12,
-                        "length": 196
+                        "length": 196,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -283,9 +285,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 13,
-                        "length": 184
+                        "length": 184,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -322,9 +325,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 14,
-                        "length": 187
+                        "length": 187,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -353,10 +357,11 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "first_issue": true,
                         "track": 15,
-                        "length": 188
+                        "length": 188,
+                        "title": true
                     }
                 ],
                 "desor": "DE2902e"
@@ -387,9 +392,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 16,
-                        "length": 188
+                        "length": 188,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -442,9 +448,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 17,
-                        "length": 213
+                        "length": 213,
+                        "title": "Japanese Dream"
                     },
                     {
                         "label": "RCA(F)",
@@ -485,9 +492,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "2",
+                        "disc": 2,
                         "track": 18,
-                        "length": 176
+                        "length": 176,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -806,14 +814,15 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 1,
                         "length": 192
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "741029",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The Dicty Glide"
                     }
                 ],
                 "desor": "DE2905a"
@@ -840,9 +849,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 2,
-                        "length": 195
+                        "length": 195,
+                        "title": "The Dicty Glide"
                     },
                     {
                         "label": "RCA(F)",
@@ -880,9 +890,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 3,
-                        "length": 160
+                        "length": 160,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -924,9 +935,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 4,
-                        "length": 196
+                        "length": 196,
+                        "title": true
                     },
                     {
                         "label": "RCA(E)",
@@ -963,9 +975,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 5,
-                        "length": 195
+                        "length": 195,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1002,9 +1015,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 6,
-                        "length": 169
+                        "length": 169,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1188,7 +1202,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 7,
                         "length": 229
                     },
@@ -1231,7 +1245,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 7,
                         "length": 229
                     },
@@ -1281,7 +1295,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 8,
                         "length": 272
                     },
@@ -1325,7 +1339,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 8,
                         "length": 272
                     },
@@ -1375,9 +1389,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 9,
-                        "length": 178
+                        "length": 178,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1414,9 +1429,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 10,
-                        "length": 188
+                        "length": 188,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1453,9 +1469,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 11,
-                        "length": 170
+                        "length": 170,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1500,9 +1517,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 12,
-                        "length": 171
+                        "length": 171,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1666,13 +1684,13 @@
                 "type": "take",
                 "index": "29-07-29-001",
                 "matrix": "E30585-B",
-                "title": "What Did I Do To Be So Black And Blue",
+                "title": "(What Did I Do To Be So) Black And Blue",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "4492",
                         "first_issue": true,
-                        "title": "(What Did I Do To Be So) Black And Blue"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -1871,7 +1889,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-001",
-                "matrix": null,
+                "matrix": "MVE-0806-1",
                 "title": "Black And Tan Fantasy",
                 "releases": [
                     {
@@ -1897,7 +1915,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-002",
-                "matrix": null,
+                "matrix": "MVE-0806-1",
                 "title": "Black And Tan Fantasy",
                 "releases": [
                     {
@@ -1923,7 +1941,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-003",
-                "matrix": null,
+                "matrix": "MVE-0806-1",
                 "title": "Black And Tan Fantasy",
                 "releases": [
                     {
@@ -1945,7 +1963,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-004",
-                "matrix": null,
+                "matrix": "MVE-0806-1",
                 "title": "Black And Tan Fantasy",
                 "releases": [
                     {
@@ -1990,7 +2008,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-005",
-                "matrix": null,
+                "matrix": "MVE-0806-1",
                 "title": "The Duke Steps Out",
                 "releases": [
                     {
@@ -2021,7 +2039,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-006",
-                "matrix": null,
+                "matrix": "MVE-0806-1",
                 "title": "Black Beauty",
                 "releases": [
                     {
@@ -2052,7 +2070,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-007",
-                "matrix": null,
+                "matrix": "MVE-0806[a]-2",
                 "title": "The Duke Steps Out",
                 "releases": [
                     {
@@ -2078,7 +2096,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-008",
-                "matrix": null,
+                "matrix": "MVE-0806[a]-2",
                 "title": "Black Beauty",
                 "releases": [
                     {
@@ -2104,7 +2122,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-009",
-                "matrix": null,
+                "matrix": "MVE-0806[a]-2",
                 "title": "Cotton Club Stomp",
                 "releases": [
                     {
@@ -2130,7 +2148,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-010",
-                "matrix": null,
+                "matrix": "MVE-0806[a]-2",
                 "title": "Flaming Youth",
                 "releases": [
                     {
@@ -2160,7 +2178,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-011",
-                "matrix": null,
+                "matrix": "MVE-0806[a]-2",
                 "title": "Same Train",
                 "vocalists": "Cho",
                 "releases": [
@@ -2196,7 +2214,7 @@
             {
                 "type": "take",
                 "index": "29-08-12-012",
-                "matrix": null,
+                "matrix": "MVE-0806[a]-2",
                 "title": "Black And Tan Fantasy",
                 "vocalists": "Cho",
                 "releases": [
@@ -2228,7 +2246,7 @@
             },
             {
                 "type": "note",
-                "content": "Although several reference works identify the choir as the Hall Johnson Choir, Steven Lasker has found no credible evidence that the Hall Johnson Choir worked on 'Black and Tan'. More details on [TDWAW](https://tdwaw.ellingtonweb.ca/TDWAW1.html) at the date \"circa 1929 08 12.\"\n\nOn AdJ AFG 8 the last 16 bars of DE2913k are omitted."
+                "content": "\"Black and Tan\" was recorded and soundtrack assembled on optical track (sound-on-film). The film was released October 29, 1929 to theatres equipped for sound on film. For theatres not equipped, the soundtrack was dubbed from optical track to 16-inch discs on RCA Victor. \"Black and Tan\" was a two reeler, so two sides were necessary: these were dubbed on November 13, 1929 and assigned matrix numbers MVE-0806-1 and MVE-0806[a]-2.\n\n(Although several reference works identify the choir as the Hall Johnson Choir, Steven Lasker has found no credible evidence that the Hall Johnson Choir worked on 'Black and Tan'. More details on [TDWAW](https://tdwaw.ellingtonweb.ca/TDWAW1.html) at the date \"circa 1929 08 12.\"\n\nOn AdJ AFG 8 the last 16 bars of DE2913k are omitted."
             }
         ]
     },
@@ -2566,9 +2584,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 13,
-                        "length": 202
+                        "length": 202,
+                        "title": "Mississippi"
                     },
                     {
                         "label": "RCA(F)",
@@ -2609,9 +2628,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 14,
-                        "length": 196
+                        "length": 196,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2656,9 +2676,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 15,
-                        "length": 194
+                        "length": 194,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2695,9 +2716,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 16,
-                        "length": 200
+                        "length": 200,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2971,9 +2993,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 17,
-                        "length": 186
+                        "length": 186,
+                        "title": "Breakfast Dance"
                     },
                     {
                         "label": "RCA(F)",
@@ -3010,9 +3033,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 18,
-                        "length": 197
+                        "length": 197,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3049,9 +3073,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "3",
+                        "disc": 3,
                         "track": 19,
-                        "length": 176
+                        "length": 176,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
