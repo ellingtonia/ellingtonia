@@ -1,6 +1,6 @@
 [
     {
-        "group": "MISS EVELYN PREER WITH DUKE ELLINGTON's ORCH.",
+        "group": "MISS EVELYN PREER WITH DUKE ELLINGTON'S ORCH.",
         "location": "New York City, NY",
         "date": "10 January 1927",
         "description": "Victor recording session",
@@ -45,9 +45,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 1,
-                        "length": 171
+                        "length": 171,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -77,7 +78,7 @@
                 "type": "take",
                 "index": "27-01-21-001",
                 "matrix": "W80322A",
-                "title": "They Say I Do It",
+                "title": "They Say I Do It, But Nobody Caught Me",
                 "vocalists": "GA",
                 "releases": [],
                 "desor": null
@@ -219,7 +220,7 @@
                         "label": "Br",
                         "catalog": "3480",
                         "first_issue": true,
-                        "title": "Birmingham Breakdown"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -270,7 +271,7 @@
                         "label": "Br",
                         "catalog": "3480",
                         "first_issue": true,
-                        "title": "East St. Louis Toodle-O"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -329,7 +330,7 @@
                         "label": "Co",
                         "catalog": "953-D",
                         "first_issue": true,
-                        "title": "East St. Louis Toodle-O"
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -379,7 +380,7 @@
                         "label": "Co",
                         "catalog": "953-D",
                         "first_issue": true,
-                        "title": "Hop Head"
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -421,7 +422,7 @@
                         "label": "Co",
                         "catalog": "1076-D",
                         "first_issue": true,
-                        "title": "Down In Our Alley Blues"
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -467,7 +468,7 @@
                         "label": "Br",
                         "catalog": "3526",
                         "first_issue": true,
-                        "title": "Black And Tan Fantasy"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -517,7 +518,7 @@
                     {
                         "label": "Br",
                         "catalog": "3526",
-                        "title": "Soliloquy"
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -547,7 +548,7 @@
                         "label": "Vo",
                         "catalog": "15555",
                         "first_issue": true,
-                        "title": "Soliloquy"
+                        "title": true
                     }
                 ],
                 "desor": "DE2707a"
@@ -607,9 +608,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 2,
-                        "length": 168
+                        "length": 168,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -649,9 +651,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 3,
-                        "length": 170
+                        "length": 170,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -706,9 +709,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 4,
-                        "length": 191
+                        "length": 191,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -749,9 +753,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 5,
-                        "length": 184
+                        "length": 184,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -761,7 +766,7 @@
                         "label": "Vi",
                         "catalog": "21284",
                         "first_issue": true,
-                        "title": "Washington Wabble"
+                        "title": true
                     }
                 ],
                 "desor": "DE2709b"
@@ -797,9 +802,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 6,
-                        "length": 195
+                        "length": 195,
+                        "title": "Creole Love Call"
                     },
                     {
                         "label": "RCA(F)",
@@ -845,9 +851,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 7,
-                        "length": 189
+                        "length": 189,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -857,7 +864,7 @@
                         "label": "Vi",
                         "catalog": "21490",
                         "first_issue": true,
-                        "title": "Blues I Love To Sing"
+                        "title": true
                     }
                 ],
                 "desor": "DE2709d"
@@ -894,9 +901,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 8,
-                        "length": 192
+                        "length": 192,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -958,7 +966,7 @@
                         "label": "OK",
                         "catalog": "8521",
                         "first_issue": true,
-                        "title": "What Can A Poor Fellow Do?"
+                        "title": true
                     }
                 ],
                 "desor": "DE2710a"
@@ -985,7 +993,7 @@
                         "disc": 1,
                         "track": 3,
                         "length": 204,
-                        "title": "Black And Tan Fantasy"
+                        "title": true
                     },
                     {
                         "label": "HnS",
@@ -1008,7 +1016,7 @@
                         "label": "OK",
                         "catalog": "40955",
                         "first_issue": true,
-                        "title": "Black And Tan Fantasy"
+                        "title": true
                     }
                 ],
                 "desor": "DE2710b"
@@ -1039,7 +1047,7 @@
                         "label": "OK",
                         "catalog": "8521",
                         "first_issue": true,
-                        "title": "Black And Tan Fantasy"
+                        "title": true
                     }
                 ],
                 "desor": "DE2710c"
@@ -1095,7 +1103,7 @@
                         "label": "OK",
                         "catalog": "8675",
                         "first_issue": true,
-                        "title": "Chicago Stomp Down"
+                        "title": true
                     }
                 ],
                 "desor": "DE2710d"
@@ -1207,9 +1215,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 9,
-                        "length": 166
+                        "length": 166,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1251,9 +1260,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 10,
-                        "length": 167
+                        "length": 167,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1298,9 +1308,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 11,
-                        "length": 168
+                        "length": 168,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1339,9 +1350,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 12,
-                        "length": 219
+                        "length": 219,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1382,9 +1394,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 13,
-                        "length": 192
+                        "length": 192,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1394,7 +1407,7 @@
                         "label": "Vi",
                         "catalog": "21490",
                         "first_issue": true,
-                        "title": "Blue Bubbles"
+                        "title": true
                     }
                 ],
                 "desor": "DE2712e"
@@ -1430,9 +1443,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "1",
+                        "disc": 1,
                         "track": 14,
-                        "length": 195
+                        "length": 195,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1491,7 +1505,7 @@
                         "label": "Vo",
                         "catalog": "1153",
                         "first_issue": true,
-                        "title": "Red Hot Band"
+                        "title": true
                     }
                 ],
                 "desor": "DE2713a"
@@ -1530,7 +1544,7 @@
                         "label": "Vo",
                         "catalog": "1153",
                         "first_issue": true,
-                        "title": "Doin' The Frog"
+                        "title": true
                     }
                 ],
                 "desor": "DE2713b"
