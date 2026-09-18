@@ -457,6 +457,10 @@ def load_from_json():
                             assert index not in all_indices, (index, medley_title)
                             all_indices.add(index)
 
+                        suite_index = (
+                            jentry["suite_index"] if "suite_index" in jentry else None
+                        )
+
                         current_medley = Entry(
                             type="medley",
                             index=index,
@@ -464,6 +468,7 @@ def load_from_json():
                             desor=jentry["desor"],
                             medley_title=medley_title,
                             suite_title=suite_title,
+                            suite_index=suite_index,
                         )
                         for key in ENTRY_LINKS:
                             setattr(current_medley, key, jentry.get(key))
@@ -705,6 +710,7 @@ def save_releases_to_json(database, generated):
                         "matrix": medley.matrix if medley else None,
                         "index": medley.index if medley else None,
                         "page": page_for_year(medley.session.year()) if medley else None,
+                        "suite_index": medley.suite_index if medley else None,
                     }
                     for key in ENTRY_LINKS:
                         medley_json_entry[key] = getattr(medley, key) if medley else None
@@ -818,6 +824,8 @@ def save_to_json(database):
                     json_entry["matrix"] = entry.matrix
                     json_entry["desor"] = entry.desor
                     json_entry["medley_title"] = entry.medley_title
+                    if entry.suite_index:
+                        json_entry["suite_index"] = entry.suite_index
                     for key in ENTRY_LINKS:
                         if value := getattr(entry, key):
                             json_entry[key] = value
