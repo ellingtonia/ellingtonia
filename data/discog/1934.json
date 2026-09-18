@@ -28,9 +28,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 5,
-                        "length": 197
+                        "length": 197,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -59,9 +60,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 6,
-                        "length": 199
+                        "length": 199,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -70,7 +72,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24755",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3401b"
@@ -101,9 +104,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 7,
-                        "length": 183
+                        "length": 183,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -112,7 +116,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24521",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3401c"
@@ -151,9 +156,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 8,
-                        "length": 212
+                        "length": 212,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -162,7 +168,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24755",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3402a"
@@ -189,9 +196,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 9,
-                        "length": 192
+                        "length": 192,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -200,7 +208,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24521",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3402b"
@@ -312,13 +321,14 @@
                 "type": "take",
                 "index": "34-03-15-001",
                 "matrix": null,
-                "title": "When A St. Louis Woman",
+                "title": "When A St. Louis Woman Comes Down To New Orleans",
                 "vocalists": "MW",
                 "releases": [
                     {
                         "label": "Ar",
                         "catalog": "ARLP 12031",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "St. Louis Blues"
                     }
                 ],
                 "desor": "DE3404a"
@@ -327,12 +337,13 @@
                 "type": "take",
                 "index": "34-03-15-002",
                 "matrix": null,
-                "title": "When A St. Louis Woman",
+                "title": "When A St. Louis Woman Comes Down To New Orleans",
                 "vocalists": "MW",
                 "releases": [
                     {
                         "label": "MSd",
-                        "catalog": "DFCDI-113"
+                        "catalog": "DFCDI-113",
+                        "title": true
                     }
                 ],
                 "desor": "DE3404b"
@@ -362,12 +373,14 @@
                 "releases": [
                     {
                         "label": "Ar",
-                        "catalog": "ARLP 12031"
+                        "catalog": "ARLP 12031",
+                        "title": true
                     },
                     {
                         "label": "ER",
                         "catalog": "1004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3405a"
@@ -381,7 +394,8 @@
                 "releases": [
                     {
                         "label": "MSd",
-                        "catalog": "DFCDI-113"
+                        "catalog": "DFCDI-113",
+                        "title": true
                     }
                 ],
                 "desor": null
@@ -436,7 +450,8 @@
                     {
                         "label": "UtD",
                         "catalog": "2009",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3406a"
@@ -466,7 +481,8 @@
                 "releases": [
                     {
                         "label": "Ar",
-                        "catalog": "ARLP 12031"
+                        "catalog": "ARLP 12031",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -475,7 +491,8 @@
                     {
                         "label": "Cs",
                         "catalog": "7501",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -530,7 +547,8 @@
                     {
                         "label": "Ar",
                         "catalog": "ARLP 12031",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Original Title"
                     }
                 ],
                 "desor": "DE3408a"
@@ -570,9 +588,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 10,
-                        "length": 203
+                        "length": 203,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -585,7 +604,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24622",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3409a"
@@ -609,9 +629,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 11,
-                        "length": 209
+                        "length": 209,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -640,9 +661,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 12,
-                        "length": 206
+                        "length": 206,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -655,7 +677,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24617",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3409c"
@@ -678,9 +701,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 13,
-                        "length": 198
+                        "length": 198,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -693,7 +717,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24617",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3409d"
@@ -728,9 +753,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 14,
-                        "length": 210
+                        "length": 210,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -743,7 +769,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24622",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3410a"
@@ -770,11 +797,13 @@
                 "releases": [
                     {
                         "label": "Ar",
-                        "catalog": "ARLP 12031"
+                        "catalog": "ARLP 12031",
+                        "title": true
                     },
                     {
                         "label": "MSd",
-                        "catalog": "DFCDI-113"
+                        "catalog": "DFCDI-113",
+                        "title": true
                     }
                 ],
                 "desor": "DE3411a"
@@ -808,7 +837,7 @@
                 "type": "take",
                 "index": "34-05-08-001",
                 "matrix": null,
-                "title": "When A St. Louis Woman",
+                "title": "When A St. Louis Woman Comes Down To New Orleans",
                 "releases": [],
                 "desor": null
             },
@@ -874,10 +903,11 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "first_issue": true,
                         "track": 15,
-                        "length": 213
+                        "length": 213,
+                        "title": true
                     }
                 ],
                 "desor": "DE3413a"
@@ -906,9 +936,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 16,
-                        "length": 210
+                        "length": 210,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -921,7 +952,8 @@
                     {
                         "label": "Vi",
                         "catalog": "24651",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3413b"
@@ -945,9 +977,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "7",
+                        "disc": 7,
                         "track": 17,
-                        "length": 201
+                        "length": 201,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -990,7 +1023,8 @@
                     {
                         "label": "Br",
                         "catalog": "6987",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1007,7 +1041,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 4,
+                        "track": 15,
+                        "title": true
                     }
                 ],
                 "desor": "DE3414a"
@@ -1025,7 +1062,8 @@
                     {
                         "label": "Br",
                         "catalog": "7310",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1041,7 +1079,7 @@
                         "disc": 1,
                         "track": 9,
                         "length": 196,
-                        "title": "Saddest Tale"
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1054,7 +1092,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 4,
+                        "track": 16,
+                        "title": true
                     }
                 ],
                 "desor": "DE3414b"
@@ -1068,7 +1109,8 @@
                     {
                         "label": "Br",
                         "catalog": "6987",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Moon Glow"
                     },
                     {
                         "label": "CBS",
@@ -1085,7 +1127,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 4,
+                        "track": 17,
+                        "title": true
                     }
                 ],
                 "desor": "DE3414c"
@@ -1099,7 +1144,8 @@
                     {
                         "label": "Br",
                         "catalog": "7310",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1116,7 +1162,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 4,
+                        "track": 18,
+                        "title": true
                     }
                 ],
                 "desor": "DE3414d"
@@ -1136,7 +1185,7 @@
             },
             {
                 "type": "suite",
-                "suite_title": "Symphony in Black. A Rhapsody of Negro Life"
+                "suite_title": "Symphony In Black. A Rhapsody Of Negro Life"
             },
             {
                 "type": "take",
@@ -1151,7 +1200,8 @@
                     {
                         "label": "Pv",
                         "catalog": "PRV 102",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "UArc",
@@ -1162,10 +1212,66 @@
                 "suite_index": 1
             },
             {
-                "type": "take",
+                "type": "medley",
                 "index": "34-10-24-002",
                 "matrix": null,
-                "title": "A Triangle",
+                "desor": "DE3415b",
+                "medley_title": "A Triangle",
+                "suite_index": 2
+            },
+            {
+                "type": "take",
+                "index": "34-10-24-002a",
+                "matrix": null,
+                "title": "Dance",
+                "releases": [
+                    {
+                        "label": "Mx",
+                        "catalog": "MLP-1001"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102",
+                        "first_issue": true,
+                        "title": true
+                    },
+                    {
+                        "label": "UArc",
+                        "catalog": "NUA07"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "a"
+            },
+            {
+                "type": "take",
+                "index": "34-10-24-002b",
+                "matrix": null,
+                "title": "Jealously",
+                "releases": [
+                    {
+                        "label": "Mx",
+                        "catalog": "MLP-1001"
+                    },
+                    {
+                        "label": "Pv",
+                        "catalog": "PRV 102",
+                        "first_issue": true,
+                        "title": true
+                    },
+                    {
+                        "label": "UArc",
+                        "catalog": "NUA07"
+                    }
+                ],
+                "desor": null,
+                "medley_index": "b"
+            },
+            {
+                "type": "take",
+                "index": "34-10-24-002c",
+                "matrix": null,
+                "title": "Blues",
                 "vocalists": "BH",
                 "releases": [
                     {
@@ -1179,15 +1285,20 @@
                     {
                         "label": "Pv",
                         "catalog": "PRV 102",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Big City Blues"
                     },
                     {
                         "label": "UArc",
                         "catalog": "NUA07"
                     }
                 ],
-                "desor": "DE3415b",
-                "suite_index": 2
+                "desor": null,
+                "medley_index": "c"
+            },
+            {
+                "type": "medley",
+                "medley_title": null
             },
             {
                 "type": "take",
@@ -1202,7 +1313,8 @@
                     {
                         "label": "Pv",
                         "catalog": "PRV 102",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "UArc",
@@ -1225,7 +1337,8 @@
                     {
                         "label": "Pv",
                         "catalog": "PRV 102",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "UArc",
@@ -1237,7 +1350,7 @@
             },
             {
                 "type": "note",
-                "content": "Prerecording made probably on October 24, with filming on 24 and 25. A Triangle consists of three pieces: Dance (= Ducky Wucky), Jealousy and Big City Blues (= Saddest Tale). Also, Harlem Rhythm = Merry-Go-Round."
+                "content": "Prerecording made probably on October 24, with filming on 24 and 25.\n\nEllington used three earlier compositions in this film: \"Dance\" is from \"Ducky Wucky,\" \"Blues\" is based on \"Saddest Tale,\" \"Harlem Rhythm\" comes from \"Merry-Go-Round.\""
             }
         ]
     }
