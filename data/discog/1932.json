@@ -19,7 +19,8 @@
                     {
                         "label": "Br",
                         "catalog": "6317",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -36,7 +37,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 1,
+                        "title": true
                     }
                 ],
                 "desor": "DE3201a"
@@ -59,7 +63,8 @@
                     {
                         "label": "Br",
                         "catalog": "6265",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -75,7 +80,7 @@
                         "disc": 1,
                         "track": 7,
                         "length": 188,
-                        "title": "It Don't Mean A Thing (If It Ain't Got That Swing)"
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -84,7 +89,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 2,
+                        "title": true
                     }
                 ],
                 "desor": "DE3201b"
@@ -103,7 +111,8 @@
                     {
                         "label": "Br",
                         "catalog": "6288",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Swanee Rhapsody"
                     },
                     {
                         "label": "CBS",
@@ -121,7 +130,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 3,
+                        "title": true
                     }
                 ],
                 "desor": "DE3201c"
@@ -140,7 +152,8 @@
                     {
                         "label": "Co",
                         "catalog": "35834",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -150,7 +163,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 17,
+                        "title": "Lazy Rhapsody (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -176,9 +192,12 @@
                 "value": "Arthur Whetsel, Cootie Williams, Freddie Jenkins(t); Joe Nanton(tb); Juan Tizol(vtb); Barney Bigard(cl,ts); Johnny Hodges, Harry Carney(cl,as); Duke Ellington(p); Fred Guy(bj); Wellman Braud(sb); Sonny Greer(d)."
             },
             {
+                "type": "begin_attacca"
+            },
+            {
                 "type": "take",
                 "index": "32-02-03-001",
-                "matrix": "/",
+                "matrix": "LBSHQ-71812-2",
                 "title": "Mood Indigo",
                 "releases": [
                     {
@@ -202,9 +221,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 7,
-                        "length": 464
+                        "length": 464,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -213,15 +233,17 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
-                "desor": "DE3202a"
+                "desor": "DE3202a",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "32-02-03-002",
-                "matrix": "–  LBSHQ-71812-2",
+                "matrix": "LBSHQ-71812-2",
                 "title": "Hot And Bothered",
                 "releases": [
                     {
@@ -245,9 +267,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 7,
-                        "length": 464
+                        "length": 464,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -256,16 +279,18 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
-                "desor": "DE3202b"
+                "desor": "DE3202b",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "32-02-03-003",
-                "matrix": "\\",
-                "title": "Creole Love Call",
+                "matrix": "LBSHQ-71812-2",
+                "title": "The Creole Love Call",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -288,9 +313,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 7,
-                        "length": 464
+                        "length": 464,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -299,15 +325,23 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Creole Love Call"
                     }
                 ],
-                "desor": "DE3202c"
+                "desor": "DE3202c",
+                "attacca": true
+            },
+            {
+                "type": "end_attacca"
+            },
+            {
+                "type": "begin_attacca"
             },
             {
                 "type": "take",
                 "index": "32-02-03-004",
-                "matrix": "/",
+                "matrix": "LBSHQ-71812-3",
                 "title": "Mood Indigo",
                 "releases": [
                     {
@@ -323,9 +357,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 6,
-                        "length": 459
+                        "length": 459,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -334,15 +369,17 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
-                "desor": "DE3202d"
+                "desor": "DE3202d",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "32-02-03-005",
-                "matrix": "– LBSHQ-71812-3",
+                "matrix": "LBSHQ-71812-3",
                 "title": "Hot And Bothered",
                 "releases": [
                     {
@@ -358,9 +395,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 6,
-                        "length": 459
+                        "length": 459,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -369,16 +407,18 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
-                "desor": "DE3202e"
+                "desor": "DE3202e",
+                "attacca": true
             },
             {
                 "type": "take",
                 "index": "32-02-03-006",
-                "matrix": "\\",
-                "title": "Creole Love Call",
+                "matrix": "LBSHQ-71812-3",
+                "title": "The Creole Love Call",
                 "releases": [
                     {
                         "label": "LR",
@@ -393,9 +433,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 6,
-                        "length": 459
+                        "length": 459,
+                        "title": "Creole Love Call"
                     },
                     {
                         "label": "RCA(F)",
@@ -404,10 +445,12 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Creole Love Call"
                     }
                 ],
-                "desor": "DE3202f"
+                "desor": "DE3202f",
+                "attacca": true
             },
             {
                 "type": "note",
@@ -438,7 +481,8 @@
                     {
                         "label": "Br",
                         "catalog": "6288",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -456,7 +500,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 4,
+                        "title": true
                     }
                 ],
                 "desor": "DE3203a"
@@ -474,7 +521,8 @@
                     {
                         "label": "Co",
                         "catalog": "CL 2046",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -484,7 +532,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 18,
+                        "title": "Blue Tune (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -507,7 +558,8 @@
                     {
                         "label": "Br",
                         "catalog": "6317",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Baby When You Ain't There"
                     },
                     {
                         "label": "CBS",
@@ -528,7 +580,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 5,
+                        "title": "Baby When You Ain't There"
                     }
                 ],
                 "desor": "DE3203c"
@@ -575,9 +630,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 8,
-                        "length": 454
+                        "length": 454,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -586,7 +642,8 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "East St. Louis Toddle"
                     }
                 ],
                 "desor": "DE3204a",
@@ -619,9 +676,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 8,
-                        "length": 454
+                        "length": 454,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -630,7 +688,8 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3204b",
@@ -663,9 +722,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 8,
-                        "length": 454
+                        "length": 454,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -674,7 +734,8 @@
                     {
                         "label": "Vi",
                         "catalog": "L-16007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3204c",
@@ -702,9 +763,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 9,
-                        "length": 175
+                        "length": 175,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -713,7 +775,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22938",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3204d"
@@ -736,9 +799,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 10,
-                        "length": 185
+                        "length": 185,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -747,7 +811,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22938",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3204e"
@@ -772,13 +837,14 @@
                 "type": "take",
                 "index": "32-02-11-001",
                 "matrix": "BX11263-A",
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "BCr",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "20105",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "St. Louis Blues"
                     },
                     {
                         "label": "CBS",
@@ -800,7 +866,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 19,
+                        "title": "St. Louis Blues (alt tk -A)"
                     }
                 ],
                 "desor": "DE3205a"
@@ -809,7 +878,7 @@
                 "type": "take",
                 "index": "32-02-11-002",
                 "matrix": "BX11263-B",
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "BCr",
                 "releases": [
                     {
@@ -819,7 +888,8 @@
                     {
                         "label": "Br",
                         "catalog": "20105",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "St. Louis Blues"
                     },
                     {
                         "label": "CBS",
@@ -837,7 +907,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 6,
+                        "title": "St. Louis Blues"
                     },
                     {
                         "label": "Nw",
@@ -858,12 +931,13 @@
                 "type": "take",
                 "index": "32-02-11-003",
                 "matrix": "BX11264-A",
-                "title": "Creole Love Call",
+                "title": "The Creole Love Call",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "20105",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Creole Love Call"
                     },
                     {
                         "label": "CBS",
@@ -881,7 +955,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 7,
+                        "title": "Creole Love Call"
                     }
                 ],
                 "desor": "DE3205c"
@@ -890,7 +967,7 @@
                 "type": "take",
                 "index": "32-02-11-004",
                 "matrix": "BX11264-B",
-                "title": "Creole Love Call",
+                "title": "The Creole Love Call",
                 "releases": [
                     {
                         "label": "BMG",
@@ -904,12 +981,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 20,
+                        "title": "Creole Love Call (alt tk -B)"
                     },
                     {
                         "label": "RTR",
                         "catalog": "79053",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Creole Love Call"
                     }
                 ],
                 "desor": "DE3205xa"
@@ -923,7 +1004,8 @@
                     {
                         "label": "Br",
                         "catalog": "6265",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Rose Room (In Sunny Roseland)"
                     },
                     {
                         "label": "CBS",
@@ -940,7 +1022,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 8,
+                        "title": true
                     }
                 ],
                 "desor": "DE3205d"
@@ -1011,7 +1096,8 @@
                     {
                         "label": "Br",
                         "catalog": "6374",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1032,7 +1118,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 9,
+                        "title": true
                     }
                 ],
                 "desor": "DE3206a"
@@ -1050,7 +1139,8 @@
                     {
                         "label": "Br",
                         "catalog": "6336",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1063,7 +1153,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 10,
+                        "title": true
                     }
                 ],
                 "desor": "DE3206b"
@@ -1089,7 +1182,8 @@
                     {
                         "label": "Br",
                         "catalog": "6355",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1106,7 +1200,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 11,
+                        "title": true
                     }
                 ],
                 "desor": "DE3207a"
@@ -1120,7 +1217,8 @@
                     {
                         "label": "Br",
                         "catalog": "6355",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Fast And Furious"
                     },
                     {
                         "label": "CBS",
@@ -1141,7 +1239,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 12,
+                        "title": "Fast And Furious"
                     }
                 ],
                 "desor": "DE3207b"
@@ -1159,7 +1260,8 @@
                     {
                         "label": "Co",
                         "catalog": "35836",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1169,7 +1271,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 21,
+                        "title": "Best Wishes (alt tk -A)"
                     },
                     {
                         "label": "Nw",
@@ -1191,7 +1296,8 @@
                     {
                         "label": "Br",
                         "catalog": "6374",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1209,7 +1315,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 13,
+                        "title": true
                     }
                 ],
                 "desor": "DE3207d"
@@ -1251,7 +1360,8 @@
                     {
                         "label": "Co",
                         "catalog": "37299",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Gp",
@@ -1264,7 +1374,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 14,
+                        "title": true
                     }
                 ],
                 "desor": "DE3208a"
@@ -1282,7 +1395,8 @@
                     {
                         "label": "Br",
                         "catalog": "6336",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1300,7 +1414,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 15,
+                        "title": true
                     }
                 ],
                 "desor": "DE3208b"
@@ -1318,7 +1435,8 @@
                     {
                         "label": "Co",
                         "catalog": "35834",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Gp",
@@ -1332,7 +1450,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 22,
+                        "title": "Blue Ramble (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -1356,7 +1477,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248",
-                        "first_issue": true
+                        "disc": 1,
+                        "first_issue": true,
+                        "track": 23,
+                        "title": "Clouds In My Heart (alt tk -A)"
                     }
                 ],
                 "desor": "DE3206xa"
@@ -1382,7 +1506,8 @@
                     {
                         "label": "Co",
                         "catalog": "37299",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Gp",
@@ -1396,7 +1521,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 16,
+                        "title": true
                     }
                 ],
                 "desor": "DE3208d"
@@ -1434,7 +1562,8 @@
                     {
                         "label": "Co",
                         "catalog": "37298",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1444,7 +1573,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 1,
+                        "title": true
                     }
                 ],
                 "desor": "DE3209a"
@@ -1467,7 +1599,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 1,
+                        "track": 12,
+                        "title": "Blue Mood (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -1476,7 +1611,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3209b"
@@ -1498,7 +1634,8 @@
                     {
                         "label": "Gp",
                         "catalog": "040",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1508,7 +1645,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 11,
+                        "title": "Blue Mood (alt tk -C)"
                     },
                     {
                         "label": "Nw",
@@ -1530,7 +1670,8 @@
                     {
                         "label": "Br",
                         "catalog": "6432",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1548,7 +1689,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 2,
+                        "title": true
                     }
                 ],
                 "desor": "DE3209d"
@@ -1566,7 +1710,8 @@
                     {
                         "label": "Co",
                         "catalog": "35683",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1576,7 +1721,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 13,
+                        "title": "Ducky Wucky (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -1605,7 +1753,7 @@
                 "type": "take",
                 "index": "32-09-21-001",
                 "matrix": "BS73557-1",
-                "title": "Maori",
+                "title": "Maori (A Samoan Dance)",
                 "releases": [
                     {
                         "label": "Cl(F)",
@@ -1614,7 +1762,8 @@
                     {
                         "label": "FDC",
                         "catalog": "1022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Maori"
                     },
                     {
                         "label": "LR",
@@ -1624,9 +1773,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "6",
+                        "disc": 6,
                         "track": 11,
-                        "length": 207
+                        "length": 207,
+                        "title": "Maori"
                     },
                     {
                         "label": "RCA(F)",
@@ -1689,7 +1839,8 @@
                     {
                         "label": "Br",
                         "catalog": "6404",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1711,7 +1862,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 3,
+                        "title": true
                     }
                 ],
                 "desor": "DE3211a"
@@ -1729,7 +1883,8 @@
                     {
                         "label": "Gp",
                         "catalog": "040",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1739,7 +1894,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 14,
+                        "title": "Jazz Cocktail (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -1761,7 +1919,8 @@
                     {
                         "label": "Br",
                         "catalog": "6404",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1783,7 +1942,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 4,
+                        "title": true
                     }
                 ],
                 "desor": "DE3211c"
@@ -1801,7 +1963,8 @@
                     {
                         "label": "Co",
                         "catalog": "35835",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Gp",
@@ -1815,7 +1978,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 15,
+                        "title": "Lightnin' (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -1846,7 +2012,8 @@
                     {
                         "label": "Br(F,G)",
                         "catalog": "A 9331",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1864,7 +2031,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 5,
+                        "title": true
                     }
                 ],
                 "desor": "DE3212a"
@@ -1879,7 +2049,8 @@
                     {
                         "label": "CBS",
                         "catalog": "88035",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1889,7 +2060,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 16,
+                        "title": "Stars (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -1911,7 +2085,8 @@
                     {
                         "label": "Br",
                         "catalog": "6432",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1929,7 +2104,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 6,
+                        "title": true
                     },
                     {
                         "label": "Ra",
@@ -1947,7 +2125,8 @@
                     {
                         "label": "CBS",
                         "catalog": "88035",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1961,7 +2140,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 17,
+                        "title": "Swing Low (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -1992,7 +2174,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2002,7 +2185,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 7,
+                        "title": "I Must Have That Man! (alt tk -A)"
                     },
                     {
                         "label": "Nw",
@@ -2021,7 +2207,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2031,7 +2218,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 19,
+                        "title": "I Must Have That Man! (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -2058,7 +2248,8 @@
                     {
                         "label": "Co",
                         "catalog": "OL 6770",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Baby!"
                     },
                     {
                         "label": "LR",
@@ -2068,7 +2259,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 8,
+                        "title": "Baby! (alt tk -A)"
                     }
                 ],
                 "desor": "DE3213c"
@@ -2083,7 +2277,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2093,7 +2288,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 19,
+                        "title": "Baby! (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -2119,12 +2317,13 @@
                 "type": "take",
                 "index": "32-12-21-005",
                 "matrix": "B12775-A",
-                "title": "Any Time, Any Day, Anywhere",
+                "title": "Anytime, Anyday, Anywhere",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "6467",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Any Time, Any Day, Any Where"
                     },
                     {
                         "label": "CBS",
@@ -2142,7 +2341,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 9,
+                        "title": "Any Time, Any Day, Any Where"
                     }
                 ],
                 "desor": "DE3213e"
@@ -2151,7 +2353,7 @@
                 "type": "take",
                 "index": "32-12-21-006",
                 "matrix": "B12775-B",
-                "title": "Any Time, Any Day, Anywhere",
+                "title": "Anytime, Anyday, Anywhere",
                 "releases": [
                     {
                         "label": "CBS",
@@ -2174,7 +2376,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 20,
+                        "title": "Any Time, Any Day, Any Where (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -2187,7 +2392,7 @@
                 "type": "take",
                 "index": "32-12-21-007",
                 "matrix": "B12776-A",
-                "title": "Delta Bound",
+                "title": "I'm Delta Bound",
                 "vocalists": "IA",
                 "releases": [
                     {
@@ -2201,7 +2406,8 @@
                     {
                         "label": "Co",
                         "catalog": "37298",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Delta Bound"
                     },
                     {
                         "label": "LR",
@@ -2211,7 +2417,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 10,
+                        "title": "Delta Bound"
                     }
                 ],
                 "desor": "DE3213g"
@@ -2220,13 +2429,14 @@
                 "type": "take",
                 "index": "32-12-21-008",
                 "matrix": "B12776-B",
-                "title": "Delta Bound",
+                "title": "I'm Delta Bound",
                 "vocalists": "IA",
                 "releases": [
                     {
                         "label": "BD",
                         "catalog": "T-1001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Delta Bound"
                     },
                     {
                         "label": "LR",
@@ -2236,7 +2446,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 2,
+                        "track": 21,
+                        "title": "Delta Bound (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -2267,7 +2480,8 @@
                     {
                         "label": "Br",
                         "catalog": "6519",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Diga Diga Do"
                     },
                     {
                         "label": "CBS",
@@ -2289,7 +2503,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 3,
+                        "track": 1,
+                        "title": "Diga Diga Do"
                     }
                 ],
                 "desor": "DE3214a"
@@ -2304,7 +2521,8 @@
                     {
                         "label": "Co",
                         "catalog": "CK 66372",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Diga Diga Do"
                     },
                     {
                         "label": "LR",
@@ -2314,7 +2532,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 3,
+                        "track": 11,
+                        "title": "Diga Diga Do (alt tk -B)"
                     }
                 ],
                 "desor": "DE3214b"
@@ -2342,7 +2563,8 @@
                     {
                         "label": "Br",
                         "catalog": "6517",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "I Can't Give You Anything But Love (Baby)"
                     },
                     {
                         "label": "CBS",
@@ -2364,7 +2586,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 3,
+                        "track": 2,
+                        "title": true
                     }
                 ],
                 "desor": "DE3214c"
@@ -2379,7 +2604,8 @@
                     {
                         "label": "Co",
                         "catalog": "CK 66372",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2389,7 +2615,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 3,
+                        "track": 12,
+                        "title": "I Can't Give You Anything But Love (alt tk -B)"
                     }
                 ],
                 "desor": "DE3214d"
@@ -2408,7 +2637,8 @@
                     {
                         "label": "Br",
                         "catalog": "6521",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -2426,7 +2656,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 3,
+                        "track": 3,
+                        "title": true
                     }
                 ],
                 "desor": "DE3214e"
@@ -2447,7 +2680,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248",
-                        "first_issue": true
+                        "disc": 3,
+                        "first_issue": true,
+                        "track": 14,
+                        "title": "Porgy (alt tk -B)"
                     }
                 ],
                 "desor": "DE3214f"
@@ -2468,7 +2704,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248",
-                        "first_issue": true
+                        "disc": 3,
+                        "first_issue": true,
+                        "track": 13,
+                        "title": "Porgy (alt tk -C)"
                     }
                 ],
                 "desor": "DE3214g"
