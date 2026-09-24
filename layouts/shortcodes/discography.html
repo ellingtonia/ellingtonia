@@ -39,6 +39,7 @@
     {{ $entries := .entries }}
     {{ $prevMatrix := "" }}
     {{ $inAttacca := false }}
+    {{ $medleyInSuite := false }}
     {{ range $i, $entry := $entries }}
       {{ if eq .type "suite" }}
         <tr class="suite">
@@ -48,6 +49,11 @@
       {{ else if eq .type "medley" }}
         {{ $isDitto := and $inAttacca $entry.matrix (eq $entry.matrix $prevMatrix) }}
         {{ $prevMatrix = $entry.matrix }}
+        {{ if $entry.medley_title }}
+          {{ $medleyInSuite = and $entry.suite_index true }}
+        {{ else }}
+          {{ $medleyInSuite = false }}
+        {{ end }}
         <tr class="medley" id="take-{{ .index }}">
           <td class="index"> {{ $entry.index }} </td>
           <td>{{ if $isDitto }}<span class="ditto" title="Same matrix number as the row above">&#34;</span>{{ else }}{{ $entry.matrix }}{{ end }}</td>
@@ -82,7 +88,7 @@
       {{ else if eq .type "take" }}
         {{ $isDitto := and $inAttacca $entry.matrix (eq $entry.matrix $prevMatrix) }}
         {{ $prevMatrix = $entry.matrix }}
-        <tr class="take{{ if $entry.attacca }} attacca{{ end }}" id="take-{{ .index }}">
+        <tr class="take{{ if $entry.attacca }} attacca{{ end }}{{ if and $medleyInSuite $entry.medley_index }} suite_medley{{ end }}" id="take-{{ .index }}">
           <td class="index"> {{ $entry.index }} </td>
           <td>{{ if $isDitto }}<span class="ditto" title="Same matrix number as the row above">&#34;</span>{{ else }}{{ $entry.matrix }}{{ end }}</td>
           <td class="title">

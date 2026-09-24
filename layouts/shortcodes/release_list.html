@@ -78,6 +78,7 @@ case tracks are listed in the order in they were recorded.</p>
       {{ $entries := $release_data.entries }}
       {{ $prevMatrix := "" }}
       {{ $inAttacca := false }}
+      {{ $medleyInSuite := false }}
       {{ range $i, $entry := $entries }}
         {{ if eq .type "suite" }}
           <tr class="suite">
@@ -89,6 +90,11 @@ case tracks are listed in the order in they were recorded.</p>
         {{ else if eq .type "medley" }}
           {{ $isDitto := and $inAttacca $entry.matrix (eq $entry.matrix $prevMatrix) }}
           {{ $prevMatrix = $entry.matrix }}
+          {{ if $entry.medley_title }}
+            {{ $medleyInSuite = and $entry.suite_index true }}
+          {{ else }}
+            {{ $medleyInSuite = false }}
+          {{ end }}
           <tr class="medley">
             {{ if $entry.medley_title }}
               {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
@@ -130,7 +136,7 @@ case tracks are listed in the order in they were recorded.</p>
         {{ else if eq .type "take" }}
           {{ $isDitto := and $inAttacca $entry.matrix (eq $entry.matrix $prevMatrix) }}
           {{ $prevMatrix = $entry.matrix }}
-          <tr class="take{{ if $entry.attacca }} attacca{{ end }}">
+          <tr class="take{{ if $entry.attacca }} attacca{{ end }}{{ if and $medleyInSuite $entry.medley_index }} suite_medley{{ end }}">
             {{ $page := ref $.Page (printf "discography/%s" $entry.page) }}
             <td class="index"><a href="{{ $page }}#take-{{ $entry.index }}">{{ $entry.index }}</a></td>
             <td>{{ if $isDitto }}<span class="ditto" title="Same matrix number as the row above">&#34;</span>{{ else }}{{ $entry.matrix }}{{ end }}</td>
