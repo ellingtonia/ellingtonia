@@ -17,16 +17,19 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "646"
+                        "catalog": "646",
+                        "title": true
                     },
                     {
                         "label": "FDC",
                         "catalog": "1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -36,7 +39,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 1,
+                        "title": true
                     }
                 ],
                 "desor": "DE3501a"
@@ -49,16 +55,19 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "646"
+                        "catalog": "646",
+                        "title": true
                     },
                     {
                         "label": "FDC",
                         "catalog": "1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -67,7 +76,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 2,
+                        "title": true
                     }
                 ],
                 "desor": "DE3501b"
@@ -85,16 +97,19 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "FDC",
                         "catalog": "1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -103,7 +118,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 3,
+                        "title": true
                     }
                 ],
                 "desor": "DE3501c"
@@ -127,14 +145,17 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248",
-                        "first_issue": true
+                        "disc": 5,
+                        "first_issue": true,
+                        "track": 4,
+                        "title": "Porto Rican Chaos [Moonlight Fiesta] (alt tk)"
                     }
                 ],
                 "desor": "DE3501d"
             },
             {
                 "type": "note",
-                "content": "\"Admiration\" is not the same composition recorded on 20 March 1930."
+                "content": "\"Admiration\" is not the same composition recorded on 20 March 1930 and indeed titled \"Admiration (Hawaiian Idyl).\""
             }
         ]
     },
@@ -157,15 +178,18 @@
                     {
                         "label": "Br",
                         "catalog": "7526",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -174,7 +198,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 5,
+                        "title": true
                     }
                 ],
                 "desor": "DE3502a"
@@ -195,11 +222,13 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": "Moonlight Fiesta"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -213,12 +242,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 6,
+                        "title": "Porto Rican Chaos [Moonlight Fiesta] (master take)"
                     },
                     {
                         "label": "SE",
                         "catalog": "5007-S",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Moonlight Fiesta"
                     }
                 ],
                 "desor": "DE3502b"
@@ -231,16 +264,19 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": "Porto Rican Chaos"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": "Porto Rican Chaos"
                     },
                     {
                         "label": "FDC",
                         "catalog": "1022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Porto Rican Chaos"
                     },
                     {
                         "label": "FMRS",
@@ -254,10 +290,17 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 24,
+                        "title": "Porto Rican Chaos [Moonlight Fiesta] (alt tk)"
                     }
                 ],
                 "desor": "DE3502c"
+            },
+            {
+                "type": "note",
+                "content": "B16974-2 is misidentified as C886-2 on FDC 1022, CBS 88137 and Cl(F) 659."
             }
         ]
     },
@@ -280,7 +323,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -290,7 +334,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 2,
+                        "title": "Tough Truckin' (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -312,16 +359,19 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "Co",
                         "catalog": "37297",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -339,7 +389,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 1,
+                        "title": true
                     }
                 ],
                 "desor": "DE3502e"
@@ -348,7 +401,7 @@
                 "type": "take",
                 "index": "35-03-05-006",
                 "matrix": "B16976-1",
-                "title": "Indigo Echo",
+                "title": "Indigo Echoes",
                 "releases": [
                     {
                         "label": "BD",
@@ -363,7 +416,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 4,
+                        "title": "Indigo Echoes (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -376,21 +432,23 @@
                 "type": "take",
                 "index": "35-03-05-007",
                 "matrix": "B16976-2",
-                "title": "Indigo Echo",
+                "title": "Indigo Echoes",
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "Co",
                         "catalog": "37297",
                         "first_issue": true,
-                        "title": "Indigo Echoes"
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -404,14 +462,13 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 3,
+                        "title": true
                     }
                 ],
                 "desor": "DE3502g"
-            },
-            {
-                "type": "note",
-                "content": "B16974-2 is misidentified as C886-2 on FDC 1022, CBS 88137 and Cl(F) 659."
             }
         ]
     },
@@ -446,11 +503,13 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -458,7 +517,7 @@
                         "disc": 1,
                         "track": 11,
                         "length": 195,
-                        "title": "In A Sentimental Mood"
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -467,7 +526,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 7,
+                        "title": true
                     }
                 ],
                 "desor": "DE3503a"
@@ -485,15 +547,18 @@
                     {
                         "label": "Br",
                         "catalog": "7461",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -501,7 +566,7 @@
                         "disc": 1,
                         "track": 10,
                         "length": 181,
-                        "title": "Showboat Shuffle"
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -510,7 +575,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 8,
+                        "title": true
                     }
                 ],
                 "desor": "DE3503b"
@@ -528,15 +596,18 @@
                     {
                         "label": "Br",
                         "catalog": "7440",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -545,7 +616,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 9,
+                        "title": true
                     }
                 ],
                 "desor": "DE3503c"
@@ -559,15 +633,18 @@
                     {
                         "label": "Br",
                         "catalog": "7440",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -576,7 +653,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 10,
+                        "title": true
                     }
                 ],
                 "desor": "DE3503d"
@@ -603,15 +683,18 @@
                     {
                         "label": "Br",
                         "catalog": "7526",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -620,7 +703,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 11,
+                        "title": true
                     }
                 ],
                 "desor": "DE3504a"
@@ -635,15 +721,18 @@
                     {
                         "label": "Br",
                         "catalog": "7514",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -656,7 +745,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 12,
+                        "title": true
                     }
                 ],
                 "desor": "DE3504b"
@@ -670,15 +762,18 @@
                     {
                         "label": "Br",
                         "catalog": "7514",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -687,7 +782,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 13,
+                        "title": true
                     }
                 ],
                 "desor": "DE3504c"
@@ -717,15 +815,18 @@
                     {
                         "label": "Br",
                         "catalog": "7546",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": "Reminiscing In Tempo Part I"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -734,7 +835,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 14,
+                        "title": "Reminiscing In Tempo (Pt. 1)"
                     },
                     {
                         "label": "UArc",
@@ -756,15 +860,18 @@
                     {
                         "label": "Br",
                         "catalog": "7546",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": "Reminiscing In Tempo Part II"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -773,7 +880,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 15,
+                        "title": "Reminiscing In Tempo (Pt. 2)"
                     },
                     {
                         "label": "UArc",
@@ -795,15 +905,18 @@
                     {
                         "label": "Br",
                         "catalog": "7547",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": "Reminiscing In Tempo Part III"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -812,7 +925,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 16,
+                        "title": "Reminiscing In Tempo (Pt. 3)"
                     },
                     {
                         "label": "UArc",
@@ -834,15 +950,18 @@
                     {
                         "label": "Br",
                         "catalog": "7547",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88137"
+                        "catalog": "88137",
+                        "title": "Reminiscing In Tempo Part IV"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "659"
+                        "catalog": "659",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -851,7 +970,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 5,
+                        "track": 17,
+                        "title": "Reminiscing In Tempo (Pt. 4)"
                     },
                     {
                         "label": "UArc",
