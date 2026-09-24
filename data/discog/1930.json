@@ -3,7 +3,7 @@
         "group": "TEN BLACK BERRIES",
         "location": "New York City, NY",
         "date": "29 January 1930",
-        "description": "ARC recording session",
+        "description": "ARC recording session. ARC studio.",
         "entries": [
             {
                 "type": "artists",
@@ -13,7 +13,7 @@
                 "type": "take",
                 "index": "30-01-29-001",
                 "matrix": "9319-1",
-                "title": "St. James Infirmary",
+                "title": "St. James' Infirmary",
                 "vocalists": "IM",
                 "releases": [
                     {
@@ -41,17 +41,26 @@
                     {
                         "label": "Or",
                         "catalog": "1849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "15272",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Re",
                         "catalog": "8941",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
+                    },
+                    {
+                        "label": "Ro",
+                        "catalog": "1209",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3001a"
@@ -60,18 +69,20 @@
                 "type": "take",
                 "index": "30-01-29-002",
                 "matrix": "9319-2",
-                "title": "St. James Infirmary",
+                "title": "St. James' Infirmary",
                 "vocalists": "IM",
                 "releases": [
                     {
                         "label": "Ba",
                         "catalog": "0594",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cam",
                         "catalog": "0194",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -80,7 +91,8 @@
                     {
                         "label": "Je",
                         "catalog": "5849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -93,17 +105,20 @@
                     {
                         "label": "Or",
                         "catalog": "1849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Per",
                         "catalog": "15272",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ro",
                         "catalog": "1209",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3001b"
@@ -112,23 +127,26 @@
                 "type": "take",
                 "index": "30-01-29-003",
                 "matrix": "9319-3",
-                "title": "St. James Infirmary",
+                "title": "St. James' Infirmary",
                 "vocalists": "IM",
                 "releases": [
                     {
                         "label": "Ba",
                         "catalog": "0594",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cam",
                         "catalog": "0194",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Je",
                         "catalog": "5849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -142,25 +160,23 @@
                 "desor": "DE3001c"
             },
             {
-                "type": "note",
-                "content": "An apostrophe is added to the title (\"James'\") on the record labels of the 78s."
-            },
-            {
                 "type": "take",
                 "index": "30-01-29-004",
                 "matrix": "9320-1",
-                "title": "When You're Smiling",
+                "title": "When You're Smiling (The Whole World Smiles With You)",
                 "vocalists": "IM",
                 "releases": [
                     {
                         "label": "Ba",
                         "catalog": "0607",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling The Whole World Smiles With You"
                     },
                     {
                         "label": "Cam",
                         "catalog": "0207",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling The Whole World Smiles With You"
                     },
                     {
                         "label": "CBS",
@@ -182,12 +198,14 @@
                     {
                         "label": "Per",
                         "catalog": "15272",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ro",
                         "catalog": "1218",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling The Whole World Smiles With You"
                     }
                 ],
                 "desor": "DE3001d"
@@ -196,13 +214,14 @@
                 "type": "take",
                 "index": "30-01-29-005",
                 "matrix": "9320-3",
-                "title": "When You're Smiling",
+                "title": "When You're Smiling (The Whole World Smiles With You)",
                 "vocalists": "IM",
                 "releases": [
                     {
                         "label": "Cam",
                         "catalog": "0207",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling The Whole World Smiles With You"
                     },
                     {
                         "label": "CBS",
@@ -220,7 +239,8 @@
                     {
                         "label": "Dom",
                         "catalog": "4498",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling The Whole World Smiles With You"
                     },
                     {
                         "label": "MoJ",
@@ -229,17 +249,20 @@
                     {
                         "label": "Per",
                         "catalog": "15272",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Re",
                         "catalog": "8941",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling The Whole World Smiles With You"
                     },
                     {
                         "label": "Ro",
                         "catalog": "1218",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling The Whole World Smiles With You"
                     }
                 ],
                 "desor": "DE3001e"
@@ -257,7 +280,8 @@
                     {
                         "label": "Ba",
                         "catalog": "0594",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cam",
@@ -289,7 +313,8 @@
                     {
                         "label": "Ro",
                         "catalog": "1209",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3001f"
@@ -303,12 +328,14 @@
                     {
                         "label": "Ba",
                         "catalog": "0594",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cam",
                         "catalog": "0194",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -321,7 +348,8 @@
                     {
                         "label": "Ro",
                         "catalog": "1209",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3001g"
@@ -335,12 +363,14 @@
                     {
                         "label": "Ba",
                         "catalog": "0594",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cam",
                         "catalog": "0194",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -353,7 +383,8 @@
                     {
                         "label": "Je",
                         "catalog": "5849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -362,12 +393,14 @@
                     {
                         "label": "Or",
                         "catalog": "1849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ro",
                         "catalog": "1209",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3001h"
@@ -385,12 +418,14 @@
                     {
                         "label": "Ba",
                         "catalog": "0598",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cam",
                         "catalog": "0198",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -431,7 +466,8 @@
                     {
                         "label": "Cam",
                         "catalog": "0198",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -464,7 +500,7 @@
             },
             {
                 "type": "note",
-                "content": "In the U.S the recordings of this session were released simultaneously on various labels controlled by ARC."
+                "content": "In the U.S the recordings of this session were released contemporaneously on various labels controlled by ARC."
             }
         ]
     },
@@ -472,7 +508,7 @@
         "group": "THE JUNGLE BAND",
         "location": "New York City, NY",
         "date": "21 February 1930",
-        "description": "Brunswick recording session",
+        "description": "Brunswick recording session. Brunswick studio.",
         "entries": [
             {
                 "type": "artists",
@@ -482,7 +518,7 @@
                 "type": "take",
                 "index": "30-02-21-001",
                 "matrix": "E32209-B",
-                "title": "Admiration",
+                "title": "Admiration (Hawaiian Idyl)",
                 "releases": [],
                 "desor": "DE3002a"
             },
@@ -495,7 +531,8 @@
                     {
                         "label": "Br",
                         "catalog": "4776",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -536,14 +573,14 @@
                 "type": "take",
                 "index": "30-02-21-004",
                 "matrix": "E32212-B",
-                "title": "When You're Smiling",
+                "title": "When You're Smiling (The Whole World Smiles With You)",
                 "vocalists": "Unk",
                 "releases": [],
                 "desor": "DE3002d"
             },
             {
                 "type": "note",
-                "content": "Three selections were rejected. Recording files note that Maori E32210 is a \"Fox Trot,\" while E32211 is a \"One-Step.\" \"Admiration\" was copyrighted as \"Admiration;  Hawaiian Idyl\". Files don't specity the name of the vocalist on \"When You're Smiling.\""
+                "content": "Three selections were rejected. Recording files note that Maori E32210 is a \"Fox Trot,\" while E32211 is a \"One-Step.\" Files don't specify the name of the vocalist on \"When You're Smiling.\""
             }
         ]
     },
@@ -552,7 +589,7 @@
         "location": "New York City, NY",
         "date": "March 1930",
         "index_date": 300300,
-        "description": "Durium recording session",
+        "description": "Durium Hit of the Week recording session.",
         "entries": [
             {
                 "type": "artists",
@@ -572,7 +609,8 @@
                     {
                         "label": "HoW",
                         "catalog": "1045",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -585,7 +623,7 @@
                 "type": "take",
                 "index": "30-03-00-002",
                 "matrix": "1046-D",
-                "title": "St. James Infirmary",
+                "title": "St. James' Infirmary",
                 "vocalists": "IM",
                 "releases": [
                     {
@@ -595,7 +633,8 @@
                     {
                         "label": "HoW",
                         "catalog": "1046",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -603,10 +642,6 @@
                     }
                 ],
                 "desor": "DE3003b"
-            },
-            {
-                "type": "note",
-                "content": "Again an apostrophe is used on the 78 label."
             }
         ]
     },
@@ -614,7 +649,7 @@
         "group": "THE JUNGLE BAND",
         "location": "New York City, NY",
         "date": "20 March 1930",
-        "description": "Brunswick recording session",
+        "description": "Brunswick recording session. Brunswick studio.",
         "entries": [
             {
                 "type": "artists",
@@ -624,7 +659,7 @@
                 "type": "take",
                 "index": "30-03-20-001",
                 "matrix": "X1026A",
-                "title": "When You're Smiling",
+                "title": "When You're Smiling (The Whole World Smiles With You)",
                 "vocalists": "IM",
                 "releases": [],
                 "desor": null
@@ -633,7 +668,7 @@
                 "type": "take",
                 "index": "30-03-20-002",
                 "matrix": "X1026B",
-                "title": "When You're Smiling",
+                "title": "When You're Smiling (The Whole World Smiles With You)",
                 "vocalists": "IM",
                 "releases": [],
                 "desor": null
@@ -642,13 +677,14 @@
                 "type": "take",
                 "index": "30-03-20-003",
                 "matrix": "E32447-A",
-                "title": "When You're Smiling",
+                "title": "When You're Smiling (The Whole World Smiles With You)",
                 "vocalists": "IM",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "4760",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -677,7 +713,7 @@
                 "type": "take",
                 "index": "30-03-20-004",
                 "matrix": "E32447-B",
-                "title": "When You're Smiling",
+                "title": "When You're Smiling (The Whole World Smiles With You)",
                 "vocalists": "IM",
                 "releases": [
                     {
@@ -699,7 +735,8 @@
                     {
                         "label": "UtD",
                         "catalog": "2007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "When You're Smiling"
                     }
                 ],
                 "desor": "DE3004b"
@@ -720,7 +757,7 @@
                 "releases": [
                     {
                         "label": "Br(F)",
-                        "catalog": "500158",
+                        "catalog": "A 500.158",
                         "first_issue": true
                     },
                     {
@@ -737,7 +774,8 @@
                     },
                     {
                         "label": "MCA",
-                        "catalog": "1374"
+                        "catalog": "1374",
+                        "title": "Maori (\"A\" Take)"
                     },
                     {
                         "label": "MoJ",
@@ -767,7 +805,8 @@
                     {
                         "label": "MCA",
                         "catalog": "1374",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Maori (\"B\" Take)"
                     },
                     {
                         "label": "MoJ",
@@ -784,12 +823,13 @@
                 "type": "take",
                 "index": "30-03-20-008",
                 "matrix": "E32449-A or -B",
-                "title": "Admiration",
+                "title": "Admiration (Hawaiian Idyl)",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "4776",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Admiration"
                     },
                     {
                         "label": "Cl(F)",
@@ -801,7 +841,8 @@
                     },
                     {
                         "label": "De",
-                        "catalog": "GRD-3-640"
+                        "catalog": "GRD-3-640",
+                        "title": "Admiration"
                     },
                     {
                         "label": "Df",
@@ -920,7 +961,8 @@
                     {
                         "label": "FDC",
                         "catalog": "1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -955,7 +997,8 @@
                     {
                         "label": "VT",
                         "catalog": "7072-V",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3005d"
@@ -992,7 +1035,8 @@
                     {
                         "label": "VT",
                         "catalog": "7072-V",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3005e"
@@ -1003,7 +1047,7 @@
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "11 April 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. Victor studio.",
         "entries": [
             {
                 "type": "artists",
@@ -1035,9 +1079,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 1,
-                        "length": 174
+                        "length": 174,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1046,7 +1091,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38129",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3006a"
@@ -1074,9 +1120,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 2,
-                        "length": 180
+                        "length": 180,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1085,7 +1132,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38130",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3006b"
@@ -1113,9 +1161,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 3,
-                        "length": 179
+                        "length": 179,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1124,14 +1173,15 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38130",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3006c"
             },
             {
                 "type": "note",
-                "content": "\"My Gal Is Good for Nothing but Love\" was copyrighted and published as \"My Man Is Good for Nothing but Love.\""
+                "content": "\"My Gal Is Good for Nothing but Love\" was copyrighted and published as \"My Man Is Good for Nothin' but Love.\""
             }
         ]
     },
@@ -1139,7 +1189,7 @@
         "group": "THE JUNGLE BAND",
         "location": "New York City, NY",
         "date": "22 April 1930",
-        "description": "Brunswick recording session",
+        "description": "Brunswick recording session. Brunswick studio.",
         "entries": [
             {
                 "type": "artists",
@@ -1154,7 +1204,8 @@
                     {
                         "label": "Br",
                         "catalog": "4783",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -1189,7 +1240,8 @@
                     {
                         "label": "Br",
                         "catalog": "4783",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "COPS",
@@ -1258,7 +1310,7 @@
                 "type": "take",
                 "index": "30-04-22-004",
                 "matrix": "E32614-A",
-                "title": "Cotton Club Stomp*",
+                "title": "Cotton Club Stomp#",
                 "releases": [
                     {
                         "label": "Br",
@@ -1292,7 +1344,7 @@
                 "type": "take",
                 "index": "30-04-22-005",
                 "matrix": "E32614-B",
-                "title": "Cotton Club Stomp*",
+                "title": "Cotton Club Stomp#",
                 "releases": [
                     {
                         "label": "De",
@@ -1320,7 +1372,7 @@
             },
             {
                 "type": "note",
-                "content": "NB:- Cotton Club Stomp on these recordings is not the same as any other recording of the same title."
+                "content": "NB: Cotton Club Stomp on these recordings is not the same as any other recording of the same title."
             }
         ]
     },
@@ -1328,7 +1380,7 @@
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "04 June 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. Victor studio.",
         "entries": [
             {
                 "type": "artists",
@@ -1356,9 +1408,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 4,
-                        "length": 203
+                        "length": 203,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1367,7 +1420,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38143",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3008a"
@@ -1395,9 +1449,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 5,
-                        "length": 205
+                        "length": 205,
+                        "title": true
                     }
                 ],
                 "desor": "DE3008b"
@@ -1428,7 +1483,7 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 6,
                         "length": 174
                     },
@@ -1439,7 +1494,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3008c"
@@ -1466,9 +1522,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 7,
-                        "length": 163
+                        "length": 163,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1477,7 +1534,8 @@
                     {
                         "label": "Vi",
                         "catalog": "V-38143",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3008d"
@@ -1504,9 +1562,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 8,
-                        "length": 160
+                        "length": 160,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1542,9 +1601,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 9,
-                        "length": 176
+                        "length": 176,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1553,7 +1613,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23041",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3008f"
@@ -1806,7 +1867,7 @@
         "location": "Los Angeles, CA",
         "date": "August 1930",
         "index_date": 300800,
-        "description": "Recording session for the RKO film \"Check And Double Check\". RKO Hollywood Studios",
+        "description": "Recording session for the RKO film \"Check And Double Check\". RKO Hollywood Studios.",
         "entries": [
             {
                 "type": "artists",
@@ -1842,7 +1903,8 @@
                 "releases": [
                     {
                         "label": "MoJ",
-                        "catalog": "MJCD 173"
+                        "catalog": "MJCD 173",
+                        "first_issue": true
                     },
                     {
                         "label": "Roan",
@@ -1931,7 +1993,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "20 August 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. Victor studio.",
         "entries": [
             {
                 "type": "artists",
@@ -1975,9 +2037,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 10,
-                        "length": 174
+                        "length": 174,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2014,9 +2077,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 11,
-                        "length": 174
+                        "length": 174,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2025,7 +2089,8 @@
                     {
                         "label": "Vi",
                         "catalog": "20-1532",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3011b"
@@ -2053,9 +2118,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 12,
-                        "length": 183
+                        "length": 183,
+                        "title": true
                     },
                     {
                         "label": "UtD",
@@ -2093,9 +2159,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 13,
-                        "length": 184
+                        "length": 184,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2132,9 +2199,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 14,
-                        "length": 185
+                        "length": 185,
+                        "title": true
                     },
                     {
                         "label": "UtD",
@@ -2163,10 +2231,11 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "first_issue": true,
                         "track": 15,
-                        "length": 184
+                        "length": 184,
+                        "title": true
                     }
                 ],
                 "desor": "DE3011f"
@@ -2190,7 +2259,7 @@
         "group": "DUKE ELLINGTON AND HIS ORCHESTRA",
         "location": "Los Angeles, CA",
         "date": "26 August 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. Victor studio.",
         "entries": [
             {
                 "type": "artists",
@@ -2220,9 +2289,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 17,
-                        "length": 178
+                        "length": 178,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2260,9 +2330,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 18,
-                        "length": 190
+                        "length": 190,
+                        "title": true
                     }
                 ],
                 "desor": "DE3012b"
@@ -2294,9 +2365,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 19,
-                        "length": 186
+                        "length": 186,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2305,7 +2377,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3012c"
@@ -2338,9 +2411,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 16,
-                        "length": 186
+                        "length": 186,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2360,7 +2434,7 @@
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "02 October 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. RCA Studio #4.",
         "entries": [
             {
                 "type": "artists",
@@ -2390,9 +2464,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 20,
-                        "length": 181
+                        "length": 181,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2401,7 +2476,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23016",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3013a"
@@ -2430,9 +2506,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 21,
-                        "length": 179
+                        "length": 179,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2441,7 +2518,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23016",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3013b"
@@ -2473,9 +2551,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "4",
+                        "disc": 4,
                         "track": 22,
-                        "length": 175
+                        "length": 175,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2484,7 +2563,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23016",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3013c"
@@ -2512,9 +2592,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 1,
-                        "length": 179
+                        "length": 179,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2523,7 +2604,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23017",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3013d"
@@ -2555,9 +2637,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 2,
-                        "length": 196
+                        "length": 196,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2566,7 +2649,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23017",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3013e"
@@ -2577,7 +2661,7 @@
         "group": "THE HARLEM FOOTWARMERS",
         "location": "New York City, NY",
         "date": "14 October 1930",
-        "description": "OKeh recording session",
+        "description": "OKeh recording session. OKeh studio.",
         "entries": [
             {
                 "type": "artists",
@@ -2615,7 +2699,8 @@
                     {
                         "label": "OK",
                         "catalog": "8840",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3014a"
@@ -2660,7 +2745,8 @@
                     {
                         "label": "OK",
                         "catalog": "8836",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3014b"
@@ -2697,7 +2783,8 @@
                     {
                         "label": "OK",
                         "catalog": "8836",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3014c"
@@ -2712,7 +2799,7 @@
         "group": "THE JUNGLE BAND",
         "location": "New York City, NY",
         "date": "17 October 1930",
-        "description": "Brunswick recording session",
+        "description": "Brunswick recording session. Brunswick studio.",
         "entries": [
             {
                 "type": "artists",
@@ -2722,13 +2809,14 @@
                 "type": "take",
                 "index": "30-10-17-001",
                 "matrix": "E34927-A",
-                "title": "Runnin' Wild",
+                "title": "Running Wild",
                 "vocalists": "DR",
                 "releases": [
                     {
                         "label": "Br",
                         "catalog": "4952",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Runnin' Wild"
                     },
                     {
                         "label": "Cl(F)",
@@ -2740,7 +2828,8 @@
                     },
                     {
                         "label": "De",
-                        "catalog": "GRD-3-640"
+                        "catalog": "GRD-3-640",
+                        "title": "Runnin' Wild!"
                     },
                     {
                         "label": "Df",
@@ -2766,7 +2855,8 @@
                     {
                         "label": "Br",
                         "catalog": "4952",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Dreamy Blues"
                     },
                     {
                         "label": "Cl(F)",
@@ -2778,7 +2868,8 @@
                     },
                     {
                         "label": "De",
-                        "catalog": "GRD-3-640"
+                        "catalog": "GRD-3-640",
+                        "title": "Mood Indigo"
                     },
                     {
                         "label": "Df",
@@ -2801,7 +2892,7 @@
         "group": "THE JUNGLE BAND",
         "location": "New York City, NY",
         "date": "27 October 1930",
-        "description": "Brunswick recording session",
+        "description": "Brunswick recording session. Brunswick studio.",
         "entries": [
             {
                 "type": "artists",
@@ -2817,7 +2908,8 @@
                     {
                         "label": "Br",
                         "catalog": "6003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -2852,7 +2944,8 @@
                     {
                         "label": "Br",
                         "catalog": "6003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Wang Wang Blues"
                     },
                     {
                         "label": "Cl(F)",
@@ -2883,7 +2976,7 @@
         "group": "THE HARLEM MUSIC MASTERS",
         "location": "New York City, NY",
         "date": "30 October 1930",
-        "description": "OKeh recording session",
+        "description": "OKeh recording session. OKeh studio.",
         "entries": [
             {
                 "type": "artists",
@@ -2916,7 +3009,7 @@
                         "disc": 1,
                         "track": 5,
                         "length": 168,
-                        "title": "Ring Dem Bells"
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3032,7 +3125,8 @@
                     {
                         "label": "OK",
                         "catalog": "8869",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3017c"
@@ -3074,7 +3168,8 @@
                     {
                         "label": "OK",
                         "catalog": "8840",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3017d"
@@ -3085,7 +3180,7 @@
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "21 November 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. RCA Studio #1.",
         "entries": [
             {
                 "type": "artists",
@@ -3103,7 +3198,7 @@
                 "type": "take",
                 "index": "30-11-21-002",
                 "matrix": "BVE64812-1",
-                "title": "Nine Little Miles From Ten-Ten-Tennessee",
+                "title": "(Five - Six - Seven - Eight) Nine Little Miles From Ten-Ten-Tennessee",
                 "vocalists": "SB",
                 "releases": [
                     {
@@ -3123,9 +3218,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 3,
-                        "length": 206
+                        "length": 206,
+                        "title": "Nine Little Miles From Ten-Ten-Tennessee"
                     },
                     {
                         "label": "RCA(F)",
@@ -3134,7 +3230,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22586",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Nine Little Miles From Ten-Ten-Tennessee"
                     }
                 ],
                 "desor": "DE3019b"
@@ -3143,7 +3240,7 @@
                 "type": "take",
                 "index": "30-11-21-003",
                 "matrix": "BVE64812-2",
-                "title": "Nine Little Miles From Ten-Ten-Tennessee",
+                "title": "(Five - Six - Seven - Eight) Nine Little Miles From Ten-Ten-Tennessee",
                 "vocalists": "SB",
                 "releases": [
                     {
@@ -3163,9 +3260,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 4,
-                        "length": 206
+                        "length": 206,
+                        "title": "Nine Little Miles From Ten-Ten-Tennessee"
                     },
                     {
                         "label": "RCA(F)",
@@ -3174,7 +3272,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22586",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Nine Little Miles From Ten-Ten-Tennessee"
                     }
                 ],
                 "desor": "DE3019c"
@@ -3199,10 +3298,11 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "first_issue": true,
                         "track": 5,
-                        "length": 214
+                        "length": 214,
+                        "title": true
                     }
                 ],
                 "desor": "DE3019d"
@@ -3231,9 +3331,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 6,
-                        "length": 215
+                        "length": 215,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3242,7 +3343,8 @@
                     {
                         "label": "Vi",
                         "catalog": "23041",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3019e"
@@ -3253,7 +3355,7 @@
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "26 November 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. RCA Studio #2.",
         "entries": [
             {
                 "type": "artists",
@@ -3283,9 +3385,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 7,
-                        "length": 177
+                        "length": 177,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3322,9 +3425,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 8,
-                        "length": 196
+                        "length": 196,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3333,7 +3437,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22603",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3020b"
@@ -3362,9 +3467,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 9,
-                        "length": 186
+                        "length": 186,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3384,7 +3490,7 @@
         "group": "DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA",
         "location": "New York City, NY",
         "date": "10 December 1930",
-        "description": "Victor recording session",
+        "description": "Victor recording session. RCA Studio #2.",
         "entries": [
             {
                 "type": "artists",
@@ -3416,9 +3522,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 10,
-                        "length": 189
+                        "length": 189,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3427,7 +3534,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22587",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3021a"
@@ -3456,9 +3564,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 11,
-                        "length": 172
+                        "length": 172,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3467,7 +3576,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22586",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3021b"
@@ -3496,9 +3606,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "5",
+                        "disc": 5,
                         "track": 12,
-                        "length": 182
+                        "length": 182,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -3507,7 +3618,8 @@
                     {
                         "label": "Vi",
                         "catalog": "22587",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3021c"
@@ -3519,7 +3631,7 @@
         "location": "New York City, NY",
         "date": "Late December 1930",
         "index_date": 301226,
-        "description": "Soundtrack recording of Pathe Audio Review Vol. 3 No. 1",
+        "description": "Soundtrack recording of Pathe Audio Review Vol. 3 No. 1.",
         "entries": [
             {
                 "type": "artists",
@@ -3528,19 +3640,14 @@
             {
                 "type": "take",
                 "index": "30-12-26-001",
-                "matrix": null,
+                "matrix": "MRC-DR-1",
                 "title": "Pathé Audio Review Vol. 3, no. 1",
-                "releases": [
-                    {
-                        "label": "Vi",
-                        "catalog": "(mx MRC-DR-1)"
-                    }
-                ],
+                "releases": [],
                 "desor": null
             },
             {
                 "type": "note",
-                "content": "A 10min short film, without audio, is visible at [British Pathe website] (https://www.britishpathe.com/asset/90110/). The title is \"Pathe Audio Review - HARLEM - A cinema excursion into the great black metropolis of New York.\" At Victor Records on 26 December 1930, the soundtrack was transferred from optical film to a new 16-inch wax master from which metal parts were fashioned. The 16-inch shellac records that resulted were sent to theatres not yet equipped for sound on film. If a copy ever surfaces, it will likely bear the matrix number assigned by Victor: MRC-DR-1. Details at [tdwaw.ca](https://tdwaw.ellingtonweb.ca/supportingwebpages/CottonClubOrigins.html)."
+                "content": "A 10min short film, without audio, is visible at [British Pathe website](https://www.britishpathe.com/asset/90110/). The title is \"Pathe Audio Review - HARLEM - A cinema excursion into the great black metropolis of New York.\" The film was recorded and soundtrack assembled on optical track (sound-on-film). At Victor Records on 26 December 1930, the soundtrack was transferred from optical track to a 16-inch wax master (mx MRC-DR-1) from which metal parts were fashioned. The 16-inch shellac records that resulted were sent to theatres not equipped for sound-on-film. Details at [tdwaw.ca](https://tdwaw.ellingtonweb.ca/supportingwebpages/CottonClubOrigins.html)."
             }
         ]
     }
