@@ -20,7 +20,8 @@
                     {
                         "label": "TOM",
                         "catalog": "10",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3701a"
@@ -87,11 +88,13 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88140",
+                        "title": "The New Birmingham Breakdown"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "666"
+                        "catalog": "666",
+                        "title": "The New Birmingham Breakdown"
                     },
                     {
                         "label": "LR",
@@ -101,13 +104,16 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "123",
+                        "catalog": "MA 123",
                         "first_issue": true,
                         "title": "The New Birmingham Breakdown"
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 13,
+                        "title": "The New Birmingham Breakdown"
                     }
                 ],
                 "desor": "DE3702a"
@@ -120,7 +126,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88140",
+                        "title": "The New Birmingham Breakdown"
                     },
                     {
                         "label": "LR",
@@ -130,7 +137,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 19,
+                        "title": "The New Birmingham Breakdown (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -139,7 +149,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The New Birmingham Breakdown"
                     }
                 ],
                 "desor": "DE3702b"
@@ -152,11 +163,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88140",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "666"
+                        "catalog": "666",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -166,8 +179,9 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "123",
-                        "first_issue": true
+                        "catalog": "MA 123",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -175,7 +189,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 14,
+                        "title": "Scattin' At The Kit Kat [Scattin' At The Cotton Club]"
                     }
                 ],
                 "desor": "DE3702c"
@@ -188,7 +205,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88140"
+                        "catalog": "88140",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -198,7 +216,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 20,
+                        "title": "Scattin' At The Kit Kat [Scattin' At The Cotton Club] (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -207,7 +228,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Scattin' At The Kit-Kat"
                     }
                 ],
                 "desor": "DE3702d"
@@ -225,7 +247,8 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "666"
+                        "catalog": "666",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -235,8 +258,9 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "101",
-                        "first_issue": true
+                        "catalog": "MA 101",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -244,7 +268,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 15,
+                        "title": true
                     }
                 ],
                 "desor": "DE3702e"
@@ -258,7 +285,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -268,7 +296,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 21,
+                        "title": "I've Got To Be A Rug Cutter (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -277,7 +308,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "I've Got To Be A Rug-Cutter"
                     }
                 ],
                 "desor": "DE3702f"
@@ -294,11 +326,13 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": "The New East St. Louis Toodle-O"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "666"
+                        "catalog": "666",
+                        "title": "The New East St. Louis Toodle-O"
                     },
                     {
                         "label": "LR",
@@ -308,7 +342,7 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "101",
+                        "catalog": "MA 101",
                         "first_issue": true,
                         "title": "The New East St. Louis Toodle-O"
                     },
@@ -318,7 +352,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 16,
+                        "title": "The New East St. Louis Toodle-O"
                     }
                 ],
                 "desor": "DE3702g"
@@ -331,7 +368,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": "The New East St. Louis Toodle-O"
                     },
                     {
                         "label": "LR",
@@ -341,7 +379,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 6,
+                        "track": 22,
+                        "title": "The New East St. Louis Toodle-O (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -350,14 +391,15 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The New East St. Louis Toodle-Oo"
                     }
                 ],
                 "desor": "DE3702h"
             },
             {
                 "type": "note",
-                "content": "Label of Master 101 as \"The New East. St. Louis Toodle-O\"; label of Master 123 as \"The New Birmingham Breakdown.\" Foot stomping on \"I've Got To Be a Rug Cutter,\" is by multiple members of the band."
+                "content": "Label of Master MA 101 as \"The New East St. Louis Toodle-O\"; label of Master 123 as \"The New Birmingham Breakdown.\" Foot stomping on \"I've Got To Be a Rug Cutter,\" is by multiple members of the band."
             }
         ]
     },
@@ -379,11 +421,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -397,12 +441,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 20,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "555",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 555",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3703a"
@@ -421,7 +469,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 19,
+                        "title": "I Can't Believe That You're In Love With Me (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -429,12 +480,15 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 4,
+                        "title": "Can't Believe That You're In Love With Me"
                     },
                     {
                         "label": "UtD",
                         "catalog": "2002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3703b"
@@ -447,11 +501,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -465,16 +521,20 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 22,
+                        "title": true
                     },
                     {
                         "label": "Tx",
                         "catalog": "m-8011"
                     },
                     {
-                        "label": "Va",
-                        "catalog": "527",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 527",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3703c"
@@ -493,7 +553,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 21,
+                        "title": "Downtown Uproar (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -501,12 +564,15 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 5,
+                        "title": true
                     },
                     {
                         "label": "UtD",
                         "catalog": "2002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3703d"
@@ -519,11 +585,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": "Digga Digga Do"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": "Digga Digga Do"
                     },
                     {
                         "label": "Co",
@@ -537,12 +605,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 24,
+                        "title": "Digga Digga Do"
                     },
                     {
-                        "label": "Va",
-                        "catalog": "555",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 555",
+                        "first_issue": true,
+                        "title": "Digga Digga Do"
                     }
                 ],
                 "desor": "DE3703e"
@@ -556,7 +628,8 @@
                     {
                         "label": "CBS",
                         "catalog": "88185",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Digga Digga Do"
                     },
                     {
                         "label": "LR",
@@ -566,7 +639,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 1,
+                        "track": 23,
+                        "title": "Digga Digga Do (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -584,7 +660,8 @@
                     {
                         "label": "CBS",
                         "catalog": "88185",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -594,7 +671,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 2,
+                        "title": "Blue Reverie (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -611,11 +691,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -629,12 +711,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 1,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "527",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 527",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3703h"
@@ -647,7 +733,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": "Whispering Tiger (Tiger Rag)"
                     },
                     {
                         "label": "Co",
@@ -661,7 +748,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 3,
+                        "title": "Tiger Rag (-1)"
                     },
                     {
                         "label": "Nw",
@@ -670,7 +760,8 @@
                     {
                         "label": "Tx",
                         "catalog": "m-8011",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3703i"
@@ -683,16 +774,19 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": "Whispering Tiger (Tiger Rag)"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": "Whispering Tiger (Tiger Rag)"
                     },
                     {
                         "label": "FDC",
                         "catalog": "1022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -702,7 +796,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 4,
+                        "title": "Tiger Rag (-2)"
                     }
                 ],
                 "desor": "DE3703j"
@@ -740,7 +837,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3704b"
@@ -754,7 +852,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3704c"
@@ -763,13 +862,14 @@
                 "type": "take",
                 "index": "37-03-18-004",
                 "matrix": null,
-                "title": "One, Two Button Your Shoe",
+                "title": "One, Two, Button Your Shoe",
                 "vocalists": "IA",
                 "releases": [
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "One, Two Button Your Shoe"
                     }
                 ],
                 "desor": "DE3704d"
@@ -784,7 +884,8 @@
                     {
                         "label": "BJ",
                         "catalog": "LP-3004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3704e"
@@ -799,7 +900,8 @@
                     {
                         "label": "BJ",
                         "catalog": "LP-3004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3704f"
@@ -813,7 +915,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3704g"
@@ -827,7 +930,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3704h"
@@ -841,7 +945,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "East St. Louis Toodle-Oo"
                     }
                 ],
                 "desor": "DE3704i"
@@ -917,11 +1022,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -931,16 +1038,21 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "117",
-                        "first_issue": true
+                        "catalog": "MA 117",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 1,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23002"
+                        "catalog": "RTE 23002",
+                        "title": true
                     }
                 ],
                 "desor": "DE3705a"
@@ -954,7 +1066,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -964,7 +1077,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 14,
+                        "title": "There's A Lull In My Life (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -973,7 +1089,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3705b"
@@ -987,11 +1104,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1001,16 +1120,21 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "117",
-                        "first_issue": true
+                        "catalog": "MA 117",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 2,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23002"
+                        "catalog": "RTE 23002",
+                        "title": true
                     }
                 ],
                 "desor": "DE3705c"
@@ -1024,7 +1148,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1034,7 +1159,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 15,
+                        "title": "It's Swell Of You (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -1043,7 +1171,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3705d"
@@ -1056,11 +1185,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1070,17 +1201,21 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "124",
-                        "first_issue": true
+                        "catalog": "MA 124",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 3,
+                        "title": true
                     },
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "title": true
                     }
                 ],
                 "desor": "DE3705e"
@@ -1093,7 +1228,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1103,7 +1239,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 16,
+                        "title": "You Can't Run Away From Love Tonight (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -1112,7 +1251,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3705f"
@@ -1137,16 +1277,19 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "FDC",
                         "catalog": "1022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1156,7 +1299,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 4,
+                        "title": true
                     },
                     {
                         "label": "TOM",
@@ -1173,12 +1319,14 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "FDC",
                         "catalog": "1022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1188,7 +1336,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 17,
+                        "title": "Azure (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -1205,11 +1356,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1218,16 +1371,21 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "124",
-                        "first_issue": true
+                        "catalog": "MA 124",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 5,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23002"
+                        "catalog": "RTE 23002",
+                        "title": true
                     }
                 ],
                 "desor": "DE3706c"
@@ -1241,11 +1399,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": "The Old Plantation"
                     },
                     {
                         "label": "LR",
@@ -1255,16 +1415,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 6,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23002"
+                        "catalog": "RTE 23002",
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "591",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 591",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3706d"
@@ -1278,7 +1443,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1288,7 +1454,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 18,
+                        "title": "Old Plantation (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -1297,7 +1466,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3706e"
@@ -1327,7 +1497,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Solace (Lament For A Lost Love)"
                     },
                     {
                         "label": "LR",
@@ -1337,7 +1508,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 11,
+                        "title": "Lament For A Lost Love (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -1345,7 +1519,9 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 6,
+                        "title": "Solace (Lament For Lost Love)"
                     }
                 ],
                 "desor": "DE3707a"
@@ -1358,11 +1534,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": "Solace (Lament For A Lost Love)"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": "Solace (Lament For A Lost Love)"
                     },
                     {
                         "label": "Co",
@@ -1376,12 +1554,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 10,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "564",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 564",
+                        "first_issue": true,
+                        "title": "Solace"
                     }
                 ],
                 "desor": "DE3707b"
@@ -1394,11 +1576,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1412,12 +1596,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 13,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "564",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 564",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3707c"
@@ -1431,7 +1619,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1441,7 +1630,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 12,
+                        "title": "Four And One-Half Street (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -1449,7 +1641,9 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 7,
+                        "title": true
                     }
                 ],
                 "desor": "DE3707d"
@@ -1462,11 +1656,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": "Demi-Tasse (Each Day)"
                     },
                     {
                         "label": "Co",
@@ -1480,12 +1676,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 15,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "655",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 655",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3707e"
@@ -1499,7 +1699,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Demi-Tasse (Ev'ry Day)"
                     },
                     {
                         "label": "LR",
@@ -1509,7 +1710,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 14,
+                        "title": "Demi-Tasse (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -1517,7 +1721,9 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 8,
+                        "title": true
                     }
                 ],
                 "desor": "DE3707f"
@@ -1531,7 +1737,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1541,7 +1748,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 17,
+                        "title": "Jazz A La Carte (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -1549,7 +1759,9 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 9,
+                        "title": true
                     }
                 ],
                 "desor": "DE3707g"
@@ -1562,11 +1774,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1580,12 +1794,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 16,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "655",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 655",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3707h"
@@ -1615,7 +1833,8 @@
                     {
                         "label": "JA",
                         "catalog": "40",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1636,7 +1855,8 @@
                     {
                         "label": "Ff",
                         "catalog": "LP-17-117",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Medley"
                     },
                     {
                         "label": "Sv",
@@ -1697,11 +1917,13 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1710,12 +1932,16 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "131",
-                        "first_issue": true
+                        "catalog": "MA 131",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 7,
+                        "title": true
                     }
                 ],
                 "desor": "DE3709a"
@@ -1732,11 +1958,13 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1745,12 +1973,16 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "131",
-                        "first_issue": true
+                        "catalog": "MA 131",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 8,
+                        "title": true
                     }
                 ],
                 "desor": "DE3709b"
@@ -1776,11 +2008,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1794,12 +2028,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 19,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "576",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 576",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3710a"
@@ -1813,7 +2051,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -1823,7 +2062,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 18,
+                        "title": "Foolin' Myself (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -1832,7 +2074,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3710b"
@@ -1846,11 +2089,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88185"
+                        "catalog": "88185",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "675"
+                        "catalog": "675",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1864,12 +2109,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 21,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "586",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 586",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3710c"
@@ -1889,7 +2138,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 20,
+                        "title": "A Sailboat In The Moonlight (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -1897,12 +2149,15 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 10,
+                        "title": true
                     },
                     {
                         "label": "Ra",
                         "catalog": "RTE 23005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3710d"
@@ -1927,7 +2182,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD7-235",
-                        "first_issue": true
+                        "disc": 2,
+                        "first_issue": true,
+                        "track": 23,
+                        "title": "You'll Never Go To Heaven (If You Break My Heart) (alt tk)"
                     }
                 ],
                 "desor": "DE3710xa"
@@ -1949,7 +2207,8 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -1964,11 +2223,14 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 22,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "576",
+                        "label": "Vri",
+                        "catalog": "VA 576",
                         "first_issue": true,
                         "title": "You'll Never Go To Heaven (If You Break My Heart)"
                     }
@@ -1988,11 +2250,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2001,7 +2265,8 @@
                     {
                         "label": "FDC",
                         "catalog": "1022",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2011,7 +2276,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 26,
+                        "title": "Peckin' (-1)"
                     },
                     {
                         "label": "TOM",
@@ -2029,7 +2297,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2039,7 +2308,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 25,
+                        "title": "Peckin' (-2)"
                     },
                     {
                         "label": "Nw",
@@ -2048,7 +2320,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3710g"
@@ -2062,7 +2335,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2072,7 +2346,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 2,
+                        "track": 24,
+                        "title": true
                     },
                     {
                         "label": "Nw",
@@ -2081,7 +2358,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3710h"
@@ -2106,7 +2384,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
+                    },
+                    {
+                        "label": "Cl(F)",
+                        "catalog": "687",
+                        "title": "All God's Chillun Got Rhythm (instr.)"
                     },
                     {
                         "label": "LR",
@@ -2115,12 +2399,16 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "137",
-                        "first_issue": true
+                        "catalog": "MA 137",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 9,
+                        "title": true
                     }
                 ],
                 "desor": "DE3711a"
@@ -2133,7 +2421,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2142,7 +2431,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 19,
+                        "title": "All God's Chillun Got Rhythm (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -2151,7 +2443,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3711b"
@@ -2165,11 +2458,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": "All God's Chillun Got Rhythm (vocal)"
                     },
                     {
                         "label": "LR",
@@ -2178,16 +2473,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 10,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23002"
+                        "catalog": "RTE 23002",
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "591",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 591",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3711c"
@@ -2201,12 +2501,14 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Co",
                         "catalog": "CL 2365",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2215,7 +2517,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 20,
+                        "title": "All God's Chillun Got Rhythm (alt tk -2)"
                     }
                 ],
                 "desor": "DE3711d"
@@ -2229,11 +2534,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2243,12 +2550,16 @@
                     },
                     {
                         "label": "Ma",
-                        "catalog": "137",
-                        "first_issue": true
+                        "catalog": "MA 137",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 11,
+                        "title": true
                     }
                 ],
                 "desor": "DE3711e"
@@ -2262,7 +2573,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2272,7 +2584,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 21,
+                        "title": "Alabamy Home (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -2281,7 +2596,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3711f"
@@ -2315,7 +2631,8 @@
                     {
                         "label": "So",
                         "catalog": "LP-1013",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3712a"
@@ -2341,11 +2658,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2358,12 +2677,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 2,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "596",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 596",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3713a"
@@ -2378,7 +2701,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2386,12 +2710,21 @@
                         "track": 18
                     },
                     {
+                        "label": "Ms",
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 1,
+                        "title": "Get It Southern Style (alt tk)"
+                    },
+                    {
                         "label": "Nw",
                         "catalog": "RP2042"
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 11,
+                        "title": true
                     }
                 ],
                 "desor": "DE3713b"
@@ -2404,16 +2737,18 @@
                 "type": "take",
                 "index": "37-06-16-003",
                 "matrix": "M526-1",
-                "title": "Moonlight Fiesta [Porto Rican Chaos]",
+                "title": "Moonlight Fiesta",
                 "releases": [
                     {
                         "label": "CBS",
                         "catalog": "88137",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2423,7 +2758,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 4,
+                        "title": "Moonlight Fiesta (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -2440,15 +2778,17 @@
                 "type": "take",
                 "index": "37-06-16-004",
                 "matrix": "M526-2",
-                "title": "Moonlight Fiesta [Porto Rican Chaos]",
+                "title": "Moonlight Fiesta",
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2461,12 +2801,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 3,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "626",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 626",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3713d"
@@ -2483,11 +2827,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2500,12 +2846,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 6,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "626",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 626",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3713e"
@@ -2519,7 +2869,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2529,7 +2880,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 5,
+                        "title": "Sponge Cake And Spinach (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -2537,7 +2891,9 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 12,
+                        "title": true
                     }
                 ],
                 "desor": "DE3713f"
@@ -2551,11 +2907,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2568,12 +2926,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 8,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "596",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 596",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3713g"
@@ -2588,7 +2950,8 @@
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2598,7 +2961,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 7,
+                        "title": "If You're Ever In My Arms Again (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -2606,7 +2972,9 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "track": 13,
+                        "title": true
                     }
                 ],
                 "desor": "DE3713h"
@@ -2632,12 +3000,13 @@
                 "type": "take",
                 "index": "37-06-30-001",
                 "matrix": null,
-                "title": "Oh Babe Maybe Someday",
+                "title": "Oh Babe, Maybe Someday",
                 "releases": [
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3714a"
@@ -2655,7 +3024,8 @@
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3714b"
@@ -2669,7 +3039,8 @@
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3714c"
@@ -2683,7 +3054,8 @@
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3714d"
@@ -2696,12 +3068,13 @@
                 "type": "take",
                 "index": "37-06-30-005",
                 "matrix": null,
-                "title": "Oh Babe Maybe Someday",
+                "title": "Oh Babe, Maybe Someday",
                 "releases": [
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3714e"
@@ -2710,13 +3083,14 @@
                 "type": "take",
                 "index": "37-06-30-006",
                 "matrix": null,
-                "title": "Oh Babe Maybe Someday",
+                "title": "Oh Babe, Maybe Someday",
                 "vocalists": "IA",
                 "releases": [
                     {
                         "label": "Bb",
                         "catalog": "82876-60091-2-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3714f"
@@ -2745,7 +3119,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "CBS(E)",
@@ -2753,7 +3128,8 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2766,12 +3142,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 10,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "618",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 618",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3715a"
@@ -2784,12 +3164,14 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "CBS(E)",
                         "catalog": "Realm M 52628",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Back Room Romp"
                     },
                     {
                         "label": "LR",
@@ -2799,7 +3181,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 9,
+                        "title": "The Back Room Romp (A Contrapuntal Stomp)(alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -2816,11 +3201,12 @@
                 "type": "take",
                 "index": "37-07-07-003",
                 "matrix": "M550-1",
-                "title": "Swing Baby Swing [Love In My Heart]",
+                "title": "Love's In My Heart [Swing Baby Swing]",
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": "Swing Baby Swing"
                     },
                     {
                         "label": "CBS(E)",
@@ -2828,7 +3214,8 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": "Swing Baby Swing (Love In My Heart)"
                     },
                     {
                         "label": "Co",
@@ -2845,16 +3232,20 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
-                    },
-                    {
-                        "label": "Va",
-                        "catalog": "664",
-                        "first_issue": true
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 12,
+                        "title": "Love In My Heart"
                     },
                     {
                         "label": "Vo",
                         "catalog": "v3844"
+                    },
+                    {
+                        "label": "Vri",
+                        "catalog": "VA 664",
+                        "first_issue": true,
+                        "title": "Swing Baby Swing"
                     }
                 ],
                 "desor": "DE3715c"
@@ -2863,12 +3254,13 @@
                 "type": "take",
                 "index": "37-07-07-004",
                 "matrix": "M550-2",
-                "title": "Swing Baby Swing [Love In My Heart]",
+                "title": "Love's In My Heart [Swing Baby Swing]",
                 "releases": [
                     {
                         "label": "CBS",
                         "catalog": "88210",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Swing Baby Swing"
                     },
                     {
                         "label": "LR",
@@ -2878,7 +3270,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 11,
+                        "title": "Love In My Heart (alt  tk)"
                     },
                     {
                         "label": "Nw",
@@ -2895,7 +3290,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "CBS(E)",
@@ -2903,7 +3299,8 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2920,12 +3317,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 14,
+                        "title": true
                     },
                     {
-                        "label": "Va",
-                        "catalog": "664",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 664",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3715e"
@@ -2938,12 +3339,14 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "CBS(E)",
                         "catalog": "Realm M 52628",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -2953,7 +3356,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 13,
+                        "title": "Sugar Hill Shim Sham (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -2970,7 +3376,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "CBS(E)",
@@ -2978,7 +3385,8 @@
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2991,12 +3399,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 17,
+                        "title": "Tea And Trumpets (78 tk)"
                     },
                     {
-                        "label": "Va",
-                        "catalog": "618",
-                        "first_issue": true
+                        "label": "Vri",
+                        "catalog": "VA 618",
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3715g"
@@ -3015,12 +3427,17 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 16,
+                        "title": "Tea And Trumpets (CD tk)"
                     },
                     {
                         "label": "R/V",
                         "catalog": "1001-CD",
-                        "first_issue": true
+                        "first_issue": true,
+                        "track": 14,
+                        "title": true
                     }
                 ],
                 "desor": "DE3715h"
@@ -3037,12 +3454,14 @@
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "CBS(E)",
                         "catalog": "Realm M 52628",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3052,7 +3471,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 15,
+                        "title": "Tea And Trumpets (LP tk)"
                     },
                     {
                         "label": "Nw",
@@ -3063,7 +3485,7 @@
             },
             {
                 "type": "note",
-                "content": "M550-1 was released on Variety VA 664 and early pressings of Vocalion v3844 as SWING BABY SWING. On 01 January 1938, a title change to LOVE IN MY HEART was ordered for subsequent pressings of Vocalion v3844. The song wasn't copyrighted under either title.\n\nTea and Trumpets mx. M552-3 is misidentified as M552-2 on CBS(E) Realm M 52628 and CBS 88210."
+                "content": "M550-1 was released on Variety VA 664 and early pressings of Vocalion v3844 as SWING BABY SWING. On 01 January 1938, a title change to LOVE IN MY HEART was ordered for subsequent pressings of Vocalion v3844. The song was copyrighted in 1941 as Love's in My Heart.\n\nTea and Trumpets mx. M552-3 is misidentified as M552-2 on CBS(E) Realm M 52628 and CBS 88210."
             }
         ]
     },
@@ -3090,15 +3512,18 @@
                     {
                         "label": "Br",
                         "catalog": "m8029",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": "Chatter Box"
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3111,7 +3536,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 12,
+                        "title": "Chatter-Box [Jumpy]"
                     }
                 ],
                 "desor": "DE3716a"
@@ -3120,15 +3548,17 @@
                 "type": "take",
                 "index": "37-09-20-002",
                 "matrix": "M647-2",
-                "title": "Jubilesta [Emperor Jones]",
+                "title": "Jubilesta",
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3137,16 +3567,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 7,
+                        "track": 13,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23002"
+                        "catalog": "RTE 23002",
+                        "title": true
                     },
                     {
                         "label": "SE",
                         "catalog": "5007-S",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3716b"
@@ -3168,15 +3603,18 @@
                     {
                         "label": "Br",
                         "catalog": "m8004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3185,7 +3623,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 8,
+                        "track": 1,
+                        "title": true
                     },
                     {
                         "label": "UArc",
@@ -3202,7 +3643,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3212,7 +3654,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 8,
+                        "track": 16,
+                        "title": "Diminuendo In Blue (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -3221,7 +3666,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3716d"
@@ -3243,15 +3689,18 @@
                     {
                         "label": "Br",
                         "catalog": "m8004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3260,7 +3709,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 8,
+                        "track": 2,
+                        "title": true
                     },
                     {
                         "label": "UArc",
@@ -3277,7 +3729,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3287,7 +3740,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 8,
+                        "track": 17,
+                        "title": "Crescendo In Blue (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -3296,7 +3752,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3716f"
@@ -3309,7 +3766,8 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3319,7 +3777,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 8,
+                        "track": 18,
+                        "title": "Harmony In Harlem (alt tk -X)"
                     },
                     {
                         "label": "Nw",
@@ -3328,7 +3789,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3716g"
@@ -3348,7 +3810,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248",
-                        "first_issue": true
+                        "disc": 8,
+                        "first_issue": true,
+                        "track": 19,
+                        "title": "Harmony In Harlem (alt tk -1)"
                     }
                 ],
                 "desor": "DE3716xa"
@@ -3366,15 +3831,18 @@
                     {
                         "label": "Br",
                         "catalog": "m8044",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
-                        "catalog": "88210"
+                        "catalog": "88210",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "LR",
@@ -3387,7 +3855,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 8,
+                        "track": 3,
+                        "title": true
                     }
                 ],
                 "desor": "DE3716h"
@@ -3407,7 +3878,10 @@
                     {
                         "label": "Ms",
                         "catalog": "MD11-248",
-                        "first_issue": true
+                        "disc": 8,
+                        "first_issue": true,
+                        "track": 20,
+                        "title": "Dusk On The Desert (alt tk -1)"
                     }
                 ],
                 "desor": "DE3716xb"
@@ -3445,7 +3919,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 8,
+                        "track": 4,
+                        "title": true
                     }
                 ],
                 "desor": "DE3716i"
@@ -3474,11 +3951,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88220"
+                        "catalog": "88220",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -3491,7 +3970,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 18,
+                        "title": true
                     },
                     {
                         "label": "Tx",
@@ -3500,7 +3982,8 @@
                     {
                         "label": "Vo",
                         "catalog": "v3922",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3717a"
@@ -3509,16 +3992,18 @@
                 "type": "take",
                 "index": "37-10-26-002",
                 "matrix": "M670-1",
-                "title": "Watchin'",
+                "title": "Watching",
                 "vocalists": "JK",
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88220"
+                        "catalog": "88220",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -3531,12 +4016,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 19,
+                        "title": "Watchin'"
                     },
                     {
                         "label": "Vo",
                         "catalog": "v3890",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3717b"
@@ -3553,11 +4042,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88220"
+                        "catalog": "88220",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -3570,12 +4061,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 20,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v3922",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3717c"
@@ -3592,11 +4087,13 @@
                 "releases": [
                     {
                         "label": "CBS",
-                        "catalog": "88220"
+                        "catalog": "88220",
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
-                        "catalog": "687"
+                        "catalog": "687",
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -3609,7 +4106,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 3,
+                        "track": 21,
+                        "title": true
                     },
                     {
                         "label": "Tx",
@@ -3618,7 +4118,8 @@
                     {
                         "label": "Vo",
                         "catalog": "v3890",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3717d"
