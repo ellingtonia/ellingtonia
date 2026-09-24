@@ -7,6 +7,7 @@ menu:
 ---
 
 ## September 2026
+* 1931: converted RCA 24-CD boxset disc numbers to integers; checked title spelling against copyright catalogues, adding release-title variations to several 78s; added recording venue names to session descriptions; retitled "Creole Rhapsody - Part 1" / "- Part 2" to "Creole Rhapsody—Part 1" / "—Part 2" (em dash); per Ezio Chiarelli.
 * 1930: added the Romeo 1209 release to "St. James' Infirmary" (29 January session); converted RCA 24-CD boxset disc numbers to integers; corrected several titles against copyright and sheet music, notably restoring the apostrophe in "St. James' Infirmary" and removing the related footnote; moved the Late December session's matrix MRC-DR-1 from a release entry to the matrix field; added recording venue names to session descriptions where missing; per Ezio Chiarelli.
 * 1933: added disc/track numbers and titles for the Mosaic 11-CD boxset (MD11-248) throughout; verified and added label titles to 78s and most first-issue releases against copyright catalogues; per Ezio Chiarelli.
 * 1932: applied the standard attacca structure to the 03 February session (Mood Indigo/Hot And Bothered/The Creole Love Call, then a second attacca run); corrected titles per copyright — "The Saint Louis Blues", "The Creole Love Call", "Maori (A Samoan Dance)", "Anytime, Anyday, Anywhere", "I'm Delta Bound"; added disc/track numbers and titles for the Mosaic 11-CD boxset (MD11-248) and RCA/Bluebird 24-CD Centennial Edition throughout; per Ezio Chiarelli.
