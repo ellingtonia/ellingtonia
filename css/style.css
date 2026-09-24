@@ -56,6 +56,16 @@ tr.medley td {
     padding-top: 10px;
 }
 
+/* A medley that's itself a suite movement (e.g. 1934's "A Triangle" within
+   Symphony In Black) only shows its own letter (a, b, c...) on each
+   constituent take, not the suite number - so without this they'd look
+   exactly as indented as an ordinary medley or plain suite movement, even
+   though they're nested two levels deep. suite_medley is added by the
+   template when a take's enclosing medley header carries a suite_index. */
+tr.take.suite_medley td.title {
+    padding-left: 25px;
+}
+
 tr.attacca_gap td {
     padding-top: 10px;
 }
