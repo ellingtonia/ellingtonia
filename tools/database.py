@@ -1,15 +1,12 @@
 #!/usr/bin/env python3
 
 import argparse
-import datetime
 import collections
 import csv
 import json
 import os
 import logging
 import re
-import requests
-import time
 import glob
 
 from dataclasses import dataclass
@@ -895,60 +892,6 @@ def save_to_json(database):
         save_json(session_path, json_sessions)
 
 
-class Discogs:
-    def __init__(self):
-        self._cache_dir = ".discogs_cache"
-        os.makedirs(self._cache_dir, exist_ok=True)
-
-    def get(self, release_number):
-        path = f"{self._cache_dir}/{release_number}.json"
-        if os.path.exists(path):
-            return json.load(open(path))
-        else:
-            data = self._get_impl(release_number)
-            json.dump(data, open(path, "w"), indent=4)
-            return data
-
-    def _get_impl(self, release_number):
-        headers = {"User-Agent": "EllingtoniaTool/1.0 +http://ellingtonia.com"}
-        url = f"https://api.discogs.com/releases/{release_number}"
-
-        logging.info(f"Querying {url}")
-
-        while True:
-            result = requests.get(url, headers=headers)
-            if result.status_code == 429:
-                logging.info(f"Sleeping")
-                time.sleep(60)
-            else:
-                break
-
-        time.sleep(60 / 24)  # Rate limit is 1/25
-        return result.json()
-
-
-def scrape_discogs(database):
-    def format_to_str(json_format):
-        if "qty" in json_format and int(json_format["qty"]) > 1:
-            return f"{json_format['qty']}x{json_format['name']}"
-        else:
-            return json_format["name"]
-
-    discogs = Discogs()
-
-    for release in database.all_releases():
-        if release.discogs:
-            release_number = re.match(DISCOGS_REGEX, release.discogs).groups()[0]
-
-            jdata = discogs.get(release_number)
-
-            release.title = jdata["title"]
-
-            release.format = ", ".join(
-                sorted(format_to_str(f) for f in jdata["formats"])
-            )
-
-
 def cmd_normalise(args):
     database = load_from_json()
 
@@ -977,8 +920,6 @@ def cmd_normalise(args):
             if v := getattr(release, key):
                 assert key in v, (release, key, v)
 
-    if args.scrape_discogs:
-        scrape_discogs(database)
     save_to_json(database)
 
 
@@ -1262,9 +1203,6 @@ def main():
     subparsers = parser.add_subparsers(required=True)
 
     sp_normalise = subparsers.add_parser("normalise")
-    sp_normalise.add_argument(
-        "--no-scrape-discogs", dest="scrape_discogs", action="store_false"
-    )
     sp_normalise.set_defaults(func=cmd_normalise)
 
     sp_add_label = subparsers.add_parser("add_label")

@@ -4,9 +4,7 @@ The bulk of the discographic data is stored in  session files, one per year e.g.
 
 # Normalisation
 
-Running `tools/database.py normalise` will re-format all files, run various checks and in some cases download external data from Discogs. You should do this after every operation to check your changes are valid.
-
-The normalise command also supports `--no-scrape-discogs` if you want to skip Discogs lookups during validation.
+Running `tools/database.py normalise` will re-format all files and run various checks. You should do this after every operation to check your changes are valid.
 
 Other normalisation steps are performed:
 
