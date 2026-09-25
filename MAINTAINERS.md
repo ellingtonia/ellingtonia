@@ -195,8 +195,8 @@ Every release must have `label` and `catalog` fields. The following fields are a
 * `track`: track number
 * `length`: in seconds
 * `title`: title used on the record, if different
-* `flags`: can be any of `*`, `‡`, or a combination
-  * `*` after a release denotes that only part of the take has been used for the issued title.
+* `flags`: can be any of `%`, `‡`, or a combination
+  * `%` after a release denotes that only part of the take has been used for the issued title.
   * `‡` indicates a release is not confirmed.
 * `first_issue`: boolean; set to `true` if this release is the first issue for this `take`
 

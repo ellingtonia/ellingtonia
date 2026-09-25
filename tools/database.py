@@ -569,7 +569,7 @@ def load_from_json():
                                 flags = None
                             else:
                                 for flag in flags:
-                                    assert flag in "*‡", flag
+                                    assert flag in "%‡", flag
 
                         er_title = release_dict.get("title")
                         if er_title == "":
