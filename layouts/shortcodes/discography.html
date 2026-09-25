@@ -113,15 +113,35 @@
               {{- $release_info := index $release_data $label $catalog -}}
               {{- $release_url := printf "%s#release-%s" (ref $.Page "discography/releases") $escaped_release_name -}}
 
+              {{/* An asterisk after the first-issue release means its on-label
+                   title (title used on the record, if different) is a
+                   string, and differs from the copyrighted title shown in
+                   this table (ignoring any "[Common Other Title]" already
+                   shown there). `title: true` means the release's title has
+                   been verified to match, so it does not get an asterisk. */}}
+              {{- $on_label_title := $elem.title -}}
+              {{- $copyrighted_title := strings.TrimSpace (replaceRE `\s*\[[^\]]*\]\s*` "" $entry.title) -}}
+              {{- $auto_asterisk := "" -}}
+              {{- if and .first_issue (eq (printf "%T" $on_label_title) "string") (ne $on_label_title $copyrighted_title) -}}
+                {{- $auto_asterisk = "*" -}}
+              {{- end -}}
+
               {{- $title_str := "" -}}
+              {{- if eq (printf "%T" $on_label_title) "string" -}}
+                {{ $title_str = printf "as %s" ($.Page.RenderString $on_label_title) }}
+              {{- end -}}
               {{- if $release_info.title -}}
-                {{ $title_str = printf "%s (%s)" ($.Page.RenderString $release_info.title) $release_info.format }}
+                {{- if $title_str -}}
+                  {{ $title_str = printf "%s; %s (%s)" $title_str ($.Page.RenderString $release_info.title) $release_info.format }}
+                {{- else -}}
+                  {{ $title_str = printf "%s (%s)" ($.Page.RenderString $release_info.title) $release_info.format }}
+                {{- end -}}
               {{- end -}}
 
               {{- if .first_issue -}}
               <b>
               {{- end -}}
-              <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}</a>
+              <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}{{- $auto_asterisk -}}</a>
               {{- if .first_issue -}}
               </b>
               {{- end -}}

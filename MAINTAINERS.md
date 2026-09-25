@@ -200,6 +200,14 @@ Every release must have `label` and `catalog` fields. The following fields are a
   * `‡` indicates a release is not confirmed.
 * `first_issue`: boolean; set to `true` if this release is the first issue for this `take`
 
+An asterisk (`*`) after a release in the discography section (never in the
+Releases section) is added automatically: it appears on the `first_issue`
+release when that release's `title` is a string that differs from the take's
+title as shown in the discography section (ignoring any "[Common Other
+Title]" already shown there). `title: true` means the release's title has
+been verified to match the take's title, so it does not get an asterisk. A
+`title` string is also shown as "(as ...)" on the Releases page.
+
 # Release metadata (`data/discog/releases.json`)
 
 Release metadata is stored separately in `data/discog/releases.json`. This file is organised first by label code, then by catalog number, for example:
