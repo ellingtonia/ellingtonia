@@ -130,11 +130,22 @@
               {{- if eq (printf "%T" $on_label_title) "string" -}}
                 {{ $title_str = printf "as %s" ($.Page.RenderString $on_label_title) }}
               {{- end -}}
-              {{- if $release_info.title -}}
+              {{- if or $release_info.title $release_info.format -}}
+                {{- $release_str := "" -}}
+                {{- if $release_info.title -}}
+                  {{- $release_str = $.Page.RenderString $release_info.title -}}
+                {{- end -}}
+                {{- if $release_info.format -}}
+                  {{- if $release_str -}}
+                    {{ $release_str = printf "%s (%s)" $release_str $release_info.format }}
+                  {{- else -}}
+                    {{ $release_str = printf "(%s)" $release_info.format }}
+                  {{- end -}}
+                {{- end -}}
                 {{- if $title_str -}}
-                  {{ $title_str = printf "%s; %s (%s)" $title_str ($.Page.RenderString $release_info.title) $release_info.format }}
+                  {{ $title_str = printf "%s; %s" $title_str $release_str }}
                 {{- else -}}
-                  {{ $title_str = printf "%s (%s)" ($.Page.RenderString $release_info.title) $release_info.format }}
+                  {{ $title_str = $release_str }}
                 {{- end -}}
               {{- end -}}
 

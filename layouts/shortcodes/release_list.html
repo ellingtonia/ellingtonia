@@ -43,8 +43,9 @@ case tracks are listed in the order in they were recorded.</p>
     <h3 id="release-{{ $escaped_release_name }}">
       {{ $label }} {{ $catalog }}
 
-      {{ if $release_data.title }}
-        "{{ $release_data.title }}" ({{ $release_data.format }})
+      {{ if or $release_data.title $release_data.format }}
+        {{ if $release_data.title }}"{{ $release_data.title }}" {{ end }}
+        {{- if $release_data.format }}({{ $release_data.format }}){{ end }}
       {{ end }}
 
       {{ range $link_data := $.Site.Params.entry_links }}
