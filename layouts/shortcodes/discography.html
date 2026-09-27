@@ -131,10 +131,7 @@
                 {{ $title_str = printf "as %s" ($.Page.RenderString $on_label_title) }}
               {{- end -}}
               {{- if or $release_info.title $release_info.format -}}
-                {{- $release_str := "" -}}
-                {{- if $release_info.title -}}
-                  {{- $release_str = $.Page.RenderString $release_info.title -}}
-                {{- end -}}
+                {{- $release_str := $.Page.RenderString $release_info.title -}}
                 {{- if $release_info.format -}}
                   {{- if $release_str -}}
                     {{ $release_str = printf "%s (%s)" $release_str $release_info.format }}
