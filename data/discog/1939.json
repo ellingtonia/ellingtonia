@@ -30,16 +30,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 5,
+                        "track": 20,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4710",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3902a"
@@ -48,7 +53,7 @@
                 "type": "take",
                 "index": "39-02-27-002",
                 "matrix": "M975-1",
-                "title": "Mississippi Dreamboat",
+                "title": "Mississippi Dream Boat",
                 "vocalists": "JE",
                 "releases": [
                     {
@@ -65,16 +70,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 5,
+                        "track": 21,
+                        "title": "Mississippi Dreamboat"
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Mississippi Dreamboat"
                     }
                 ],
                 "desor": "DE3902b"
@@ -111,12 +121,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 5,
+                        "track": 22,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4710",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3902c"
@@ -141,12 +155,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 5,
+                        "track": 23,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4849",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3902d"
@@ -183,12 +201,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 1,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5411",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3903a"
@@ -213,12 +235,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 2,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4726",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3903b"
@@ -227,7 +253,7 @@
                 "type": "take",
                 "index": "39-02-28-003",
                 "matrix": "M984-1",
-                "title": "Ain't The Gravy Good",
+                "title": "Ain't The Gravy Good?",
                 "vocalists": "CW",
                 "releases": [
                     {
@@ -244,7 +270,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 4,
+                        "title": true
                     },
                     {
                         "label": "Tx",
@@ -253,7 +282,8 @@
                     {
                         "label": "Vo",
                         "catalog": "v4726",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Ain't The Gravy Good"
                     }
                 ],
                 "desor": "DE3903c"
@@ -262,13 +292,14 @@
                 "type": "take",
                 "index": "39-02-28-004",
                 "matrix": "M984-2",
-                "title": "Ain't The Gravy Good",
+                "title": "Ain't The Gravy Good?",
                 "vocalists": "CW",
                 "releases": [
                     {
                         "label": "BD",
                         "catalog": "T-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -276,7 +307,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 3,
+                        "title": "Ain't The Gravy Good? (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -310,7 +344,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 5,
+                        "title": true
                     },
                     {
                         "label": "Nw",
@@ -319,7 +356,8 @@
                     {
                         "label": "Vo",
                         "catalog": "5411",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3903e"
@@ -353,11 +391,15 @@
                     {
                         "label": "FDC",
                         "catalog": "1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 6,
+                        "title": true
                     }
                 ],
                 "desor": "DE3904a"
@@ -379,11 +421,15 @@
                     {
                         "label": "FDC",
                         "catalog": "1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 7,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -413,7 +459,8 @@
                     {
                         "label": "El",
                         "catalog": "'97",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Chatterbox"
                     },
                     {
                         "label": "JU",
@@ -431,7 +478,8 @@
                     {
                         "label": "El",
                         "catalog": "'97",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Lady In Doubt"
                     },
                     {
                         "label": "JU",
@@ -462,7 +510,8 @@
                     {
                         "label": "El",
                         "catalog": "'97",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Every Day"
                     },
                     {
                         "label": "JU",
@@ -484,7 +533,8 @@
                     {
                         "label": "El",
                         "catalog": "'97",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -519,7 +569,8 @@
                     {
                         "label": "El",
                         "catalog": "'97",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -554,7 +605,8 @@
                     {
                         "label": "El",
                         "catalog": "'97",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -572,7 +624,8 @@
                     {
                         "label": "El",
                         "catalog": "'97",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -625,12 +678,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 8,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5510",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3906a"
@@ -660,12 +717,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 9,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5448",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3906b"
@@ -694,12 +755,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 10,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5448",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3906c"
@@ -730,7 +795,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8344",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -742,7 +808,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 7,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -764,7 +833,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8344",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -780,7 +850,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 8,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -797,16 +870,21 @@
                 "releases": [
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 17,
+                        "title": "Subtle Lament (alt tk -X)"
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "title": true
                     },
                     {
                         "label": "TSC",
                         "catalog": "P 14274",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3906f"
@@ -828,7 +906,8 @@
                     {
                         "label": "Co",
                         "catalog": "35291",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -836,7 +915,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 9,
+                        "title": true
                     },
                     {
                         "label": "Ra",
@@ -857,7 +939,10 @@
                 "releases": [
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 18,
+                        "title": "Lady In Blue (alt tk -X)"
                     },
                     {
                         "label": "Nw",
@@ -865,12 +950,14 @@
                     },
                     {
                         "label": "R/V",
-                        "catalog": "1001-CD"
+                        "catalog": "1001-CD",
+                        "title": "The Lady In Blue"
                     },
                     {
                         "label": "UtD",
                         "catalog": "2002",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3906h"
@@ -888,7 +975,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8380",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -900,7 +988,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 10,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -937,12 +1028,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 5,
+                        "track": 12,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5170",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3907a"
@@ -956,11 +1051,15 @@
                     {
                         "label": "CBS",
                         "catalog": "88518",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 11,
+                        "title": "Savoy Strut (alt tk)"
                     },
                     {
                         "label": "Nw",
@@ -985,12 +1084,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 13,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5100",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3907c"
@@ -1011,16 +1114,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 14,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": "Dance Of The Goon"
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4941",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Dance Of The Goon"
                     }
                 ],
                 "desor": "DE3907d"
@@ -1041,12 +1149,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 15,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5170",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3907e"
@@ -1081,7 +1193,8 @@
                     {
                         "label": "Co",
                         "catalog": "CL 663",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -1089,7 +1202,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 16,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -1120,7 +1236,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8365",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1136,11 +1253,14 @@
                         "disc": 1,
                         "track": 21,
                         "length": 142,
-                        "title": "Portrait Of The Lion"
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 11,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -1169,7 +1289,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 19,
+                        "title": "Portrait Of The Lion (alt tk -2)"
                     },
                     {
                         "label": "Nw",
@@ -1178,7 +1301,8 @@
                     {
                         "label": "Par(E)",
                         "catalog": "D.P. 288",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3907h"
@@ -1201,7 +1325,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8365",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "(I Want) Something To Live For"
                     },
                     {
                         "label": "CBS",
@@ -1217,7 +1342,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 12,
+                        "title": "(I Want) Something To Live For"
                     }
                 ],
                 "desor": "DE3907i"
@@ -1239,7 +1367,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8380",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1251,7 +1380,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 10,
+                        "track": 13,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -1289,7 +1421,8 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "A Birthday Interview"
                     }
                 ],
                 "desor": "DE3908a"
@@ -1315,7 +1448,8 @@
                     {
                         "label": "Ar",
                         "catalog": "ARLP 12031",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CaR",
@@ -1349,7 +1483,8 @@
                     {
                         "label": "Dyn(F)",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Rockin' In Rhythm, Pts 1-2"
                     },
                     {
                         "label": "Mx",
@@ -1372,7 +1507,8 @@
                     {
                         "label": "Ar",
                         "catalog": "ARLP 12031",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "In A Little Red Cottage"
                     },
                     {
                         "label": "CaR",
@@ -1380,14 +1516,20 @@
                     },
                     {
                         "label": "Mx",
-                        "catalog": "MLP-1001"
+                        "catalog": "MLP-1001",
+                        "title": "Cottage By The Sea"
                     },
                     {
                         "label": "Sv",
-                        "catalog": "103 8415"
+                        "catalog": "103 8415",
+                        "title": true
                     }
                 ],
                 "desor": "DE3909c"
+            },
+            {
+                "type": "note",
+                "content": "\"In A Red Little Cottage\" is the English version, with lyrics by Irving Mils, of the Swedish hit \"I en röd liten stuga\", written by Erik Frykman and Sven Paddock. "
             }
         ]
     },
@@ -1411,7 +1553,8 @@
                     {
                         "label": "BR",
                         "catalog": "BS-7128",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3910a"
@@ -1444,12 +1587,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 17,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4917",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3911a"
@@ -1470,16 +1617,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 18,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5330",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3911b"
@@ -1500,12 +1652,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 19,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4917",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3911c"
@@ -1526,12 +1682,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 20,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4941",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3911d"
@@ -1557,7 +1717,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8405",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1573,7 +1734,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 1,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -1599,15 +1763,20 @@
                     {
                         "label": "Co",
                         "catalog": "35208",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 2,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -1629,7 +1798,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8411",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1641,7 +1811,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 3,
+                        "title": true
                     },
                     {
                         "label": "TOM",
@@ -1675,7 +1848,8 @@
                     {
                         "label": "Co",
                         "catalog": "35214",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -1683,7 +1857,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 4,
+                        "title": true
                     },
                     {
                         "label": "TSC",
@@ -1708,7 +1885,7 @@
                 "type": "take",
                 "index": "39-06-08-001",
                 "matrix": "WM1034-A",
-                "title": "Utt Day Zay",
+                "title": "Utt Da Zay (The Tailor's Song)",
                 "vocalists": "TQ",
                 "releases": [
                     {
@@ -1721,7 +1898,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 21,
+                        "title": "Utt-Da-Zay (The Tailor Song)"
                     },
                     {
                         "label": "Ra",
@@ -1730,7 +1910,8 @@
                     {
                         "label": "Vo",
                         "catalog": "v4928",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Utt-Da-Zay (The Tailor Song)"
                     }
                 ],
                 "desor": "DE3913a"
@@ -1739,7 +1920,7 @@
                 "type": "take",
                 "index": "39-06-08-002",
                 "matrix": "WM1035-A",
-                "title": "Chew, Chew, Chew, Chew Your Bubble Gum",
+                "title": "Chew-Chew-Chew (Chew Your Bubble Gum)",
                 "vocalists": "TQ",
                 "releases": [
                     {
@@ -1752,7 +1933,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 22,
+                        "title": true
                     },
                     {
                         "label": "Ra",
@@ -1761,7 +1945,8 @@
                     {
                         "label": "Vo",
                         "catalog": "v4928",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Chew Chew Chew (Chew Your Bubble Gum)"
                     }
                 ],
                 "desor": "DE3913b"
@@ -1795,7 +1980,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 23,
+                        "title": "Barney Goin' Easy"
                     },
                     {
                         "label": "Ra",
@@ -1808,7 +1996,8 @@
                     {
                         "label": "Vo",
                         "catalog": "5378",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Barney Goin' Easy"
                     }
                 ],
                 "desor": "DE3913c"
@@ -1829,12 +2018,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 24,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "5663",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ra",
@@ -1865,7 +2058,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8405",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1877,11 +2071,15 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 5,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     }
                 ],
                 "desor": "DE3914a"
@@ -1904,7 +2102,8 @@
                     {
                         "label": "Co",
                         "catalog": "35208",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "I'm Checkin' Out - Go'om Bye"
                     },
                     {
                         "label": "MoJ",
@@ -1912,7 +2111,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 6,
+                        "title": "I'm Checkin' Out - Go'om Bye"
                     }
                 ],
                 "desor": "DE3914b"
@@ -1921,7 +2123,7 @@
                 "type": "take",
                 "index": "39-06-12-003",
                 "matrix": "WM1040-A",
-                "title": "Lonely Co-Ed",
+                "title": "Lonely Co-ed",
                 "vocalists": "IA",
                 "releases": [
                     {
@@ -1935,15 +2137,20 @@
                     {
                         "label": "Co",
                         "catalog": "35240",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "A Lonely Co-Ed"
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 7,
+                        "title": "A Lonely Co-Ed"
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": "A Lonely Co-Ed"
                     }
                 ],
                 "desor": "DE3914c"
@@ -1958,7 +2165,8 @@
                     {
                         "label": "Br",
                         "catalog": "m8411",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "CBS",
@@ -1970,7 +2178,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 8,
+                        "title": true
                     }
                 ],
                 "desor": "DE3914d"
@@ -2003,12 +2214,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 6,
+                        "track": 25,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4958",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3915a"
@@ -2029,7 +2244,7 @@
                 "type": "take",
                 "index": "39-06-22-001",
                 "matrix": "WM1043-A",
-                "title": "Blues A Poppin'",
+                "title": "Blues A'Poppin'",
                 "releases": [
                     {
                         "label": "CBS",
@@ -2041,7 +2256,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 1,
+                        "title": "Blues A Poppin'"
                     },
                     {
                         "label": "Tx",
@@ -2050,7 +2268,8 @@
                     {
                         "label": "Vo",
                         "catalog": "5618",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Blues A Poppin'"
                     }
                 ],
                 "desor": "DE3915b"
@@ -2075,12 +2294,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 2,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "6336",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Tx",
@@ -2105,12 +2328,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 3,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "v4958",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3915d"
@@ -2144,7 +2371,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Thème"
                     }
                 ],
                 "desor": "DE3916a"
@@ -2166,7 +2394,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Jazz Pot Pourri"
                     }
                 ],
                 "desor": "DE3916b"
@@ -2188,7 +2417,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3916c"
@@ -2210,7 +2440,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3916d"
@@ -2233,7 +2464,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3916e"
@@ -2256,7 +2488,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3916f"
@@ -2278,7 +2511,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3916g"
@@ -2301,7 +2535,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3916h"
@@ -2323,7 +2558,8 @@
                     {
                         "label": "PC",
                         "catalog": "Palm 25",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3916i"
@@ -2361,15 +2597,20 @@
                     {
                         "label": "Co",
                         "catalog": "35240",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 9,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     }
                 ],
                 "desor": "DE3917a"
@@ -2395,11 +2636,15 @@
                     {
                         "label": "Co",
                         "catalog": "35214",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 10,
+                        "title": true
                     }
                 ],
                 "desor": "DE3917b"
@@ -2424,12 +2669,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 11,
+                        "title": true
                     },
                     {
                         "label": "Ra",
                         "catalog": "RTE 23004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3917c"
@@ -2462,12 +2711,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 4,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5100",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3918a"
@@ -2488,16 +2741,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 5,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "5940",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     }
                 ],
                 "desor": "DE3918b"
@@ -2522,16 +2780,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 6,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5330",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3918c"
@@ -2552,12 +2815,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 7,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5353",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3918d"
@@ -2637,7 +2904,8 @@
                     {
                         "label": "Co",
                         "catalog": "35291",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2645,7 +2913,7 @@
                         "disc": 1,
                         "track": 23,
                         "length": 158,
-                        "title": "Little Posey"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -2653,7 +2921,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 12,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920a"
@@ -2679,7 +2950,8 @@
                     {
                         "label": "Co",
                         "catalog": "35353",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -2687,11 +2959,15 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 13,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     }
                 ],
                 "desor": "DE3920b"
@@ -2708,7 +2984,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 24,
+                        "title": "I Never Felt This Way Before (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -2717,7 +2996,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920c"
@@ -2739,11 +3019,15 @@
                     {
                         "label": "Co",
                         "catalog": "35310",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 14,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920d"
@@ -2769,7 +3053,8 @@
                     {
                         "label": "Co",
                         "catalog": "35310",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -2777,7 +3062,7 @@
                         "disc": 1,
                         "track": 24,
                         "length": 172,
-                        "title": "Tootin' Through The Roof"
+                        "title": true
                     },
                     {
                         "label": "MJ",
@@ -2789,7 +3074,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 15,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920e"
@@ -2806,7 +3094,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 25,
+                        "title": "Tootin' Through The Roof (alt tk -B)"
                     },
                     {
                         "label": "Nw",
@@ -2815,7 +3106,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920f"
@@ -2841,7 +3133,8 @@
                     {
                         "label": "Co",
                         "catalog": "35353",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -2849,7 +3142,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 16,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920g"
@@ -2883,12 +3179,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 8,
+                        "title": "Skunk Hollow Blues"
                     },
                     {
                         "label": "Vo",
                         "catalog": "5533",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Skunk Hollow Blues"
                     }
                 ],
                 "desor": "DE3920h"
@@ -2913,16 +3213,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 9,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5353",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920i"
@@ -2943,16 +3248,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 10,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "5940",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     }
                 ],
                 "desor": "DE3920j"
@@ -2977,16 +3287,21 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 11,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23005"
+                        "catalog": "RTE 23005",
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5533",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920k"
@@ -3028,12 +3343,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 12,
+                        "title": true
                     },
                     {
                         "label": "Ra",
                         "catalog": "RTE 23004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3920l"
@@ -3066,12 +3385,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 13,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5422",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3921a"
@@ -3107,15 +3430,20 @@
                     {
                         "label": "Co",
                         "catalog": "35640",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 17,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     }
                 ],
                 "desor": "DE3921c"
@@ -3142,15 +3470,20 @@
                     {
                         "label": "Co",
                         "catalog": "35640",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 18,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     }
                 ],
                 "desor": "DE3921b"
@@ -3180,7 +3513,8 @@
                     {
                         "label": "Co",
                         "catalog": "35776",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -3188,7 +3522,7 @@
                         "disc": 1,
                         "track": 22,
                         "length": 176,
-                        "title": "Country Gal"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -3196,11 +3530,15 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 19,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     }
                 ],
                 "desor": "DE3921d"
@@ -3226,7 +3564,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3922a"
@@ -3244,7 +3583,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3922b"
@@ -3259,7 +3599,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "I'm Checking Out  Goodbye"
                     }
                 ],
                 "desor": "DE3922c"
@@ -3292,12 +3633,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 14,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5378",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3923a"
@@ -3318,12 +3663,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 15,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5422",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3923b"
@@ -3344,12 +3693,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 16,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "5663",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3923c"
@@ -3384,7 +3737,8 @@
                     {
                         "label": "Co",
                         "catalog": "35322",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Blues"
                     },
                     {
                         "label": "MoJ",
@@ -3392,11 +3746,15 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 17,
+                        "title": "Blues"
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": "Blues"
                     }
                 ],
                 "desor": "DE3923d"
@@ -3418,15 +3776,20 @@
                     {
                         "label": "Co",
                         "catalog": "35322",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 18,
+                        "title": true
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": true
                     }
                 ],
                 "desor": "DE3923e"
@@ -3569,12 +3932,14 @@
                     },
                     {
                         "label": "Ra",
-                        "catalog": "RTE 23004"
+                        "catalog": "RTE 23004",
+                        "title": "I'm Checkin' Out, Go'om Bye"
                     },
                     {
                         "label": "VD",
                         "catalog": "723",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "I'm Checkin' Out Goom-Bye"
                     }
                 ],
                 "desor": "DE3924b"
@@ -3625,7 +3990,8 @@
                     {
                         "label": "VD",
                         "catalog": "723",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3924c"
@@ -3672,7 +4038,8 @@
                     {
                         "label": "Ra",
                         "catalog": "RTE 23004",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE3925c"
