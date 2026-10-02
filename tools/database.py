@@ -458,6 +458,13 @@ def load_from_json():
                             jentry["suite_index"] if "suite_index" in jentry else None
                         )
 
+                        medley_vocalists = jentry.get("vocalists")
+                        if medley_vocalists is not None:
+                            assert re.match(VOCALISTS_REGEX, medley_vocalists), (
+                                index,
+                                medley_vocalists,
+                            )
+
                         current_medley = Entry(
                             type="medley",
                             index=index,
@@ -466,6 +473,7 @@ def load_from_json():
                             medley_title=medley_title,
                             suite_title=suite_title,
                             suite_index=suite_index,
+                            vocalists=medley_vocalists,
                         )
                         for key in ENTRY_LINKS:
                             setattr(current_medley, key, jentry.get(key))
@@ -708,6 +716,7 @@ def save_releases_to_json(database, generated):
                         "index": medley.index if medley else None,
                         "page": page_for_year(medley.session.year()) if medley else None,
                         "suite_index": medley.suite_index if medley else None,
+                        "vocalists": medley.vocalists if medley else None,
                     }
                     for key in ENTRY_LINKS:
                         medley_json_entry[key] = getattr(medley, key) if medley else None
@@ -821,6 +830,8 @@ def save_to_json(database):
                     json_entry["matrix"] = entry.matrix
                     json_entry["desor"] = entry.desor
                     json_entry["medley_title"] = entry.medley_title
+                    if entry.vocalists:
+                        json_entry["vocalists"] = entry.vocalists
                     if entry.suite_index:
                         json_entry["suite_index"] = entry.suite_index
                     for key in ENTRY_LINKS:

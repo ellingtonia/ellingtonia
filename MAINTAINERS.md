@@ -124,6 +124,8 @@ This reset is only needed when a medley's songs are followed directly by ordinar
 
 The medley header renders as a non-bold divider row, distinguishing it visually from a (bold) suite divider.
 
+A medley header may optionally have its own `vocalists` field (same format as a take's, see below), for a vocal credit that applies to the medley as a whole rather than to one of its constituent songs.
+
 ## `attacca` entries
 
 Some runs of takes are performed with no pause between them but were never given a collective name or their own DESOR/matrix (unlike a `medley`) — for example a run through several standards during a concert, with no announced title for the run as a whole. These are marked with a pair of divider entries:
