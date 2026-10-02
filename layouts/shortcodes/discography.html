@@ -141,7 +141,7 @@
               {{- if .first_issue -}}
               <b>
               {{- end -}}
-              <a href="{{ $release_url }}" title="{{ $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}{{- $auto_asterisk -}}</a>
+              <a href="{{ $release_url }}" title="{{ htmlUnescape $title_str }}">{{- $label }}&nbsp;{{ $catalog -}}{{- $flags -}}{{- $auto_asterisk -}}</a>
               {{- if .first_issue -}}
               </b>
               {{- end -}}
