@@ -6,6 +6,12 @@ menu:
     weight: 10
 ---
 
+## October 2026
+* 1939: verified titles against copyright and the original sheet music — "Mississippi Dreamboat" to "Mississippi Dream Boat" (27 February session), "Ain't The Gravy Good" to "Ain't The Gravy Good?" (28 February), "Utt Day Zay" to "Utt Da Zay (The Tailor's Song)" and "Chew, Chew, Chew, Chew Your Bubble Gum" to "Chew-Chew-Chew (Chew Your Bubble Gum)" (08 June), "Blues A Poppin'" to "Blues A'Poppin'" (22 June); added Mosaic boxset disc/track numbers throughout and flagged first-issue release titles identical to the main title.
+* 1938: verified titles against copyright and sheet music — "Birmingham Breakdown" to "Birmingham Break-Down" (15 May session), "If You Were In My Place (What Would You Do)" to "...(What Would You Do?)" (24 February), "Rendezvous with Rhythm" to "Rendezvous With Rhythm" (28 March), "Dancing On The Stars" to "I'm Riding On The Moon And Dancing On The Stars" and "Gal-Avantin'" to "Gal-A-Vantin'" (both 20/21 December); removed the Co CL 2365 release from Pyramid DE3819d, as it isn't a first issue.
+* 1937: corrected "Birmingham Breakdown" to "Birmingham Break-Down" (05 March session), per copyright and sheet music; added a note that mx. M520-2 is misidentified as M520-1 on Co CL 2365.
+* 1932: removed the erroneous "I'm" from "I'm Delta Bound" to "Delta Bound" (21 December session).
+
 ## September 2026
 * Restored release titles and mono/stereo format detail on about 35 Columbia Vinyl LPs (submitted by Ezio Chiarelli back in August) that had been silently overwritten by an old, now-removed automated Discogs lookup.
 * 1937: corrected several titles against copyright, e.g. "One, Two Button Your Shoe" to "One, Two, Button Your Shoe", "Oh Babe Maybe Someday" to "Oh Babe, Maybe Someday", "Watchin'" to "Watching", and dropped alternate bracketed titles no longer supported by copyright ("Moonlight Fiesta [Porto Rican Chaos]" to "Moonlight Fiesta", "Jubilesta [Emperor Jones]" to "Jubilesta", "Swing Baby Swing [Love In My Heart]" to "Love's In My Heart [Swing Baby Swing]"); added release titles to first-issue releases; added disc/track numbers and titles to the Mosaic boxsets; per Ezio Chiarelli.
