@@ -63,6 +63,11 @@ to instrumentation, catalog numbers, track listings, dates, etc). Don't
 mention incidental JSON/data-formatting fixes (e.g. a string "17" corrected to
 the number 17, or other things only a developer would care about).
 
+Don't attribute `changes.md` bullets to the correspondent (e.g. "per Ezio
+Chiarelli", "per Steven Lasker") unless explicitly instructed to for that
+entry. The commit message itself (the email body) already preserves that
+provenance.
+
 Make a commit when you're done. Do not ask for confirmation. The commit message
 should consist of the year (or years), then after a blank line, the email body
 (from body.txt) and/or any attached text file or descriptive document. Don't
