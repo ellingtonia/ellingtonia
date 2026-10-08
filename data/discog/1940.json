@@ -18,7 +18,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "East St. Louis Toodle-Oo"
                     },
                     {
                         "label": "JU",
@@ -57,7 +58,8 @@
                     {
                         "label": "Pv",
                         "catalog": "PRV 101",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -75,7 +77,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -105,7 +108,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -144,7 +148,8 @@
                     {
                         "label": "Pv",
                         "catalog": "PRV 101",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -162,7 +167,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -192,7 +198,8 @@
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -217,12 +224,13 @@
                 "type": "take",
                 "index": "40-01-09-008",
                 "matrix": null,
-                "title": "Day In, Day Out",
+                "title": "Day In—Day Out",
                 "releases": [
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Day In, Day Out"
                     },
                     {
                         "label": "JU",
@@ -247,12 +255,13 @@
                 "type": "take",
                 "index": "40-01-09-009",
                 "matrix": null,
-                "title": "Merry Go Round",
+                "title": "Merry-Go-Round",
                 "releases": [
                     {
                         "label": "CC",
                         "catalog": "16",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JU",
@@ -294,7 +303,8 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4001a"
@@ -364,7 +374,7 @@
                 "type": "take",
                 "index": "40-02-00-006",
                 "matrix": null,
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "CW",
                 "releases": [],
                 "desor": "DE4007f"
@@ -412,7 +422,8 @@
                     {
                         "label": "Co",
                         "catalog": "35427",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -420,7 +431,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 20,
+                        "title": true
                     }
                 ],
                 "desor": "DE4003a"
@@ -429,7 +443,7 @@
                 "type": "take",
                 "index": "40-02-14-002",
                 "matrix": "WM1136-A",
-                "title": "Stormy Weather",
+                "title": "Stormy Weather (Keeps Rainin' All The Time)",
                 "vocalists": "IA",
                 "releases": [
                     {
@@ -443,11 +457,15 @@
                     {
                         "label": "Co",
                         "catalog": "35556",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Stormy Weather"
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 21,
+                        "title": "Stormy Weather"
                     }
                 ],
                 "desor": "DE4003b"
@@ -470,7 +488,8 @@
                     {
                         "label": "Co",
                         "catalog": "35427",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -478,7 +497,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 22,
+                        "title": true
                     }
                 ],
                 "desor": "DE4003c"
@@ -500,7 +522,8 @@
                     {
                         "label": "Co",
                         "catalog": "35556",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Co",
@@ -508,7 +531,7 @@
                         "disc": 1,
                         "track": 25,
                         "length": 170,
-                        "title": "Sophisticated Lady"
+                        "title": true
                     },
                     {
                         "label": "MoJ",
@@ -516,7 +539,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD11-248"
+                        "catalog": "MD11-248",
+                        "disc": 11,
+                        "track": 23,
+                        "title": true
                     }
                 ],
                 "desor": "DE4003d"
@@ -551,11 +577,15 @@
                     {
                         "label": "Ep",
                         "catalog": "LN 3237",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 19,
+                        "title": true
                     }
                 ],
                 "desor": "DE4003e"
@@ -577,11 +607,15 @@
                     {
                         "label": "Ep",
                         "catalog": "LN 3237",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 20,
+                        "title": true
                     }
                 ],
                 "desor": "DE4003f"
@@ -614,12 +648,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 21,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5595",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4003g"
@@ -640,12 +678,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 22,
+                        "title": true
                     },
                     {
                         "label": "Vo",
                         "catalog": "5595",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4003h"
@@ -683,7 +725,10 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 23,
+                        "title": true
                     },
                     {
                         "label": "Tx",
@@ -692,7 +737,8 @@
                     {
                         "label": "Vo",
                         "catalog": "5618",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4004a"
@@ -714,12 +760,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 24,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "5690",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Tx",
@@ -744,12 +794,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 25,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "6336",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4004c"
@@ -774,12 +828,16 @@
                     },
                     {
                         "label": "Ms",
-                        "catalog": "MD7-235"
+                        "catalog": "MD7-235",
+                        "disc": 7,
+                        "track": 26,
+                        "title": true
                     },
                     {
                         "label": "OK",
                         "catalog": "5690",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Tx",
@@ -822,9 +880,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 1,
-                        "length": 202
+                        "length": 202,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -837,7 +896,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26537",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4005a"
@@ -875,9 +935,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 2,
-                        "length": 197
+                        "length": 197,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -890,7 +951,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26536",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4005b"
@@ -908,14 +970,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 3,
-                        "length": 160
+                        "length": 160,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FPM1 7002 Ie",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -957,9 +1021,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 4,
-                        "length": 162
+                        "length": 162,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -972,7 +1037,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26577",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4005d"
@@ -1010,9 +1076,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 5,
-                        "length": 197
+                        "length": 197,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1025,7 +1092,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26536",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4005e"
@@ -1056,9 +1124,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 6,
-                        "length": 173
+                        "length": 173,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1071,7 +1140,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26537",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4005f"
@@ -1122,9 +1192,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 7,
-                        "length": 179
+                        "length": 179,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1133,7 +1204,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26577",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4006a"
@@ -1171,9 +1243,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 8,
-                        "length": 200
+                        "length": 200,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1182,7 +1255,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26598",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4006b"
@@ -1213,9 +1287,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 9,
-                        "length": 175
+                        "length": 175,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1224,7 +1299,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26598",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4006c"
@@ -1275,14 +1351,16 @@
                     {
                         "label": "Meritt",
                         "catalog": "1",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 10,
-                        "length": 165
+                        "length": 165,
+                        "title": true
                     }
                 ],
                 "desor": "DE4008a"
@@ -1321,9 +1399,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 11,
-                        "length": 193
+                        "length": 193,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1332,7 +1411,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26610",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4008b"
@@ -1362,10 +1442,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 12,
                         "length": 199,
-                        "title": "Never No Lament"
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1374,7 +1454,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26610",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4008c"
@@ -1392,14 +1473,16 @@
                     {
                         "label": "Meritt",
                         "catalog": "1",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 13,
-                        "length": 202
+                        "length": 202,
+                        "title": true
                     }
                 ],
                 "desor": "DE4008d"
@@ -1453,9 +1536,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 14,
-                        "length": 200
+                        "length": 200,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1464,7 +1548,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26677",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4009a"
@@ -1482,14 +1567,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 15,
-                        "length": 197
+                        "length": 197,
+                        "title": true
                     },
                     {
                         "label": "RCA",
                         "catalog": "LPV-517",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1532,9 +1619,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 16,
-                        "length": 173
+                        "length": 173,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1543,7 +1631,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26644",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4009c"
@@ -1577,9 +1666,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 17,
-                        "length": 190
+                        "length": 190,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1588,7 +1678,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26644",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4009d"
@@ -1622,9 +1713,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 18,
-                        "length": 203
+                        "length": 203,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -1633,7 +1725,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26677",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4009e"
@@ -1654,7 +1747,7 @@
                 "type": "take",
                 "index": "40-06-10-001",
                 "matrix": null,
-                "title": "East St. Louis toodle-O (theme)",
+                "title": "East St. Louis Toodle-O (theme)",
                 "releases": [
                     {
                         "label": "JU",
@@ -1663,7 +1756,8 @@
                     {
                         "label": "MR",
                         "catalog": "MCD084-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "East St. Louis Toodle-Oo"
                     },
                     {
                         "label": "Sv",
@@ -1689,7 +1783,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1715,7 +1810,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1742,7 +1838,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "So Far So Good"
                     },
                     {
                         "label": "Sv",
@@ -1773,7 +1870,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1799,7 +1897,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1830,7 +1929,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1856,7 +1956,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1887,7 +1988,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -1909,7 +2011,8 @@
                     {
                         "label": "MR",
                         "catalog": "MCD084-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Don't Get Around Much Anymore"
                     },
                     {
                         "label": "Sv",
@@ -1995,9 +2098,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 19,
-                        "length": 179
+                        "length": 179,
+                        "title": "Harlem Air-Shaft"
                     },
                     {
                         "label": "RCA(F)",
@@ -2006,7 +2110,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26731",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Harlem Air-Shaft"
                     }
                 ],
                 "desor": "DE4012a"
@@ -2037,9 +2142,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 20,
-                        "length": 169
+                        "length": 169,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2048,7 +2154,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26719",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4012b"
@@ -2087,9 +2194,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 21,
-                        "length": 210
+                        "length": 210,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2098,7 +2206,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27247",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4012c"
@@ -2128,9 +2237,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 22,
-                        "length": 169
+                        "length": 169,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2139,7 +2249,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26788",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4012d"
@@ -2186,9 +2297,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "8",
+                        "disc": 8,
                         "track": 23,
-                        "length": 204
+                        "length": 204,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2197,7 +2309,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26719",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4013a"
@@ -2227,9 +2340,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 1,
-                        "length": 205
+                        "length": 205,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2238,7 +2352,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26731",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4013b"
@@ -2256,14 +2371,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 2,
-                        "length": 204
+                        "length": 204,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7072",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4013c"
@@ -2290,7 +2407,8 @@
                     {
                         "label": "DESS",
                         "catalog": "CD 4",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4014xa"
@@ -2302,13 +2420,14 @@
                 "title": "Harlem Air Shaft",
                 "releases": [
                     {
-                        "label": "EV",
+                        "label": "Ev",
                         "catalog": "EV-3005"
                     },
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Harlem Airshaft"
                     },
                     {
                         "label": "MDD",
@@ -2326,16 +2445,17 @@
                 "type": "take",
                 "index": "40-07-29-003",
                 "matrix": null,
-                "title": "All Too Soon",
+                "title": "All Too Soon [I Don't Mind#]",
                 "releases": [
                     {
-                        "label": "EV",
+                        "label": "Ev",
                         "catalog": "EV-3005"
                     },
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "I Don't Mind (All Too Soon)"
                     },
                     {
                         "label": "MDD",
@@ -2359,7 +2479,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4014c"
@@ -2373,7 +2494,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4014d"
@@ -2387,7 +2509,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4014e"
@@ -2401,7 +2524,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "JS",
@@ -2419,7 +2543,8 @@
                     {
                         "label": "JM",
                         "catalog": "DE-003†",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4014g"
@@ -2446,7 +2571,8 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MDD",
@@ -2469,11 +2595,14 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "flags": "%",
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "NI",
-                        "catalog": "4016"
+                        "catalog": "4016",
+                        "flags": "%"
                     }
                 ],
                 "desor": "DE4015b"
@@ -2494,12 +2623,13 @@
                 "type": "take",
                 "index": "40-08-17-001",
                 "matrix": null,
-                "title": "Ridin' On A Blue Note",
+                "title": "Riding On A Blue Note",
                 "releases": [
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MDD",
@@ -2526,7 +2656,8 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "NI",
@@ -2544,7 +2675,8 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "NI",
@@ -2562,7 +2694,8 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MDD",
@@ -2610,9 +2743,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 3,
-                        "length": 192
+                        "length": 192,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2621,7 +2755,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26748",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4018a"
@@ -2659,9 +2794,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 4,
-                        "length": 197
+                        "length": 197,
+                        "title": "In A Mellotone"
                     },
                     {
                         "label": "RCA(F)",
@@ -2671,7 +2807,7 @@
                         "label": "Vi",
                         "catalog": "26788",
                         "first_issue": true,
-                        "title": "In A Mellow Tone"
+                        "title": "In A Mellotone"
                     }
                 ],
                 "desor": "DE4018b"
@@ -2702,9 +2838,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 5,
-                        "length": 199
+                        "length": 199,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -2713,7 +2850,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26748",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4018c"
@@ -2739,14 +2877,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 6,
-                        "length": 195
+                        "length": 195,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7072",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4018d"
@@ -2776,7 +2916,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4020a"
@@ -2794,7 +2935,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Rt",
@@ -2816,7 +2958,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4020c"
@@ -2835,7 +2978,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4020d"
@@ -2844,7 +2988,7 @@
                 "type": "take",
                 "index": "40-09-06-005",
                 "matrix": null,
-                "title": "In A Mellow Tone",
+                "title": "In A Mellow Tone [In A Mellotone]",
                 "releases": [
                     {
                         "label": "DESS",
@@ -2857,7 +3001,8 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "In A Mellotone"
                     },
                     {
                         "label": "Rt",
@@ -2883,7 +3028,8 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Chatter Box"
                     }
                 ],
                 "desor": "DE4020f"
@@ -2901,7 +3047,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4020g"
@@ -2910,7 +3057,7 @@
                 "type": "take",
                 "index": "40-09-06-008",
                 "matrix": null,
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "IA",
                 "releases": [
                     {
@@ -2920,7 +3067,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "St. Louis Blues"
                     }
                 ],
                 "desor": "DE4020h"
@@ -2961,7 +3109,7 @@
                 "type": "take",
                 "index": "40-09-07-003",
                 "matrix": null,
-                "title": "Whispering Grass",
+                "title": "Whispering Grass (Don't Tell The Trees)",
                 "releases": [],
                 "desor": null
             },
@@ -2977,7 +3125,7 @@
                 "type": "take",
                 "index": "40-09-07-005",
                 "matrix": null,
-                "title": "KoKo",
+                "title": "Ko-Ko",
                 "releases": [],
                 "desor": null
             },
@@ -2985,7 +3133,7 @@
                 "type": "take",
                 "index": "40-09-07-006",
                 "matrix": null,
-                "title": "I Don't Mind",
+                "title": "All Too Soon [I Don't Mind#]",
                 "vocalists": "IA",
                 "releases": [],
                 "desor": null
@@ -3048,7 +3196,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4021a"
@@ -3066,7 +3215,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4021b"
@@ -3084,7 +3234,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4021c"
@@ -3102,7 +3253,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4021d"
@@ -3120,7 +3272,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MDD",
@@ -3143,7 +3296,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4021f"
@@ -3162,7 +3316,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4021g"
@@ -3180,7 +3335,8 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4019b"
@@ -3226,7 +3382,8 @@
                     {
                         "label": "Rt",
                         "catalog": "56",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4022b"
@@ -3235,7 +3392,7 @@
                 "type": "take",
                 "index": "40-09-10-004",
                 "matrix": null,
-                "title": "It's The Same Old Story",
+                "title": "The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -3260,7 +3417,7 @@
                 "type": "take",
                 "index": "40-09-10-007",
                 "matrix": null,
-                "title": "Whispering Grass",
+                "title": "Whispering Grass (Don't Tell The Trees)",
                 "releases": [
                     {
                         "label": "DESS",
@@ -3273,7 +3430,8 @@
                     {
                         "label": "Rt",
                         "catalog": "56",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Whispering Grass"
                     }
                 ],
                 "desor": "DE4022d"
@@ -3291,7 +3449,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4022e"
@@ -3309,7 +3468,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4022f"
@@ -3347,7 +3507,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4023b"
@@ -3365,7 +3526,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4023c"
@@ -3395,7 +3557,8 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1003",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4023e"
@@ -3404,12 +3567,13 @@
                 "type": "take",
                 "index": "40-09-11-006",
                 "matrix": null,
-                "title": "All Too Soon",
+                "title": "All Too Soon [I don't Mind#]",
                 "releases": [
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "I Don't Mind (All Too Soon)"
                     }
                 ],
                 "desor": "DE4023f"
@@ -3424,7 +3588,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4022c"
@@ -3450,7 +3615,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4023h"
@@ -3506,7 +3672,7 @@
                 "type": "take",
                 "index": "40-09-12-005",
                 "matrix": null,
-                "title": "I Don't Mind",
+                "title": "All Too Soon [I Don't Mind#]",
                 "vocalists": "IA",
                 "releases": [],
                 "desor": null
@@ -3572,7 +3738,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MDD",
@@ -3592,7 +3759,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4024b"
@@ -3607,7 +3775,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Oh, Babe, Maybe Someday"
                     }
                 ],
                 "desor": "DE4024c"
@@ -3616,7 +3785,7 @@
                 "type": "take",
                 "index": "40-09-13-005",
                 "matrix": null,
-                "title": "I Don't Mind",
+                "title": "All Too Soon [I Don't Mind#]",
                 "releases": [],
                 "desor": "DE4024d"
             },
@@ -3629,7 +3798,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4024e"
@@ -3643,7 +3813,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4024f"
@@ -3853,7 +4024,7 @@
                 "type": "take",
                 "index": "40-09-17-003",
                 "matrix": null,
-                "title": "It's The Same Old Story",
+                "title": "The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -3930,7 +4101,7 @@
                 "type": "take",
                 "index": "40-09-18-002",
                 "matrix": null,
-                "title": "Doing The Voom Voom",
+                "title": "Doin' The Voom Voom",
                 "releases": [],
                 "desor": null
             },
@@ -4049,7 +4220,7 @@
                 "type": "take",
                 "index": "40-09-19-007",
                 "matrix": null,
-                "title": "Call Of The Canyon",
+                "title": "The Call Of The Canyon",
                 "vocalists": "HJ",
                 "releases": [],
                 "desor": null
@@ -4058,7 +4229,7 @@
                 "type": "take",
                 "index": "40-09-19-008",
                 "matrix": null,
-                "title": "Whispering Grass",
+                "title": "Whispering Grass (Don't Tell The Trees)",
                 "releases": [],
                 "desor": null
             },
@@ -4108,7 +4279,8 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MDD",
@@ -4126,7 +4298,7 @@
                 "type": "take",
                 "index": "40-09-21-003",
                 "matrix": null,
-                "title": "Whispering Grass",
+                "title": "Whispering Grass (Don't Tell The Trees)",
                 "releases": [],
                 "desor": null
             },
@@ -4188,7 +4360,8 @@
                     {
                         "label": "JS",
                         "catalog": "704",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4022a"
@@ -4342,7 +4515,7 @@
                 "type": "take",
                 "index": "40-09-26-003",
                 "matrix": null,
-                "title": "I Don't Mind",
+                "title": "All Too Soon [I Don't Mind#]",
                 "vocalists": "IA",
                 "releases": [],
                 "desor": null
@@ -4404,7 +4577,8 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "MDD",
@@ -4427,7 +4601,8 @@
                     {
                         "label": "Ev",
                         "catalog": "EV-3005",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "NI",
@@ -4452,7 +4627,7 @@
                 "type": "take",
                 "index": "40-09-27-001",
                 "matrix": null,
-                "title": "Sittin' At The Séance",
+                "title": "Swingin' At The Seance",
                 "releases": [],
                 "desor": "DE4027a"
             },
@@ -4514,7 +4689,7 @@
                 "type": "take",
                 "index": "40-09-28-004",
                 "matrix": null,
-                "title": "Cottontail",
+                "title": "Cotton Tail",
                 "releases": [],
                 "desor": null
             },
@@ -4530,7 +4705,7 @@
                 "type": "take",
                 "index": "40-09-28-006",
                 "matrix": null,
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "IA",
                 "releases": [],
                 "desor": null
@@ -4679,7 +4854,8 @@
                     {
                         "label": "Mx",
                         "catalog": "MLP-1001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4019a"
@@ -4694,7 +4870,8 @@
                     {
                         "label": "DESS",
                         "catalog": "CD 4",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028xa"
@@ -4719,7 +4896,7 @@
                 "type": "take",
                 "index": "40-10-00-005",
                 "matrix": null,
-                "title": "I Want To Live",
+                "title": "I Want To Live (As Long As You Love Me)",
                 "releases": [],
                 "desor": "DE4028c"
             },
@@ -4748,7 +4925,8 @@
                     {
                         "label": "DESS",
                         "catalog": "CD 4",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028f"
@@ -4757,7 +4935,7 @@
                 "type": "take",
                 "index": "40-10-00-009",
                 "matrix": null,
-                "title": "Stardust",
+                "title": "Star Dust",
                 "vocalists": "HJ",
                 "releases": [
                     {
@@ -4767,7 +4945,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028g"
@@ -4785,7 +4964,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028h"
@@ -4794,7 +4974,7 @@
                 "type": "take",
                 "index": "40-10-00-011",
                 "matrix": null,
-                "title": "It's The Same Old Story",
+                "title": "The Same Old Story",
                 "releases": [
                     {
                         "label": "DESS",
@@ -4803,7 +4983,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028j"
@@ -4821,7 +5002,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028i"
@@ -4830,12 +5012,13 @@
                 "type": "take",
                 "index": "40-10-00-013",
                 "matrix": null,
-                "title": "T.T. On Toast",
+                "title": "T.T. On Toast [Lady In Doubt]",
                 "releases": [
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Lady In Doubt"
                     }
                 ],
                 "desor": "DE4028k"
@@ -4849,7 +5032,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028l"
@@ -4871,14 +5055,15 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4028n"
             },
             {
                 "type": "note",
-                "content": "The above items are likely duplicates from the other listed sessions from Hotel Sherman but until these are definitively identified they remain as previously listed. DE4028m (was \"At A Dixie Roadside Diner\") now identified as DE4014xa."
+                "content": "The above items are likely duplicates from the other listed sessions from Hotel Sherman but until these are definitively identified they remain as previously listed. DE4028m (was \"At a Dixie Roadside Diner\") now identified as DE4014xa."
             }
         ]
     },
@@ -4909,14 +5094,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 7,
-                        "length": 189
+                        "length": 189,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7072",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029a"
@@ -4942,9 +5129,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 8,
-                        "length": 183
+                        "length": 183,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -4953,7 +5141,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27221",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029b"
@@ -4971,7 +5160,8 @@
                     {
                         "label": "FMRS",
                         "catalog": "024",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Nw",
@@ -4980,9 +5170,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 9,
-                        "length": 185
+                        "length": 185,
+                        "title": true
                     },
                     {
                         "label": "UtD",
@@ -5008,14 +5199,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 10,
-                        "length": 187
+                        "length": 187,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7072",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029d"
@@ -5041,9 +5234,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 11,
-                        "length": 191
+                        "length": 191,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -5052,7 +5246,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27406",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029e"
@@ -5074,14 +5269,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 12,
-                        "length": 175
+                        "length": 175,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7072",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029f"
@@ -5107,9 +5304,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 13,
-                        "length": 167
+                        "length": 167,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -5118,7 +5316,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27221",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029g"
@@ -5144,9 +5343,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 14,
-                        "length": 184
+                        "length": 184,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -5155,7 +5355,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27406",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029h"
@@ -5177,14 +5378,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 15,
-                        "length": 193
+                        "length": 193,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7072",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4029i"
@@ -5214,7 +5417,8 @@
                     {
                         "label": "JS",
                         "catalog": "705",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "In A Mellotone"
                     }
                 ],
                 "desor": "DE4030a"
@@ -5233,7 +5437,8 @@
                     {
                         "label": "QD",
                         "catalog": "Q-007",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4030b"
@@ -5266,7 +5471,7 @@
                 "type": "take",
                 "index": "40-10-05-002",
                 "matrix": null,
-                "title": "Koko",
+                "title": "Ko-Ko",
                 "releases": [],
                 "desor": null
             },
@@ -5502,7 +5707,7 @@
                 "type": "take",
                 "index": "40-10-08-006",
                 "matrix": null,
-                "title": "It's The Same Old Story",
+                "title": "The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -5536,7 +5741,7 @@
                 "type": "take",
                 "index": "40-10-08-010",
                 "matrix": null,
-                "title": "Cottontail",
+                "title": "Cotton Tail",
                 "releases": [],
                 "desor": null
             },
@@ -5657,7 +5862,7 @@
                 "type": "take",
                 "index": "40-10-13-005",
                 "matrix": null,
-                "title": "It's The Same Old Story",
+                "title": "The Same Old Story",
                 "releases": [],
                 "desor": null
             },
@@ -5698,7 +5903,7 @@
                 "type": "take",
                 "index": "40-10-13-010",
                 "matrix": null,
-                "title": "Ferryboat Serenade",
+                "title": "Ferry-Boat Serenade",
                 "vocalists": "IA",
                 "releases": [],
                 "desor": null
@@ -5735,7 +5940,7 @@
                 "type": "take",
                 "index": "40-10-17-001",
                 "matrix": "BS053552-1",
-                "title": "Flaming Sword",
+                "title": "The Flaming Sword",
                 "releases": [
                     {
                         "label": "Nw",
@@ -5744,14 +5949,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 16,
-                        "length": 202
+                        "length": 202,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7094",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4031c"
@@ -5760,7 +5967,7 @@
                 "type": "take",
                 "index": "40-10-17-002",
                 "matrix": "BS053552-2",
-                "title": "Flaming Sword",
+                "title": "The Flaming Sword",
                 "releases": [
                     {
                         "label": "AMSC",
@@ -5781,9 +5988,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 17,
-                        "length": 188
+                        "length": 188,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -5792,7 +6000,8 @@
                     {
                         "label": "Vi",
                         "catalog": "26796",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4031d"
@@ -5801,7 +6010,7 @@
                 "type": "take",
                 "index": "40-10-17-003",
                 "matrix": "BS053552-3",
-                "title": "Flaming Sword",
+                "title": "The Flaming Sword",
                 "releases": [
                     {
                         "label": "Nw",
@@ -5810,14 +6019,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 18,
-                        "length": 190
+                        "length": 190,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7094",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4031e"
@@ -5835,14 +6046,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 19,
-                        "length": 201
+                        "length": 201,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7094",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4031a"
@@ -5872,9 +6085,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 20,
-                        "length": 203
+                        "length": 203,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -5883,10 +6097,15 @@
                     {
                         "label": "Vi",
                         "catalog": "26796",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4031b"
+            },
+            {
+                "type": "note",
+                "content": "\"The Flaming Sword\" was copyrighted only in December 1962, under the title \"Flaming Sword.\""
             }
         ]
     },
@@ -5925,9 +6144,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 21,
-                        "length": 181
+                        "length": 181,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -5936,7 +6156,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27235",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4032a"
@@ -5954,14 +6175,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 22,
-                        "length": 180
+                        "length": 180,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7094",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4032b"
@@ -5970,7 +6193,7 @@
                 "type": "take",
                 "index": "40-10-28-003",
                 "matrix": "BS053580-1",
-                "title": "Chloe",
+                "title": "Chlo-e (Song Of The Swamp)",
                 "releases": [
                     {
                         "label": "AMSC",
@@ -5996,9 +6219,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "9",
+                        "disc": 9,
                         "track": 23,
-                        "length": 204
+                        "length": 204,
+                        "title": "Chloe (Song Of The Swamp)"
                     },
                     {
                         "label": "RCA(F)",
@@ -6007,7 +6231,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27235",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4032c"
@@ -6034,9 +6259,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 1,
-                        "length": 213
+                        "length": 213,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6045,7 +6271,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27247",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4032d"
@@ -6064,14 +6291,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 2,
-                        "length": 216
+                        "length": 216,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7094",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4032e"
@@ -6097,7 +6326,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11021",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "BL",
@@ -6110,9 +6340,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 3,
-                        "length": 178
+                        "length": 178,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6130,7 +6361,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11117",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Queen Bess; Good Queen Bess"
                     },
                     {
                         "label": "BL",
@@ -6143,9 +6375,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 4,
-                        "length": 180
+                        "length": 180,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6171,14 +6404,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 5,
-                        "length": 183
+                        "length": 183,
+                        "title": true
                     },
                     {
                         "label": "RCA",
                         "catalog": "LPV-533",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6196,7 +6431,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11117",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "BL",
@@ -6209,9 +6445,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 6,
-                        "length": 176
+                        "length": 176,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6233,14 +6470,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 7,
-                        "length": 185
+                        "length": 185,
+                        "title": true
                     },
                     {
                         "label": "TLi",
                         "catalog": "STBB-21",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "UtD",
@@ -6258,7 +6497,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11021",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "BL",
@@ -6271,9 +6511,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 8,
-                        "length": 190
+                        "length": 190,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6284,7 +6525,7 @@
             },
             {
                 "type": "note",
-                "content": "NB. Two variants of Bbi B-11117 are known, one labelled as \"Queen Bess,\" the other as \"Good Queen Bess.\" The song, titled in honor of Katie Swan Hodges (Johnny's mother), was copyrighted as \"Good Queen Bess.\""
+                "content": "NB. Two variants of Bb B-11117 are known, one labelled as \"Queen Bess,\" the other as \"Good Queen Bess.\" The song, titled in honor of Katie Swan Hodges (Johnny's mother), was copyrighted as \"Good Queen Bess.\""
             }
         ]
     },
@@ -6308,7 +6549,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-10946",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -6317,9 +6559,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 9,
-                        "length": 166
+                        "length": 166,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6337,12 +6580,14 @@
                     {
                         "label": "\"X\"",
                         "catalog": "EVAA 3001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "\"X\"",
                         "catalog": "LX-3001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Nw",
@@ -6351,9 +6596,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 10,
-                        "length": 167
+                        "length": 167,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6371,7 +6617,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-10946",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -6380,9 +6627,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 11,
-                        "length": 189
+                        "length": 189,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6400,7 +6648,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11057",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Mobile Bay (Blues)"
                     },
                     {
                         "label": "Cl(F)",
@@ -6414,9 +6663,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 12,
-                        "length": 185
+                        "length": 185,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6434,12 +6684,14 @@
                     {
                         "label": "\"X\"",
                         "catalog": "EVAA 3001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "\"X\"",
                         "catalog": "LX-3001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Nw",
@@ -6448,9 +6700,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 13,
-                        "length": 185
+                        "length": 185,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6468,12 +6721,14 @@
                     {
                         "label": "\"X\"",
                         "catalog": "EVAA 3001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "\"X\"",
                         "catalog": "LX-3001",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Nw",
@@ -6482,9 +6737,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 14,
-                        "length": 207
+                        "length": 207,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6502,7 +6758,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11057",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -6520,9 +6777,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 15,
-                        "length": 205
+                        "length": 205,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -6552,7 +6810,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -6594,7 +6853,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "The Mooche"
                     },
                     {
                         "label": "VJC",
@@ -6612,7 +6872,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -6650,7 +6911,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -6684,7 +6946,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -6703,7 +6966,8 @@
                     {
                         "label": "P30",
                         "catalog": "03",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -6745,7 +7009,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -6779,7 +7044,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Chatter Box"
                     },
                     {
                         "label": "VJC",
@@ -6813,7 +7079,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -6847,7 +7114,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Harlem Air-Shaft"
                     },
                     {
                         "label": "VJC",
@@ -6860,13 +7128,14 @@
                 "type": "take",
                 "index": "40-11-07-011",
                 "matrix": null,
-                "title": "Ferryboat Serenade",
+                "title": "Ferry-Boat Serenade",
                 "vocalists": "IA",
                 "releases": [
                     {
                         "label": "P30",
                         "catalog": "03",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Ferry Boat Serenade"
                     },
                     {
                         "label": "Sv",
@@ -6908,7 +7177,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -6926,7 +7196,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1019-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4034m"
@@ -6956,7 +7227,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -6969,7 +7241,7 @@
                 "type": "take",
                 "index": "40-11-07-015",
                 "matrix": null,
-                "title": "Chloe",
+                "title": "Chlo-e (Song Of The Swamp)",
                 "releases": [
                     {
                         "label": "P30",
@@ -6986,7 +7258,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Chloe"
                     },
                     {
                         "label": "VJC",
@@ -7020,7 +7293,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7054,7 +7328,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "You Took Advantage Of Me"
                     },
                     {
                         "label": "VJC",
@@ -7088,7 +7363,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7114,7 +7390,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1019-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4034s"
@@ -7123,7 +7400,7 @@
                 "type": "take",
                 "index": "40-11-07-020",
                 "matrix": null,
-                "title": "The Sidewallks Of New York",
+                "title": "The Sidewalks Of New York",
                 "releases": [
                     {
                         "label": "P30",
@@ -7140,7 +7417,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Sidewalks Of New York"
                     },
                     {
                         "label": "VJC",
@@ -7153,7 +7431,7 @@
                 "type": "take",
                 "index": "40-11-07-021",
                 "matrix": null,
-                "title": "Flaming Sword",
+                "title": "The Flaming Sword",
                 "releases": [
                     {
                         "label": "JSo",
@@ -7174,7 +7452,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-551",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7208,7 +7487,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7238,7 +7518,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7272,7 +7553,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7306,7 +7588,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7344,7 +7627,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7378,7 +7662,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7401,7 +7686,8 @@
                     {
                         "label": "P30",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -7432,7 +7718,8 @@
                     {
                         "label": "P30",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Oh Babe Maybe Someday"
                     },
                     {
                         "label": "Sv",
@@ -7463,7 +7750,8 @@
                     {
                         "label": "P30",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -7497,7 +7785,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1020-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": null
@@ -7506,7 +7795,7 @@
                 "type": "take",
                 "index": "40-11-07-032",
                 "matrix": null,
-                "title": "Call Of The Canyon",
+                "title": "The Call Of The Canyon",
                 "vocalists": "HJ",
                 "releases": [
                     {
@@ -7520,7 +7809,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1020-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4034ae"
@@ -7542,7 +7832,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1020-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Unknown Title"
                     }
                 ],
                 "desor": null
@@ -7565,7 +7856,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1020-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4034af"
@@ -7587,7 +7879,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1020-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4034ag"
@@ -7617,7 +7910,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7651,7 +7945,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7681,7 +7976,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7694,7 +7990,7 @@
                 "type": "take",
                 "index": "40-11-07-039",
                 "matrix": null,
-                "title": "Whispering Grass",
+                "title": "Whispering Grass (Don't Tell The Trees)",
                 "releases": [
                     {
                         "label": "JSo",
@@ -7703,7 +7999,8 @@
                     {
                         "label": "P30",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Whispering Grass"
                     },
                     {
                         "label": "Sv",
@@ -7746,7 +8043,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7765,7 +8063,8 @@
                     {
                         "label": "P30",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -7799,7 +8098,8 @@
                     {
                         "label": "VJC",
                         "catalog": "1020-2",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4034an"
@@ -7825,7 +8125,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "VJC",
@@ -7843,7 +8144,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -7864,13 +8166,14 @@
                 "type": "take",
                 "index": "40-11-07-045",
                 "matrix": null,
-                "title": "Wham!",
+                "title": "Wham (Re-Bop-Boom-Bam)",
                 "vocalists": "RN",
                 "releases": [
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Rt",
@@ -7895,7 +8198,7 @@
                 "type": "take",
                 "index": "40-11-07-046",
                 "matrix": null,
-                "title": "Stardust",
+                "title": "Star Dust",
                 "releases": [
                     {
                         "label": "JSo",
@@ -7920,7 +8223,8 @@
                     {
                         "label": "Te",
                         "catalog": "M-552",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "Stardust"
                     },
                     {
                         "label": "VJC",
@@ -7943,7 +8247,8 @@
                     {
                         "label": "P30",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -7964,7 +8269,7 @@
                 "type": "take",
                 "index": "40-11-07-048",
                 "matrix": null,
-                "title": "St. Louis Blues",
+                "title": "The Saint Louis Blues",
                 "vocalists": "IA",
                 "releases": [
                     {
@@ -7974,7 +8279,8 @@
                     {
                         "label": "P30",
                         "catalog": "11",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": "St. Louis Blues"
                     },
                     {
                         "label": "Sv",
@@ -8000,7 +8306,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -8026,7 +8333,8 @@
                     {
                         "label": "JG",
                         "catalog": "1006",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Sv",
@@ -8068,14 +8376,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 16,
-                        "length": 190
+                        "length": 190,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "UtD",
@@ -8097,14 +8407,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 17,
-                        "length": 48
+                        "length": 48,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4035b"
@@ -8118,7 +8430,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-10981",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -8127,9 +8440,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 18,
-                        "length": 184
+                        "length": 184,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -8151,14 +8465,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 19,
-                        "length": 197
+                        "length": 197,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4035d"
@@ -8172,7 +8488,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11098",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -8181,9 +8498,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 20,
-                        "length": 172
+                        "length": 172,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -8205,7 +8523,8 @@
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4035f"
@@ -8223,14 +8542,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 21,
-                        "length": 254
+                        "length": 254,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4035g"
@@ -8244,7 +8565,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-10981",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -8253,9 +8575,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "10",
+                        "disc": 10,
                         "track": 23,
-                        "length": 208
+                        "length": 208,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -8281,7 +8604,8 @@
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4035i"
@@ -8299,14 +8623,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "11",
+                        "disc": 11,
                         "track": 1,
-                        "length": 153
+                        "length": 153,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4035j"
@@ -8324,14 +8650,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "11",
+                        "disc": 11,
                         "track": 2,
-                        "length": 17
+                        "length": 17,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7133",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4035k"
@@ -8345,7 +8673,8 @@
                     {
                         "label": "Bb",
                         "catalog": "B-11098",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "Cl(F)",
@@ -8354,9 +8683,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "11",
+                        "disc": 11,
                         "track": 3,
-                        "length": 188
+                        "length": 188,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -8402,9 +8732,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "11",
+                        "disc": 11,
                         "track": 4,
-                        "length": 195
+                        "length": 195,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -8418,7 +8749,7 @@
                         "label": "Vi",
                         "catalog": "27380",
                         "first_issue": true,
-                        "title": "The Sidewalks of New York (East Side, West Side)"
+                        "title": "The Sidewalks Of New York (East Side, West Side)"
                     }
                 ],
                 "desor": "DE4036a"
@@ -8453,9 +8784,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "11",
+                        "disc": 11,
                         "track": 5,
-                        "length": 204
+                        "length": 204,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -8468,7 +8800,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27326",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4036b"
@@ -8499,9 +8832,10 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "11",
+                        "disc": 11,
                         "track": 6,
-                        "length": 199
+                        "length": 199,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
@@ -8514,7 +8848,8 @@
                     {
                         "label": "Vi",
                         "catalog": "27326",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     }
                 ],
                 "desor": "DE4036c"
@@ -8533,14 +8868,16 @@
                     {
                         "label": "RCA",
                         "catalog": "09026-63386-2",
-                        "disc": "11",
+                        "disc": 11,
                         "track": 7,
-                        "length": 205
+                        "length": 205,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
                         "catalog": "FXM1 7134 Ie",
-                        "first_issue": true
+                        "first_issue": true,
+                        "title": true
                     },
                     {
                         "label": "RCA(F)",
