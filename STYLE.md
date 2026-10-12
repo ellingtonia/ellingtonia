@@ -46,9 +46,15 @@ English titles use title case (also called headline style). Apply these rules:
 8. Lowercase the parts of a name that would be lowercase in running text, such
    as *da* in *da Vinci* or *van* in *van Gogh*.
 9. For hyphenated words, capitalise the first element. Capitalise each later
-   element unless it is an article, a short preposition or a coordinating
-   conjunction. Prefix compounds such as *Pre-Authorization* follow the same
-   rule. Spelled-out numbers capitalise both parts, as in *Ninety-Fifth*.
+   element unless it is an article or a coordinating conjunction (always
+   lowercase, since neither has an adverbial use), such as *Jam-a-Ditty* or
+   *Ting-a-Ling*. A later element that is a short preposition follows rule 4:
+   lowercase as an ordinary preposition, but capitalised where it's really an
+   adverb, as the second half of a phrasal verb — *Lay-By* (from "to lay by",
+   not a preposition governing an object) and *Get-With-Itness* (from "get
+   with it") stay capitalised, the same as *Come Off the Veldt*. Prefix
+   compounds such as *Pre-Authorization* follow the same rule. Spelled-out
+   numbers capitalise both parts, as in *Ninety-Fifth*.
    Exception: a few titles are hyphenated purely for spelling or pronunciation,
    not as a compound of separate words, and keep their own established
    capitalisation, such as *Chlo-e* (not *Chlo-E*) and *Lonely Co-ed* (not
