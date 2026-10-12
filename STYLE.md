@@ -133,9 +133,8 @@ last words are capitalised by the English rule.
 Descriptive notes that the catalogue adds, such as *(theme)*, *(take 2)*,
 *(master take)*, *(stereo mix)* or a reel/cue reference such as *(reel 3, cue
 6)*, are not part of a title. These are lowercase. This is a repository
-convention, not a Chicago rule. A trailing code after a hyphen, such as a
-missed-vocal marker like *-TT,TW* or a take code like *-tkDE*, is left exactly
-as in the source rather than cased at all.
+convention, not a Chicago rule. A trailing take/matrix code after a hyphen,
+such as *-tkDE*, is left exactly as in the source rather than cased at all.
 
 Words that are part of the title as issued or registered, such as the
 bracketed *[Harlem Twist]*, follow the rules above.
