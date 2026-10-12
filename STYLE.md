@@ -27,7 +27,9 @@ as catalogue annotations).
 English titles use title case (also called headline style). Apply these rules:
 
 1. Capitalise the first and last word of a title, and the first and last word
-   of any subtitle.
+   of any subtitle. The word right after an exclamation mark or question mark
+   is capitalised too, as it starts a new independent clause: *Baby, Please
+   Stop! And Think About Me*.
 2. Capitalise all other major words: nouns, pronouns, verbs (including forms
    such as "Is" and "Ain't"), adjectives, adverbs, and subordinating
    conjunctions such as *if*, *that*, *when* and *because* (as in *If You
@@ -51,10 +53,12 @@ English titles use title case (also called headline style). Apply these rules:
    *Ting-a-Ling*. A later element that is a short preposition follows rule 4:
    lowercase as an ordinary preposition, but capitalised where it's really an
    adverb, as the second half of a phrasal verb — *Lay-By* (from "to lay by",
-   not a preposition governing an object) and *Get-With-Itness* (from "get
-   with it") stay capitalised, the same as *Come Off the Veldt*. Prefix
-   compounds such as *Pre-Authorization* follow the same rule. Spelled-out
-   numbers capitalise both parts, as in *Ninety-Fifth*.
+   not a preposition governing an object) stays capitalised, the same as
+   *Come Off the Veldt*. This one needs a native ear for the specific title
+   more often than it needs the general rule. A flat or sharp modifier
+   following a musical key letter is always lowercase, as in *A-flat Minor*.
+   Prefix compounds such as *Pre-Authorization* follow the same rule.
+   Spelled-out numbers capitalise both parts, as in *Ninety-Fifth*.
    Exception: a few titles are hyphenated purely for spelling or pronunciation,
    not as a compound of separate words, and keep their own established
    capitalisation, such as *Chlo-e* (not *Chlo-E*) and *Lonely Co-ed* (not
