@@ -125,6 +125,7 @@ Entry = dataclass(frozen=False, eq=False)(Entry)
 class Label:
     label: str
     name: str
+    country: str = None
 
 
 RELEASE_LINKS = [
@@ -350,8 +351,13 @@ def load_from_json():
     with open(json_labels_path) as f:
         label_data = json.load(f)
         check_forbidden_unicode(label_data, json_labels_path)
-        for label, name in label_data.items():
-            database.add_label(Label(label=label, name=name))
+        for label, data in label_data.items():
+            if isinstance(data, dict):
+                database.add_label(
+                    Label(label=label, name=data["name"], country=data.get("country"))
+                )
+            else:
+                database.add_label(Label(label=label, name=data))
 
     all_indices = set()
 
@@ -782,9 +788,12 @@ def save_releases_to_json(database, generated):
 def save_to_json(database):
 
     labels = database.all_labels()
-    json_labels = {
-        l.label: l.name for l in sorted(labels, key=lambda l: l.label.lower())
-    }
+    json_labels = {}
+    for l in sorted(labels, key=lambda l: l.label.lower()):
+        if l.country:
+            json_labels[l.label] = {"name": l.name, "country": l.country}
+        else:
+            json_labels[l.label] = l.name
     save_json(json_labels_path, json_labels)
 
     save_releases_to_json(database, generated=False)
@@ -1083,6 +1092,15 @@ def cmd_rename_label(args):
     save_to_json(database)
 
 
+def cmd_set_label_country(args):
+    database = load_from_json()
+
+    label = database.get_label(args.label)
+    label.country = args.country
+
+    save_to_json(database)
+
+
 def cmd_dump_release(args):
     def na(val):
         return "N/A" if val is None else str(val)
@@ -1270,6 +1288,11 @@ def main():
     sp_rename_label.add_argument("label_src")
     sp_rename_label.add_argument("label_dest")
     sp_rename_label.add_argument("name_dest")
+
+    sp_set_label_country = subparsers.add_parser("set_label_country")
+    sp_set_label_country.set_defaults(func=cmd_set_label_country)
+    sp_set_label_country.add_argument("label")
+    sp_set_label_country.add_argument("country")
 
     sp_dump_release = subparsers.add_parser("dump_release")
     sp_dump_release.set_defaults(func=cmd_dump_release)

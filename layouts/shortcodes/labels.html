@@ -7,15 +7,25 @@
                 Abbreviation
             </th>
             <th>
+                Country
+            </th>
+            <th>
                 Record Label
             </th>
         </tr>
     </thead>
-{{ range $label, $label_name := $.Site.Data.discog.labels }}
+{{ range $label, $label_data := $.Site.Data.discog.labels }}
   {{ $url := printf "%s#label-%s" (ref $.Page "discography/releases") (urlquery $label) }}
+  {{ $name := $label_data }}
+  {{ $country := "" }}
+  {{ if reflect.IsMap $label_data }}
+    {{ $name = $label_data.name }}
+    {{ $country = $label_data.country }}
+  {{ end }}
   <tr>
       <td><a href="{{ $url }}">{{ $label }}</a></td>
-      <td>{{ $label_name }}</td>
+      <td>{{ $country }}</td>
+      <td>{{ $name }}</td>
   </tr>
 {{ end }}
 </table>

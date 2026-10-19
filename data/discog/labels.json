@@ -52,7 +52,10 @@
     "Chg": "Challenge",
     "ChR": "Charly Records",
     "Ci": "Circle",
-    "Cl": "Chronological/Chronogical[sic] Classics",
+    "Cl": {
+        "name": "Chronological/Chronogical[sic] Classics",
+        "country": "France"
+    },
     "Cm": "Camay",
     "Co": "Columbia",
     "Co(Ar)": "Argentine Columbia",
